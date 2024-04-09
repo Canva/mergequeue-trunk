@@ -2656,7 +2656,6 @@ fibrinolytic
 fersmite
 ferter
 ferther
-ferthumlungur
 fertil
 fertile
 fertilely
@@ -10391,6 +10390,7 @@ floe
 feldspars
 frontager
 fertilised
+ferthumlungur
 frontages
 frontal
 facewise
