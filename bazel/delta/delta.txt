@@ -4702,7 +4702,6 @@ demitting
 demitube
 demiturned
 diglyph
-demiurgeous
 demiurges
 demiurgic
 distributed
@@ -12771,6 +12770,7 @@ disocclude
 disheveling
 disoccluded
 deponer
+demiurgeous
 disoccluding
 disoccupation
 disoccupy
