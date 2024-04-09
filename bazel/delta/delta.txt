@@ -3092,7 +3092,6 @@ defaillance
 defailment
 defaitisme
 defaitiste
-defalcate
 defalcated
 diethyltryptamine
 defalcates
@@ -8851,6 +8850,7 @@ dichocarpism
 dichocarpous
 dichogamy
 dichogamic
+defalcate
 dichogamous
 dichondra
 dichondraceae
