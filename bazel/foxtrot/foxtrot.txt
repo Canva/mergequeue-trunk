@@ -1986,7 +1986,6 @@ feet
 feetless
 feeze
 feezed
-feezes
 feezing
 feff
 fefnicute
@@ -10741,6 +10740,7 @@ frustrater
 frustrates
 frustrating
 frustratingly
+feezes
 foretokened
 frustration
 frustrations

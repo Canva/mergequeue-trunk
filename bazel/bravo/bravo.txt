@@ -5360,6 +5360,7 @@ beguard
 beguess
 beguile
 beguileful
+burrow
 beguilement
 beguilements
 beguiler
@@ -17858,7 +17859,6 @@ burrock
 burros
 bayoneting
 burroughs
-burrow
 burrowed
 burroweed
 burrower
