@@ -4468,6 +4468,7 @@ demersal
 demerse
 demersed
 demersion
+dourly
 demesgne
 demesgnes
 demesman
@@ -16099,7 +16100,6 @@ dourest
 douricouli
 dourine
 dourines
-dourly
 dourness
 dournesses
 douroucouli

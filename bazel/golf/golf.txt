@@ -1149,7 +1149,6 @@ gangrenate
 gangrene
 gangrened
 gangrenes
-gangrenescent
 glamor
 gangrening
 gangrenous
@@ -10142,6 +10141,7 @@ guideboard
 guidebooky
 guidebookish
 guidebooks
+gangrenescent
 guided
 guideless
 guideline
