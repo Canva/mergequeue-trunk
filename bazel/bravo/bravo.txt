@@ -380,7 +380,6 @@ backframe
 beknot
 backfriend
 backfurrow
-backgame
 backgammon
 backgeared
 background
@@ -8210,6 +8209,7 @@ bielorouss
 byelorussia
 banishes
 byelorussian
+backgame
 byelorussians
 byeman
 bienly
