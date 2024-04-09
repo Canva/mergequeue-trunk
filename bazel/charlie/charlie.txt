@@ -15951,7 +15951,6 @@ cleopatra
 clep
 cleped
 clepes
-cleping
 clepsydra
 clepsydrae
 clepsydras
@@ -16316,6 +16315,7 @@ clippers
 clippie
 clipping
 clipeus
+cleping
 clippingly
 clippings
 clips

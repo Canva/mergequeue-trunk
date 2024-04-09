@@ -2262,7 +2262,6 @@ achylous
 achime
 achimenes
 achymia
-achymous
 agha
 achinese
 achiness
@@ -8943,6 +8942,7 @@ allotheistic
 allotheria
 amused
 allothigene
+achymous
 allothigenetic
 allothigenetically
 allothigenic
