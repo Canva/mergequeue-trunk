@@ -9451,7 +9451,6 @@ franzy
 fumarine
 flagfish
 frape
-fraple
 frapler
 frapp
 frappe
@@ -11588,6 +11587,7 @@ floodometer
 fusinite
 fusion
 fusional
+fraple
 fusionism
 fusionist
 fusionless
