@@ -5991,6 +5991,7 @@ enjoining
 enjoinment
 enjoins
 enjoys
+expurge
 enkennel
 enkerchief
 enkernel
@@ -13425,7 +13426,6 @@ expurgations
 expurgator
 expurgatory
 expurgators
-expurge
 expwy
 exquire
 exquisite
