@@ -851,7 +851,6 @@ abroach
 abroad
 abrocome
 abrogable
-abrogate
 abrogated
 abrogates
 abrogating
@@ -9899,6 +9898,7 @@ ambagious
 ambagiously
 ambagiousness
 ambagitory
+abrogate
 ambay
 ambalam
 amban

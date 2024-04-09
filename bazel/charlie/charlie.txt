@@ -6572,7 +6572,6 @@ ceilingwards
 ceilometer
 ceylon
 ceylonese
-ceylonite
 coosify
 ceils
 ceint
@@ -23015,6 +23014,7 @@ conspect
 conspection
 conspectus
 conspectuses
+ceylonite
 courtling
 consperg
 consperse
