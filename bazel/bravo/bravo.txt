@@ -1074,7 +1074,6 @@ beauclerk
 bailie
 bailiery
 bailieries
-bailies
 bailieship
 bailiff
 bailiffry
@@ -1156,6 +1155,7 @@ baiting
 baits
 baittle
 baywood
+bailies
 baywoods
 bayz
 baiza

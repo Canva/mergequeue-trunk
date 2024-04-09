@@ -8991,6 +8991,7 @@ allotting
 allover
 allovers
 allow
+archesporial
 allowable
 allowableness
 allowably
@@ -18854,7 +18855,6 @@ archespore
 archespores
 autonephrectomy
 archesporia
-archesporial
 archesporium
 archespsporia
 aculeate
