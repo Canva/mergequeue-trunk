@@ -15306,6 +15306,7 @@ clambake
 clambakes
 clamber
 clamberer
+cryptamnesic
 clambering
 clambers
 clamcracker
@@ -29197,7 +29198,6 @@ crypta
 cryptaesthesia
 cryptal
 cryptamnesia
-cryptamnesic
 cryptanalysis
 cryptanalyst
 cryptanalytic
