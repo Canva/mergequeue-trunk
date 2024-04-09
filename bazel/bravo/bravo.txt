@@ -5892,6 +5892,7 @@ belonidae
 belonite
 belonoid
 belonosphaerite
+benzanthrone
 belook
 belord
 belorussian
@@ -6371,7 +6372,6 @@ benzamino
 benzanalgen
 benzanilide
 benzanthracene
-benzanthrone
 bocklogged
 benzantialdoxime
 benzazimide
