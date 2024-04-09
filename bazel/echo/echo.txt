@@ -7915,6 +7915,7 @@ epil
 epilabra
 epilabrum
 epilachna
+exfoliation
 epilachnides
 epilamellar
 epilaryngeal
@@ -12450,7 +12451,6 @@ exfodiation
 exfoliate
 exfoliated
 exfoliating
-exfoliation
 elpidite
 enunciating
 exfoliative

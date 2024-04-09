@@ -2760,7 +2760,6 @@ festival
 festivalgoer
 festivally
 flidder
-festivals
 festively
 festiveness
 festivity
@@ -9709,6 +9708,7 @@ freethink
 forbidal
 freethinker
 freethinkers
+festivals
 freethinking
 freety
 freetrader
