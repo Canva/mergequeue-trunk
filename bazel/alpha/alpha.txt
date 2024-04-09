@@ -14072,7 +14072,6 @@ ante
 anteact
 anteambulate
 anteambulation
-anteater
 anteaters
 antebaptismal
 andesyte
@@ -23225,6 +23224,7 @@ aucanian
 auchenia
 auchenium
 auchlet
+anteater
 aucht
 angiosteosis
 auckland

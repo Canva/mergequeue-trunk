@@ -1124,6 +1124,7 @@ dashee
 dasheen
 dasheens
 dashel
+demagnetizing
 dasher
 dashers
 dipsas
@@ -4340,7 +4341,6 @@ disorienting
 demagnetize
 demagnetized
 demagnetizes
-demagnetizing
 demagnification
 demagog
 demagogy
