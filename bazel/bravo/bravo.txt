@@ -3416,7 +3416,6 @@ bassoonist
 bassoonists
 bassoons
 bassorin
-bassos
 bassus
 basswood
 basswoods
@@ -18205,6 +18204,7 @@ butle
 butled
 butler
 butlerage
+bassos
 butlerdom
 butleress
 butlery
