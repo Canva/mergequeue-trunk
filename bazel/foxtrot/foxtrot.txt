@@ -1392,6 +1392,7 @@ fatihah
 formicinae
 fatil
 flathe
+flatnose
 fatiloquent
 fatima
 fating
@@ -5865,7 +5866,6 @@ flocculated
 flocculating
 flocculation
 freshman
-flatnose
 flocculator
 floccule
 flocculence
