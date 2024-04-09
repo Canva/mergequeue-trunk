@@ -31,7 +31,6 @@ fabricated
 fabricates
 fabricating
 fabrication
-fabricational
 fabrications
 fabricative
 fabricator
@@ -2965,6 +2964,7 @@ fevertwig
 fevertwitch
 fratority
 feverweed
+fabricational
 feverwort
 few
 fewer
