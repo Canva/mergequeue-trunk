@@ -16083,6 +16083,7 @@ clientage
 cliental
 cliented
 clientelage
+conclusively
 clientele
 clienteles
 clientless
@@ -21423,7 +21424,6 @@ conclusional
 conclusionally
 conclusions
 conclusive
-conclusively
 conclusiveness
 conclusory
 conclusum

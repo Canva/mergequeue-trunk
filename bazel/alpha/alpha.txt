@@ -5954,7 +5954,6 @@ ageism
 ageisms
 ageist
 ageists
-agelacrinites
 arithmetical
 agelacrinitidae
 agelaius
@@ -20951,6 +20950,7 @@ ascetta
 aschaffite
 ascham
 ascher
+agelacrinites
 aschistic
 asci
 ascian
