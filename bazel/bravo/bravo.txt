@@ -6346,7 +6346,6 @@ benumbment
 benumbs
 benvenuto
 benward
-benweed
 benzacridine
 benzal
 benzalacetone
@@ -8703,6 +8702,7 @@ billtong
 bilo
 bilobate
 bilobated
+benweed
 bilobe
 bilobed
 bilobiate

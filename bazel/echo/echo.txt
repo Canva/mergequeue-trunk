@@ -2557,7 +2557,6 @@ electropathology
 extramorainic
 electrophilic
 electrophilically
-electrophysicist
 electrophysics
 electrophysiology
 electrophysiological
@@ -8383,6 +8382,7 @@ emmenia
 epithesis
 epithet
 epithetic
+electrophysicist
 epithetical
 epithetically
 epithetician
