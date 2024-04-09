@@ -3589,6 +3589,7 @@ degerminate
 degerminator
 degerming
 degerms
+dyvours
 degged
 degger
 degging
@@ -14427,7 +14428,6 @@ divot
 divoto
 divots
 dyvour
-dyvours
 divulgate
 divulgated
 divulgater

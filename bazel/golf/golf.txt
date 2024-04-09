@@ -11,7 +11,6 @@ gabbard
 goutier
 gabbards
 gladkaite
-glenn
 gabbarts
 galanga
 gabbed
@@ -5019,6 +5018,7 @@ gladful
 gladfulness
 gladhearted
 glady
+glenn
 gladiate
 gladiator
 gladiatory
