@@ -859,6 +859,7 @@ fantasize
 fantasized
 fantasizes
 fantasizing
+floscularian
 fantasm
 fantasmagorically
 fantasmal
@@ -6115,7 +6116,6 @@ florulas
 florulent
 floscular
 floscularia
-floscularian
 flosculariidae
 floscule
 flosculet

@@ -12880,6 +12880,7 @@ anglic
 anglican
 anglicanism
 anglicanisms
+antiinstitutionalist
 anglicanize
 anglicanly
 anglicans
@@ -15396,7 +15397,6 @@ antihunting
 antiinflammatory
 aceratosis
 antiinflammatories
-antiinstitutionalist
 antiinstitutionalists
 antiinsurrectionally
 antiinsurrectionists
