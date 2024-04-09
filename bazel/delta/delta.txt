@@ -4842,7 +4842,6 @@ demonism
 demonisms
 demonist
 demonists
-demonize
 demonized
 demonizes
 demonizing
@@ -13281,6 +13280,7 @@ disquiparation
 disquisit
 disquisite
 disquisited
+demonize
 disquisiting
 disquisition
 disquisitional
