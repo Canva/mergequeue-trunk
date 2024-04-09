@@ -13532,6 +13532,7 @@ annexationism
 annexationist
 annexations
 annexe
+archelogy
 annexed
 annexer
 annexes
@@ -18818,7 +18819,6 @@ archegosaurus
 archeion
 archelaus
 archelenis
-archelogy
 archelon
 archemastry
 archemperor

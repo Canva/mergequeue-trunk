@@ -2606,7 +2606,6 @@ ferrohydrocyanic
 framesmith
 ferromagnesian
 ferromagnet
-ferromagnetic
 ferromagneticism
 ferromagnetism
 ferromanganese
@@ -11419,6 +11418,7 @@ furmenty
 furmenties
 furmeties
 furmint
+ferromagnetic
 furmity
 furmities
 furnace
