@@ -4067,6 +4067,7 @@ beamers
 beamfilling
 beamful
 bechances
+benedicite
 beamhouse
 beamy
 beamier
@@ -6134,7 +6135,6 @@ beneaped
 beneath
 beneception
 beneceptor
-benedicite
 benedick
 benedicks
 benedict
