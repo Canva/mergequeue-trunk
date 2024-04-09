@@ -660,6 +660,7 @@ caffiso
 caffle
 caffled
 caffling
+cheiloplasty
 caffoy
 caffoline
 caffre
@@ -9685,7 +9686,6 @@ cheilion
 cheilitis
 cheilodipteridae
 cheilodipterus
-cheiloplasty
 cheiloplasties
 cheilostomata
 cheilostomatous
