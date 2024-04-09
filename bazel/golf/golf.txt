@@ -3262,7 +3262,6 @@ geotactic
 geotactically
 geotaxes
 geotaxy
-gulches
 geotaxis
 geotechnic
 gimmicks
@@ -8450,6 +8449,7 @@ graves
 graveship
 gravest
 gravestead
+gulches
 gravestone
 gravestones
 gonochoristic
