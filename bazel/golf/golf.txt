@@ -8762,6 +8762,7 @@ gregarious
 gregariously
 gregariousness
 gregaritic
+gulph
 gregatim
 gregau
 grege
@@ -10366,7 +10367,6 @@ gossiping
 gulp
 gulper
 gulpers
-gulph
 gulpy
 gulping
 gulpingly
