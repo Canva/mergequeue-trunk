@@ -3819,6 +3819,7 @@ carcasses
 carcassing
 carcassless
 carcavelhos
+chastizer
 carceag
 cosmodrome
 carcel
@@ -9227,7 +9228,6 @@ chastising
 chastity
 chastities
 chastize
-chastizer
 chasuble
 chasubled
 chasubles
