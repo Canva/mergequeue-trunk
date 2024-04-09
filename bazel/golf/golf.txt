@@ -2611,6 +2611,7 @@ genderless
 genders
 geneal
 genealogic
+greatcoat
 guberniya
 genealogical
 genealogies
@@ -8547,7 +8548,6 @@ greasiest
 greasily
 greasiness
 greasing
-greatcoat
 greatcoated
 greatcoats
 greatened
