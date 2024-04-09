@@ -6784,7 +6784,6 @@ cellulosities
 cellulotoxic
 cellulous
 cellvibrio
-celom
 celomata
 celoms
 celoscope
@@ -15535,6 +15534,7 @@ clartier
 clartiest
 clarts
 clash
+celom
 clashee
 clasher
 clashers
