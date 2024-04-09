@@ -11973,6 +11973,7 @@ disentail
 disentailment
 disentangle
 disentangled
+dolcian
 disentanglement
 disentangler
 disentangling
@@ -15058,7 +15059,6 @@ dolcan
 dolce
 dolcemente
 dolci
-dolcian
 dolciano
 dolcino
 doldrum
