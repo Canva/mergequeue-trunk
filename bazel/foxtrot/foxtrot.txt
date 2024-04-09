@@ -4382,6 +4382,7 @@ flammably
 fishers
 fisherwoman
 fishes
+foreclose
 fishet
 fishfinger
 fishful
@@ -7582,7 +7583,6 @@ forechurch
 forecited
 foreclaw
 foreclosable
-foreclose
 foreclosed
 foreclosing
 foreclosure
