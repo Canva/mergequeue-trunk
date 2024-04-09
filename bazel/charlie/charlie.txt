@@ -4507,7 +4507,6 @@ carotenoid
 carotic
 carotid
 carotidal
-carotidean
 carotids
 corbinas
 carotin
@@ -11366,6 +11365,7 @@ chlorophora
 chloropia
 chloropicrin
 chloroplast
+carotidean
 chloroplastic
 chloroplastid
 chloroplasts

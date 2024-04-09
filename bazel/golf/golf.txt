@@ -4350,6 +4350,7 @@ gynaeolatry
 gynander
 grenadiership
 gynandrarchy
+glutinative
 gynandrarchic
 gregal
 gynandria
@@ -6171,7 +6172,6 @@ glutimate
 glutinant
 glutinate
 glutination
-glutinative
 gustatorily
 glutinize
 glutinose
