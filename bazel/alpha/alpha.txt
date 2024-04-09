@@ -17955,7 +17955,6 @@ aphoria
 aggiornamento
 apprest
 appreteur
-appreve
 apprise
 apprised
 appriser
@@ -25300,6 +25299,7 @@ azoic
 azole
 azoles
 azolitmin
+appreve
 azolla
 azomethine
 azon
