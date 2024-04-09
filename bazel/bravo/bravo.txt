@@ -4361,6 +4361,7 @@ bebops
 beboss
 bebotch
 bebothered
+braunschweiger
 bebouldered
 bebrave
 bebreech
@@ -14638,7 +14639,6 @@ brauneberger
 brauneria
 braunite
 braunites
-braunschweiger
 brauronia
 brauronian
 brava
