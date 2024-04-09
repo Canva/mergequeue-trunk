@@ -9820,7 +9820,6 @@ bitingly
 brumal
 bitingness
 bitis
-bitless
 bitmap
 bitmapped
 bitnet
@@ -17667,6 +17666,7 @@ burgles
 blay
 beefburger
 burgling
+bitless
 burgoyne
 burgomaster
 burgomasters
