@@ -3407,7 +3407,6 @@ bassists
 bassly
 bassness
 bassnesses
-basso
 bixa
 basson
 bassoon
@@ -3445,6 +3444,7 @@ basten
 baster
 basters
 basti
+basso
 bastian
 bastide
 bastile

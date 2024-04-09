@@ -2822,7 +2822,6 @@ elephantlike
 elephantoid
 elephantoidal
 eyestone
-elephantopus
 elephantous
 emetically
 elephantry
@@ -9695,6 +9694,7 @@ existentially
 esmayle
 esmeralda
 esmeraldan
+elephantopus
 esne
 etiologically
 esnecy
