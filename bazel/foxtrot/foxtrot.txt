@@ -1099,6 +1099,7 @@ farris
 farrisite
 farrow
 farrowing
+foldboater
 farrows
 farruca
 farsakh
@@ -6875,7 +6876,6 @@ foldage
 foresettle
 foldaway
 foldboat
-foldboater
 farmings
 foldboating
 foldboats
