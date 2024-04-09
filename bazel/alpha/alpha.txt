@@ -19635,7 +19635,6 @@ arianism
 aryanism
 arianist
 arianistic
-arianistical
 arianists
 arianize
 aryanize
@@ -24854,6 +24853,7 @@ avosets
 avouch
 avouchable
 avouched
+arianistical
 avoucher
 avouchers
 avouches
