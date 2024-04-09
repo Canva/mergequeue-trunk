@@ -475,6 +475,7 @@ abys
 abysm
 abysmal
 abysmally
+apochae
 abysms
 abyss
 abyssa
@@ -17124,7 +17125,6 @@ apocentre
 apocentric
 apocentricity
 apocha
-apochae
 apocholic
 apochromatic
 apochromatism

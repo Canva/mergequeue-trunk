@@ -6050,6 +6050,7 @@ glucogene
 glucogenesis
 glucokinase
 glucokinin
+grimaces
 glucolipid
 glucolipide
 geodist
@@ -8995,7 +8996,6 @@ grilses
 grim
 grimaced
 grimacers
-grimaces
 grimacier
 glasser
 grimacing
