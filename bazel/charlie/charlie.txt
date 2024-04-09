@@ -12939,6 +12939,7 @@ chuumnapm
 chuvash
 chuvashes
 carcaneted
+crunodes
 chuzwi
 chwana
 chwas
@@ -30260,7 +30261,6 @@ centon
 crunkle
 crunodal
 crunode
-crunodes
 crunt
 cruor
 cruorin
