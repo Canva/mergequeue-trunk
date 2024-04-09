@@ -2437,6 +2437,7 @@ gelidiaceae
 gelidity
 gelidities
 gelidium
+glucosine
 gelidly
 gomlah
 gelidness
@@ -6081,7 +6082,6 @@ glucosidic
 geostrategic
 glucosidically
 glucosin
-glucosine
 glucosone
 glucosulfone
 glucuronic

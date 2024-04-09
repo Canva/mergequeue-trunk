@@ -183,6 +183,7 @@ factitive
 factitively
 factive
 facto
+foreheads
 factor
 factorability
 factorable
@@ -7721,7 +7722,6 @@ fenouillette
 forehatchway
 forehead
 foreheaded
-foreheads
 forehear
 forehearth
 fairest
