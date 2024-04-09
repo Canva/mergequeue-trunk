@@ -12430,6 +12430,7 @@ andronicus
 andronitis
 andropetalar
 andropetalous
+angiotonin
 androphagous
 androphyll
 androphobia
@@ -12845,7 +12846,6 @@ angiotome
 angiotomy
 alcabala
 angiotonic
-angiotonin
 angiotribe
 angiotripsy
 angiotrophic

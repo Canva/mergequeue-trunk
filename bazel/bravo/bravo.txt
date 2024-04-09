@@ -10987,6 +10987,7 @@ blockhole
 brained
 blockholer
 blockhouse
+brioche
 blockhouses
 beveto
 blackbreast
@@ -15455,7 +15456,6 @@ brins
 brinsell
 brinston
 brynza
-brioche
 brioches
 bryogenin
 briolet
