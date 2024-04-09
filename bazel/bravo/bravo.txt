@@ -9249,7 +9249,6 @@ bipalium
 bipalmate
 biparasitic
 biparental
-biparentally
 biparietal
 biparted
 biparty
@@ -14300,6 +14299,7 @@ brainchildren
 braincraft
 befan
 brainer
+biparentally
 brainfag
 brainge
 brainy
