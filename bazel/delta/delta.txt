@@ -9714,6 +9714,7 @@ dilettanteship
 dilettanti
 dilettantish
 dilettantism
+disrout
 dilettantist
 dilettantship
 diligence
@@ -13361,7 +13362,6 @@ disrooted
 didymous
 disrooting
 disroots
-disrout
 disrudder
 disruddered
 disruly
