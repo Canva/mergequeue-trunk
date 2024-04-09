@@ -6229,7 +6229,6 @@ dermatopathophobia
 dermatophagus
 dermatophyte
 dermatophytic
-dermatophytosis
 dermatophobia
 dermatophone
 dermatophony
@@ -14178,6 +14177,7 @@ diuranate
 diureide
 diureses
 diuresis
+dermatophytosis
 difficile
 diuretic
 diuretical

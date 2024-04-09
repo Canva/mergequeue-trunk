@@ -6334,7 +6334,6 @@ agony
 agonia
 agoniada
 agoniadin
-agoniatite
 agoniatites
 agonic
 agonied
@@ -19862,6 +19861,7 @@ armadilla
 armadillididae
 armadillidium
 armadillos
+agoniatite
 araucarian
 armado
 armageddonist
