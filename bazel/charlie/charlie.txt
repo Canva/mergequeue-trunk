@@ -1316,6 +1316,7 @@ clockmutch
 caliginousness
 caligo
 caligrapher
+confirmedness
 caligraphy
 caligulism
 calili
@@ -21987,7 +21988,6 @@ confirmatorily
 confirmed
 confirmedly
 carbonatization
-confirmedness
 confirmee
 confirmer
 confirming
