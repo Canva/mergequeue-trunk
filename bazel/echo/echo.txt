@@ -3597,7 +3597,6 @@ embowerment
 embowers
 embowing
 embowment
-embows
 embox
 eloquence
 eluvium
@@ -11195,6 +11194,7 @@ eurytomidae
 eurytopic
 eurytopicity
 euro
+embows
 euroaquilo
 eurobin
 eurocentric
