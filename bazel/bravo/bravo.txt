@@ -12109,6 +12109,7 @@ boleweed
 bolewort
 bolyaian
 boliche
+buckrams
 bolide
 bolides
 bolimba
@@ -16646,7 +16647,6 @@ buckone
 buckpot
 buckram
 buckraming
-buckrams
 buckras
 bucks
 bucksaw

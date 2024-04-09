@@ -5890,7 +5890,6 @@ echites
 enhanced
 exaggerativeness
 enhancement
-enhancements
 enhancer
 enhancers
 enhances
@@ -9935,6 +9934,7 @@ establishment
 establishmentarian
 establishmentarianism
 establishmentism
+enhancements
 establishments
 establismentarian
 establismentarianism
