@@ -238,6 +238,7 @@ gail
 gayly
 gaylies
 gaillard
+geranials
 gaillardia
 gayment
 gain
@@ -8616,7 +8617,6 @@ greekist
 greekize
 greekless
 greekling
-geranials
 greeks
 green
 greenage
