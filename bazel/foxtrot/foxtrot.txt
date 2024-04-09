@@ -5455,6 +5455,7 @@ fleshbrush
 fleshen
 fogydom
 flesher
+frondeur
 fleshers
 fleshes
 fleshful
@@ -10372,7 +10373,6 @@ frondesced
 fluoridising
 frondescent
 frondescing
-frondeur
 factored
 frondeurs
 frondiferous

@@ -225,6 +225,7 @@ daeva
 daff
 daffadilly
 daffadillies
+decubitus
 daffadowndilly
 daffadowndillies
 daffed
@@ -2835,7 +2836,6 @@ decrudescence
 decrustation
 decubital
 decubiti
-decubitus
 decultivate
 deculturate
 decuman
