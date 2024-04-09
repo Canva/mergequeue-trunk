@@ -1841,7 +1841,6 @@ eyewinker
 englishing
 eyewinks
 eyewitness
-eyewitnesses
 eiffel
 eigenfrequency
 eigenfunction
@@ -7466,6 +7465,7 @@ epenthesis
 epenthesize
 epenthetic
 epephragmal
+eyewitnesses
 epepophysial
 epepophysis
 epergne
