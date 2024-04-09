@@ -4164,6 +4164,7 @@ bearfoots
 bearherd
 bearhound
 bearhug
+bucklandite
 bearhugs
 bearing
 bearings
@@ -16627,7 +16628,6 @@ buckishness
 buckism
 buckjumper
 buckland
-bucklandite
 buckle
 buckled
 buckleya

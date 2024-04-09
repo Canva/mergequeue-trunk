@@ -7930,7 +7930,6 @@ forerunning
 forerunnings
 foreruns
 fores
-foresaddle
 foresay
 foresaying
 foresail
@@ -9913,6 +9912,7 @@ frettingly
 fretum
 fretways
 fretwise
+foresaddle
 fretwork
 fretworks
 farragoes
