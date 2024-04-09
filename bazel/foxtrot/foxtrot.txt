@@ -4387,6 +4387,7 @@ fishfinger
 fishful
 fishgarth
 fishgig
+fantaseid
 fishgrass
 fishhood
 fishhook
@@ -4920,7 +4921,6 @@ flamingly
 flamingo
 flamingoes
 flamingos
-fantaseid
 flaminica
 flaminical
 flamless

@@ -915,6 +915,7 @@ baginda
 bagio
 bagios
 bedrenching
+biaxillary
 bagirmi
 bagle
 baglike
@@ -7834,7 +7835,6 @@ biaxal
 biaxial
 biaxiality
 biaxially
-biaxillary
 bib
 bibacious
 bibaciousness
