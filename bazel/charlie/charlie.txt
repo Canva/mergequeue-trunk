@@ -11635,6 +11635,7 @@ choletherapy
 choleuria
 choliamb
 choliambist
+crawlspace
 cholic
 cholick
 choline
@@ -28347,7 +28348,6 @@ crawling
 crawlingly
 crawls
 crawlsome
-crawlspace
 crawlway
 crawlways
 crawm
