@@ -453,7 +453,6 @@ abiogenous
 abiology
 abiological
 abiologically
-abioses
 abiosis
 abiotic
 abiotical
@@ -3712,6 +3711,7 @@ adenomas
 adenomata
 adenomatome
 adenomatous
+abioses
 adenometritis
 adenomycosis
 adenomyofibroma

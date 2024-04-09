@@ -4147,7 +4147,6 @@ carex
 carf
 carfare
 carfares
-carfax
 carfloat
 comprizable
 carfour
@@ -4168,6 +4167,7 @@ carhop
 carhops
 carhouse
 cary
+carfax
 carya
 cariacine
 cariacus
