@@ -7254,7 +7254,6 @@ footprints
 footrace
 footraces
 footrail
-footrest
 footrests
 footrope
 footropes
@@ -8237,6 +8236,7 @@ forge
 forgeability
 forgeable
 forged
+footrest
 forgeful
 forger
 forgery

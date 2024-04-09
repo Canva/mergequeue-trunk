@@ -4629,7 +4629,6 @@ bedeaf
 bedeafen
 bedeafened
 bedeafening
-bedeafens
 bedebt
 bedeck
 bedecked
@@ -14947,6 +14946,7 @@ breeching
 breechless
 breechloader
 breechloading
+bedeafens
 breed
 breedable
 breedbate
