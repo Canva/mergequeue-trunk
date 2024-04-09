@@ -2107,7 +2107,6 @@ fellest
 fellfare
 felly
 felliducous
-fellies
 fellifluous
 felling
 fellingbird
@@ -5864,6 +5863,7 @@ fiercly
 flocculated
 flocculating
 flocculation
+fellies
 freshman
 flatnose
 flocculator
