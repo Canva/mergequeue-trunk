@@ -877,7 +877,6 @@ fantastication
 fantasticism
 fantasticly
 fantasticness
-fantastico
 fantastry
 fantasts
 fanteague
@@ -5571,6 +5570,7 @@ flycatcher
 flycatchers
 flicflac
 fica
+fantastico
 flichter
 flichtered
 flichtering

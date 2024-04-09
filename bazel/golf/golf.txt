@@ -6311,6 +6311,7 @@ gnomed
 gnomes
 gnomesque
 gnomic
+grillee
 gnomical
 gnomide
 gnomish
@@ -8972,7 +8973,6 @@ grillages
 grille
 grylle
 grilled
-grillee
 griller
 grillers
 grilles
