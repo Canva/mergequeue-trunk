@@ -962,6 +962,7 @@ decolorate
 darcy
 dard
 dardan
+denticate
 dardani
 dardanium
 dardaol
@@ -5313,7 +5314,6 @@ dentex
 denty
 daraf
 dentical
-denticate
 denticete
 denticeti
 denticle

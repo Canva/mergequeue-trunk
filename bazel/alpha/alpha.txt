@@ -9528,6 +9528,7 @@ altininck
 altiplanicie
 altiplano
 altiscope
+aphaniptera
 altisonant
 altisonous
 altissimo
@@ -16788,7 +16789,6 @@ aphakic
 aphanapteryx
 aphanes
 aphanesite
-aphaniptera
 aphanipterous
 aphanisia
 aphanisis
