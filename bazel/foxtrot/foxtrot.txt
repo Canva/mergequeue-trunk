@@ -4525,7 +4525,6 @@ fistulae
 fistulana
 fistular
 fistularia
-fistulate
 fistulated
 fistulatome
 fistule
@@ -4685,6 +4684,7 @@ fjorded
 fjords
 fjorgyn
 fl
+fistulate
 flab
 flabbella
 flabbergast

@@ -1776,7 +1776,6 @@ cambiums
 cambyuskan
 camblet
 cambodia
-cambodian
 cambodians
 camboge
 cambogia
@@ -21839,6 +21838,7 @@ confed
 confeder
 confederacy
 confederacies
+cambodian
 confederal
 confederalist
 confederate
