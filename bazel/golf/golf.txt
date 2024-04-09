@@ -470,7 +470,6 @@ guardedly
 galeod
 galeodes
 galeodidae
-galeoid
 galeopithecus
 galeopsis
 galeorchis
@@ -1089,6 +1088,7 @@ gange
 ganged
 ganger
 gangerel
+galeoid
 gangers
 gadaea
 ganges

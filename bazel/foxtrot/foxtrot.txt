@@ -1153,7 +1153,6 @@ fascicles
 fascicular
 fascicularly
 fasciculate
-fasciculated
 fasciculation
 fascicule
 fasciculi
@@ -7845,6 +7844,7 @@ forensicality
 forensically
 forensics
 foreordain
+fasciculated
 foreordained
 foreordaining
 foreordainment
