@@ -3978,6 +3978,7 @@ emmergoose
 emmers
 emmetrope
 emmetropy
+eudaemonia
 emmetropic
 emmetropism
 emmets
@@ -8451,7 +8452,6 @@ epizoarian
 epizoic
 epizoicide
 epizoisms
-eudaemonia
 epizoite
 epizoology
 epizoon

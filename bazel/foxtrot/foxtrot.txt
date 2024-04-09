@@ -1798,6 +1798,7 @@ feazing
 feazings
 febres
 febricant
+flyeater
 febricitant
 febricitation
 febricity
@@ -5591,7 +5592,6 @@ flicking
 flicks
 flics
 flidge
-flyeater
 fmt
 flied
 flier
