@@ -843,6 +843,7 @@ fantailed
 fantails
 fantaisie
 fantasy
+flivver
 fantasia
 fantasias
 fantasie
@@ -5800,7 +5801,6 @@ flittiness
 flitting
 flittingly
 flitwite
-flivver
 flivvers
 flyway
 flyways
