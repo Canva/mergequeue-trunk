@@ -4658,7 +4658,6 @@ enchiladas
 enchylema
 enchylematous
 enchyma
-eloquently
 enchymatous
 escapements
 enchiridia
@@ -9989,6 +9988,7 @@ esterifiable
 esterification
 esterified
 esterifies
+eloquently
 esterifying
 esterization
 esterize
