@@ -2409,7 +2409,6 @@ decimestrial
 decimeter
 decimeters
 decrementless
-decimetre
 decimolar
 daysman
 dangering
@@ -7925,6 +7924,7 @@ dhaman
 dhamnoo
 dhan
 dhangar
+decimetre
 dhanuk
 dhanush
 dhanvantari
