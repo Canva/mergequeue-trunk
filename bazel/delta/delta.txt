@@ -10932,7 +10932,6 @@ disaffiliates
 disaffiliating
 disaffiliation
 disaffiliations
-disaffinity
 disaffirm
 disaffirmance
 disaffirmation
@@ -13760,6 +13759,7 @@ disthrall
 disthrone
 disthroned
 disthroning
+disaffinity
 disty
 distich
 distichal
