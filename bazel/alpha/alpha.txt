@@ -13739,7 +13739,6 @@ anointed
 anointer
 anointing
 anointment
-anointments
 anoints
 anole
 anoli
@@ -22860,6 +22859,7 @@ atrociously
 atrociousness
 atrocity
 atrocities
+anointments
 atrocoeruleus
 atrolactic
 atropaceous
