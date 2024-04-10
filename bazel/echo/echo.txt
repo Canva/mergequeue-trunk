@@ -3884,6 +3884,7 @@ emeute
 emeutes
 emf
 emforth
+emotiomuscular
 emhpasizing
 emic
 emicant
@@ -4012,7 +4013,6 @@ emotes
 emoting
 emotiometabolic
 emotiomotor
-emotiomuscular
 emotion
 emotionable
 emotional

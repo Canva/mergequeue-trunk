@@ -7880,7 +7880,6 @@ aleppo
 alerce
 alerion
 alerse
-alert
 alerta
 anorak
 alerted
@@ -21541,6 +21540,7 @@ atrienses
 asquat
 asqueal
 asquint
+alert
 asquirm
 asrama
 asramas
