@@ -1734,7 +1734,6 @@ eyebree
 eyebridled
 eyebright
 eyebrow
-eyebrows
 eyecup
 experimently
 eyed
@@ -12169,6 +12168,7 @@ excortication
 explainability
 excreation
 excrement
+eyebrows
 excremental
 excrementally
 excrementary

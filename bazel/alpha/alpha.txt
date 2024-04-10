@@ -12347,7 +12347,6 @@ andrenid
 andrenidae
 andrew
 andrewartha
-andrewsite
 andria
 andriana
 andrias
@@ -21278,6 +21277,7 @@ askance
 askant
 askapart
 askar
+andrewsite
 askarel
 askari
 askaris
