@@ -5537,7 +5537,6 @@ aforethought
 aforetime
 aforetimes
 aforeward
-afortiori
 afoul
 afounde
 afray
@@ -10855,6 +10854,7 @@ amoebean
 amoebeum
 amoebian
 amoebiasis
+afortiori
 anaglyphoscope
 amoebic
 amoebicidal
