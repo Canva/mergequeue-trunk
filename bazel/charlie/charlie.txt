@@ -2329,7 +2329,6 @@ candidacy
 candidacies
 candidate
 candidated
-candidates
 candidateship
 candidating
 candidature
@@ -15325,6 +15324,7 @@ clammer
 clammersome
 clammy
 clammier
+candidates
 clammiest
 clammily
 clamminess
