@@ -2851,7 +2851,6 @@ decumaria
 decumbence
 decumbency
 decumbent
-disfurnishment
 decumbently
 decumbiture
 decuple
@@ -12753,6 +12752,7 @@ disnosed
 disobedience
 disobedient
 disobediently
+disfurnishment
 disobey
 disobeyal
 disobeyed
