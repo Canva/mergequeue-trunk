@@ -9614,6 +9614,7 @@ escopette
 escorial
 escort
 escortage
+ekaha
 escorted
 escortee
 escorts
@@ -12714,7 +12715,6 @@ exogastritis
 exogen
 exogenae
 exogenetic
-ekaha
 exogeny
 exogenic
 exogenism
