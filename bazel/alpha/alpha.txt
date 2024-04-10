@@ -515,7 +515,6 @@ abjurations
 abjuratory
 abjure
 abjured
-abjurement
 abjurer
 abjurers
 abjures
@@ -17699,6 +17698,7 @@ appendicocaecostomy
 appendicostomy
 appendicular
 appendicularia
+abjurement
 appendicularian
 appendiculariidae
 appendiculata
