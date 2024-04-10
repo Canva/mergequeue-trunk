@@ -15,7 +15,6 @@ eagerest
 eagerness
 eagle
 eagled
-eaglelike
 eagles
 eagless
 eaglestone
@@ -2869,6 +2868,7 @@ elevato
 elevator
 elevators
 eleve
+eaglelike
 escalators
 eleven
 elevener
