@@ -16950,6 +16950,7 @@ aphthartodocetism
 aphthic
 aphthitalite
 aphthoid
+arcidae
 aphthong
 aphthongal
 aphthongia
@@ -19185,7 +19186,6 @@ archwife
 archwise
 archworker
 archworkmaster
-arcidae
 arcifera
 arciferous
 arcifinious
