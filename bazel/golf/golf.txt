@@ -6323,7 +6323,6 @@ gnomonological
 gnomonologically
 germanious
 gnomons
-gnoses
 gnosiology
 gnosiological
 gnosis
@@ -7870,6 +7869,7 @@ granaries
 gawsy
 granat
 granate
+gnoses
 granatum
 granch
 grand
