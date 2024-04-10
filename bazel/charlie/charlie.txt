@@ -1329,7 +1329,6 @@ calin
 calina
 calinago
 clochards
-calinda
 calindas
 caline
 calinut
@@ -22360,6 +22359,7 @@ conicity
 conicle
 conicopoly
 conics
+calinda
 conidae
 conidia
 conidial
