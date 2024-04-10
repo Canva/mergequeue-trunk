@@ -8713,6 +8713,7 @@ allicins
 allicit
 allie
 allied
+altigraph
 allies
 alligate
 alligating
@@ -9515,7 +9516,6 @@ although
 altica
 alticamelus
 altify
-altigraph
 altilik
 altiloquence
 altiloquent

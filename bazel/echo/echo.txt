@@ -2721,7 +2721,6 @@ elegancies
 elegante
 eleganter
 elegy
-elegiac
 elegiacally
 elegiacs
 elegiambic
@@ -5595,6 +5594,7 @@ enfevering
 enfevers
 eyeline
 enfief
+elegiac
 enfield
 enfierce
 enfigure
