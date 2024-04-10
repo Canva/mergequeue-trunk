@@ -2818,7 +2818,6 @@ fetichlike
 forediscern
 fetichmonger
 fetichry
-feticidal
 feticide
 feticides
 fetid
@@ -5667,6 +5666,7 @@ flinging
 flings
 flinkite
 fator
+feticidal
 flint
 flinted
 flinter

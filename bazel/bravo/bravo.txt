@@ -12080,7 +12080,6 @@ boldin
 boldine
 bolding
 boldly
-boldness
 boldnesses
 boldo
 boldoine
@@ -14319,6 +14318,7 @@ brainpans
 brainpower
 brains
 blowline
+boldness
 bridgekeeper
 brainsickness
 brainstem
