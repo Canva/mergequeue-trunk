@@ -5499,7 +5499,6 @@ eneid
 enema
 enemas
 enemata
-emball
 enemy
 enemied
 enemies
@@ -12314,6 +12313,7 @@ execute
 executed
 encastage
 executes
+emball
 executing
 execution
 executioneering
