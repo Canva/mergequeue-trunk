@@ -6419,7 +6419,6 @@ benzoate
 bisectrix
 benzoates
 benzoazurine
-benzobis
 benzocaine
 benzocoumaran
 benzodiazine
@@ -13720,6 +13719,7 @@ bowdlerizations
 bemoans
 bowdlerize
 bowdlerized
+benzobis
 bowdlerizer
 bowdlerizes
 bevy
