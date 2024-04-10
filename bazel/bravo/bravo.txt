@@ -4526,7 +4526,6 @@ becry
 becrime
 becrimed
 brasqued
-becrimes
 becriming
 becrimson
 becrinolined
@@ -17887,6 +17886,7 @@ burse
 bursectomy
 burseed
 brachistocephalous
+becrimes
 burseeds
 bursera
 burseraceae
