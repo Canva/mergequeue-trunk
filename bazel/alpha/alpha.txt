@@ -132,7 +132,6 @@ abasic
 abasio
 abask
 abassi
-abassin
 abastard
 abastardize
 abastral
@@ -23350,6 +23349,7 @@ aught
 aughtlins
 aughts
 augite
+abassin
 augitic
 augitite
 augitophyre

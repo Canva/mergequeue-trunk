@@ -14921,6 +14921,7 @@ cytologically
 cytologies
 cytologist
 cytologists
+coadapt
 cytoma
 caperdewsie
 cytomegalic
@@ -17020,7 +17021,6 @@ coactivity
 coactor
 coacts
 coadamite
-coadapt
 coadaptation
 citronellic
 coadaptations
