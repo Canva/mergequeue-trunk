@@ -1385,7 +1385,6 @@ acater
 acatery
 acates
 acatharsy
-acatharsia
 acatholic
 acaudal
 acaudate
@@ -14711,6 +14710,7 @@ antialcoholic
 antialcoholism
 antialcoholist
 antialdoxime
+acatharsia
 antialexin
 algine
 antiamboceptor
