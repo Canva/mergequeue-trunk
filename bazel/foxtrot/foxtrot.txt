@@ -426,7 +426,6 @@ fairway
 fairways
 fairwater
 fays
-faisan
 faisceau
 fait
 faitery
@@ -7076,6 +7075,7 @@ franks
 fons
 feetfirst
 fontal
+faisan
 fontanel
 frothing
 fontanelle

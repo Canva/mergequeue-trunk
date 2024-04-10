@@ -1943,7 +1943,6 @@ bandikai
 bandylegged
 bandiness
 banding
-bandit
 banditism
 banditry
 barramundas
@@ -13163,6 +13162,7 @@ bosomy
 bosominess
 bulker
 bosoming
+bandit
 bosoms
 boson
 bosonic
