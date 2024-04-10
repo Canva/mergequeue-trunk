@@ -6600,7 +6600,6 @@ goldenback
 goldeney
 goldeneye
 gauger
-goldeneyes
 goldener
 goldenfleece
 goldenhair
@@ -6734,6 +6733,7 @@ gombroon
 gome
 ghedda
 gapy
+goldeneyes
 gomeisa
 gomer
 gomeral
