@@ -703,7 +703,6 @@ galloper
 galloperdix
 gallopers
 gallophile
-gallophilism
 gallophobe
 gallophobia
 galloping
@@ -5586,6 +5585,7 @@ glyoxalic
 glyoxalin
 glyoxaline
 gregarinian
+gallophilism
 galliwasp
 glyoxime
 glyph

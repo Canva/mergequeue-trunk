@@ -16023,6 +16023,7 @@ cleruchy
 chagal
 cleruchial
 cleruchic
+conkanee
 cleruchies
 clerum
 clerus
@@ -22510,7 +22511,6 @@ conjuror
 cricetine
 conjurors
 conk
-conkanee
 conked
 conker
 conkers
