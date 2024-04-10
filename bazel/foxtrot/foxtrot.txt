@@ -8203,6 +8203,7 @@ forfalt
 flintlocks
 forfare
 forfars
+frowsier
 forfault
 forfaulture
 forfeit
@@ -10565,7 +10566,6 @@ frowningly
 frowns
 frows
 frowsy
-frowsier
 frowsiest
 frowsily
 frowsiness
