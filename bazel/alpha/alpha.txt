@@ -8609,6 +8609,7 @@ allegorizing
 allegresse
 allegretto
 allegrettos
+amply
 allegro
 allegros
 alley
@@ -11309,7 +11310,6 @@ amplexicauline
 amplexifoliate
 amplexus
 amplexuses
-amply
 ampliate
 airsheet
 ampliation
