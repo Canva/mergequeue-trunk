@@ -3333,7 +3333,6 @@ faery
 fidessa
 fidge
 fidged
-fidges
 fidget
 fidgetation
 fidgeted
@@ -3810,6 +3809,7 @@ filopodia
 filopodium
 filosa
 filose
+fidges
 filoselle
 filosofe
 filosus

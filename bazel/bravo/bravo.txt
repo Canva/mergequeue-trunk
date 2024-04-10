@@ -3016,6 +3016,7 @@ barrow
 barrowcoat
 barrowful
 barrowist
+berrylike
 barrowman
 backscatters
 barrows
@@ -6826,7 +6827,6 @@ berries
 berrigan
 berrying
 berryless
-berrylike
 berryman
 berrypicker
 berrypicking
