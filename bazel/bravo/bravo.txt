@@ -16196,7 +16196,6 @@ browningesque
 brownish
 brownishness
 brownism
-brownist
 brownistic
 brownistical
 brownly
@@ -18183,6 +18182,7 @@ butyne
 butyr
 butyral
 butyraldehyde
+brownist
 butyrals
 butyrate
 butyrates

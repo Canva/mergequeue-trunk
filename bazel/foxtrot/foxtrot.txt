@@ -6854,7 +6854,6 @@ foison
 foisonless
 foisons
 foist
-foxtongue
 foisted
 ferroboron
 foister
@@ -9553,6 +9552,7 @@ fraxin
 fraxinus
 fraze
 frazed
+foxtongue
 frazer
 frazing
 frazzle
