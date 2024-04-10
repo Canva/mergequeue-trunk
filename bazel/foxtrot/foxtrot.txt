@@ -924,6 +924,7 @@ faradised
 faradiser
 faradises
 faradism
+fissionable
 faradisms
 faradization
 faradize
@@ -4462,7 +4463,6 @@ fissilinguia
 fissility
 fission
 flunkydom
-fissionable
 fissioned
 fissioning
 frays
