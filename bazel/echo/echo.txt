@@ -9355,6 +9355,7 @@ errant
 errantia
 errantly
 errantness
+enfile
 eucalyptuses
 errantry
 errantries
@@ -11782,7 +11783,6 @@ exalbuminose
 exalbuminous
 exallotriote
 exalt
-enfile
 exaltate
 exaltation
 exaltations
