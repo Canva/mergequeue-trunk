@@ -805,7 +805,6 @@ dandlingly
 dandriff
 dandriffy
 dandriffs
-dandruff
 dandruffy
 dandruffs
 dane
@@ -14086,6 +14085,7 @@ ditchdown
 ditched
 ditcher
 ditchers
+dandruff
 ditching
 ditchless
 ditchside

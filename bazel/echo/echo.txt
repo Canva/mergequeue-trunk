@@ -4783,6 +4783,7 @@ enclosers
 encloses
 enclosing
 enclosure
+enthronize
 enclosures
 enclothe
 encloud
@@ -6791,7 +6792,6 @@ enthronise
 enthronised
 enthronising
 enthronization
-enthronize
 endostracal
 enthronized
 enthronizing
