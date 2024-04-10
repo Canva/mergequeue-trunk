@@ -5315,7 +5315,6 @@ affenspalte
 affere
 afferent
 affettuoso
-affettuosos
 affy
 affiance
 affianced
@@ -17646,6 +17645,7 @@ appeasive
 appel
 appellability
 appellable
+affettuosos
 appellancy
 appellant
 appellants

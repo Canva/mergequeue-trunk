@@ -6602,7 +6602,6 @@ fluting
 flutings
 flutist
 flutists
-flutter
 flutterable
 flutterboard
 fluttered
@@ -10813,6 +10812,7 @@ fuchsite
 fuchsone
 fuci
 fucinita
+flutter
 fucivorous
 fucus
 fucused
