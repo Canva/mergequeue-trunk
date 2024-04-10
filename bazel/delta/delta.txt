@@ -2606,6 +2606,7 @@ decolorimeter
 decoloring
 decolorisation
 decolorise
+dibromobenzene
 decolorised
 decoloriser
 decolorising
@@ -8766,7 +8767,6 @@ dibranchious
 dibrom
 dibromide
 dibromoacetaldehyde
-dibromobenzene
 dibs
 dibstone
 dibstones
