@@ -1533,7 +1533,6 @@ fauteuils
 fautor
 fictor
 fautorship
-fauve
 fauves
 fauvette
 fauvism
@@ -5389,6 +5388,7 @@ felicitate
 forcefulness
 fleeces
 fleech
+fauve
 fleeched
 fleeches
 fleeching
