@@ -2956,7 +2956,6 @@ feverish
 feverishness
 feverless
 feverlike
-feverous
 feverously
 feverroot
 fevertrap
@@ -8124,6 +8123,7 @@ forethoughted
 forethoughtful
 forethoughtfully
 forethoughtfulness
+feverous
 forethrift
 foretime
 foretimes
