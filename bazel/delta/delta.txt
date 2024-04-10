@@ -2407,6 +2407,7 @@ decime
 decimestrial
 decimeter
 decimeters
+decrementless
 decimetre
 decimolar
 daysman
@@ -2855,7 +2856,6 @@ decumbently
 decumbiture
 decuple
 decupled
-decrementless
 decuples
 decuplet
 decupling
