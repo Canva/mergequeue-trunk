@@ -24502,7 +24502,6 @@ copending
 copenetrate
 copenhagen
 copens
-copeognatha
 copepod
 copepoda
 copepodan
@@ -29251,6 +29250,7 @@ cryptoclimate
 cryptoclimatology
 cryptococcal
 cryptococci
+copeognatha
 cryptococcic
 cryptococcosis
 cryptococcus
