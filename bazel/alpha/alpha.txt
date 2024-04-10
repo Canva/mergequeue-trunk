@@ -13146,6 +13146,7 @@ animadversal
 animadversion
 animadversional
 animadversions
+apiaceae
 animadversive
 animadversiveness
 animadverted
@@ -16953,7 +16954,6 @@ aphthong
 aphthongal
 aphthongia
 apiaca
-apiaceae
 apiaceous
 apiales
 apian
