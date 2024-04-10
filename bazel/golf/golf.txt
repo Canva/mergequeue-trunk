@@ -6292,7 +6292,6 @@ gnawn
 gnaws
 gneiss
 gneisses
-gneissy
 gneissic
 gneissitic
 gneissoid
@@ -9100,6 +9099,7 @@ gripman
 girderless
 gripmen
 gripment
+gneissy
 gryposis
 grypotherium
 grippe

@@ -3273,7 +3273,6 @@ defet
 defi
 defy
 diorites
-defiable
 disesteem
 defial
 defiance
@@ -7672,6 +7671,7 @@ devitrification
 demiluster
 devitrified
 devitrifying
+defiable
 devocalisation
 devocalised
 devocalising
