@@ -14853,7 +14853,6 @@ dogal
 dogana
 dogaressa
 dogate
-dogbane
 dysteleological
 dogbanes
 dogberry
@@ -17700,6 +17699,7 @@ dubious
 dubiously
 dubiousness
 dubitable
+dogbane
 dubitably
 dubitancy
 dubitant
