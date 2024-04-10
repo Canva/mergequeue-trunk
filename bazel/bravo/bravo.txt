@@ -9614,7 +9614,6 @@ bisects
 bisegment
 bisellia
 bisellium
-banalize
 bysen
 biseptate
 biserial
@@ -16599,6 +16598,7 @@ bucketed
 bucketeer
 bucketer
 bucketful
+banalize
 bucketfull
 buckety
 bucketing
