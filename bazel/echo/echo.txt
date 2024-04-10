@@ -5025,6 +5025,7 @@ endenization
 endenize
 endenizen
 eviscerate
+entermete
 ender
 endergonic
 endermatic
@@ -6611,7 +6612,6 @@ enteria
 enteric
 enteritidis
 enteritis
-entermete
 exolemma
 entermise
 enterobacterial

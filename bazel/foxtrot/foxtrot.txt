@@ -1499,7 +1499,6 @@ fauna
 faunae
 faunal
 faunally
-faunas
 faunated
 faunch
 fishmen
@@ -10979,6 +10978,7 @@ fracturableness
 fetishmonger
 fulvescent
 fulvid
+faunas
 fulzie
 fum
 fumade
