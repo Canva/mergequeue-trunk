@@ -441,6 +441,7 @@ abilla
 abilo
 abime
 abintestate
+anecdotist
 abiogeneses
 abiogenesis
 abiogenesist
@@ -12471,7 +12472,6 @@ anecdotes
 anecdotic
 anecdotical
 anecdotically
-anecdotist
 anecdotists
 anechoic
 anelace

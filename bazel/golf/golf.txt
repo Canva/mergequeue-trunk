@@ -6911,6 +6911,7 @@ gonococci
 gonococcic
 grotesco
 glacis
+gul
 gigantocyte
 gonococcocci
 gaufrettes
@@ -10289,7 +10290,6 @@ gujarati
 geese
 gurgle
 gujrati
-gul
 gula
 gulae
 gulaman
