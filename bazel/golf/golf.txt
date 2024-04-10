@@ -6990,6 +6990,7 @@ goodyship
 goodishness
 goodless
 goodly
+grainsman
 goodlier
 goodliest
 gingerly
@@ -7762,7 +7763,6 @@ grainman
 grains
 grainsick
 grainsickness
-grainsman
 grainsmen
 grainways
 grayout
