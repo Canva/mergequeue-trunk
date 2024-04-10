@@ -99,6 +99,7 @@ euphemist
 epithelioblastoma
 equitation
 earmuff
+exposition
 earmuffs
 earn
 earnable
@@ -13301,7 +13302,6 @@ exposing
 exposit
 exposited
 expositing
-exposition
 expositional
 expositions
 expositive

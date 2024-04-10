@@ -10124,6 +10124,7 @@ dinichthyid
 dinichthys
 dining
 dinitrate
+dogcatchers
 dinitril
 dinitrile
 dinitro
@@ -14869,7 +14870,6 @@ dogbolt
 dogbush
 dogcart
 dogcatcher
-dogcatchers
 dogdom
 dogdoms
 doge
