@@ -2056,6 +2056,7 @@ elaeosaccharum
 ethos
 elaeothesia
 elaeothesium
+erythroclastic
 equiangle
 elaic
 elaidate
@@ -9182,7 +9183,6 @@ erythrocytorrhexis
 erythrocytoschisis
 erythrocytosis
 erythroclasis
-erythroclastic
 erythrodegenerative
 ephebeum
 erythrodermia
