@@ -8854,6 +8854,7 @@ eradicable
 eradicably
 eradicant
 eradicate
+eudaemonistically
 eradicated
 eradicates
 eradicating
@@ -10758,7 +10759,6 @@ eudaemonistic
 excluders
 eudaemonistical
 euthyneural
-eudaemonistically
 eudaemonize
 epicardial
 eudaemons
