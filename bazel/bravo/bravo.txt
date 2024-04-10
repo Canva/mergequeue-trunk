@@ -3736,6 +3736,7 @@ batterfang
 battery
 batterie
 benni
+brucin
 batteried
 batteries
 batteryman
@@ -16241,7 +16242,6 @@ bruchid
 bruchidae
 bruchus
 brucia
-brucin
 brucina
 brucine
 brucines
