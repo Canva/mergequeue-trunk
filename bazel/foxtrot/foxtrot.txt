@@ -3278,6 +3278,7 @@ fiddlehead
 fiddleheaded
 fiddleys
 fiddleneck
+fireside
 fluviometer
 fiddler
 fiddlerfish
@@ -4240,7 +4241,6 @@ firesafe
 firesafeness
 firesafety
 fireshine
-fireside
 firesider
 firesideship
 firespout

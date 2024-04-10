@@ -4272,7 +4272,6 @@ deltaite
 deltal
 deltalike
 deltarium
-deltas
 deltation
 delthyria
 delthyrial
@@ -5909,6 +5908,7 @@ depressure
 depressurize
 deprest
 depreter
+deltas
 deprevation
 depriment
 deprint
