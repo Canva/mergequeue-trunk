@@ -3398,6 +3398,7 @@ germanism
 germanist
 germanistic
 germanium
+gomphosis
 germaniums
 gashest
 germanization
@@ -6750,7 +6751,6 @@ gomphocarpus
 garbless
 gomphodont
 gomphoses
-gomphosis
 gomphrena
 gomukhi
 gomutis
