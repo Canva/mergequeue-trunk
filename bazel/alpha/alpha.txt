@@ -18568,6 +18568,7 @@ arbores
 arborescence
 arborescently
 arboresque
+awl
 arboret
 arboreta
 arboretum
@@ -25019,7 +25020,6 @@ awkwardest
 awkwardish
 awkwardly
 awkwardness
-awl
 awless
 awlessness
 awls

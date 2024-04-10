@@ -1831,7 +1831,6 @@ bamming
 bamoth
 brees
 bams
-ban
 bana
 banaba
 boss
@@ -3216,6 +3215,7 @@ basidigitale
 basidigitalia
 basidiocarp
 basidiogenetic
+ban
 basidiolichen
 basidiomycete
 baclava
