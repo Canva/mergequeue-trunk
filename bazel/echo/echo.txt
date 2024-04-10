@@ -1403,7 +1403,6 @@ efflate
 efflation
 effleurage
 effloresce
-effloresced
 efflorescent
 effloresces
 eyewort
@@ -8953,6 +8952,7 @@ equiponderous
 erethisia
 erethism
 erethismic
+effloresced
 erethisms
 eyecups
 erethistic
