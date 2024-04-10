@@ -4998,6 +4998,7 @@ endearingly
 endearingness
 endearment
 endearments
+ethanal
 endears
 endeavored
 endeavorer
@@ -10245,7 +10246,6 @@ ethaldehyde
 escapades
 ethambutol
 ethan
-ethanal
 ethanamide
 ethanedial
 ethanediol
