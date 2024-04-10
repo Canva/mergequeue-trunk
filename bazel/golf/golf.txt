@@ -2962,7 +2962,6 @@ genuflecting
 genuflection
 genuflections
 genuflector
-genuflectory
 genuflects
 genuflex
 grouters
@@ -7841,6 +7840,7 @@ grammy
 grammies
 gamier
 gramoches
+genuflectory
 gramophone
 gramophones
 gramophonic

@@ -19269,6 +19269,7 @@ colonette
 colongitude
 colony
 colonial
+coredeeming
 candidas
 colonialise
 colonialised
@@ -25034,7 +25035,6 @@ cored
 coredeem
 coredeemed
 coredeemer
-coredeeming
 chlorargyrite
 causeries
 coredeems
