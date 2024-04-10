@@ -18257,7 +18257,6 @@ coghle
 cogida
 cogie
 chackling
-cogit
 cogitability
 cogitable
 cogitabund
@@ -30340,6 +30339,7 @@ crustification
 crustily
 crustiness
 crusting
+cogit
 crustless
 crustose
 crustosis
