@@ -9137,6 +9137,7 @@ chartings
 chartism
 chartist
 chartists
+copperplate
 chartless
 chartlet
 chartographer
@@ -24647,7 +24648,6 @@ chickaree
 copperleaf
 coppernose
 coppernosed
-copperplate
 copperplated
 copperproof
 coppers
