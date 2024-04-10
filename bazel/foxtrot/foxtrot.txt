@@ -4708,7 +4708,6 @@ flabellum
 flabile
 flabra
 flabrum
-flabs
 flaccid
 flaccidity
 flaccidness
@@ -4943,6 +4942,7 @@ flanche
 flanconade
 flanconnade
 flandan
+flabs
 flanders
 flandowser
 flane

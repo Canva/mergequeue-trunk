@@ -16172,7 +16172,6 @@ climbingfish
 climbingfishes
 climbs
 clime
-clymenia
 climes
 climograph
 clin
@@ -19139,6 +19138,7 @@ colloid
 cinerins
 colloidal
 colloidality
+clymenia
 colloidally
 colloider
 colloidize
