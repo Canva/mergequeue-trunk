@@ -1485,6 +1485,7 @@ garreted
 garreteer
 garrya
 garryaceae
+greylags
 garridge
 garrigue
 gemology
@@ -8796,7 +8797,6 @@ greyiaceae
 greying
 greyish
 greylag
-greylags
 greyling
 greillade
 gunfighter

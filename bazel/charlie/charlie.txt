@@ -8263,7 +8263,6 @@ chalcographist
 chalcolite
 chalcolithic
 chalcomancy
-chalcomenite
 chalcon
 chalcone
 chalcophanite
@@ -20660,6 +20659,7 @@ complementally
 complementalness
 complementary
 complementaries
+chalcomenite
 complementarily
 complementariness
 complementarism
