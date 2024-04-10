@@ -8026,6 +8026,7 @@ epingle
 epinglette
 epinicia
 epinicial
+eponymy
 epinician
 epinicion
 epinyctis
@@ -8481,7 +8482,6 @@ epomophorus
 eponge
 eponychium
 eponym
-eponymy
 eponymic
 eponymies
 eponymism

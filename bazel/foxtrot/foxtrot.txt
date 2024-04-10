@@ -1794,7 +1794,6 @@ featuring
 featurish
 feaze
 feazed
-feazes
 feazing
 feazings
 febres
@@ -4645,6 +4644,7 @@ fixing
 forborn
 fixings
 fixion
+feazes
 falter
 fixity
 fixities
