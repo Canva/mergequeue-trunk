@@ -2763,6 +2763,7 @@ genevan
 genevas
 genevese
 genevieve
+gnawn
 genevoise
 genghis
 geniality
@@ -6289,7 +6290,6 @@ gnawed
 gnawer
 gnawing
 gnawings
-gnawn
 gnaws
 gneiss
 gneisses
