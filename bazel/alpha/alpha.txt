@@ -12305,6 +12305,7 @@ andesic
 andesine
 andesite
 andesites
+attirement
 andesytes
 andesitic
 andevo
@@ -23084,7 +23085,6 @@ attingent
 attirail
 attire
 attired
-attirement
 attirer
 attires
 attiring

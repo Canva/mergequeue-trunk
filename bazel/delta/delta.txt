@@ -14897,7 +14897,6 @@ dogfennel
 dogfight
 dogfighting
 dogfights
-dogfish
 dogfishes
 dogfoot
 dogfought
@@ -18361,6 +18360,7 @@ duplexs
 duply
 duplicability
 duplicable
+dogfish
 duplicand
 duplicando
 duplicated
