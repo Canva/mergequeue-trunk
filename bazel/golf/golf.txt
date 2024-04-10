@@ -2882,6 +2882,7 @@ genthite
 gentian
 gentiana
 gentianales
+gastroptosis
 gentianella
 gentianic
 gentianose
@@ -10234,7 +10235,6 @@ guiltless
 guiltlessly
 gonapophysial
 guiltlessness
-gastroptosis
 guilts
 guiltsick
 guimbard
