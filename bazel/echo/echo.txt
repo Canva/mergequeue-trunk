@@ -10235,6 +10235,7 @@ eternization
 eternize
 eternized
 eternizes
+exposal
 eternizing
 etesian
 etesians
@@ -13290,7 +13291,6 @@ exports
 easier
 exposable
 emotionalising
-exposal
 exposals
 exposed
 exposedness
