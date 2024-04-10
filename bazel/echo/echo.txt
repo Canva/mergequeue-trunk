@@ -1791,7 +1791,6 @@ eyeliners
 eyemark
 eyen
 eyeopener
-eyepiece
 eyepit
 eyepoint
 eyepoints
@@ -9846,6 +9845,7 @@ encyclopaedize
 esq
 esquamulose
 esquiline
+eyepiece
 esquimau
 esquire
 esquirearchy
