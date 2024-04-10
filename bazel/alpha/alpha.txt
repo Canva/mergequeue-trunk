@@ -11768,7 +11768,6 @@ anallantoidean
 anallergic
 anally
 analog
-analoga
 analogal
 analogy
 analogia
@@ -22324,6 +22323,7 @@ astrophyton
 astrophobia
 astrophotographer
 astrophotography
+analoga
 astrophotographic
 astrophotometer
 astrophotometry
