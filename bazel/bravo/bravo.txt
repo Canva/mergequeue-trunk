@@ -6011,7 +6011,6 @@ bemiring
 bemirror
 bemirrorment
 bemist
-bukshi
 bemisted
 bakings
 bemisting
@@ -7144,6 +7143,7 @@ besplit
 bespoke
 bespoken
 bespot
+bukshi
 bespotted
 bespottedness
 bespotting

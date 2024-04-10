@@ -5190,7 +5190,6 @@ decursion
 denominant
 denominate
 denominated
-denominates
 denominating
 denomination
 denominational
@@ -9199,6 +9198,7 @@ dyes
 dieselization
 dieselize
 diesels
+denominates
 dieses
 diesinker
 diesinking
