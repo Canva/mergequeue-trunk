@@ -7956,6 +7956,7 @@ grandniece
 gonolobus
 grandnieces
 grandpa
+gujerat
 grandpap
 grandpapa
 grandparent
@@ -10284,7 +10285,6 @@ guittonian
 guywire
 gujar
 gujarati
-gujerat
 geese
 gurgle
 gujrati
