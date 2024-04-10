@@ -7927,7 +7927,6 @@ grandgore
 grandiflora
 grandiloquent
 grandiloquently
-grandiloquous
 grandiose
 grandioseness
 grandiosity
@@ -9288,6 +9287,7 @@ gravidae
 grommets
 gromwell
 gromwells
+grandiloquous
 grond
 gastroenterologists
 grondwet
