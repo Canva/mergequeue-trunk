@@ -12725,6 +12725,7 @@ angie
 angiectasis
 angiectopia
 angiemphraxis
+appertise
 angiitis
 angild
 angili
@@ -17732,7 +17733,6 @@ appertaining
 appertainment
 appertains
 appertinent
-appertise
 appestat
 appestats
 appet

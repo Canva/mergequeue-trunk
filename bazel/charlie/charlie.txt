@@ -15450,6 +15450,7 @@ claquer
 concinnating
 claquers
 claques
+cineastes
 claqueur
 claqueurs
 clara
@@ -22892,7 +22893,6 @@ consignor
 consignors
 consigns
 consiliary
-cineastes
 consilience
 consilient
 consimilar
