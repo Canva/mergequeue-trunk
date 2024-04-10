@@ -3770,6 +3770,7 @@ embusk
 embuskin
 embusqu
 embusque
+epinicia
 execrably
 embussed
 embussing
@@ -8025,7 +8026,6 @@ epineurial
 epineurium
 epingle
 epinglette
-epinicia
 epinicial
 eponymy
 epinician
