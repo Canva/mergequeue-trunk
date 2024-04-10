@@ -11487,6 +11487,7 @@ discomplexion
 discompliance
 discompose
 discomposed
+downstate
 discomposedly
 discomposedness
 durrie
@@ -16328,7 +16329,6 @@ downsome
 downspout
 downstair
 downstairs
-downstate
 downsteepy
 downstreet
 downstroke

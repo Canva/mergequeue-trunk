@@ -2505,6 +2505,7 @@ forlorner
 fernsick
 ferntickled
 fernticle
+fixated
 fernwort
 ferocactus
 feroce
@@ -4623,7 +4624,6 @@ flourisher
 fixable
 fixage
 fixate
-fixated
 fixates
 fixatifs
 fixation
