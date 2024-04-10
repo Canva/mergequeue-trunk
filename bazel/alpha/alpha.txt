@@ -12377,7 +12377,6 @@ androeccia
 androecia
 androecial
 androecium
-androgametophore
 androgamone
 androgen
 androgenesis
@@ -19871,6 +19870,7 @@ armado
 armageddonist
 armagnacs
 armament
+androgametophore
 armamentary
 armamentaria
 armamentarium
