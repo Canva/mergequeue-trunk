@@ -19099,7 +19099,6 @@ archostegnosis
 archostenosis
 archoverseer
 archpall
-archpapist
 archpastor
 archpatriarch
 archpatron
@@ -23129,6 +23128,7 @@ attractance
 attractancy
 attractant
 attracted
+archpapist
 attracter
 attractile
 attracting
