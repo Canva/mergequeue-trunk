@@ -2122,7 +2122,6 @@ bankrupcy
 bankrupt
 bankruptcy
 bankruptcies
-bankrupting
 bankruptism
 babylonia
 bankruptly
@@ -14058,6 +14057,7 @@ brachystomous
 brachytic
 brachytypous
 brachytmema
+bankrupting
 brachium
 brachyura
 brachyural

@@ -2260,7 +2260,6 @@ achillodynia
 androphonomania
 achilous
 achylous
-achime
 achimenes
 achymia
 achymous
@@ -16099,6 +16098,7 @@ antireticular
 antirevisionist
 antirevolution
 antirevolutionary
+achime
 antirevolutionaries
 antirevolutionist
 antirheumatic
