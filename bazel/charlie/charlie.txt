@@ -4638,6 +4638,7 @@ carpophalangeal
 carpophyl
 carpophyll
 carpophyte
+celticism
 carpophore
 carpopodite
 carpopoditic
@@ -6803,7 +6804,6 @@ celtiberi
 celtiberian
 celtic
 celtically
-celticism
 celticist
 celticize
 celtidaceae
