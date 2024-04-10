@@ -1566,6 +1566,7 @@ ballets
 ballett
 ballfield
 ballflower
+beflour
 ballgame
 ballgames
 ballgown
@@ -5118,7 +5119,6 @@ beflecking
 busier
 beflecks
 beflounce
-beflour
 beflout
 beflower
 beflowered

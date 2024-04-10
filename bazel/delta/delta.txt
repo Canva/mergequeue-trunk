@@ -4791,7 +4791,6 @@ demographically
 demographics
 demographies
 demographist
-demoid
 decarbonylated
 demoiselles
 demolish
@@ -16185,6 +16184,7 @@ dowels
 dower
 doweral
 dowered
+demoid
 doweress
 dowery
 doweries
