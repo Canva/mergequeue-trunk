@@ -16747,6 +16747,7 @@ aperiodically
 aperiodicity
 aperispermic
 aperistalsis
+ascension
 aperitif
 anapestically
 aperitifs
@@ -20922,7 +20923,6 @@ ascendingly
 ascends
 avgases
 ascenseur
-ascension
 ascensional
 ascensionist
 ascensions
