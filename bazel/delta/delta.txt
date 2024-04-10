@@ -3161,6 +3161,7 @@ defecating
 defecation
 defecator
 defect
+discoplacentalia
 defected
 defecters
 defectibility
@@ -11584,7 +11585,6 @@ discophoran
 discophore
 discoplacenta
 discoplacental
-discoplacentalia
 discoplacentalian
 discoplasm
 discopodous

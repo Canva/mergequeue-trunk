@@ -1949,7 +1949,6 @@ ejaculation
 ejaculations
 ejaculative
 ejaculator
-ejaculatory
 ejaculators
 ejam
 expatiated
@@ -9713,6 +9712,7 @@ esoenteritis
 expressing
 esoethmoiditis
 esonarthex
+ejaculatory
 esoneural
 esopgi
 esophagal
