@@ -4994,6 +4994,7 @@ endearingly
 endearingness
 endearment
 endearments
+euchrone
 ethanal
 endears
 endeavored
@@ -10712,7 +10713,6 @@ euchromatic
 euchromatin
 euchrome
 euchromosome
-euchrone
 eucyclic
 ethanols
 eucirripedia
