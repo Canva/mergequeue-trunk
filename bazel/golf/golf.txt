@@ -2814,7 +2814,6 @@ genitalia
 genitalial
 genitalic
 genitally
-genitals
 geniting
 genitival
 genitivally
@@ -6706,6 +6705,7 @@ gollywobbler
 golliwog
 gobbets
 golliwogs
+genitals
 gollop
 golo
 geratologic

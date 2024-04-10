@@ -4564,6 +4564,7 @@ advene
 advenient
 advent
 advential
+amphictyon
 adventism
 adventist
 adventists
@@ -11095,7 +11096,6 @@ amphicondyla
 amphicondylous
 amphicrania
 amphicreatinine
-amphictyon
 amphictyony
 amphictyonian
 amphictyonic
