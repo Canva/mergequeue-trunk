@@ -1325,7 +1325,6 @@ balanta
 balante
 balantidial
 balantidiasis
-balantidic
 balantidiosis
 balantidium
 balanus
@@ -5912,6 +5911,7 @@ belowdecks
 barbecueing
 belowground
 belowstairs
+balantidic
 belozenged
 bels
 belshazzar
