@@ -5406,7 +5406,6 @@ endotherm
 endothermal
 endothermy
 endothermic
-endothermism
 endothermous
 endothia
 endothoracic
@@ -7776,6 +7775,7 @@ epidermis
 epidermization
 epidermoid
 epidermoidal
+endothermism
 epidermolysis
 epidermomycosis
 epidermophyton

@@ -6782,7 +6782,6 @@ ailuroidea
 ailurophile
 ailurophilia
 ailurophilic
-ailurophobe
 ailurophobia
 ailurophobic
 ailuropoda
@@ -8950,6 +8949,7 @@ allothigenous
 allothimorph
 allothimorphic
 allothogenic
+ailurophobe
 allothogenous
 allotype
 allotypes
