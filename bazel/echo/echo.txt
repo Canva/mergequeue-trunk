@@ -6116,6 +6116,7 @@ enneahedra
 ependyma
 enneahedral
 enneahedria
+extortioners
 enneahedron
 enneahedrons
 enneandrian
@@ -13748,7 +13749,6 @@ extortionate
 extortionately
 extortionateness
 extortioner
-extortioners
 extortionist
 extortionists
 extortions

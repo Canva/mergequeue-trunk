@@ -8783,6 +8783,7 @@ allocheiria
 allochetia
 allochetite
 allochezia
+anhydridization
 allochiral
 allochiria
 allochlorophyll
@@ -13060,7 +13061,6 @@ anhydremia
 anhydremic
 anhydride
 anhydrides
-anhydridization
 anhydridize
 anhydrization
 anhydroglocose
