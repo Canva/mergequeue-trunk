@@ -12937,6 +12937,7 @@ dispensations
 dispensative
 dispensatively
 disembodies
+dreadfuls
 dispensator
 dispensatory
 dispensatories
@@ -16839,7 +16840,6 @@ digladiation
 despairingness
 dreadful
 dreadfully
-dreadfuls
 dreading
 dreadingly
 dreadless
