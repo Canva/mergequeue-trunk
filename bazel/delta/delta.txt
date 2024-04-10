@@ -4728,7 +4728,6 @@ demiwolf
 demiworld
 demnition
 demo
-demob
 dismaying
 demobbed
 demobbing
@@ -17390,6 +17389,7 @@ dropworts
 droschken
 downstream
 drosera
+demob
 droseraceae
 droseraceous
 droseras
