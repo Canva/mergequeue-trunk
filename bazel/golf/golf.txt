@@ -6151,6 +6151,7 @@ glutamic
 glutaminase
 gallegan
 glutamine
+grawls
 glutaminic
 glutaraldehyde
 glutaric
@@ -9508,7 +9509,6 @@ grout
 grouted
 grouter
 grouthead
-grawls
 geothlypis
 grouty
 groutiest
