@@ -9673,7 +9673,6 @@ dilated
 dilatedly
 demythologized
 dilatedness
-dilatement
 dilater
 dilaters
 dilates
@@ -17905,6 +17904,7 @@ dufrenoysite
 dufter
 dufterdar
 duftery
+dilatement
 duftite
 duftry
 dogtrotted
