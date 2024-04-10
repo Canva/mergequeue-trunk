@@ -20555,6 +20555,7 @@ compenetration
 compensability
 compensable
 compensated
+correctively
 compensates
 compensating
 compensatingly
@@ -25654,7 +25655,6 @@ correctioner
 corrections
 correctitude
 corrective
-correctively
 correctiveness
 correctives
 correctly

@@ -898,7 +898,6 @@ gamboler
 gymnoblastic
 gamboling
 gambolled
-gamboller
 gambolling
 gambols
 gambone
@@ -2656,6 +2655,7 @@ generalise
 generalised
 generaliser
 groomsman
+gamboller
 generalising
 gov
 generalism
