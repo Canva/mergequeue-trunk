@@ -1677,7 +1677,6 @@ gasteromycete
 gasteromycetes
 gasteromycetous
 geomorphologist
-gasterophilus
 gasteropoda
 gasterosteidae
 gasterosteiform
@@ -6044,6 +6043,7 @@ glucofrangulin
 glucogene
 glucogenesis
 glucokinase
+gasterophilus
 glucokinin
 glucolipid
 glucolipide
