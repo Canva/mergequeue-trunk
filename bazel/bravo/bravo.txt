@@ -1195,6 +1195,7 @@ bakehead
 bakehouse
 bakehouses
 bakelite
+brie
 bakelize
 borley
 bakemeat
@@ -15268,7 +15269,6 @@ bridlewise
 bridling
 bridoon
 bridoons
-brie
 brief
 briefcase
 briefcases

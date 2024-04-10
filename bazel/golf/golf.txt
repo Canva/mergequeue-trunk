@@ -3895,6 +3895,7 @@ gibel
 gibelite
 gibeonite
 guarders
+gaupus
 giber
 gibers
 gibes
@@ -5842,7 +5843,6 @@ gloriosity
 glorioso
 gloriously
 gloriousness
-gaupus
 glos
 gollywog
 genipapada
