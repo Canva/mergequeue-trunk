@@ -5408,7 +5408,6 @@ glycans
 glycemia
 garoted
 goozle
-glyceral
 glyceraldehyde
 glycerate
 glyceria
@@ -5652,6 +5651,7 @@ glittery
 glitteringly
 glitters
 glittersome
+glyceral
 gloam
 gloaming
 gloamings
