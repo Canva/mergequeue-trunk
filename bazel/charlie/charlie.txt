@@ -6897,6 +6897,7 @@ cenospecies
 custodiam
 cenospecific
 cenospecifically
+chapeling
 cenotaph
 cenotaphy
 cenotaphies
@@ -8769,7 +8770,6 @@ chapeless
 chapelet
 chapelgoer
 chapelgoing
-chapeling
 chapelize
 chapellage
 chapellany
