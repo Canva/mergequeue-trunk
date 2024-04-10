@@ -5276,7 +5276,6 @@ beginnings
 begins
 begird
 begirded
-begirding
 begirdle
 begirdled
 begirdles
@@ -15483,6 +15482,7 @@ bryozoan
 bryozoans
 bryozoon
 bywalker
+begirding
 bryozoum
 brique
 briquet
