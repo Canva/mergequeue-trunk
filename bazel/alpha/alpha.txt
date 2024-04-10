@@ -1973,6 +1973,7 @@ acestoma
 aldoxime
 aceta
 acetable
+aminovaleric
 acetabula
 acetabular
 acetabularia
@@ -19879,7 +19880,6 @@ armamentarium
 armangite
 armary
 armaria
-aminovaleric
 armarian
 armaries
 armariolum

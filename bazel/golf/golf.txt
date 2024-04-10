@@ -748,6 +748,7 @@ galopades
 grizzliness
 galopin
 galoping
+gellert
 galops
 galore
 galores
@@ -2448,7 +2449,6 @@ gelinotte
 gell
 gutturalisation
 gellants
-gellert
 gelly
 gelling
 gelndesprung
