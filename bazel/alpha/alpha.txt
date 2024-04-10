@@ -6553,7 +6553,6 @@ agrostographer
 agrostography
 avantgarde
 agrostographical
-algesthesis
 agrostographies
 agrostology
 agrostologic
@@ -17838,6 +17837,7 @@ applyment
 appling
 applique
 appliqued
+algesthesis
 appliqueing
 appliques
 allianced
