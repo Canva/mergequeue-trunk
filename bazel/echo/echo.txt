@@ -2765,6 +2765,7 @@ elementarily
 elementarism
 elementarist
 elementarity
+empall
 excusableness
 elementate
 elementish
@@ -4050,7 +4051,6 @@ empaler
 empalers
 empales
 empaling
-empall
 empanada
 empanel
 empaneled
