@@ -2917,6 +2917,7 @@ elicitable
 elicitate
 enfranchisable
 elicitation
+excerptive
 elicited
 eliciting
 elicitor
@@ -11993,7 +11994,6 @@ etheneldeli
 excerpting
 excerption
 ectodynamomorphic
-excerptive
 excerpts
 excess
 excesses
