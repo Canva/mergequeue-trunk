@@ -7682,6 +7682,7 @@ epicoeliac
 epicoelian
 epicoeloma
 epicoelous
+epistemologically
 epicolic
 elevatory
 epicondylar
@@ -8248,7 +8249,6 @@ episteme
 epistemic
 epistemically
 epistemolog
-epistemologically
 epistemologist
 epistemonic
 epistemophilia

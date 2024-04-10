@@ -5250,7 +5250,6 @@ grapnels
 glaucin
 glaucine
 glaucionetta
-glaucium
 glaucochroite
 glaucodot
 glaucodote
@@ -7954,6 +7953,7 @@ grandness
 grandniece
 gonolobus
 grandnieces
+glaucium
 grandpa
 gujerat
 grandpap
