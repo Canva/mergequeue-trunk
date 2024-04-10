@@ -2975,7 +2975,6 @@ few
 fewer
 fewest
 fewmand
-fewmets
 fogle
 frogland
 fewnes
@@ -9962,6 +9961,7 @@ fricassee
 fricasseed
 fricasseeing
 fricassees
+fewmets
 fricasseing
 frication
 fecula

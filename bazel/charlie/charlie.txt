@@ -11542,6 +11542,7 @@ cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
+czars
 cholecystic
 cholecystis
 cholecystitis
@@ -31932,7 +31933,6 @@ czarists
 czaritza
 czaritzas
 calisaya
-czars
 czarship
 czech
 czechic
