@@ -6766,6 +6766,7 @@ desmognathism
 desmognathous
 desmography
 desmohemoblast
+discloister
 desmoid
 desmoids
 desmolase
@@ -11367,7 +11368,6 @@ disclassify
 disclike
 disclimax
 discloak
-discloister
 debug
 disclosable
 disclosed
