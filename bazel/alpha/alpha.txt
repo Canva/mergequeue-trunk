@@ -13744,6 +13744,7 @@ anoints
 anole
 anoli
 anolian
+ataigal
 anolympiad
 anolis
 anolyte
@@ -22383,7 +22384,6 @@ ataentsic
 atafter
 ataghan
 ataghans
-ataigal
 ataiyal
 atake
 atalaya

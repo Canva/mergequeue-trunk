@@ -5786,6 +5786,7 @@ flitted
 flitter
 flitterbat
 flittered
+fotui
 flittering
 flittermice
 flayflint
@@ -8911,7 +8912,6 @@ fothering
 foreshorten
 fotive
 fotmal
-fotui
 fou
 foud
 foudroyant
