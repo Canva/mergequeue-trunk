@@ -8517,6 +8517,7 @@ all
 allabuta
 allachesthesia
 allactite
+attical
 allaeanthus
 allagite
 arborolatry
@@ -23066,7 +23067,6 @@ attestors
 attests
 atty
 attic
-attical
 attice
 atticism
 atticisms
