@@ -7224,7 +7224,6 @@ environmentalists
 environmentally
 environments
 environs
-envisage
 envisaged
 envisagement
 envisages
@@ -10399,6 +10398,7 @@ ethylthioether
 ethinamate
 ethine
 ethyne
+envisage
 ethynes
 ethinyl
 ethynyl
