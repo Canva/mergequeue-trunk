@@ -2139,7 +2139,6 @@ gawkhammer
 gawky
 gawkier
 gawkies
-gawkiest
 gawkihood
 geison
 garnetz
@@ -4671,6 +4670,7 @@ girasol
 girasole
 girasoles
 gyrate
+gawkiest
 gyrated
 gyrates
 gastroenteroptosis
