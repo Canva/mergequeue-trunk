@@ -515,7 +515,6 @@ doorplate
 dalbergia
 dale
 dalea
-dalecarlian
 daledh
 daleman
 daler
@@ -10624,6 +10623,7 @@ dipneedle
 dipneumona
 dipneumones
 dipneumonous
+dalecarlian
 dipneust
 dipneustal
 dipneusti
