@@ -4370,6 +4370,7 @@ fisheye
 fisheyes
 fisher
 fisherboat
+foreswear
 fisherboy
 fisheress
 fragmentate
@@ -8088,7 +8089,6 @@ flue
 forestwards
 foresummer
 foresummon
-foreswear
 foreswearing
 foresweat
 foreswore
