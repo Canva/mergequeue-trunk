@@ -4943,7 +4943,6 @@ flanche
 flanconade
 flanconnade
 flandan
-flanders
 flandowser
 flane
 flanerie
@@ -6087,6 +6086,7 @@ florilegia
 florilegium
 florimania
 florimanist
+flanders
 florin
 florinda
 florins

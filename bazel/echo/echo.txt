@@ -6953,7 +6953,6 @@ entophytically
 entophytous
 entopic
 entoplasm
-entoplastral
 entoplastron
 entopopliteal
 entoproct
@@ -12291,6 +12290,7 @@ exdelicto
 exdie
 exdividend
 exeat
+entoplastral
 exec
 execeptional
 execrable
