@@ -8584,6 +8584,7 @@ allegiances
 allegiancy
 allegiant
 allegiantly
+antitropic
 allegiare
 alleging
 allegory
@@ -16376,7 +16377,6 @@ antitrismus
 antitropal
 antitrope
 antitropy
-antitropic
 antitropical
 antitropous
 antitrust

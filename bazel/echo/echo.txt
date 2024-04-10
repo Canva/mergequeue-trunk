@@ -166,7 +166,6 @@ earthkin
 earthly
 earthlier
 earthliest
-earthlight
 earthliness
 earthling
 earthlings
@@ -11095,6 +11094,7 @@ eupnea
 eupneas
 eupnoea
 eupnoeas
+earthlight
 eupnoeic
 eupolidean
 eupolyzoa
