@@ -7933,7 +7933,6 @@ aleutian
 aneath
 aleutians
 aleutic
-aleutite
 alevin
 alew
 alewhap
@@ -20528,6 +20527,7 @@ arterioverter
 arteritis
 artesian
 artesonado
+aleutite
 artesonados
 artful
 artfully
