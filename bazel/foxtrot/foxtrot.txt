@@ -1598,7 +1598,6 @@ favoured
 favouredly
 favourer
 favourers
-favouress
 fallalery
 favouring
 favouringly
@@ -9098,6 +9097,7 @@ fowler
 fowlery
 fowlerite
 fowlers
+favouress
 fowlfoot
 fowling
 fowlings
