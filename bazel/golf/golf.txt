@@ -4123,6 +4123,7 @@ gilgamesh
 gilgie
 gilguy
 gilgul
+gilse
 gilgulim
 gilia
 giliak
@@ -4168,7 +4169,6 @@ gilpy
 gilravage
 gilravager
 gils
-gilse
 gilsonite
 gilt
 gilten
