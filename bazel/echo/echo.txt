@@ -5804,7 +5804,6 @@ engluts
 englutted
 englutting
 engobe
-engold
 engolden
 engrainedly
 engore
@@ -10502,6 +10501,7 @@ ethnolinguist
 ethnolinguistic
 ethnolinguistics
 ethnologer
+engold
 erysibe
 ethnology
 ethnologic
