@@ -404,6 +404,7 @@ daymen
 doupion
 dormmice
 daimiate
+datedly
 daimiel
 daimio
 daimyo
@@ -1224,7 +1225,6 @@ dateable
 dateableness
 datebook
 dated
-datedly
 datedness
 dateless
 datelessness
