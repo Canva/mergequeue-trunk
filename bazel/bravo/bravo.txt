@@ -10104,6 +10104,7 @@ blackfin
 blackfins
 blackfire
 blackfish
+boxberry
 blackfisher
 blackfishes
 brahmins
@@ -13845,7 +13846,6 @@ bowwow
 bowwows
 box
 boxball
-boxberry
 boxberries
 boxboard
 boxboards

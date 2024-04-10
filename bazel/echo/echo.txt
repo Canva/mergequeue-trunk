@@ -4594,7 +4594,6 @@ encephalophyma
 encephalopyosis
 enwiden
 encephalopsychesis
-encephalorrhagia
 encephalos
 encephalosclerosis
 encephaloscope
@@ -6336,6 +6335,7 @@ ensafe
 ensaffron
 ensalada
 ensample
+encephalorrhagia
 elenchtic
 ensampler
 ensamples
