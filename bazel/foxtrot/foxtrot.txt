@@ -4223,6 +4223,7 @@ firepinks
 fireplace
 fireplaces
 fireplough
+fraunch
 fireplow
 fleeceable
 fireplug
@@ -9546,7 +9547,6 @@ fraughting
 fraughts
 fraulein
 frauleins
-fraunch
 fravashi
 frawn
 fraxetin
