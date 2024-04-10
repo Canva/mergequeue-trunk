@@ -5825,6 +5825,7 @@ depraved
 deceptivity
 depravedly
 diel
+devoted
 depravedness
 depravement
 depraver
@@ -7716,7 +7717,6 @@ devoration
 devota
 devotary
 devote
-devoted
 devotedly
 devotedness
 devotee
