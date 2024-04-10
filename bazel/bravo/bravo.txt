@@ -13370,6 +13370,7 @@ bots
 botswana
 bott
 bogier
+buccinae
 botte
 bibliopoly
 biophysicists
@@ -16533,7 +16534,6 @@ bucchero
 buccheros
 buccin
 buccina
-buccinae
 buccinal
 buccinator
 buccinatory

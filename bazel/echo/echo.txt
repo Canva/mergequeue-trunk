@@ -8405,7 +8405,6 @@ epitympanic
 epitympanum
 epityphlitis
 epityphlon
-epitomate
 excubittoria
 exacerbescent
 epitomator
@@ -13427,6 +13426,7 @@ expurgator
 expurgatory
 expurgators
 expurge
+epitomate
 expwy
 exquire
 exquisite
