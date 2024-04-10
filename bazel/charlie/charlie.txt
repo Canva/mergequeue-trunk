@@ -12827,6 +12827,7 @@ churched
 churches
 churchful
 churchgo
+circumvolutory
 cantative
 churchgoer
 churchgoers
@@ -14460,7 +14461,6 @@ circumviate
 circumvoisin
 circumvolant
 circumvolution
-circumvolutory
 circumvolve
 circumvolved
 circumvolving
