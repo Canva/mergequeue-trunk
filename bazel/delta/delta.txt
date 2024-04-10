@@ -4290,7 +4290,6 @@ delubra
 delubrubra
 deluce
 deludable
-delude
 deluded
 deluder
 deluders
@@ -14495,6 +14494,7 @@ djasakid
 djave
 djebel
 djebels
+delude
 djehad
 djelab
 djelfa
