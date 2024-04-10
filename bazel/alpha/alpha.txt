@@ -1380,6 +1380,7 @@ acataposis
 acatastasia
 acatastatic
 acate
+airplaner
 acategorical
 acater
 acatery
@@ -6956,7 +6957,6 @@ airphobia
 airplay
 airplane
 airplaned
-airplaner
 airplanes
 airplanist
 acieral

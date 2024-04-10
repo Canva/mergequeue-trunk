@@ -1253,6 +1253,7 @@ eelcake
 eelcatcher
 eeler
 eelery
+elytriferous
 eelfare
 eelfish
 expands
@@ -2996,7 +2997,6 @@ espousal
 elitists
 elytra
 elytral
-elytriferous
 elytriform
 elytrin
 elytrocele
