@@ -754,6 +754,7 @@ fancying
 fanciless
 fancily
 fancymonger
+flancard
 fanciness
 fancysick
 fancywork
@@ -4945,7 +4946,6 @@ flammulation
 flammule
 flams
 flan
-flancard
 flanch
 flanchard
 flanche
