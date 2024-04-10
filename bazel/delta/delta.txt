@@ -3858,7 +3858,6 @@ deipnosophistic
 deipotent
 deirdre
 deirid
-deis
 deys
 deiseal
 demurred
@@ -13113,6 +13112,7 @@ disponent
 disponer
 disponge
 dispopularize
+deis
 dysporomorph
 disporous
 disport

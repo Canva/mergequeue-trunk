@@ -9326,6 +9326,7 @@ chauffeuse
 chauffeuses
 chaui
 chauk
+chippewa
 chaukidari
 chauldron
 chaule
@@ -10860,7 +10861,6 @@ chipper
 chippered
 chippering
 chippers
-chippewa
 coefficient
 chippewas
 chippy
