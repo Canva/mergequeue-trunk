@@ -99,7 +99,6 @@ facy
 facial
 facially
 facials
-facias
 faciata
 faciation
 forequoted
@@ -8307,6 +8306,7 @@ forgone
 forgot
 forgotten
 forgottenness
+facias
 foussa
 forgrow
 forgrown
