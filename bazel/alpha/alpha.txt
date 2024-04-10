@@ -6026,7 +6026,6 @@ aggie
 aggies
 aggiornamenti
 agglomerant
-agglomerate
 agglomerated
 agglomerates
 agglomeratic
@@ -16194,6 +16193,7 @@ antiserumsera
 antisex
 antisexist
 antiship
+agglomerate
 antishipping
 antisi
 antisialagogue
