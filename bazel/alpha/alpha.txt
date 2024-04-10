@@ -4595,7 +4595,6 @@ adventuresomes
 adventuress
 adventuresses
 adventuring
-adventurish
 adventurism
 adventurist
 adventuristic
@@ -21815,6 +21814,7 @@ assistance
 assistances
 assistant
 assistanted
+adventurish
 assistants
 armadillo
 assistantship
