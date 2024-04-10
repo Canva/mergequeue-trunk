@@ -2570,7 +2570,6 @@ ferrying
 ferrimagnet
 ferrimagnetic
 ferrimagnetically
-ferrimagnetism
 ferryman
 fatcake
 ferring
@@ -5697,6 +5696,7 @@ flypapers
 flypast
 flypasts
 flipe
+ferrimagnetism
 flype
 fliped
 freezers
