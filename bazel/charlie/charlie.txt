@@ -5686,7 +5686,6 @@ catechu
 catechumen
 catechumenal
 catechumenate
-catechumenical
 catechumenically
 catechumenism
 catechumens
@@ -11891,6 +11890,7 @@ chordomesoderm
 chordophone
 chordotomy
 chordotonal
+catechumenical
 chords
 chore
 caviare
