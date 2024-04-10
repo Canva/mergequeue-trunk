@@ -9631,6 +9631,7 @@ bisexuality
 bisexually
 bisexuals
 bisexuous
+bronchopulmonary
 bisglyoxaline
 bluest
 bish
@@ -15964,7 +15965,6 @@ bronchoplasty
 bronchoplegia
 bronchopleurisy
 bronchopneumonic
-bronchopulmonary
 bronchorrhagia
 bronchorrhaphy
 bronchorrhea
