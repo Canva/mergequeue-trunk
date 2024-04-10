@@ -2743,6 +2743,7 @@ elegized
 elegizes
 elegizing
 eleidin
+etymol
 elektra
 elelments
 elem
@@ -10553,7 +10554,6 @@ etiam
 etym
 etymic
 etymography
-etymol
 etymologer
 etymology
 etymologic
