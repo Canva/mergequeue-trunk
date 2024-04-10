@@ -1272,6 +1272,7 @@ filialness
 fumigate
 fastigiate
 fastigiated
+femes
 fastigiately
 fastigious
 fastigium
@@ -2209,7 +2210,6 @@ femalize
 femcee
 feme
 femereil
-femes
 femic
 feminacy
 feminacies
