@@ -1647,7 +1647,6 @@ fipenny
 fcomp
 fconv
 fconvert
-farcin
 fcp
 fcs
 fdname
@@ -1704,6 +1703,7 @@ feasor
 feast
 feasted
 feasten
+farcin
 feaster
 flashflood
 feasters
