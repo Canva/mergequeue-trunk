@@ -1103,7 +1103,6 @@ farrows
 farruca
 farsakh
 farsalah
-farse
 farseeing
 farseeingness
 farseer
@@ -9566,6 +9565,7 @@ fentanyl
 freaked
 freakful
 freaky
+farse
 favouritism
 freakier
 facetious

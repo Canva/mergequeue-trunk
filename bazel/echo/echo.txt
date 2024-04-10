@@ -5498,7 +5498,6 @@ enemata
 emball
 enemy
 enemied
-enemies
 estancieros
 eburnification
 enemying
@@ -10638,6 +10637,7 @@ eu
 euahlayi
 euangiotic
 euascomycetes
+enemies
 euaster
 eubacteria
 eubacteriales
