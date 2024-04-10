@@ -28483,7 +28483,6 @@ creature
 creaturehood
 creatureless
 creaturely
-creatureliness
 creatureling
 creatures
 creatureship
@@ -30209,6 +30208,7 @@ cultellation
 crumbly
 crumblier
 crumbliest
+creatureliness
 crumbliness
 crumbling
 crumblingness
