@@ -1363,6 +1363,7 @@ calyptoblastea
 calyptoblastic
 calyptorhynchus
 calyptraea
+chinaman
 calyptranthes
 calyptras
 calyptrata
@@ -10700,7 +10701,6 @@ chinaberries
 chinafy
 chinafish
 chinalike
-chinaman
 chinamania
 chinamaniac
 chinamen
