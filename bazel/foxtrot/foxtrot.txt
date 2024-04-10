@@ -422,7 +422,6 @@ fragilely
 fairs
 fairship
 fairsome
-fairway
 fairways
 fairwater
 fays
@@ -2424,6 +2423,7 @@ ferison
 ferities
 ferk
 ferkin
+fairway
 ferly
 ferlied
 frangulinic

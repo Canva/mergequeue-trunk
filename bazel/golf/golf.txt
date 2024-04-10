@@ -7833,7 +7833,6 @@ grammatication
 grammaticism
 gabbais
 grammatics
-grammatistical
 grammatite
 grammatolator
 grammatology
@@ -8408,6 +8407,7 @@ gravediggers
 grudgment
 gravedo
 gravegarth
+grammatistical
 graveyard
 gravel
 graveldiver
