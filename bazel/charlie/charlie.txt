@@ -5571,6 +5571,7 @@ catastatic
 catasterism
 catastrophal
 catastrophe
+creases
 catastrophes
 catastrophic
 catastrophical
@@ -28428,7 +28429,6 @@ creased
 creaseless
 creaser
 creasers
-creases
 creashaks
 creasy
 creasier

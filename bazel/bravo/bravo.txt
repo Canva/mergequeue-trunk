@@ -818,6 +818,7 @@ badmen
 badminton
 badmouth
 badmouthed
+beginner
 badmouthing
 badmouths
 badness
@@ -5266,7 +5267,6 @@ begild
 begin
 bangster
 beginger
-beginner
 beginners
 beginning
 beginnings
