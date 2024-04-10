@@ -5215,7 +5215,6 @@ endolymph
 endolymphangial
 endolymphatic
 etiotropic
-endolymphic
 endolysin
 endolithic
 endolumbar
@@ -5696,6 +5695,7 @@ eglogue
 encumbrances
 engages
 eviternal
+endolymphic
 engagingness
 expatriations
 engallant
