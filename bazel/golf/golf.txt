@@ -5022,7 +5022,6 @@ glades
 gladful
 gladfulness
 gladhearted
-glady
 gladiate
 gladiator
 gladiatorial
@@ -8357,6 +8356,7 @@ grating
 gratingly
 gratings
 gratins
+glady
 gratiola
 gustily
 gratiolin

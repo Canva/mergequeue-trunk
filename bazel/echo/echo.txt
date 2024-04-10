@@ -1809,7 +1809,6 @@ eyeshade
 eyeshades
 eyeshield
 eyeshine
-eyeshot
 eyeshots
 eyesight
 enculturating
@@ -5644,6 +5643,7 @@ enforces
 enforcibility
 enforcible
 enforcing
+eyeshot
 enforcingly
 enforcive
 enforcively
