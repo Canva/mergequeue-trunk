@@ -703,7 +703,6 @@ cagit
 cagmag
 cagn
 cagot
-cagoule
 cagui
 cahenslyism
 cahier
@@ -6284,6 +6283,7 @@ cautionry
 cautions
 cautious
 cautiously
+cagoule
 cautiousness
 cautivo
 cav
