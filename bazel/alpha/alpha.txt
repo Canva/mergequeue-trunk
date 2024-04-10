@@ -9817,7 +9817,6 @@ amaroid
 amaroidal
 amarth
 amarthritis
-amarvel
 amas
 amasesis
 amass
@@ -10252,6 +10251,7 @@ amentiferae
 amentiferous
 amentiform
 aments
+amarvel
 amentula
 amentulum
 amentum
