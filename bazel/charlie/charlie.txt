@@ -12322,7 +12322,6 @@ christmasberry
 christmases
 christmasy
 christmasing
-christmastide
 christocentric
 chrystocrene
 christofer
@@ -28340,6 +28339,7 @@ crawler
 crawlerize
 crawlers
 crawly
+christmastide
 crawlie
 crawlier
 crawliest
