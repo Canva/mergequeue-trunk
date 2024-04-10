@@ -3732,7 +3732,6 @@ adenophora
 archaize
 adenophore
 adenophoreus
-adenophorous
 adenophthalmia
 adenopodous
 adenosarcoma
@@ -3838,6 +3837,7 @@ adhibits
 adhocracy
 adhort
 ady
+adenophorous
 adiabat
 adiabatic
 adiabolist
