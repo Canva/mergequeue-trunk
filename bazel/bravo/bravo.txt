@@ -3734,6 +3734,7 @@ batterer
 batterfang
 battery
 batterie
+benni
 batteried
 batteries
 batteryman
@@ -6289,7 +6290,6 @@ bennettitaceous
 bennettitales
 bennettites
 bennetweed
-benni
 benny
 bennies
 benniseed
