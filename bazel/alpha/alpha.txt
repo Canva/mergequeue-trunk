@@ -20188,6 +20188,7 @@ arranges
 arranging
 arrantly
 arrantness
+autocoenobium
 arras
 arrased
 arrasene
@@ -23946,7 +23947,6 @@ autocomplexes
 autoclaves
 autoclaving
 autocoder
-autocoenobium
 autocoherer
 autocoid
 autocoids
