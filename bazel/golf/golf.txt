@@ -1604,7 +1604,6 @@ gaslighting
 glyoxim
 gaslightness
 gaslights
-gaslike
 gaslit
 gaslock
 gonorrheic
@@ -6284,6 +6283,7 @@ gnaw
 gigantize
 gnawable
 genitives
+gaslike
 gnawed
 gnawer
 gnawing
