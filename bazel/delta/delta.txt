@@ -9111,7 +9111,6 @@ didynamic
 didynamous
 didine
 didinium
-derangements
 didle
 didler
 diffund
@@ -16081,6 +16080,7 @@ douglas
 doukhobor
 deoppilative
 doulce
+derangements
 doulocracy
 doum
 douma
