@@ -5928,6 +5928,7 @@ deprivative
 deprive
 deprived
 deprivement
+distemperoid
 depriver
 deprivers
 deprives
@@ -13728,7 +13729,6 @@ distemperedness
 distemperer
 distempering
 distemperment
-distemperoid
 diplasiasmus
 distemperure
 distenant
