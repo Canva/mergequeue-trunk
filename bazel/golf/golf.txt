@@ -1532,7 +1532,6 @@ garse
 garshuni
 garsil
 garston
-garten
 garter
 gartered
 gartering
@@ -9450,6 +9449,7 @@ groundplot
 grounds
 gros
 glim
+garten
 groundsel
 groundsheet
 groundsill
