@@ -7191,6 +7191,7 @@ akroteria
 akroterial
 arithmetization
 akroterion
+antinous
 akrteria
 aktistetae
 aktistete
@@ -15710,7 +15711,6 @@ antinormal
 antinormality
 antinormalness
 antinosarian
-antinous
 antinovel
 antinovelist
 antinovels

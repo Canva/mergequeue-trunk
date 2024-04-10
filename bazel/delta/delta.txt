@@ -8350,7 +8350,6 @@ dialogues
 dialoguing
 dialonian
 dials
-dialup
 dialuric
 diam
 diamagnet
@@ -11676,6 +11675,7 @@ discovert
 disfiguringly
 discoverture
 discradle
+dialup
 dyscrase
 dyscrased
 dyscrasy
