@@ -276,6 +276,7 @@ bacillian
 bacillicidal
 bacillicide
 bacillicidic
+bookwright
 bacilliculture
 bacilliform
 bacilligenic
@@ -12717,7 +12718,6 @@ bookwise
 bookwork
 bookworm
 bookworms
-bookwright
 bool
 boolean
 booleans

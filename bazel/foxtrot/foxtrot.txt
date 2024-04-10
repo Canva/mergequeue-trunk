@@ -4323,6 +4323,7 @@ forbearer
 firster
 firstfruits
 furmety
+flatlong
 firsthand
 firstly
 fust
@@ -5125,7 +5126,6 @@ flatlets
 flatly
 flatling
 flatlings
-flatlong
 flatman
 flatmen
 flatness
