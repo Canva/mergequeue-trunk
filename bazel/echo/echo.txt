@@ -3177,7 +3177,6 @@ elsholtzia
 elsin
 elt
 eltime
-eltrot
 eluant
 enterophthisis
 eluants
@@ -3315,6 +3314,7 @@ emarginate
 emarginated
 emarginating
 emarginula
+eltrot
 emasculate
 emasculated
 emasculates
