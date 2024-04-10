@@ -8443,7 +8443,6 @@ alkaloid
 alkaloidal
 alkaloids
 alkalometry
-alkalosis
 alkalous
 alkalurops
 alkamin
@@ -21576,6 +21575,7 @@ assails
 assais
 assays
 assalto
+alkalosis
 assam
 assamar
 assamese

@@ -1400,7 +1400,6 @@ fatiscence
 fatiscent
 fatless
 fatly
-fatlike
 fatling
 fatlings
 fatness
@@ -11714,6 +11713,7 @@ futuro
 futurology
 futurologist
 futurologists
+fatlike
 futwa
 fissional
 fibdom
