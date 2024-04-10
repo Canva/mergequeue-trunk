@@ -6160,7 +6160,6 @@ ennuying
 ennuis
 enoch
 enochic
-enodal
 enodally
 enodate
 epithalamion
@@ -9378,6 +9377,7 @@ embodiments
 errhines
 erring
 erron
+enodal
 erroneously
 erroneousness
 error
