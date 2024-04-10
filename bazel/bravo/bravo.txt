@@ -11138,6 +11138,7 @@ bloop
 blooped
 baronethood
 byes
+biennale
 blooper
 bloopers
 blooping
@@ -13460,7 +13461,6 @@ bouet
 beatermen
 bouffage
 bouffancy
-biennale
 biquarterly
 bouffant
 bouffante
