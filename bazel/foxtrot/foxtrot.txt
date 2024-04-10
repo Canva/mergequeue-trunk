@@ -9629,6 +9629,7 @@ freebies
 freeboard
 freeboot
 freebooted
+fridays
 freebooter
 faroeish
 freebootery
@@ -9987,7 +9988,6 @@ frictionlessness
 frictionproof
 frictions
 friday
-fridays
 fastuously
 fridges
 fried
