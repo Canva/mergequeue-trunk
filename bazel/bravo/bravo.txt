@@ -14381,7 +14381,6 @@ bramble
 brambleberry
 brambleberries
 bramblebush
-brambled
 brambles
 bonanza
 brambly
@@ -15017,6 +15016,7 @@ brere
 brescian
 bressomer
 bressummer
+brambled
 brest
 bret
 bretelle

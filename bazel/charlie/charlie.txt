@@ -8541,7 +8541,6 @@ chanceable
 chanceably
 chanced
 chanceful
-chancefully
 chancefulness
 chancey
 chancel
@@ -17077,6 +17076,7 @@ coadunative
 coadunatively
 coadunite
 coadventure
+chancefully
 coadventured
 coadventurer
 coadventuress
