@@ -2554,7 +2554,6 @@ genistein
 gemmingia
 gemmipara
 gemmipares
-gemmiparous
 gemmiparously
 gemmoid
 gemmology
@@ -6348,6 +6347,7 @@ gns
 gnu
 gnus
 go
+gemmiparous
 goa
 grammar
 goad
