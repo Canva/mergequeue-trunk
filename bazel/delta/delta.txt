@@ -6985,7 +6985,6 @@ destinate
 destination
 destinations
 destine
-demagnetizer
 decussately
 destined
 drawgear
@@ -10983,6 +10982,7 @@ disamenity
 disamis
 dysanalyte
 disanalogy
+demagnetizer
 dimethylaniline
 disanalogous
 disanchor
