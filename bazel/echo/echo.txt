@@ -12445,7 +12445,6 @@ exflagellate
 exflagellation
 exflect
 exfodiate
-exfodiation
 exfoliate
 exfoliated
 exfoliating
@@ -13784,6 +13783,7 @@ extracolumella
 extracondensed
 extraconscious
 eccentrometer
+exfodiation
 extraconstellated
 extraconstitutional
 extracorporeally
