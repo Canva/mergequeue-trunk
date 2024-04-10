@@ -11508,7 +11508,6 @@ dispassionately
 disconcord
 disconduce
 disconducive
-disconectae
 disconfirm
 disconfirmation
 disconfirmed
@@ -15545,6 +15544,7 @@ denaturalize
 doorbrand
 doorcase
 doorcheek
+disconectae
 doored
 doorframe
 doorhawk

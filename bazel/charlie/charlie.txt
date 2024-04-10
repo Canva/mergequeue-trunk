@@ -7970,6 +7970,7 @@ cg
 cgm
 cgs
 ch
+conj
 cha
 chaa
 chab
@@ -22414,7 +22415,6 @@ conite
 conium
 coniums
 conyza
-conj
 conject
 conjective
 conjecturable
