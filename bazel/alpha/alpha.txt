@@ -5221,6 +5221,7 @@ aetiologue
 aetiophyllin
 aetiotropically
 aetites
+areolas
 aetobatidae
 aetobatus
 aetolian
@@ -19375,7 +19376,6 @@ areographically
 areola
 areolae
 areolar
-areolas
 areolate
 areolated
 areolation
