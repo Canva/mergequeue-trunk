@@ -4445,7 +4445,6 @@ enantiopathy
 enantiopathia
 enantiopathic
 enantioses
-enantiosis
 enantiotropy
 enantiotropic
 enantobiosis
@@ -9083,6 +9082,7 @@ erinaceidae
 erinaceous
 erinaceus
 erineum
+enantiosis
 eryngium
 eringo
 eryngo

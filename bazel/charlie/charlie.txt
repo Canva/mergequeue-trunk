@@ -9965,6 +9965,7 @@ cheoplastic
 chepster
 cheque
 chequebook
+contemnibly
 chequeen
 chequer
 chequerboard
@@ -23348,7 +23349,6 @@ contemn
 contemned
 contemner
 contemnible
-contemnibly
 contemning
 contemningly
 contemnor
