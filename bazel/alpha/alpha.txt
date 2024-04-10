@@ -15281,6 +15281,7 @@ antiforeignism
 antiformant
 altometer
 antiformin
+assentaneous
 antifouler
 anthropomorphite
 antifouling
@@ -21647,7 +21648,6 @@ actuaries
 assemblywoman
 assemblywomen
 assent
-assentaneous
 assentation
 assentatious
 assentator
