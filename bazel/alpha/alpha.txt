@@ -3760,6 +3760,7 @@ adephaga
 adephagan
 adephagia
 adephagous
+adjuror
 annihilates
 adeps
 adepter
@@ -5274,7 +5275,6 @@ affectations
 affected
 affectedly
 anthropogeny
-adjuror
 affectedness
 affecter
 affecters
