@@ -2749,6 +2749,7 @@ barnacled
 barnacles
 barnacling
 barnage
+bougar
 bewaitered
 barnard
 barnbrack
@@ -13469,7 +13470,6 @@ bougainvillaea
 bougainvillaeas
 bougainvillia
 bougainvilliidae
-bougar
 bouge
 bougee
 bougeron
