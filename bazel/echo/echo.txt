@@ -11910,6 +11910,7 @@ excardination
 excarnificate
 excathedral
 excaudate
+extenuated
 excavate
 excavates
 excavating
@@ -13587,7 +13588,6 @@ extent
 extentions
 extents
 extenuate
-extenuated
 extenuates
 extenuating
 extenuatingly
