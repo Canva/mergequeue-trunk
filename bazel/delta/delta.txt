@@ -3598,7 +3598,6 @@ degerming
 degerms
 degged
 degger
-degging
 deglaciation
 deglamorization
 deglamorize
@@ -9284,6 +9283,7 @@ diferrion
 diff
 diffame
 diffareation
+degging
 diffarreation
 diffeomorphic
 diffeomorphism
