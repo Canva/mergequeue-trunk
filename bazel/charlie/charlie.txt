@@ -6489,7 +6489,6 @@ cecidium
 cecidogenous
 cecidology
 cecidologist
-cecidomyian
 cecidomyiid
 cecidomyiidae
 cecidomyiidous
@@ -8918,6 +8917,7 @@ charales
 charango
 charangos
 chararas
+cecidomyian
 chorioidal
 charases
 charbocle
