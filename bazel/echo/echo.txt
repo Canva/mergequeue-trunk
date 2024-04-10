@@ -154,6 +154,7 @@ earthed
 earthen
 earthenhearted
 earthfall
+ennoblment
 earthgall
 earthgrubber
 earthy
@@ -6152,7 +6153,6 @@ ennoblers
 ennobles
 ennobling
 ensconce
-ennoblment
 ennoy
 ennoic
 ennomic
