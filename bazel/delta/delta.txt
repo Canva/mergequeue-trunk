@@ -960,6 +960,7 @@ darbs
 darbukka
 darci
 decolorate
+dermatopathia
 darcy
 dard
 dardan
@@ -6222,7 +6223,6 @@ dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
-dermatopathia
 dermatopathic
 dermatopathology
 dermatopathophobia

@@ -10514,6 +10514,7 @@ chilidium
 chilidog
 chilidogs
 chylidrosis
+conclaves
 chilies
 chylifaction
 chylifactive
@@ -21402,7 +21403,6 @@ concitizen
 conclamant
 conclamation
 conclave
-conclaves
 coccous
 conclavist
 concludable
