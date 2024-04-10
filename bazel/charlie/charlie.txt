@@ -18218,7 +18218,6 @@ coffinmaking
 coffins
 coffle
 coffled
-coffles
 coffling
 coffret
 coffrets
@@ -18246,6 +18245,7 @@ cogeneration
 cogeneric
 cogenial
 cogent
+coffles
 cogently
 cogged
 cogger

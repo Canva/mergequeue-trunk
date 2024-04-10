@@ -466,6 +466,7 @@ daises
 daishikis
 dayshine
 dirging
+dang
 daisy
 daisybush
 dayside
@@ -822,7 +823,6 @@ daneweed
 daneweeds
 danewort
 daneworts
-dang
 danged
 danger
 dangerful
