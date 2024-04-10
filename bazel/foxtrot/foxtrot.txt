@@ -11,6 +11,7 @@ fabian
 fabianism
 fabianist
 fabiform
+frivolously
 fable
 fibriform
 fabled
@@ -10231,7 +10232,6 @@ frivolled
 frivoller
 frivolling
 frivolous
-frivolously
 frivolousness
 frivols
 fundus
