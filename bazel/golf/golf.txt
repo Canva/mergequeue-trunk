@@ -6264,6 +6264,7 @@ glossodynia
 gnathopodite
 glyoxylic
 gnathopodous
+granitical
 gnathostegite
 gnathostoma
 gnathostomata
@@ -8010,7 +8011,6 @@ granitelike
 granites
 graniteware
 granitic
-granitical
 graniticoline
 granitiferous
 granitification
