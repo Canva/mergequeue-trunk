@@ -11487,7 +11487,6 @@ discomplexion
 discompliance
 discompose
 discomposed
-discomposedly
 discomposedness
 durrie
 discomposes
@@ -15823,6 +15822,7 @@ dorsula
 dorsum
 dorsumbonal
 dort
+discomposedly
 dorter
 dorty
 dortiness

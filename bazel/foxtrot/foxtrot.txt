@@ -11163,7 +11163,6 @@ fundulinae
 funduline
 fundulus
 fundungi
-foederal
 funebrious
 funebrous
 funeral
@@ -11707,6 +11706,7 @@ futurist
 futuristically
 futurists
 futurity
+foederal
 futurities
 futurition
 futurize
