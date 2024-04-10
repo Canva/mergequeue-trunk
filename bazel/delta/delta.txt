@@ -9659,6 +9659,7 @@ dilatate
 dilatation
 dilatational
 dilatations
+dolt
 dilatative
 dilatator
 dilatatory
@@ -15221,7 +15222,6 @@ dolphinlike
 dolphins
 dolphus
 dols
-dolt
 dolthead
 doltish
 doltishly
