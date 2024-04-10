@@ -15730,6 +15730,7 @@ clavichord
 clavichordist
 clavichordists
 clavichords
+customs
 clavicylinder
 clavicymbal
 clavicytheria
@@ -31745,7 +31746,6 @@ customizers
 customizes
 customizing
 customly
-customs
 customshouse
 custos
 custrel

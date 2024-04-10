@@ -10409,6 +10409,7 @@ ethion
 ethionamide
 ethionic
 ethionine
+exul
 ethions
 ergal
 ethiop
@@ -14142,7 +14143,6 @@ exuded
 exudence
 exudes
 exuding
-exul
 exulate
 exulcerating
 exulceration
