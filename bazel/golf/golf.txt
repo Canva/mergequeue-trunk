@@ -3110,6 +3110,7 @@ geologists
 geologize
 geologized
 geologizing
+governed
 geom
 geomagnetic
 geomagnetically
@@ -7479,7 +7480,6 @@ governably
 governail
 governance
 governante
-governed
 governessdom
 governesses
 governessy
