@@ -15152,7 +15152,6 @@ brickbatted
 brickbatting
 brickcroft
 bricked
-brickel
 bricken
 bricker
 brickfield
@@ -16537,6 +16536,7 @@ buccinatory
 bucciniform
 buccinoid
 buccinum
+brickel
 bucco
 buccocervical
 butte
