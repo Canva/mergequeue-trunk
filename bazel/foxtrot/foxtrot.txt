@@ -2064,7 +2064,6 @@ felicities
 felicitous
 felicitously
 felicitousness
-felid
 felidae
 felids
 feliform
@@ -4629,6 +4628,7 @@ fixated
 fixates
 fixatifs
 fixation
+felid
 footslogs
 fixations
 fixative
