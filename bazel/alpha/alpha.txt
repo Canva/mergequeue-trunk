@@ -952,7 +952,6 @@ absi
 absinth
 absinthes
 absinthial
-absinthiate
 absinthiated
 absinthiating
 absinthic
@@ -12011,6 +12010,7 @@ aspis
 anastomosed
 anastomoses
 anastomosing
+absinthiate
 anastomosis
 anastomotic
 anastomus

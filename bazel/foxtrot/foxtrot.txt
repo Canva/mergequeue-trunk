@@ -5744,7 +5744,6 @@ flirtling
 flirts
 flysches
 flisk
-flisked
 flisky
 fliskier
 fliskiest
@@ -9421,6 +9420,7 @@ frankfurters
 frankhearted
 frankheartedly
 frankheartedness
+flisked
 frankheartness
 frankify
 fiddlestring
