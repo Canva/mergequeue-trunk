@@ -3249,7 +3249,6 @@ bitume
 basilarchia
 basilard
 basilary
-basilateral
 basilect
 basileis
 basilemma
@@ -3843,6 +3842,7 @@ bauge
 bauhinia
 bauhinias
 bauk
+basilateral
 baul
 bauld
 baulea
