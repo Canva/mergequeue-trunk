@@ -13129,6 +13129,7 @@ anilinophile
 anilinophilous
 anilins
 anility
+avicularium
 anilities
 anilla
 anilopyrin
@@ -24754,7 +24755,6 @@ avicularia
 avicularian
 aviculariidae
 avicularimorphae
-avicularium
 aviculture
 aviculturist
 avid
