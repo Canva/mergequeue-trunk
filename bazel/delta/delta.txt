@@ -16314,7 +16314,6 @@ downshift
 downshifted
 degradability
 downshifting
-downshifts
 downshore
 downside
 downsinking
@@ -17984,6 +17983,7 @@ dulcinist
 dulcite
 dulcity
 dulcitol
+downshifts
 dulcitude
 dulcor
 dulcorate
