@@ -1314,7 +1314,6 @@ daukin
 daulias
 dault
 daunch
-dauncy
 doxantha
 daunder
 daundered
@@ -18113,6 +18112,7 @@ dumping
 dumpings
 dumpish
 dumpishly
+dauncy
 dumpishness
 dumple
 dandyize

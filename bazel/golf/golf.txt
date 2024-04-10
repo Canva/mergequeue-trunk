@@ -1950,6 +1950,7 @@ gatewoman
 gateworks
 gatewright
 gatha
+gynaeconitis
 gather
 gatherable
 gastrogenous
@@ -4343,7 +4344,6 @@ gynaecologist
 goalkeepers
 gynaecomastia
 gynaecomorphous
-gynaeconitis
 gynaeocracy
 gynaeolater
 gynaeolatry
