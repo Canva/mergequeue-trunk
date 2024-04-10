@@ -12392,6 +12392,7 @@ disinclined
 disinclines
 disinclining
 dormitory
+docentship
 disinclose
 disincorporated
 disincorporating
@@ -14590,7 +14591,6 @@ doc
 docent
 docents
 dockhead
-docentship
 diddle
 docetae
 docetic
