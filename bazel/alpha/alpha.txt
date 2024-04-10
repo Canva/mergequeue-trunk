@@ -13843,7 +13843,6 @@ anoplotherioid
 anoplotherium
 anoplotheroid
 arrowed
-anoplura
 anopluriform
 anopsy
 anopsia
@@ -15674,6 +15673,7 @@ antinepotic
 antineuralgic
 anoestrum
 antineuritic
+anoplura
 antineurotoxin
 antineutral
 antineutralism
