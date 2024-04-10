@@ -1296,6 +1296,7 @@ dauded
 dauding
 daudit
 dauerschlaf
+dodgeries
 deracinated
 daughter
 detonators
@@ -14790,7 +14791,6 @@ dodged
 dodgeful
 dodger
 dodgery
-dodgeries
 dodgers
 dodges
 dodgy
