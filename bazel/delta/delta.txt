@@ -4414,6 +4414,7 @@ dematerialisation
 dematerialise
 decubation
 dematerialised
+daun
 dematerialising
 dematerialization
 dematerialize
@@ -16023,7 +16024,6 @@ doubts
 doubtsome
 darbyism
 douc
-daun
 drossier
 douce
 doucely

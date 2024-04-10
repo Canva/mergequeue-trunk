@@ -7444,6 +7444,7 @@ betrays
 betraise
 betrap
 betravel
+blist
 betread
 betrend
 betrim
@@ -10892,7 +10893,6 @@ blissfully
 blissfulness
 blissless
 blissom
-blist
 blister
 blistered
 blistery
