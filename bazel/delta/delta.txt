@@ -929,7 +929,6 @@ daphnis
 daphnite
 daphnoid
 dapicho
-dynatrons
 dapico
 dapifer
 dapped
@@ -9102,6 +9101,7 @@ didymium
 didymiums
 disfrocks
 didymoid
+dynatrons
 didymolite
 didymus
 didynamy

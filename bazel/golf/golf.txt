@@ -8264,6 +8264,7 @@ grasseye
 glod
 grasser
 grasserie
+gurjan
 gregarianism
 grassers
 grasses
@@ -10622,7 +10623,6 @@ gurgulation
 gurgulio
 gurian
 guric
-gurjan
 gurjun
 geometrician
 gyroceracone
