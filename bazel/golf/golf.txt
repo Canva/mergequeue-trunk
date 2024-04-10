@@ -2061,7 +2061,6 @@ gauping
 gaur
 gaura
 gaure
-gaurian
 gunbright
 gauric
 gaurie
@@ -8799,6 +8798,7 @@ greylag
 greylags
 greyling
 greillade
+gaurian
 gunfighter
 grein
 greyness

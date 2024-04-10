@@ -1103,6 +1103,7 @@ farrows
 farruca
 farsakh
 farsalah
+fertilizes
 farse
 farseeing
 farseeingness
@@ -5772,7 +5773,6 @@ fridila
 flytes
 flytier
 flytiers
-fertilizes
 flytime
 formagenic
 faire
