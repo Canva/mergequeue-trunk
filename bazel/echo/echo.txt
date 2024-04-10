@@ -6145,7 +6145,6 @@ ennobles
 ennobling
 ensconce
 ennoblment
-ennoy
 ennoic
 ennomic
 ennui
@@ -13521,6 +13520,7 @@ exsurgent
 exsuscitate
 ext
 exta
+ennoy
 extance
 extancy
 extatic
