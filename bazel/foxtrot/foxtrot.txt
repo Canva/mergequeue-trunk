@@ -3417,6 +3417,7 @@ fiends
 fiendship
 frontiers
 fient
+freakiness
 fierabras
 fierasfer
 fierasferid
@@ -9571,7 +9572,6 @@ favouritism
 freakier
 facetious
 freakiest
-freakiness
 freaking
 freakish
 freakishly
