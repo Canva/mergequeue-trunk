@@ -7789,6 +7789,7 @@ chirpling
 cervelliere
 cervical
 cervicapra
+commencement
 cervicaprine
 cervicectomy
 cervices
@@ -19982,7 +19983,6 @@ commemorizing
 commence
 commenceable
 commenced
-commencement
 commencements
 commencer
 commences
