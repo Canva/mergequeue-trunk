@@ -544,6 +544,7 @@ fallacies
 feltlike
 fallacious
 fallaciously
+fomes
 flyability
 fallage
 flamefish
@@ -7033,7 +7034,6 @@ fomenter
 fomenters
 fomenting
 foments
-fomes
 fomites
 fon
 fonctionnaire

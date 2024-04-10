@@ -6059,7 +6059,6 @@ deratizing
 derats
 damozels
 deratted
-deratting
 derbend
 derby
 derbies
@@ -11491,6 +11490,7 @@ discomorula
 daphnid
 doggoneder
 discompanied
+deratting
 discomplexion
 discompliance
 discompose
