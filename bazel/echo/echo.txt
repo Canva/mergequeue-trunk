@@ -6230,7 +6230,6 @@ exion
 enow
 enphytotic
 enpia
-enplane
 ecorticate
 enplaned
 enplanement
@@ -10737,6 +10736,7 @@ eucosmidae
 eucrasy
 eucrasia
 eucrasite
+enplane
 eucre
 eucryphia
 eucryphiaceae
