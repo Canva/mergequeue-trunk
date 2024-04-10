@@ -8422,7 +8422,6 @@ alkalinuria
 alkalis
 alkalisable
 alkalisation
-alkalise
 alkalised
 alkaliser
 alkalises
@@ -10417,6 +10416,7 @@ amidofluorid
 amidofluoride
 amidogen
 amidogens
+alkalise
 amidoguaiacol
 abusing
 amidohexose
