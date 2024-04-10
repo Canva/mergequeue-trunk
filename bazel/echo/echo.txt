@@ -5907,7 +5907,6 @@ enharden
 enhardy
 enharmonic
 enharmonical
-enharmonically
 enhat
 enhaulse
 enhaunt
@@ -8582,6 +8581,7 @@ equated
 equates
 equating
 equation
+enharmonically
 equational
 equationally
 equationist

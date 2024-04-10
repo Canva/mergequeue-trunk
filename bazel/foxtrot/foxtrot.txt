@@ -3843,7 +3843,6 @@ femorocaudal
 filtrated
 filtrates
 filtrating
-filtre
 filum
 fimbria
 fimbriae
@@ -8212,6 +8211,7 @@ forfend
 filipino
 forfended
 forfending
+filtre
 forfends
 forfex
 forficate
