@@ -8019,6 +8019,7 @@ epinephrine
 epinette
 epineuneuria
 epineural
+extinctions
 epineuria
 epineurial
 epineurium
@@ -13676,7 +13677,6 @@ extincting
 expt
 encephalomeningitis
 extinctionist
-extinctions
 extinctive
 extinctor
 extincts
