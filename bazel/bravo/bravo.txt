@@ -201,6 +201,7 @@ baccated
 bacchae
 bacchanal
 bacchanalia
+bedframe
 bacchanalian
 bacchanalianism
 bacchanalianly
@@ -4677,7 +4678,6 @@ bedflower
 bedfoot
 bedford
 bedfordshire
-bedframe
 bedframes
 bedgery
 bedgoer

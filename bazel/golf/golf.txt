@@ -3825,7 +3825,6 @@ giants
 giantship
 gastroesophagostomy
 giantsize
-giaour
 giaours
 giardia
 giarra
@@ -7472,6 +7471,7 @@ giddea
 gouvernantes
 gove
 govern
+giaour
 governability
 governable
 governableness
