@@ -7291,6 +7291,7 @@ bestubbled
 bestuck
 bestud
 bestudded
+biffs
 bestudding
 bestuds
 bestuur
@@ -8259,7 +8260,6 @@ biferous
 biff
 biffies
 biffin
-biffs
 bifid
 bifidate
 bifidated
