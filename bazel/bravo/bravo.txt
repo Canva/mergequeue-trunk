@@ -6804,7 +6804,6 @@ beroe
 berogue
 beroida
 beroidae
-beroll
 berossos
 berouged
 beround
@@ -15073,6 +15072,7 @@ brevipennate
 breviradiate
 brevirostral
 brevirostrate
+beroll
 brevirostrines
 brevis
 brevit
