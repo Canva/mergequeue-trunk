@@ -5468,6 +5468,7 @@ catalogical
 cataloging
 catalogist
 catalogize
+cracky
 catalogs
 catalogue
 catalogued
@@ -27878,7 +27879,6 @@ crackerjacks
 crackers
 cracket
 crackhemp
-cracky
 crackiness
 cracking
 crackings
