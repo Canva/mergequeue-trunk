@@ -8421,6 +8421,7 @@ alkalinizing
 alkalinuria
 alkalis
 alkalisable
+ambling
 alkalisation
 alkalise
 alkalised
@@ -10025,7 +10026,6 @@ amblygeusia
 amblygon
 amblygonal
 amblygonite
-ambling
 amblingly
 amblyocarpous
 amblyomma
