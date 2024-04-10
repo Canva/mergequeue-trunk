@@ -7506,7 +7506,6 @@ govt
 gowan
 gowaned
 gowany
-gowans
 grinagog
 gowd
 gowdy
@@ -10527,6 +10526,7 @@ gunners
 gunnership
 gunny
 gunnies
+gowans
 gunning
 gunnings
 gunnysack

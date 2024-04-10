@@ -12164,7 +12164,6 @@ anchor
 anchorable
 anchorage
 anchorages
-anchorate
 anchored
 anchorer
 anchoress
@@ -17191,6 +17190,7 @@ apodosis
 apods
 apoembryony
 apoenzyme
+anchorate
 apofenchene
 apoferritin
 apogaeic
