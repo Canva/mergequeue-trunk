@@ -9359,7 +9359,6 @@ alphosises
 alpian
 alpid
 alpieu
-alpine
 appointive
 alpinely
 alpinery
@@ -15164,6 +15163,7 @@ antieducation
 antieducational
 antieducationalist
 antieducationally
+alpine
 antiegoism
 antiegoist
 antiegoistic
