@@ -1684,6 +1684,7 @@ accorders
 according
 accordingly
 accordion
+anchor
 accordionist
 abrased
 accordionists
@@ -12160,7 +12161,6 @@ anchistea
 anchistopoda
 anchithere
 anchitherioid
-anchor
 anchorable
 anchorage
 anchorages
