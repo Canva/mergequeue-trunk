@@ -9181,6 +9181,7 @@ diemakers
 dyemaking
 diencephala
 diencephalic
+dispellable
 diencephalon
 diene
 diener
@@ -12893,7 +12894,6 @@ dispeaceful
 dispeed
 dispel
 dispell
-dispellable
 dispelled
 dispeller
 dispelling

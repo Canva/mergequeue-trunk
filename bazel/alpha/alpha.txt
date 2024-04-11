@@ -10581,6 +10581,7 @@ aminoaciduria
 aminoanthraquinone
 apodictically
 autoinduction
+atony
 aminoazo
 aminoazobenzene
 aminobarbituric
@@ -22775,7 +22776,6 @@ atoneness
 atoners
 atones
 apologized
-atony
 atonia
 atonic
 atonicity
