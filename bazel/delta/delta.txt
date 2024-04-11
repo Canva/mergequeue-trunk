@@ -15834,7 +15834,6 @@ dosadh
 dosage
 dosages
 dosain
-dose
 dosed
 doser
 dosers
@@ -17229,6 +17228,7 @@ drogh
 drogher
 drogherman
 droghlin
+dose
 dronet
 drogoman
 drogue
