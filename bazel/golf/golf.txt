@@ -1907,6 +1907,7 @@ gastrovascular
 gastrozooid
 gastrulae
 gastrular
+gerontocratic
 gastrulate
 gastrulating
 gadoidea
@@ -5802,7 +5803,6 @@ glops
 glor
 glore
 gigglers
-gerontocratic
 glory
 gloria
 gloriana
