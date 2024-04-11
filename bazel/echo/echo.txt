@@ -11487,7 +11487,6 @@ event
 eventail
 eventful
 eventfully
-eventfulness
 eventide
 exuvia
 eventides
@@ -11610,6 +11609,7 @@ evilest
 exoergic
 eviller
 evillest
+eventfulness
 evilly
 evilmouthed
 evilness
