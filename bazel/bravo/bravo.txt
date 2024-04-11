@@ -4324,6 +4324,7 @@ beaverteen
 beaverwood
 beback
 bebay
+brushiest
 bebait
 beballed
 bebang
@@ -16356,7 +16357,6 @@ brushfire
 brushful
 brushy
 brushier
-brushiest
 brushiness
 brushing
 brushite
