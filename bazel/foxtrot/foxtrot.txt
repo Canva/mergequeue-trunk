@@ -4880,6 +4880,7 @@ flamant
 flamb
 flambage
 flambant
+frankfurter
 flambe
 flambeau
 flambeaus
@@ -9427,7 +9428,6 @@ frankfort
 frankforter
 falsidical
 frankfurt
-frankfurter
 frankfurters
 frankhearted
 frankheartedly
