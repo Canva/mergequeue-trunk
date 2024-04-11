@@ -3355,6 +3355,7 @@ acutenaculum
 acuter
 acutes
 acutest
+araneology
 acutiator
 acutifoliate
 acutilingual
@@ -18459,7 +18460,6 @@ araneiformes
 aranein
 araneina
 araneoidea
-araneology
 araneologist
 araneous
 aranga

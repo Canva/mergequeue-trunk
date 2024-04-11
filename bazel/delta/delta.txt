@@ -9249,7 +9249,6 @@ dieticians
 dieties
 dietine
 dieting
-dietist
 decolorant
 dietitian
 dietitians
@@ -13537,6 +13536,7 @@ dissyllable
 dissimilar
 dissimilarity
 dissimilarities
+dietist
 dissimilars
 dissimilate
 dissimilated
