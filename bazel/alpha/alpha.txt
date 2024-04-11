@@ -10294,7 +10294,6 @@ americawards
 americium
 americomania
 americophobe
-amerikani
 amerimnon
 amerind
 amerindian
@@ -20629,6 +20628,7 @@ arthropods
 arthropomata
 arthropterous
 arthrorheumatism
+amerikani
 arthrorrhagia
 agistor
 arthrosclerosis
