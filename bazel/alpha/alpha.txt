@@ -1891,7 +1891,6 @@ acenaphthenyl
 acenaphthylene
 acenesthesia
 acensuada
-acensuador
 acentric
 appendice
 annexable
@@ -11010,6 +11009,7 @@ amperian
 amperometer
 amperometric
 abstinent
+acensuador
 ampersand
 ampersands
 amphanthia
