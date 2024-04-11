@@ -2152,7 +2152,6 @@ gawm
 gawn
 gawney
 gawp
-gawsie
 gaz
 gazabo
 gazaboes
@@ -5830,6 +5829,7 @@ germania
 glorioles
 gloriosa
 gloriosity
+gawsie
 glorioso
 gloriously
 gloriousness
