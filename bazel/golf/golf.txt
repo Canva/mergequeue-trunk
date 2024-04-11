@@ -1672,7 +1672,6 @@ gasted
 gaster
 gasteralgia
 graphology
-gasteria
 gasterolichenes
 gasteromycete
 gasteromycetes
@@ -6604,6 +6603,7 @@ goldenlocks
 gauchest
 goldenmouthed
 goldenness
+gasteria
 goldenpert
 goldenrod
 goldenrods

@@ -1896,7 +1896,6 @@ eila
 eild
 eileen
 eyliad
-eimak
 eimeria
 eleutherodactyl
 eyn
@@ -9097,6 +9096,7 @@ erinys
 erinite
 erinize
 erinnic
+eimak
 erinose
 essex
 eriobotrya
