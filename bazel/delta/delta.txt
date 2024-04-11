@@ -967,7 +967,6 @@ dardan
 dardani
 dardanium
 dardaol
-dardic
 dardistan
 dare
 dareall
@@ -7083,6 +7082,7 @@ desulphurised
 desulphurising
 desulphurization
 drawboring
+dardic
 deerkill
 desulphurize
 desulphurized
