@@ -4473,7 +4473,6 @@ beclasped
 beclasping
 beclasps
 beclatter
-beclaw
 beclip
 becloak
 becloaking
@@ -11124,6 +11123,7 @@ bloomier
 bloomiest
 bloomingly
 bloomingness
+beclaw
 bloomkin
 bloomless
 blooms
