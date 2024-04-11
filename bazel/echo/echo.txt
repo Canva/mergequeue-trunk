@@ -607,7 +607,6 @@ echoey
 echoencephalography
 echoer
 encrustment
-echoers
 echoes
 echogram
 echograph
@@ -7645,6 +7644,7 @@ epichil
 epichile
 epichilia
 epichilium
+echoers
 epichindrotic
 epichirema
 epichlorohydrin
