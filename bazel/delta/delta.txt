@@ -9744,6 +9744,7 @@ dillymen
 dilling
 dillis
 dillisk
+dorsoventrally
 dills
 dillseed
 dillue
@@ -15814,7 +15815,6 @@ diablotin
 dorsoventrad
 dorsoventral
 dorsoventrality
-dorsoventrally
 dorsula
 dorsum
 dorsumbonal

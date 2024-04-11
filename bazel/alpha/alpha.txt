@@ -12422,7 +12422,6 @@ andromedotoxin
 andromonoecious
 andromonoecism
 andromorphous
-andron
 andronitis
 andropetalar
 andropetalous
@@ -25396,4 +25395,5 @@ azury
 azurine
 azurite
 azurmalachite
+andron
 azurous
