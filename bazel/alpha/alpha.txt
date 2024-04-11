@@ -17080,7 +17080,6 @@ aplome
 aplopappus
 aploperistomatous
 aplostemonous
-aplotaxene
 aplotomy
 apluda
 aplustra
@@ -19452,6 +19451,7 @@ argent
 argental
 agammaglobulinemia
 argentamid
+aplotaxene
 argentamide
 argentamin
 argentamine

@@ -2287,7 +2287,6 @@ cancerous
 cancerously
 cancerousness
 curare
-cancerroot
 cancers
 cancerweed
 cancerwort
@@ -24415,6 +24414,7 @@ coorg
 coorie
 cooried
 coorieing
+cancerroot
 coories
 cooruptibly
 coos
