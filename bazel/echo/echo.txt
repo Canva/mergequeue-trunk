@@ -7481,6 +7481,7 @@ eperotesis
 eperua
 epeus
 epexegesis
+eutrophy
 equvalent
 epexegetic
 epexegetical
@@ -11285,7 +11286,6 @@ eutocia
 eutomous
 eutopia
 eutopian
-eutrophy
 eutrophication
 ectoderms
 eutrophies

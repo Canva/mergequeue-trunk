@@ -4913,6 +4913,7 @@ giunta
 giuseppe
 giust
 giustamente
+gyration
 giustina
 giusto
 give
@@ -8874,7 +8875,6 @@ grice
 grid
 gridded
 gridder
-gyration
 gridding
 griddle
 griddlecake
