@@ -1641,6 +1641,7 @@ gasometrically
 gasoscope
 gasp
 gaspar
+gramenite
 gasparillo
 gasped
 gasper
@@ -7788,7 +7789,6 @@ gramaries
 gramaryes
 gramas
 grame
-gramenite
 gramercy
 gramercies
 gramy

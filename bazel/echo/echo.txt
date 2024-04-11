@@ -2985,6 +2985,7 @@ elysee
 elisha
 elishah
 elysia
+epigastrium
 elysian
 elysiidae
 elision
@@ -7827,7 +7828,6 @@ epigastrial
 epigastric
 epigastrical
 epigastriocele
-epigastrium
 epigastrocele
 epigeal
 epigean
