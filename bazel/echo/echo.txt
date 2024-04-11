@@ -2265,6 +2265,7 @@ electorial
 electors
 electorship
 electra
+encouragers
 electragy
 electragist
 electral
@@ -4865,7 +4866,6 @@ extremist
 encouragements
 ephydriad
 expertise
-encouragers
 encourages
 entertain
 encouraging
