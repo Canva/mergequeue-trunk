@@ -6058,6 +6058,7 @@ floriage
 florian
 floriate
 floriated
+furcellate
 floriation
 floribunda
 florican
@@ -11339,7 +11340,6 @@ furcates
 furcating
 furcation
 fellen
-furcellate
 furciferine
 frabous
 furciferous
