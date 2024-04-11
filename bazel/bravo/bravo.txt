@@ -3472,6 +3472,7 @@ bastinadoing
 basting
 bastings
 bastion
+bedplates
 bastionary
 bastioned
 bastionet
@@ -4775,7 +4776,6 @@ bradding
 bedpan
 besmirching
 bedpans
-bedplates
 bedpost
 bedposts
 bedquilt
