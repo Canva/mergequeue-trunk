@@ -10409,6 +10409,7 @@ chiffonnier
 chiffonnieres
 chiffonniers
 chiffons
+clavierist
 chifforobe
 chifforobes
 chiffre
@@ -15756,7 +15757,6 @@ clavicularium
 claviculate
 claviculus
 clavier
-clavierist
 clavieristic
 clavierists
 claviers

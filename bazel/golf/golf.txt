@@ -1255,6 +1255,7 @@ gruis
 golf
 gapeseed
 gapeseeds
+griskin
 gapeworm
 gapeworms
 gorgonized
@@ -9141,7 +9142,6 @@ griseous
 grisette
 grisettes
 grisgris
-griskin
 griskins
 glomerate
 grisled
