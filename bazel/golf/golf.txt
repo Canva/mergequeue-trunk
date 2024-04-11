@@ -125,6 +125,7 @@ gadoid
 gadoids
 gyroscopically
 gadolinia
+gearcases
 gadolinic
 gadolinium
 gadroon
@@ -2218,7 +2219,6 @@ geanticlinal
 gurish
 gear
 gearcase
-gearcases
 geared
 gearing
 gearings
