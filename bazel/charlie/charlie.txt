@@ -2541,6 +2541,7 @@ cannabin
 cannabinaceae
 cannabinaceous
 cannabine
+canvasbacks
 cannabinol
 cannabins
 cannabis
@@ -2889,7 +2890,6 @@ canun
 canvas
 canvasado
 canvasback
-canvasbacks
 canvased
 canvaser
 canvasers
