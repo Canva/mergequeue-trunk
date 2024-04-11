@@ -6012,7 +6012,6 @@ gloxinias
 glozed
 glozer
 glozes
-guck
 glozing
 glozingly
 gabardines
@@ -9134,6 +9133,7 @@ grisaille
 grisailles
 grisbet
 gurgly
+guck
 grysbok
 grise
 griselda
