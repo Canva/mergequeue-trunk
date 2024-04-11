@@ -700,7 +700,6 @@ frostfishes
 faming
 famished
 famishes
-famishing
 famishment
 famous
 famously
@@ -714,6 +713,7 @@ famuli
 famulli
 famulus
 fan
+famishing
 fana
 fanakalo
 fanal
