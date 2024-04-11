@@ -14911,6 +14911,7 @@ brecciation
 brecham
 brechams
 brechan
+brookite
 brechans
 brechites
 brecht
@@ -16063,7 +16064,6 @@ bootlace
 brooky
 birled
 brookier
-brookite
 brookites
 brookless
 brooklet
