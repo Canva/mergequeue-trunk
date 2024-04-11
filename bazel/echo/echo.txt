@@ -4557,6 +4557,7 @@ enceintes
 encelia
 encell
 entozoology
+engraff
 encense
 encenter
 encephala
@@ -6965,7 +6966,6 @@ entopterygoid
 entoptic
 entoptical
 entoptically
-engraff
 entoptics
 entoptoscope
 entoptoscopy
