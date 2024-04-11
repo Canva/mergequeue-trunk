@@ -11631,7 +11631,6 @@ discouragement
 discouragements
 discourager
 discourages
-discouragingly
 darren
 discourse
 deposita
@@ -12119,6 +12118,7 @@ disgeneric
 dysgenesic
 dysgenesis
 disgenic
+discouragingly
 dysgenic
 dysgenical
 dysgenics
