@@ -888,7 +888,6 @@ ectophyte
 ectophytic
 ectophloic
 ectopy
-ectopia
 ectopias
 ectopic
 ectopistes
@@ -7269,6 +7268,7 @@ enwound
 enwove
 enwrap
 enwrapment
+ectopia
 enwrapped
 enwrapping
 enwraps

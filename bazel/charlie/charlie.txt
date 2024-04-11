@@ -469,6 +469,7 @@ caddishness
 caddisworm
 chontawood
 caddle
+cerberean
 caddo
 caddow
 cade
@@ -27520,7 +27521,6 @@ coverall
 coveralled
 coveralls
 coverchief
-cerberean
 covercle
 covered
 coverer
