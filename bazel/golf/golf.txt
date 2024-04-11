@@ -6406,6 +6406,7 @@ goatsbeard
 goatsfoot
 goatskin
 goatskins
+goatland
 goatstone
 granulitic
 goatsucker
@@ -10822,7 +10823,6 @@ gutwise
 gutwort
 guv
 guvacine
-goatland
 generant
 guvacoline
 guz
