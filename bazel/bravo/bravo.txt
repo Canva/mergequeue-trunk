@@ -1524,6 +1524,7 @@ ballads
 balladwise
 ballahoo
 ballahou
+botflies
 ballam
 ballan
 ballant
@@ -13279,7 +13280,6 @@ botella
 botels
 boterol
 botete
-botflies
 both
 bother
 bothered
