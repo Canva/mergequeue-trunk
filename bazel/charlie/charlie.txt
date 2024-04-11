@@ -4341,7 +4341,6 @@ carmalum
 carman
 carmanians
 carmel
-carmela
 carmele
 carmelite
 carmelitess
@@ -25013,6 +25012,7 @@ cordoning
 cordonnet
 cordons
 cordovans
+carmela
 cords
 cordula
 corduroy
