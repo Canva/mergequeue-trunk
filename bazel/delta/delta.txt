@@ -3039,7 +3039,6 @@ deerdrive
 deerfly
 decerniture
 deerflies
-deerflys
 dolichocephaly
 deerfood
 deerhair
@@ -13201,6 +13200,7 @@ disproportions
 dispropriate
 dysprosia
 dysprosium
+deerflys
 disprovable
 disproval
 disprovement
