@@ -8774,6 +8774,7 @@ bimillennia
 bimillennium
 bimillionaire
 bimini
+borzoi
 bimmeler
 bimodal
 bimodality
@@ -13107,7 +13108,6 @@ borussian
 borwort
 bumper
 borzicactus
-borzoi
 borzois
 bos
 bosc
