@@ -6163,6 +6163,7 @@ glutimate
 glutinant
 glutinate
 glutination
+gowaned
 glutinative
 gustatorily
 glutinize
@@ -7497,7 +7498,6 @@ grubbiest
 governs
 govt
 gowan
-gowaned
 gowany
 gowans
 grinagog

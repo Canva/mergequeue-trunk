@@ -4527,7 +4527,6 @@ encarpium
 encarpus
 encarpuspi
 encased
-encasement
 encases
 euryzygous
 encash
@@ -12927,6 +12926,7 @@ expansivity
 expansum
 expansure
 expatiate
+encasement
 expatiater
 expatiates
 expatiating
