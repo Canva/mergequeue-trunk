@@ -3776,6 +3776,7 @@ carburetant
 carbureted
 carbureter
 carburetest
+cheerled
 carbureting
 carburetion
 carburetor
@@ -9623,7 +9624,6 @@ cheerleader
 cheerleaders
 coppered
 cheerleading
-cheerled
 cheerless
 cheerlessly
 cheerlessness

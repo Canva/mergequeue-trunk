@@ -14691,7 +14691,6 @@ antiadministration
 antiae
 antiager
 antiagglutinant
-antiagglutinating
 antiagglutination
 antiagglutinative
 antiagglutinin
@@ -23764,6 +23763,7 @@ autecy
 autecious
 auteciously
 auteciousness
+antiagglutinating
 autecism
 autecisms
 autecology
