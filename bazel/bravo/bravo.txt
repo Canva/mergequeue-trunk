@@ -3513,6 +3513,7 @@ batboys
 batch
 bumbass
 batched
+blazonment
 batcher
 batchers
 batches
@@ -10536,7 +10537,6 @@ blazoned
 blazoner
 blazoners
 blazoning
-blazonment
 blazonry
 blazonries
 blazons
