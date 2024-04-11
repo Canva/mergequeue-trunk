@@ -163,7 +163,6 @@ caboodle
 caboodles
 cabook
 censerless
-caboose
 cabooses
 caboshed
 cabossed
@@ -29984,6 +29983,7 @@ crouchback
 crouche
 crouched
 croucher
+caboose
 crouches
 crouchie
 cahnite

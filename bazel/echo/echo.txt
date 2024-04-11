@@ -651,7 +651,6 @@ eclated
 eclating
 eclats
 eclectic
-eclectical
 eclectically
 eclecticism
 eclecticist
@@ -12189,6 +12188,7 @@ excrescencies
 excrescent
 excrescential
 excrescently
+eclectical
 excresence
 excression
 excreta
