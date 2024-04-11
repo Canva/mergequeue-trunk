@@ -3095,6 +3095,7 @@ geologian
 geologic
 geological
 geologically
+guacacoa
 geologician
 geologies
 geologised
@@ -9762,7 +9763,6 @@ gthite
 gtt
 gu
 guaba
-guacacoa
 guacamole
 guachamaca
 guacharo

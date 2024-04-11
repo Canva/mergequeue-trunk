@@ -7523,6 +7523,7 @@ ephemeran
 ephemeras
 ephemeric
 ephemerid
+epimanikion
 ephemerida
 ephemeridae
 ephemerides
@@ -7982,7 +7983,6 @@ epimacus
 encephalogram
 epimandibular
 epimanikia
-epimanikion
 epimedium
 ebriously
 epimenidean
