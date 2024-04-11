@@ -1601,6 +1601,7 @@ bullwork
 ballistician
 ballisticians
 beaune
+barege
 ballistics
 ballistocardiogram
 ballistocardiograph
@@ -7742,7 +7743,6 @@ bhangi
 bhar
 bhara
 bharal
-barege
 bharata
 bharti
 bhat

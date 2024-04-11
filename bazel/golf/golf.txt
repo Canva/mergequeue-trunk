@@ -4955,7 +4955,6 @@ glabreity
 glabrescent
 glabriety
 gonosomal
-glabrous
 gastrula
 glabrousness
 glace
@@ -8708,6 +8707,7 @@ greenstone
 gauntree
 greensward
 greenswarded
+glabrous
 greentail
 greenth
 greenths
