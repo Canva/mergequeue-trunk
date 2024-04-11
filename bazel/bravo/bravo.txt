@@ -9335,7 +9335,6 @@ biporose
 brachiofacial
 bipotentiality
 bipotentialities
-biprism
 byproduct
 byproducts
 biprong
@@ -16930,6 +16929,7 @@ buirdly
 buys
 bukat
 benzoated
+biprism
 bukeyef
 bukh
 bukidnon
