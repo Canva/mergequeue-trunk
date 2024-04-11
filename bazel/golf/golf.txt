@@ -5520,7 +5520,6 @@ glycuronid
 glycuronide
 graph
 glidder
-gliddery
 glide
 glided
 glider
@@ -6387,6 +6386,7 @@ goatbrush
 goatbush
 goatee
 goateed
+gliddery
 goatees
 goatfish
 goatfishes

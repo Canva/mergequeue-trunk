@@ -2218,7 +2218,6 @@ decemjugate
 decemlocular
 decempartite
 decempedal
-decempedate
 decempennate
 decemplex
 decemplicate
@@ -5322,6 +5321,7 @@ dentiferous
 dentification
 dentiform
 dentifrice
+decempedate
 dentifrices
 dentigerous
 dentil
