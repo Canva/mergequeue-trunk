@@ -23102,7 +23102,6 @@ constituting
 constitution
 constitutional
 constitutionalism
-constitutionalist
 constitutionalization
 constitutionalize
 constitutionally
@@ -27163,6 +27162,7 @@ countersunken
 countersurprise
 countersway
 counterswing
+constitutionalist
 countersworn
 corroded
 countertack
