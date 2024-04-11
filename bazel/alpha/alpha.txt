@@ -1504,6 +1504,7 @@ accessor
 accessory
 accessories
 anakinetic
+ananke
 accessorily
 accessoriness
 accessorius
@@ -11847,7 +11848,6 @@ ananym
 ananism
 ananite
 anankastic
-ananke
 anankes
 anansi
 ananta

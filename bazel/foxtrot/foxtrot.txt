@@ -9332,6 +9332,7 @@ frontispieced
 frakfurt
 fraktur
 frakturs
+franklin
 fasciolet
 fram
 framable
@@ -9441,7 +9442,6 @@ frankish
 frankist
 franklandite
 frankly
-franklin
 franklinian
 frails
 frankliniana
