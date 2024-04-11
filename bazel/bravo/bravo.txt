@@ -11446,7 +11446,6 @@ bluntly
 bluntness
 blunts
 blup
-blur
 blurb
 blurbist
 blurbs
@@ -16092,6 +16091,7 @@ broomrape
 broomroot
 brooms
 broomshank
+blur
 broomstick
 broomsticks
 broomstraw
