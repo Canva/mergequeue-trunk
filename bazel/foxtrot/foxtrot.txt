@@ -1546,6 +1546,7 @@ fictor
 fautorship
 fauves
 fauvette
+fogman
 fauvism
 fauvisms
 fauvist
@@ -6813,7 +6814,6 @@ fogyisms
 fogless
 foolship
 foglietto
-fogman
 fogmen
 fogo
 fogon
