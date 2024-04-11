@@ -11757,7 +11757,6 @@ bodicemaking
 bodices
 bodycheck
 bodied
-bodier
 bodieron
 bodies
 bodyguards
@@ -12442,6 +12441,7 @@ boners
 bones
 boneset
 bonesets
+bodier
 bonesetter
 bonesetting
 boneshaker

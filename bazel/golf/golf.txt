@@ -4679,7 +4679,6 @@ girba
 gird
 glucosuria
 girded
-girder
 girderage
 girdering
 girders
@@ -8691,6 +8690,7 @@ greenling
 greenness
 greenockite
 greenovite
+girder
 greenroom
 greenrooms
 greens
