@@ -3431,7 +3431,6 @@ germicides
 germiculture
 germier
 germiest
-germifuge
 germigene
 germigenous
 germin
@@ -6942,6 +6941,7 @@ gymsia
 gonothecal
 gonotyl
 gonotype
+germifuge
 gonotocont
 gonotokont
 gonotome
