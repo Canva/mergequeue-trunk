@@ -6870,7 +6870,6 @@ aircrewmen
 aircrews
 airdate
 airdates
-airdock
 airdrome
 airdromes
 airdrop
@@ -11556,6 +11555,7 @@ anacreontically
 anacrisis
 anacrogynae
 anacrogynous
+airdock
 anacromyodian
 anacrotic
 anacrotism
