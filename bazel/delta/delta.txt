@@ -4324,7 +4324,6 @@ delusters
 delustrant
 deluxe
 delve
-delved
 delver
 delvers
 delves
@@ -14096,6 +14095,7 @@ ditheistic
 ditheistical
 dithematic
 dither
+delved
 dithered
 ditherer
 dithery
