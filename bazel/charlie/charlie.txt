@@ -13154,7 +13154,6 @@ cycadite
 cycadlike
 cycadofilicale
 catstone
-cycadofilicales
 cycadofilices
 cannikins
 cycadophyta
@@ -18835,6 +18834,7 @@ coliuria
 colius
 colk
 coll
+cycadofilicales
 colla
 collab
 csnet

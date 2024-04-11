@@ -2709,6 +2709,7 @@ generis
 graylags
 generosity
 generosities
+goutiness
 generous
 glial
 generously
@@ -7454,7 +7455,6 @@ gouty
 goutiest
 goutify
 goutily
-goutiness
 goutish
 gouts
 goutweed
