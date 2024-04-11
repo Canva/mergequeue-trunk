@@ -1192,7 +1192,6 @@ ganocephalan
 ganocephalous
 ganodont
 ganodonta
-ganodus
 ganof
 ganofs
 ganoid
@@ -9887,6 +9886,7 @@ guarani
 guaranian
 guaranies
 guaranine
+ganodus
 guaranis
 ganancial
 guarantee
