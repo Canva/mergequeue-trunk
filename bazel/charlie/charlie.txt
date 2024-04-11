@@ -29627,6 +29627,7 @@ crocodiline
 crocodilite
 crocodility
 crocodiloid
+cueva
 coriin
 crocodilus
 crocodylus
@@ -30655,7 +30656,6 @@ cuerpo
 cues
 cuesta
 cuestas
-cueva
 cuff
 cuffed
 cuffy
