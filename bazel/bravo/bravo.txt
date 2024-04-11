@@ -8764,7 +8764,6 @@ bimetalism
 bimetallic
 bimetallism
 bimetallist
-bimetallistic
 bimetals
 bimethyl
 bimethyls
@@ -12778,6 +12777,7 @@ boons
 boophilus
 boopis
 boor
+bimetallistic
 boordly
 boorga
 bacciform

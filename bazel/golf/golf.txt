@@ -986,7 +986,6 @@ gaminesque
 gaminess
 gaminesses
 gaming
-gamings
 gigantically
 gaminish
 gamins
@@ -8123,6 +8122,7 @@ grapelet
 grapelike
 grapeline
 grapenuts
+gamings
 grapery
 graperies
 graperoot
