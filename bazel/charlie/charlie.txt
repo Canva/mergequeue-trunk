@@ -860,6 +860,7 @@ calabar
 calabari
 calabash
 calabashes
+circumstantiating
 calabaza
 calabazilla
 conducibly
@@ -14426,7 +14427,6 @@ circumstantially
 circumstantialness
 circumstantiate
 circumstantiates
-circumstantiating
 circumstantiation
 circumstantiations
 circumstellar
