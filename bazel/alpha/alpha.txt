@@ -2700,7 +2700,6 @@ acquaintant
 acquainted
 acquaintedness
 acquainting
-acquent
 acquereur
 acquest
 acquests
@@ -9198,6 +9197,7 @@ alodial
 alodialism
 alodialist
 alodiality
+acquent
 alodially
 alodialty
 alodian

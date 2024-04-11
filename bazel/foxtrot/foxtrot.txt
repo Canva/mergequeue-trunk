@@ -5496,7 +5496,6 @@ fleshquake
 flet
 fleta
 fletched
-fletcher
 fletcherism
 fletcherite
 fletcherize
@@ -11707,6 +11706,7 @@ futurist
 futuristically
 futurists
 futurity
+fletcher
 futurities
 futurition
 futurize
