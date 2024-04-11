@@ -3690,6 +3690,7 @@ flanched
 filicornia
 filiety
 filiferous
+fossage
 filiform
 foreboard
 filiformed
@@ -8832,7 +8833,6 @@ foss
 fossa
 flunks
 fossae
-fossage
 fevery
 flaxes
 female
