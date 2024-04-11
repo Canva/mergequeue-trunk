@@ -2029,7 +2029,6 @@ elaborator
 elaboratory
 expiatory
 elaborators
-elabrate
 elachista
 elachistaceae
 elachistaceous
@@ -4183,6 +4182,7 @@ empirism
 epitoniidae
 euthymy
 empiristic
+elabrate
 empyromancy
 emplace
 emplaced
