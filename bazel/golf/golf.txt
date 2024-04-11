@@ -4619,7 +4619,6 @@ gipsying
 gypsying
 gipsyish
 gastrostaxis
-gypsyish
 glucke
 gipsyism
 gypsyism
@@ -9078,6 +9077,7 @@ gripeful
 gripey
 griper
 gripers
+gypsyish
 gripes
 gripgrass
 griphe
