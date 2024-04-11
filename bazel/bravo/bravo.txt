@@ -5275,6 +5275,7 @@ bangster
 beginner
 beginners
 beginning
+bourock
 beginnings
 begins
 begird
@@ -13617,7 +13618,6 @@ bournes
 bournonite
 bournous
 bourns
-bourock
 bourout
 bourr
 bourran

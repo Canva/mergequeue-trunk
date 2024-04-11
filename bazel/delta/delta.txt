@@ -1764,6 +1764,7 @@ debateful
 debatefully
 debatement
 debater
+dovened
 debaters
 debates
 debating
@@ -16132,7 +16133,6 @@ dovelike
 dovelikeness
 doveling
 discepting
-dovened
 dovening
 dovens
 dover
