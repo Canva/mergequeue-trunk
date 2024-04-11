@@ -13287,6 +13287,7 @@ anisil
 anisyl
 anisilic
 anisylidene
+anthochlorine
 adigranth
 aerographer
 anisobranchiate
@@ -14385,7 +14386,6 @@ anthoceros
 anthocerotaceae
 anthocerote
 anthochlor
-anthochlorine
 anthocyan
 anthocyanidin
 anthocyanin
