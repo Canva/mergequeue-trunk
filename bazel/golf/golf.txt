@@ -3055,6 +3055,7 @@ geomance
 geoffroyine
 geoform
 gillnet
+grainier
 geog
 geogen
 gippers
@@ -3134,7 +3135,6 @@ geomantically
 geomechanics
 geomedical
 geometer
-grainier
 geometers
 geometry
 geometric
