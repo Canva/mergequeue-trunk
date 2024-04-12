@@ -2409,7 +2409,6 @@ barbers
 banquetings
 barbershops
 barbes
-barbet
 barbets
 barbette
 barbettes
@@ -15203,6 +15202,7 @@ bridebed
 bridebowl
 bridecake
 bridechamber
+barbet
 bridecup
 bridegroom
 bridegrooms
