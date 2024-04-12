@@ -2511,6 +2511,7 @@ bardship
 bardulph
 bare
 bareback
+bordure
 barebacked
 bareboat
 bareboats
@@ -12973,7 +12974,6 @@ bordrag
 bordrage
 bordroom
 bordun
-bordure
 bordured
 bordures
 bore
