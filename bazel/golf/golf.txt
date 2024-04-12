@@ -4816,6 +4816,7 @@ gyroscope
 gyroscopes
 gyroscopic
 gyroscopics
+gratuitous
 gyrose
 gyrosyn
 girosol
@@ -8366,7 +8367,6 @@ gratuitant
 gratuity
 gratuities
 gratuito
-gratuitous
 gratuitously
 gratuitousness
 gratulant
