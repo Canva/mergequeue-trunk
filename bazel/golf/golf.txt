@@ -6351,6 +6351,7 @@ grammaticize
 goading
 goadlike
 goads
+guying
 goadsman
 goaf
 goajiro
@@ -9686,7 +9687,6 @@ groans
 grumium
 grumly
 grummel
-guying
 grummels
 grummer
 grummest

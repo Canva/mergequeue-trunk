@@ -1544,6 +1544,7 @@ calocarpum
 calochortaceae
 calochortus
 calodaemon
+citrean
 calodemon
 calodemonial
 calogram
@@ -15014,7 +15015,6 @@ citrangeade
 citrate
 citrated
 citrates
-citrean
 corylet
 citrene
 citreous
