@@ -3938,7 +3938,6 @@ delayful
 delaying
 deux
 delayingly
-delaine
 delaines
 delays
 delaminate
@@ -9900,6 +9899,7 @@ diminuting
 diminution
 diminutional
 downfalls
+delaine
 diminutions
 diminutival
 diminutive
