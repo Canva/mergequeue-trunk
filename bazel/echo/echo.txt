@@ -6037,6 +6037,7 @@ enlargements
 enlargers
 enlarges
 enlarging
+eupolidean
 enlargingly
 enlaurel
 enleague
@@ -11112,7 +11113,6 @@ eupneas
 eupnoea
 eupnoeas
 eupnoeic
-eupolidean
 eupolyzoa
 eupolyzoan
 eupomatia

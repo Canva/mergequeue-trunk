@@ -6373,7 +6373,6 @@ goaling
 goalkeeper
 goalless
 goalmouth
-goalpost
 goalposts
 goals
 goaltender
@@ -9902,6 +9901,7 @@ guarantied
 guaranties
 guarantying
 guarantine
+goalpost
 guarantor
 guarantors
 guarantorship
