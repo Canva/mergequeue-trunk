@@ -2958,6 +2958,7 @@ caparisons
 capataces
 capataz
 capax
+cebollite
 capcase
 cape
 capeadores
@@ -6473,7 +6474,6 @@ cebine
 ceboid
 ceboids
 chantment
-cebollite
 cebur
 cebus
 cecal
