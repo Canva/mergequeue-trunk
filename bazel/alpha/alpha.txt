@@ -12161,6 +12161,7 @@ anchisaurus
 anchises
 anchistea
 anchistopoda
+anthroropolith
 anchithere
 anchitherioid
 anchorable
@@ -14681,7 +14682,6 @@ anthropotomist
 anthropotoxin
 anthropozoic
 anthropurgic
-anthroropolith
 anthroxan
 anthroxanic
 anththeridia
