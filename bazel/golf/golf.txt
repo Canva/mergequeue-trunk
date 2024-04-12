@@ -3426,6 +3426,7 @@ germanophobic
 germanophobist
 grids
 germanous
+grice
 gelastocoridae
 germans
 germantown
@@ -8872,7 +8873,6 @@ grf
 gribane
 gribble
 gribbles
-grice
 grid
 gridded
 gridder

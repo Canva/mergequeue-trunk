@@ -3384,7 +3384,6 @@ embassador
 embassadress
 embassage
 embassy
-embassiate
 embassies
 ensue
 embastardize
@@ -8711,6 +8710,7 @@ equinoctially
 equinovarus
 equinumerally
 equinus
+embassiate
 ethrogs
 equiomnipotent
 engineered
