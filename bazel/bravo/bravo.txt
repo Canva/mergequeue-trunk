@@ -2237,7 +2237,6 @@ bap
 baphia
 baphomet
 bioplast
-baphometic
 bapistery
 bapt
 baptanodon
@@ -10370,6 +10369,7 @@ blarneyer
 blarneying
 blarneys
 blarny
+baphometic
 blarnid
 blart
 blas
