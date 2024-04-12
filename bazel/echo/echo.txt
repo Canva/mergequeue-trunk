@@ -12562,6 +12562,7 @@ exibilate
 exies
 exigeant
 elementariness
+exposedness
 exigeante
 elocutionists
 exigences
@@ -13300,7 +13301,6 @@ exposable
 emotionalising
 exposals
 exposed
-exposedness
 exposer
 exposers
 exposes
