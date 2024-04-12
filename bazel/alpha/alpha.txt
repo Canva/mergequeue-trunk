@@ -9786,7 +9786,6 @@ amanuensis
 amapa
 amapondo
 amar
-amara
 amaracus
 amarant
 amarantaceae
@@ -18775,6 +18774,7 @@ archdeaconry
 archdeaconries
 archdeacons
 archdeaconship
+amara
 archdean
 archdeanery
 archdeceiver
