@@ -782,6 +782,7 @@ galvanical
 galvanically
 galvanisation
 galvanise
+gurneys
 galvanised
 galvanising
 galvanism
@@ -10636,7 +10637,6 @@ gurnard
 gurnards
 gurney
 gurneyite
-gurneys
 galant
 gurnet
 gurnets
