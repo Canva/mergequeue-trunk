@@ -9910,7 +9910,6 @@ dimiss
 deindustrialization
 dimissaries
 dimission
-dimissory
 dimit
 dimity
 dimities
@@ -16838,6 +16837,7 @@ dreadly
 dreadlocks
 dreadnaught
 dreadness
+dimissory
 dreadnought
 dreadnoughts
 dreads

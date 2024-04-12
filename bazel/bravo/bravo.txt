@@ -1837,7 +1837,6 @@ bamming
 bamoth
 brees
 bams
-bana
 banaba
 boss
 biognosis
@@ -8068,6 +8067,7 @@ becharms
 bicyclists
 bicyclo
 bicycloheptane
+bana
 bicycular
 biciliated
 bakerdom
