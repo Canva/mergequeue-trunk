@@ -13495,7 +13495,6 @@ annalize
 annals
 annam
 annamese
-annamite
 annamitic
 annapolis
 annapurna
@@ -17602,6 +17601,7 @@ apparentement
 apparentements
 apparently
 apparentness
+annamite
 apparition
 apparitional
 apparitions
