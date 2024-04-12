@@ -4026,6 +4026,7 @@ deleteriousness
 deletes
 deleting
 deletion
+dotation
 deletions
 deletive
 delf
@@ -15885,7 +15886,6 @@ dotardly
 dotards
 dotarie
 dotate
-dotation
 dotations
 dotchin
 disdeceive
