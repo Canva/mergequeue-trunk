@@ -9689,7 +9689,6 @@ cheilitis
 cheilodipteridae
 cheilodipterus
 cheiloplasties
-cheilostomata
 cheilostomatous
 cheilotomy
 cheilotomies
@@ -20268,6 +20267,7 @@ communalized
 communalizer
 communalizing
 communally
+cheilostomata
 communard
 chorographies
 communbus
