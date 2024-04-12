@@ -10426,6 +10426,7 @@ diphtherial
 diphtherian
 diphtheric
 diphtheritic
+displayer
 diphtheritically
 diphtheritis
 diphtheroid
@@ -13039,7 +13040,6 @@ displaces
 displacing
 display
 displayed
-displayer
 displaying
 displays
 displant
