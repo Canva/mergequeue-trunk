@@ -7315,7 +7315,6 @@ footwears
 footwork
 foraminiferous
 footworks
-footworn
 foozle
 foozled
 foozler
@@ -9684,6 +9683,7 @@ freely
 freeload
 freeloaded
 freeloaders
+footworn
 freelovism
 freemanship
 freemason
