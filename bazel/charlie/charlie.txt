@@ -10613,7 +10613,6 @@ chilver
 chimachima
 chimaera
 chimaeras
-chimaerid
 chimaeroid
 chimaeroidei
 chimakuan
@@ -15200,6 +15199,7 @@ cladogenetic
 cladogenetically
 cladogenous
 cladonia
+chimaerid
 cladoniaceae
 cladoniaceous
 cladonioid
