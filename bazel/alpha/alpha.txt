@@ -1677,7 +1677,6 @@ accordaturas
 accordature
 accorded
 accorder
-accorders
 according
 accordingly
 accordion
@@ -10550,6 +10549,7 @@ amylophagia
 amylophosphate
 amylophosphoric
 amyloplast
+accorders
 amyloplastic
 amyloplastid
 amylopsase
