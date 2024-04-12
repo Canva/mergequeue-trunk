@@ -7055,7 +7055,6 @@ besmoothing
 besmooths
 besmother
 besmottered
-besmouch
 besmudge
 besmudged
 besmudges
@@ -14501,6 +14500,7 @@ branglement
 brangler
 brangling
 brank
+besmouch
 branky
 bloodlust
 brankie

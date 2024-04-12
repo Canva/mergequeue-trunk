@@ -1051,7 +1051,6 @@ darndest
 darned
 darneder
 darnel
-darnels
 darner
 darners
 darnex
@@ -5100,6 +5099,7 @@ dendrons
 dendrophagous
 dendrophil
 dendrophile
+darnels
 dendrophilous
 dendropogon
 deneb
