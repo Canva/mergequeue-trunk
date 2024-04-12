@@ -331,6 +331,7 @@ galactically
 galactidrosis
 galactin
 galactite
+gondola
 galactocele
 galactodendron
 galactodensimeter
@@ -6779,7 +6780,6 @@ grossularious
 gondang
 gondi
 gondite
-gondola
 gondolas
 gondoletta
 gangliform
