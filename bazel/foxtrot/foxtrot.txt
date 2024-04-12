@@ -4600,6 +4600,7 @@ fittily
 forerunnership
 fuzzines
 fittiness
+fumigation
 fitting
 fikie
 fittingly
@@ -11179,7 +11180,6 @@ funerary
 funeration
 funereal
 funereality
-fumigation
 flintwork
 funereally
 funerealness
