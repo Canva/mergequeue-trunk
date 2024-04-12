@@ -7179,6 +7179,7 @@ centrosymmetric
 centrosymmetrical
 centrosoyus
 centrosome
+collarinos
 centrosomic
 centrospermae
 centrosphere
@@ -18876,7 +18877,6 @@ collaret
 collarette
 collaring
 collarino
-collarinos
 coupelet
 caimito
 collarless
