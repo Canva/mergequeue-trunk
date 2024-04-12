@@ -3469,7 +3469,6 @@ deforester
 deforesting
 deforests
 deform
-deformability
 deformable
 deformalize
 deformation
@@ -15220,6 +15219,7 @@ doltishness
 dolts
 dolus
 dolven
+deformability
 dom
 defaulter
 domage

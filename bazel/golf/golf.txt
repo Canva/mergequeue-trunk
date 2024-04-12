@@ -1671,6 +1671,7 @@ gast
 gastaldite
 gastaldo
 gasted
+greenbacker
 gaster
 gasteralgia
 graphology
@@ -10417,7 +10418,6 @@ growlingly
 gummose
 gummoses
 gummosis
-greenbacker
 gummosity
 gummous
 gump
