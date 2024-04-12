@@ -3117,7 +3117,6 @@ geomagnetic
 geomagnetically
 geomagnetics
 guestless
-geomagnetism
 geomagnetist
 geomaly
 geomalic
@@ -7942,6 +7941,7 @@ grandmotherly
 grandmotherliness
 grandmothers
 grandnephew
+geomagnetism
 grandnephews
 grandness
 grandniece
