@@ -1441,7 +1441,6 @@ fatties
 fattiest
 fattiness
 fatting
-fattishness
 fattrels
 fatuate
 failing
@@ -10497,6 +10496,7 @@ frostier
 foamers
 frostiest
 frostily
+fattishness
 frostiness
 frosting
 frostings
