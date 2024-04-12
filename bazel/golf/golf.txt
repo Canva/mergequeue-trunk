@@ -993,7 +993,6 @@ gaminish
 gamins
 gamma
 gammacism
-gammacismus
 gryphon
 gammadia
 gammadion
@@ -4975,6 +4974,7 @@ glaciaria
 glaciarium
 glaciate
 glaciated
+gammacismus
 glaciates
 glaciating
 glaciation

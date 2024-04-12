@@ -2638,6 +2638,7 @@ ferrotyper
 fraxinella
 forte
 ferrotypes
+flighty
 ferrotyping
 ferrotitanium
 farleu
@@ -5633,7 +5634,6 @@ flighted
 flighter
 flightful
 flighthead
-flighty
 flightier
 flightiest
 feldspathose
