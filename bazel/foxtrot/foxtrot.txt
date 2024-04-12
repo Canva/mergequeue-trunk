@@ -6792,6 +6792,7 @@ fogas
 fogbank
 fogbound
 fogbow
+freakdom
 fogdogs
 fogdom
 foge
@@ -9576,7 +9577,6 @@ frazzles
 frazzling
 frden
 freak
-freakdom
 fentanyl
 freaked
 freakful
