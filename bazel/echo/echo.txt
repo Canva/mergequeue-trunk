@@ -4308,7 +4308,6 @@ emulant
 emulates
 emulation
 emulations
-emulative
 emulatively
 emulator
 edificant
@@ -9004,6 +9003,7 @@ ergatoid
 ergatomorph
 ergatomorphic
 ergatomorphism
+emulative
 ergo
 ergodic
 ergodicity
