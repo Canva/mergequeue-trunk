@@ -7328,6 +7328,7 @@ alarums
 alas
 alasas
 alascan
+antipolo
 alaska
 alaskaite
 alaskan
@@ -15929,7 +15930,6 @@ antipolyneuritic
 antipolitical
 antipolitically
 antipolitics
-antipolo
 antipool
 antipooling
 antipope

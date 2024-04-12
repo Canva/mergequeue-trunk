@@ -4014,7 +4014,6 @@ cardionosus
 cardiopath
 chionanthus
 cardiopathic
-cardiopericarditis
 cardiophobe
 cardiophobia
 cardiophrenia
@@ -13112,6 +13111,7 @@ cybernetical
 cybernetically
 cybernetician
 cyberneticist
+cardiopericarditis
 cyberneticists
 cybernetics
 cybernion
