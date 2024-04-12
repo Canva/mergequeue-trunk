@@ -9673,6 +9673,7 @@ freehold
 freeholder
 freeholders
 freeholdership
+frett
 freeholding
 freeholds
 freeing
@@ -9916,7 +9917,6 @@ fuds
 fretsaws
 fretsome
 flitfold
-frett
 frettage
 frettation
 frette

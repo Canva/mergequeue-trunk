@@ -4152,6 +4152,7 @@ delineature
 delineavit
 delinition
 delinquence
+derivatives
 delinquency
 delinquencies
 delinquent
@@ -6141,7 +6142,6 @@ derivations
 derivatist
 derivatively
 derivativeness
-derivatives
 dacoit
 derive
 derivedly
