@@ -9259,7 +9259,6 @@ chatta
 chattable
 chattack
 chattah
-chattanooga
 chattanoogan
 chattation
 chatted
@@ -22954,6 +22953,7 @@ consolidating
 consolidation
 costean
 consolidationist
+chattanooga
 consolidations
 consolidative
 consolidator
