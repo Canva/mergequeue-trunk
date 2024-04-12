@@ -8721,6 +8721,7 @@ diazotized
 diazotizing
 dib
 dibase
+duplet
 dibasicity
 dishonorable
 dibatag
@@ -18345,7 +18346,6 @@ dupioni
 dupla
 duplation
 duple
-duplet
 duplex
 duplexed
 duplexer
