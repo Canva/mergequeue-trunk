@@ -5123,6 +5123,7 @@ endochorion
 endochorionic
 endochrome
 endocycle
+epanalepsis
 endocyclic
 endocyemate
 endocyst
@@ -7401,7 +7402,6 @@ epalpate
 epalpebrate
 epanadiplosis
 epanagoge
-epanalepsis
 evanition
 epanaleptic
 escruage
