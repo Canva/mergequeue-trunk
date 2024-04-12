@@ -4472,6 +4472,7 @@ demersion
 demesgne
 demesgnes
 demesman
+demisang
 demesmerize
 demesne
 demesnes
@@ -4645,7 +4646,6 @@ demirilievo
 demirobe
 demisability
 demisable
-demisang
 demisangue
 demisavage
 demiscible
