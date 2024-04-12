@@ -13526,6 +13526,7 @@ dissyllabise
 dissyllabised
 dissyllabising
 dissyllabism
+dubbing
 dissyllabize
 dissyllabizing
 dissyllable
@@ -17679,7 +17680,6 @@ dubbeltje
 dubber
 dubbers
 dubbin
-dubbing
 dubbings
 dubbins
 dubhe
