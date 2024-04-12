@@ -5330,6 +5330,7 @@ glede
 grottesco
 gledes
 gledge
+gnat
 gledy
 gleditsia
 gleds
@@ -6223,7 +6224,6 @@ gnashing
 gnashingly
 gnast
 gushiest
-gnat
 gnatcatcher
 gnatflower
 gnathal
