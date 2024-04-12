@@ -8111,6 +8111,7 @@ epiphloedic
 epiphloeum
 epiphonema
 epiphonemae
+expellee
 epiphonemas
 epiphora
 epiphragm
@@ -13020,7 +13021,6 @@ expeditor
 expel
 expellable
 expellant
-expellee
 expellees
 expellent
 expeller

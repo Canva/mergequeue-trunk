@@ -4355,7 +4355,6 @@ gynaeolatry
 gynander
 grenadiership
 gynandrarchy
-gynandrarchic
 gregal
 gynandria
 gynandrian
@@ -9240,6 +9239,7 @@ grocery
 groceries
 groceryman
 grocerymen
+gynandrarchic
 grocerly
 grocers
 gedanken
