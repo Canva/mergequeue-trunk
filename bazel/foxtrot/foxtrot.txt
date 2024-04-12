@@ -1851,6 +1851,7 @@ fecklessly
 fecklessness
 feckly
 fecks
+feign
 fidicinales
 feckulence
 frayn
@@ -2012,7 +2013,6 @@ feyer
 feyest
 feif
 feigher
-feign
 feigned
 feignedly
 fisherfolk

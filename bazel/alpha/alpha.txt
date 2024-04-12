@@ -829,6 +829,7 @@ abridgable
 abridge
 abridgeable
 abridged
+anamneses
 abridgedly
 anisotropical
 abridgement
@@ -11806,7 +11807,6 @@ amperage
 anamite
 anammonid
 anammonide
-anamneses
 anamnesis
 anamnestic
 anamnestically
