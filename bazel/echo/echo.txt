@@ -1133,6 +1133,7 @@ edith
 editing
 epacts
 ectosarcs
+embassy
 elephantine
 edition
 editions
@@ -3382,7 +3383,6 @@ embassade
 embassador
 embassadress
 embassage
-embassy
 embassiate
 embassies
 ensue
