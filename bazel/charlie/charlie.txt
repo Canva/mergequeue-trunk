@@ -3765,6 +3765,7 @@ carbuncled
 carbuncles
 carbuncular
 carbunculation
+coquina
 carbungi
 carburan
 carburant
@@ -24794,7 +24795,6 @@ coquillage
 coquille
 coquilles
 coquimbite
-coquina
 coquita
 coquitlam
 coquito
