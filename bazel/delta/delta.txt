@@ -5423,6 +5423,7 @@ dundreary
 denunciative
 denunciatively
 denunciator
+discepts
 denunciatory
 denutrition
 denver
@@ -11254,7 +11255,6 @@ discept
 disceptator
 discepted
 desmogen
-discepts
 discern
 discernable
 discerned
