@@ -4273,6 +4273,7 @@ deltalike
 deltarium
 deltation
 delthyria
+diddy
 delthyrial
 delthyrium
 deltic
@@ -9050,7 +9051,6 @@ didder
 diddered
 diddering
 diddest
-diddy
 diddies
 diddikai
 diddled
