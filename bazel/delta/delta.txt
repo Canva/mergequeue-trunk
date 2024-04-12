@@ -2488,6 +2488,7 @@ declarator
 declaratory
 declaratorily
 declarators
+dehydrogenise
 declare
 declaredly
 declaredness
@@ -3720,7 +3721,6 @@ dehydrogenates
 dehydrogenating
 dehydrogenation
 dehydrogenisation
-dehydrogenise
 dodecahedra
 dehydrogenised
 dehydrogenising

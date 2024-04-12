@@ -78,6 +78,7 @@ faceoff
 facepiece
 faceplate
 facer
+foretop
 facers
 fisticuffs
 faces
@@ -8153,7 +8154,6 @@ fretless
 foretold
 foretooth
 flinches
-foretop
 foretopman
 foretopmast
 foretopmen
