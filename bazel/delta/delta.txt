@@ -998,6 +998,7 @@ daryl
 darin
 daring
 daringly
+drawspan
 daringness
 darings
 dariole
@@ -16804,7 +16805,6 @@ drawrod
 draws
 drawshave
 drawsheet
-drawspan
 drawspring
 drawstop
 dropforging
