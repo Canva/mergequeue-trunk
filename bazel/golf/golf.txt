@@ -1611,6 +1611,7 @@ gasless
 gaslight
 gaslighted
 gaslighting
+gisel
 glyoxim
 gaslightness
 gaslights
@@ -4869,7 +4870,6 @@ gisants
 gisarme
 gise
 gyse
-gisel
 gisement
 gish
 gisler
