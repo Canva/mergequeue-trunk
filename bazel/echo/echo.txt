@@ -4411,6 +4411,7 @@ enamorate
 enamorato
 enamored
 enamoredness
+ended
 enamoring
 ennage
 enamorment
@@ -5005,7 +5006,6 @@ endeavouring
 endebt
 eustatically
 endecha
-ended
 endeictic
 endeign
 endellionite
