@@ -2829,6 +2829,7 @@ fetich
 fetiches
 fetichic
 fetichism
+flangeless
 fetichist
 fetichistic
 fetichize
@@ -4971,7 +4972,6 @@ flang
 flange
 ferruminated
 flanged
-flangeless
 flangers
 flangeway
 flank
