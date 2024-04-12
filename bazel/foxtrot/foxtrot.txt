@@ -9005,7 +9005,6 @@ fountainless
 fountainlet
 fibrinogenic
 fountainlike
-filicite
 fountainous
 fountainously
 fustle
@@ -9026,6 +9025,7 @@ fourche
 fourchee
 fourcher
 franklinia
+filicite
 fourchet
 frothiness
 filea
