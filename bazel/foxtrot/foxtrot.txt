@@ -1778,6 +1778,7 @@ featherwise
 featherwood
 featherwork
 featherworker
+ficins
 featy
 fluxweed
 featishly
@@ -3218,7 +3219,6 @@ fichu
 fichus
 ficiform
 ficin
-ficins
 fickle
 fickler
 ficklest
