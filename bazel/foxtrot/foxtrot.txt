@@ -2393,6 +2393,7 @@ ferash
 ferbams
 ferberite
 ferd
+flathat
 ferdwit
 fere
 feres
@@ -5133,7 +5134,6 @@ flatfootedly
 flatfootedness
 flatfooting
 flatfoots
-flathat
 flathead
 flatheads
 flatiron
