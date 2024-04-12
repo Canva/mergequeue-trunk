@@ -3327,6 +3327,7 @@ geranomorph
 geranomorphae
 gerara
 gormandizer
+guidable
 gerard
 gerardia
 gerardias
@@ -10135,7 +10136,6 @@ guyandot
 guianese
 guib
 guichet
-guidable
 guidance
 guide
 guideboard

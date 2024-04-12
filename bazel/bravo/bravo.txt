@@ -3930,6 +3930,7 @@ bawlers
 bawly
 bawling
 bawls
+blacksmithing
 bawn
 bawneen
 bawra
@@ -10187,7 +10188,6 @@ blackseed
 blackshirt
 blackshirted
 blacksmith
-blacksmithing
 blacksmiths
 blacksnake
 blackstick
