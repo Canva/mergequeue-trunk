@@ -1023,7 +1023,6 @@ gamogamy
 gamogenesis
 gamogeny
 gamogony
-gamolepis
 gamomania
 gamond
 gamone
@@ -1279,6 +1278,7 @@ gara
 glossectomies
 garad
 garage
+gamolepis
 garaged
 gyved
 gowk
