@@ -9265,7 +9265,6 @@ chattanooga
 chattanoogan
 chattation
 chatted
-chattel
 chattelhood
 chattelism
 chattelization
@@ -24942,6 +24941,7 @@ corcopali
 cord
 cordage
 cordages
+chattel
 cordaitaceae
 cordaitaceous
 cordaitalean
