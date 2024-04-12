@@ -25878,6 +25878,7 @@ corteges
 corteise
 cortes
 cortex
+corvine
 cortexes
 cortez
 cortian
@@ -25961,7 +25962,6 @@ corvina
 corvinae
 creolize
 corvinas
-corvine
 corviser
 corvisor
 corvktte
