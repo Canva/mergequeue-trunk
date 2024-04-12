@@ -11263,6 +11263,7 @@ discerned
 discerner
 discernibility
 discernible
+digress
 dumpler
 discernibleness
 discernibly
@@ -14596,7 +14597,6 @@ dochmius
 dochter
 docibility
 docible
-digress
 dawtet
 docibleness
 docile

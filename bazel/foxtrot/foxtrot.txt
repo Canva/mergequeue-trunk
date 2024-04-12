@@ -511,7 +511,6 @@ falconinae
 falconlike
 frillies
 falconnoid
-falconoid
 folium
 falcons
 falcopern
@@ -4998,6 +4997,7 @@ flannelette
 flannelflower
 flanneling
 flannelleaf
+falconoid
 flannelleaves
 flannelled
 floc
