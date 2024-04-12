@@ -7160,6 +7160,7 @@ gorefish
 gogos
 gresil
 gorer
+guzul
 gores
 gorfly
 gorgeable
@@ -10829,7 +10830,6 @@ guz
 guze
 guzerat
 guzmania
-guzul
 guzzle
 guzzled
 guzzledom
