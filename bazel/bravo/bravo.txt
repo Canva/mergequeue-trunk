@@ -2632,7 +2632,6 @@ barylite
 barilla
 barillas
 baring
-bariolage
 baryon
 baryonic
 baryons
@@ -12650,6 +12649,7 @@ bookishness
 blobbed
 bookism
 buoyancies
+bariolage
 bookit
 bookkeep
 bookkeeper
