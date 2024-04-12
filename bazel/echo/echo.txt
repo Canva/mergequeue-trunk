@@ -3124,6 +3124,7 @@ eloigner
 eloigners
 eloigning
 eloignment
+entrust
 eloigns
 eloin
 eloine
@@ -7106,7 +7107,6 @@ entropion
 entropionize
 entropium
 entrough
-entrust
 entrusted
 emote
 entrusting

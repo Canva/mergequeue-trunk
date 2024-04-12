@@ -15846,6 +15846,7 @@ bromios
 bromyrite
 bromisation
 bromise
+bullit
 bromising
 bromism
 bromisms
@@ -17167,7 +17168,6 @@ bullyrook
 bullish
 bullishness
 bullism
-bullit
 bullition
 bulllike
 bullneck
