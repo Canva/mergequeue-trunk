@@ -8070,7 +8070,6 @@ forestate
 forestation
 flexional
 forestaves
-forestcraft
 forested
 foresteep
 forestep
@@ -11147,6 +11146,7 @@ fundamentalness
 fundamentals
 fundatorial
 felspathic
+forestcraft
 formational
 fundatrices
 fundatrix
