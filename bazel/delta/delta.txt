@@ -9758,6 +9758,7 @@ diluent
 diluents
 dilutant
 dilute
+divisionally
 diluted
 dilutedly
 dilutedness
@@ -14382,7 +14383,6 @@ divisibleness
 division
 dollop
 divisional
-divisionally
 diachronicness
 divisionary
 divisionist
