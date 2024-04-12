@@ -4503,6 +4503,7 @@ encapsulated
 encapsulates
 encapsulating
 encapsulation
+exceeder
 encapsulations
 encapsule
 encapsuled
@@ -11939,7 +11940,6 @@ exceed
 exceedable
 elutes
 exceeded
-exceeder
 exceeders
 exceeding
 exceedingly
