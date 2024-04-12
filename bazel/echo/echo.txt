@@ -2430,6 +2430,7 @@ electrographite
 electrograving
 electroharmonic
 electrohemostasis
+engrailment
 eveners
 electrohydraulic
 exacinate
@@ -5822,7 +5823,6 @@ engraftment
 engrafts
 engrail
 engrailed
-engrailment
 engrails
 engrained
 engrainer
