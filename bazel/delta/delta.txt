@@ -12524,7 +12524,6 @@ diskless
 decurrently
 disknow
 diskography
-dvandva
 dextrorse
 diskophile
 diskos
@@ -14808,6 +14807,7 @@ dodonaean
 dodonaena
 disanagrammatize
 dodonean
+dvandva
 dodonian
 decoyed
 dodos
