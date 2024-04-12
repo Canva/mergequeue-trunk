@@ -12905,7 +12905,6 @@ boracium
 boracous
 borage
 boraginaceae
-boraginaceous
 boragineous
 borago
 borak
@@ -14837,6 +14836,7 @@ breakweather
 breakwind
 bream
 breamed
+boraginaceous
 breaming
 breams
 blasts
