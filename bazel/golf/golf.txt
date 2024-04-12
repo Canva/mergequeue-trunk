@@ -2749,6 +2749,7 @@ geneticists
 genetics
 ganymedes
 genetika
+gnashingly
 genetmoil
 genetoid
 genetor
@@ -6223,7 +6224,6 @@ gnars
 gnash
 gnashed
 gnashing
-gnashingly
 gnast
 gushiest
 gnatcatcher
