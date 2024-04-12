@@ -3569,6 +3569,7 @@ embossed
 eunuch
 exponentiations
 embossers
+endpiece
 embossing
 embossman
 embossment
@@ -5445,7 +5446,6 @@ endozoa
 endozoic
 endpaper
 endpapers
-endpiece
 extranidal
 endplate
 endplates

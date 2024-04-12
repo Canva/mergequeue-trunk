@@ -1407,7 +1407,6 @@ fatiscence
 fatiscent
 fatless
 fatly
-fatlike
 fatling
 fatlings
 fatness
@@ -8411,6 +8410,7 @@ formaldehydesulphoxylic
 formaldoxime
 formalesque
 formalin
+fatlike
 formalins
 formalisation
 formalise
