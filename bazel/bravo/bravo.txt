@@ -1165,7 +1165,6 @@ baittle
 baywood
 baywoods
 bayz
-baiza
 baizas
 baize
 baized
@@ -8314,6 +8313,7 @@ bifteck
 bifunctional
 bifurcal
 bifurcate
+baiza
 bifurcated
 bifurcately
 bifurcates

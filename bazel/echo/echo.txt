@@ -5390,7 +5390,6 @@ euchite
 endothecia
 endothecial
 empoisoner
-endothecium
 elaps
 elamitic
 endothelia
@@ -10625,6 +10624,7 @@ etiquettes
 etiquettical
 etna
 etnas
+endothecium
 etoile
 etoiles
 eton
