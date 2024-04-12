@@ -14278,7 +14278,6 @@ circumesophagal
 circumesophageal
 circumfer
 circumference
-circumferences
 circumferent
 circumferential
 circumferentially
@@ -24067,6 +24066,7 @@ conversative
 conversazione
 conversaziones
 cowbell
+circumferences
 conversazioni
 converse
 conversed

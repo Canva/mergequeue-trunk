@@ -3539,6 +3539,7 @@ defuse
 defuses
 defusing
 defusion
+dildos
 defuze
 dims
 defuzed
@@ -9681,7 +9682,6 @@ dilators
 dildo
 dildoe
 dildoes
-dildos
 dilection
 dilemi
 duomo
