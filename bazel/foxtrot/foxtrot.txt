@@ -1313,7 +1313,6 @@ fatalists
 fatality
 fatalities
 fatally
-fatalness
 fatals
 flap
 fatback
@@ -2017,6 +2016,7 @@ fisherfolk
 feignedness
 feigner
 feigners
+fatalness
 feigning
 feigningly
 feigns

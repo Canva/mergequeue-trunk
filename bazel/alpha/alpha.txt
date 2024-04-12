@@ -2562,6 +2562,7 @@ appall
 aclidian
 aclinic
 aclys
+aphasias
 acloud
 aclu
 acmaea
@@ -16801,7 +16802,6 @@ aphanophyre
 aphanozygous
 aphasia
 aphasiacs
-aphasias
 aphasic
 aphasics
 aphelandra
