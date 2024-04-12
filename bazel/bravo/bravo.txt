@@ -3051,6 +3051,7 @@ bartered
 barterer
 barterers
 bartering
+bedridden
 bangia
 barters
 barth
@@ -4805,7 +4806,6 @@ bedrenches
 bedress
 bedribble
 bedrid
-bedridden
 bedrift
 bedright
 bedrip

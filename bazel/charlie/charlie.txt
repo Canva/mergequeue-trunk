@@ -15093,6 +15093,7 @@ civilianize
 civilians
 civilisable
 civilisation
+compliantly
 civilisational
 civilisations
 civilisatory
@@ -20727,7 +20728,6 @@ compliances
 compliancy
 compliancies
 compliant
-compliantly
 complicacy
 complicacies
 complicant
