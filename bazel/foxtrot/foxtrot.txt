@@ -8952,6 +8952,7 @@ foul
 foulards
 foulbrood
 foulder
+furdel
 fouldre
 fouled
 fouler
@@ -11354,7 +11355,6 @@ furcula
 furculae
 faulkland
 furculum
-furdel
 furfooz
 furfur
 fossilogist
