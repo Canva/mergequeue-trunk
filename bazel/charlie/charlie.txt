@@ -5479,6 +5479,7 @@ cataloguist
 cataloguize
 catalonian
 cataloon
+consolatoriness
 catalos
 catalowne
 catalpa
@@ -22945,7 +22946,6 @@ consolator
 corticin
 consolatory
 consolatorily
-consolatoriness
 consolatrix
 console
 crossfire
