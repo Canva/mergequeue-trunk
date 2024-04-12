@@ -2680,6 +2680,7 @@ generality
 generalities
 generalization
 generalizations
+guzerat
 generalize
 generalizeable
 generalizer
@@ -10830,7 +10831,6 @@ generant
 guvacoline
 guz
 guze
-guzerat
 guzmania
 guzzle
 guzzled
