@@ -6669,7 +6669,6 @@ desilverized
 desilverizer
 desilverizing
 desilvers
-desynapsis
 desynaptic
 desynchronize
 desynchronizing
@@ -13191,6 +13190,7 @@ dorstenia
 disproportionally
 disproportionalness
 degausser
+desynapsis
 disproportionate
 disproportionately
 disproportionateness
