@@ -6428,6 +6428,7 @@ gobbet
 gobby
 gobbin
 gobble
+granulomatosis
 gobbled
 gobbledegook
 gobbledygook
@@ -8098,7 +8099,6 @@ gobies
 granulocytopoiesis
 granuloma
 granulomas
-granulomatosis
 granulometric
 granulosa
 geneticist
