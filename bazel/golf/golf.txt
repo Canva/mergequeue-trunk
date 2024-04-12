@@ -5225,6 +5225,7 @@ gnathic
 glasswork
 guider
 glassworker
+gjetost
 glassworkers
 glassworking
 glassworks
@@ -8654,7 +8655,6 @@ greengrocery
 greengroceries
 greengrocers
 greenhead
-gjetost
 gametogony
 greenheaded
 greenheart
