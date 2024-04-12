@@ -10312,7 +10312,6 @@ amerism
 ailuromania
 ameristic
 amerveil
-amesace
 amesaces
 amesite
 amess
@@ -15399,6 +15398,7 @@ antikathode
 antikenotoxin
 antiketogen
 antiketogenesis
+amesace
 antiketogenic
 antikinase
 antiking
