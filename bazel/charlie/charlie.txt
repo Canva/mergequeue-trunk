@@ -3445,7 +3445,6 @@ carabinier
 carabiniere
 carabinieri
 carabins
-caraboa
 caraboid
 carabus
 caracal
@@ -9999,6 +9998,7 @@ cherished
 cherisher
 cherishers
 cherishes
+caraboa
 cherishing
 cherishingly
 cherishment
