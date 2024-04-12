@@ -10902,7 +10902,6 @@ chirimen
 chirimia
 chirimoyer
 chowk
-chirino
 chirinola
 chiripa
 chirivita
@@ -19742,6 +19741,7 @@ comburgess
 comburimeter
 comburimetry
 comburivorous
+chirino
 combust
 combusted
 combustibility
