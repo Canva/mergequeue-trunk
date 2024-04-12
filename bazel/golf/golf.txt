@@ -51,7 +51,6 @@ gaelicism
 gabion
 gabionade
 gruels
-girosols
 gabionage
 gabioned
 grammes
@@ -8117,6 +8116,7 @@ grapefruit
 grapeful
 grapey
 grapeys
+girosols
 gastroenterotomy
 grapeless
 gilbertite
