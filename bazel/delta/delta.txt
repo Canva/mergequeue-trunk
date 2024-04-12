@@ -5917,6 +5917,7 @@ depriorize
 deprivable
 deprival
 deprivals
+discontentive
 deprivate
 deprivation
 deprivations
@@ -6974,7 +6975,6 @@ destandardize
 desterilization
 desterilized
 destigmatization
-discontentive
 destigmatize
 destigmatizing
 destin
