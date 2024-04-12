@@ -16555,6 +16555,7 @@ dragomanic
 dragomanish
 dragomans
 dragomen
+duffel
 dragon
 dragonade
 deda
@@ -17876,7 +17877,6 @@ duffadar
 decarchies
 duffed
 dynamisms
-duffel
 dipolarization
 duffels
 duffer
