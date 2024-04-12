@@ -1037,7 +1037,6 @@ farmable
 farmage
 farmed
 farmer
-farmeress
 farmery
 farmeries
 farmerish
@@ -1829,6 +1828,7 @@ factualist
 februarius
 februation
 fec
+farmeress
 fecal
 fecalith
 fecaloid
