@@ -4070,7 +4070,6 @@ finisher
 finishers
 finishes
 finishing
-finitary
 finite
 finiteness
 finites
@@ -6783,6 +6782,7 @@ foetus
 foetuses
 fofarraw
 flanger
+finitary
 fog
 fogas
 fogbank
