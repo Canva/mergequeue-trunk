@@ -16543,6 +16543,7 @@ anuresis
 anuretic
 anuria
 ampangabeite
+assumably
 anurias
 anuric
 anurous
@@ -21920,7 +21921,6 @@ assubjugate
 assuefaction
 assuetude
 assumable
-assumably
 antimetabolite
 assume
 assumed
