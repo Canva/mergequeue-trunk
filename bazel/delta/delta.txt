@@ -551,7 +551,6 @@ dallier
 dalliers
 dallies
 dallyingly
-dallyman
 dallis
 dallop
 dalmania
@@ -13071,6 +13070,7 @@ discomposure
 displicence
 displicency
 displode
+dallyman
 disploded
 displodes
 displosion
