@@ -11743,7 +11743,6 @@ ditchbank
 discriminatively
 discriminativeness
 discriminator
-discriminatory
 discriminatorily
 discriminators
 discriminoid
@@ -15871,6 +15870,7 @@ dosshouse
 dossy
 dossier
 dossiere
+discriminatory
 dossiers
 dossil
 dossils

@@ -2440,7 +2440,6 @@ fermage
 fermail
 fermal
 fermata
-fermatas
 fermate
 fleshed
 fermatian
@@ -8060,6 +8059,7 @@ forestaffs
 forestage
 forestay
 forestair
+fermatas
 forestays
 forestaysail
 forestal
