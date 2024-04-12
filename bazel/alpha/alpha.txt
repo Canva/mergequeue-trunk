@@ -8862,7 +8862,6 @@ alloys
 alloisomer
 alloisomeric
 alloisomerism
-allokinetic
 allokurtic
 allolalia
 allolalic
@@ -20943,6 +20942,7 @@ ascertainer
 ascertaining
 ascertains
 ascescency
+allokinetic
 ascescent
 asceses
 ascesis
