@@ -1955,7 +1955,6 @@ ejecta
 ejectable
 etrogs
 ejectamenta
-ejected
 endomyces
 entailers
 ejecting
@@ -7943,6 +7942,7 @@ epileptic
 epileptical
 extricate
 epileptically
+ejected
 epileptics
 epileptogenic
 epileptogenous
