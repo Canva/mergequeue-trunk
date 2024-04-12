@@ -1987,6 +1987,7 @@ eker
 ekes
 ekhimi
 ekistic
+excubitoria
 ekistics
 ekka
 ekphore
@@ -12223,7 +12224,6 @@ excruciatingly
 excruciatingness
 excruciator
 excubant
-excubitoria
 excubitorium
 excud
 excudate
