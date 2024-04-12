@@ -564,6 +564,7 @@ backstromite
 backswept
 backswimmer
 backswing
+bedsonia
 backsword
 backswording
 bettergates
@@ -4843,7 +4844,6 @@ bedside
 bedsit
 bedsite
 bedsock
-bedsonia
 bedsonias
 bumblefoot
 bedsore
