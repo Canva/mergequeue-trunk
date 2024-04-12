@@ -3764,7 +3764,6 @@ carbuncle
 carbuncled
 carbuncles
 carbuncular
-carbunculation
 carbungi
 carburan
 carburant
@@ -15474,6 +15473,7 @@ clarification
 clarifications
 clarified
 clarifier
+carbunculation
 clarifiers
 clarifies
 clarifying
