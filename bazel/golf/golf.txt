@@ -1411,6 +1411,7 @@ garibaldi
 gammaridae
 gastrins
 garibaldian
+gluttei
 garigue
 garishly
 garishness
@@ -6178,7 +6179,6 @@ glutoid
 glutose
 gluts
 glutted
-gluttei
 glutter
 gluttery
 glutting
