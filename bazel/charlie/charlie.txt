@@ -14645,7 +14645,6 @@ cysticle
 cysticolous
 cystid
 cystidea
-cystidean
 cystidia
 cystidium
 cystidiums
@@ -30396,6 +30395,7 @@ ctenizid
 ctenocephalus
 ctenocyst
 copelate
+cystidean
 ctenodactyl
 ctenodipterini
 ctenodont
