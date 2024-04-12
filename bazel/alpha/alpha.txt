@@ -1449,7 +1449,6 @@ acceptance
 acceptances
 acceptancy
 acceptancies
-acceptant
 antidemocratic
 acceptation
 acceptavit
@@ -17534,6 +17533,7 @@ apout
 apoxesis
 apoxyomenos
 apozem
+acceptant
 archleader
 apozema
 apozemical

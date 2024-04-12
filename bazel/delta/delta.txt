@@ -10854,7 +10854,6 @@ disa
 disability
 disabilities
 disable
-disabled
 disablement
 disableness
 demonstrativeness
@@ -14988,6 +14987,7 @@ dogsbody
 dogsbodies
 dogship
 dogshore
+disabled
 dogskin
 dogsleds
 disconformable
