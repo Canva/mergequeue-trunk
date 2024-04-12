@@ -1728,7 +1728,6 @@ gastric
 gastricism
 gastrilegous
 gastriloquy
-gastriloquial
 glittering
 grognard
 gastriloquism
@@ -5185,6 +5184,7 @@ glaserite
 graveyards
 glashan
 gumwood
+gastriloquial
 glass
 gaily
 gyrencephalate
