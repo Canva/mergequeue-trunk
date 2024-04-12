@@ -13938,6 +13938,7 @@ achter
 anoxias
 anoxybiosis
 anoxybiotic
+aplanogamete
 anoxic
 anoxidative
 anquera
@@ -17055,7 +17056,6 @@ aplanatic
 aplanatically
 aplanatism
 aplanobacter
-aplanogamete
 aplanospore
 aplasia
 aplasias
