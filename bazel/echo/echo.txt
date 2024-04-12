@@ -6395,7 +6395,6 @@ enshielding
 enshrined
 enshrinement
 enshrinements
-enshrines
 enshroud
 enshrouded
 enshrouding
@@ -6854,6 +6853,7 @@ enows
 entocnemial
 entocoele
 entocoelic
+enshrines
 entocondylar
 entocondyle
 entocondyloid
