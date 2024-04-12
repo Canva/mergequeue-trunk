@@ -8027,7 +8027,6 @@ bicaudate
 bicched
 boeotia
 bice
-bicellular
 bicentenary
 bicentennial
 bicentennially
@@ -12371,6 +12370,7 @@ bonbonnieres
 bonbons
 bonce
 bonchief
+bicellular
 bond
 berberins
 bondable
