@@ -2242,7 +2242,6 @@ geat
 granulosis
 geatas
 geb
-gebanga
 gebbie
 gecarcinian
 gecarcinidae
@@ -2845,6 +2844,7 @@ genocidal
 galvaniser
 genoese
 genoise
+gebanga
 genome
 genomic
 genoms
