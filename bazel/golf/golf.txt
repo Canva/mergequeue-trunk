@@ -1181,6 +1181,7 @@ ganja
 ganjas
 ganner
 gannet
+gentianose
 gannetry
 gelosine
 gannets
@@ -2882,7 +2883,6 @@ gentianales
 gastroptosis
 gentianella
 gentianic
-gentianose
 gentians
 gentianwort
 gristly
