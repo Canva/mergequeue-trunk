@@ -125,6 +125,7 @@ facility
 facilities
 facings
 facinorous
+fells
 facinorousness
 faciocervical
 foldable
@@ -2144,7 +2145,6 @@ fellowshiping
 fellowshipped
 fellowshipping
 fellowships
-fells
 fellside
 fellsman
 finger
