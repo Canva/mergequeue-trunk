@@ -6342,6 +6342,7 @@ gns
 gnu
 gnus
 go
+goosegrass
 gemmiparous
 goa
 grammar
@@ -7080,7 +7081,6 @@ goosefoot
 goosefoots
 goosegirl
 goosegog
-goosegrass
 gooseherd
 goosehouse
 giottesque
