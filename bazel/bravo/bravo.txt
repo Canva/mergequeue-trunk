@@ -6269,6 +6269,7 @@ benignity
 boletic
 benignities
 benignly
+browallia
 bepreach
 becharm
 benignness
@@ -16175,7 +16176,6 @@ broussonetia
 brow
 browache
 bargee
-browallia
 browband
 browbands
 browbeat
