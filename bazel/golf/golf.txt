@@ -602,6 +602,7 @@ galletas
 galleting
 gallfly
 gallflies
+gauloiserie
 galli
 gally
 galliambic
@@ -2025,7 +2026,6 @@ gaullism
 glints
 gaullist
 gerundively
-gauloiserie
 gauls
 gaulsh
 gault

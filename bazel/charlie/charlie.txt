@@ -6514,7 +6514,6 @@ cedars
 cedarware
 cedarwood
 ceded
-cedens
 ceder
 ceders
 cedes
@@ -31864,6 +31863,7 @@ cutted
 cutter
 cutterhead
 cutterman
+cedens
 cutters
 cutthroat
 cutthroats
