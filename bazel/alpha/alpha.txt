@@ -14104,7 +14104,6 @@ antecedence
 aetiotropic
 antecedency
 antecedent
-antecedental
 antecedently
 antecedes
 anteceding
@@ -15789,6 +15788,7 @@ antiparastatitis
 antiparliament
 antiparliamental
 antiparliamentary
+antecedental
 antiparliamentarian
 antiparliamentarians
 antiparliamentarist
