@@ -2550,6 +2550,7 @@ electropathology
 extramorainic
 electrophilic
 electrophilically
+eligibleness
 electrophysicist
 electrophysics
 electrophysiology
@@ -2931,7 +2932,6 @@ eligenda
 eligibility
 eligibilities
 eligible
-eligibleness
 eligibles
 eligibly
 eagers
