@@ -4972,7 +4972,6 @@ demurely
 demureness
 demurer
 demurest
-demurity
 demurrage
 demurral
 demurrals
@@ -8259,6 +8258,7 @@ dialing
 descensional
 dialings
 dorbie
+demurity
 dialypetalae
 dialypetalous
 dialyphyllous
