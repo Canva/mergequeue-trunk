@@ -12774,6 +12774,7 @@ chumpy
 chumpiness
 communalisation
 chumping
+compartmentalize
 chumpish
 chumpishness
 chumps
@@ -24669,7 +24670,6 @@ coppin
 canyons
 copping
 copple
-compartmentalize
 copplecrown
 coppled
 coppling
