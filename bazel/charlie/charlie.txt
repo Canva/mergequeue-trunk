@@ -2205,7 +2205,6 @@ canalizes
 canalizing
 canalla
 canalled
-canaller
 canallers
 canalling
 canalman
@@ -24265,6 +24264,7 @@ classist
 carucal
 cookdom
 cooked
+canaller
 cookee
 corncutting
 cookey
