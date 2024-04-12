@@ -3506,6 +3506,7 @@ gerrymandered
 gimme
 gerrymanderer
 gerrymandering
+grandsir
 gerrymanders
 gers
 gersdorffite
@@ -7959,7 +7960,6 @@ grandparents
 grandpas
 grandrelle
 grands
-grandsir
 grandsire
 grandson
 grandsons
