@@ -3986,7 +3986,6 @@ delegable
 delegacy
 domiculture
 delegacies
-delegalize
 delegalized
 delegalizing
 delegant
@@ -16139,6 +16138,7 @@ dovening
 dovens
 dover
 doves
+delegalize
 dovetail
 dovetailed
 dovetailer

@@ -6724,6 +6724,7 @@ aigre
 aigremore
 alkaligen
 aigret
+amyraldist
 aigrets
 aigrette
 adenomeningeal
@@ -10650,7 +10651,6 @@ amiray
 autocondensation
 amiral
 amyraldism
-amyraldist
 amiranha
 amirate
 amirates
