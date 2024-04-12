@@ -13806,7 +13806,6 @@ anon
 anonaceous
 anonad
 assertrix
-anonang
 adambulacral
 anoncillo
 anonychia
@@ -17742,6 +17741,7 @@ appertain
 appertained
 appertaining
 appertainment
+anonang
 appertains
 appertinent
 appertise
