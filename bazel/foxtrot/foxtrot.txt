@@ -519,6 +519,7 @@ falcunculus
 falda
 falderal
 falderals
+fregatidae
 fidging
 falderols
 faldetta
@@ -9754,7 +9755,6 @@ freezingly
 fregata
 fortitude
 fregatae
-fregatidae
 fregit
 frey
 freya

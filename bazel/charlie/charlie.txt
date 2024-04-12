@@ -9053,7 +9053,6 @@ charmel
 charmer
 charmers
 charmeuse
-charmful
 charmfully
 charmfulness
 charming
@@ -25919,6 +25918,7 @@ cortinarious
 cortinarius
 cortinate
 cortine
+charmful
 cortins
 cortisol
 cortisols
