@@ -901,7 +901,6 @@ fetch
 fanweed
 fanwise
 fanwork
-fanwort
 fanworts
 fanwright
 fanzine
@@ -6463,6 +6462,7 @@ fluorenes
 fluorenyl
 fluctuability
 fluoresage
+fanwort
 fluoresced
 fluorescein
 fluoresceine
