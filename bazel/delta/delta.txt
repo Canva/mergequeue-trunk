@@ -10271,6 +10271,7 @@ dyophone
 diopsidae
 diopside
 diopsides
+discophore
 diopsidic
 diopsimeter
 dioptase
@@ -11575,7 +11576,6 @@ discophile
 discophora
 decoloured
 discophoran
-discophore
 discoplacenta
 discoplacental
 discoplacentalian
