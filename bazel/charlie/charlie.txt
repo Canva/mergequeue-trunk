@@ -16446,7 +16446,6 @@ clocked
 clocker
 clockface
 clockhouse
-clocking
 clockings
 clockkeeper
 clockless
@@ -18652,6 +18651,7 @@ colalgia
 colament
 colan
 colander
+clocking
 colanders
 consists
 colane
