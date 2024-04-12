@@ -899,7 +899,6 @@ ectoplasmic
 ectoplastic
 ectoproct
 eriocaulaceous
-ectoproctan
 ectoproctous
 eparcuale
 ectopterygoid
@@ -6384,6 +6383,7 @@ ensete
 enshade
 enshadow
 enshawl
+ectoproctan
 ensheath
 ensheathe
 ensheathed
