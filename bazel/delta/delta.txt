@@ -9294,7 +9294,6 @@ differentials
 differentiant
 differentiate
 differentiates
-differentiating
 differentiation
 differentiations
 differentiative
@@ -13932,6 +13931,7 @@ districts
 distringas
 distritbute
 distritbuted
+differentiating
 distritbutes
 distritbuting
 distrito
