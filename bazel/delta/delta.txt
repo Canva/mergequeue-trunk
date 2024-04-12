@@ -9273,6 +9273,7 @@ diffame
 diffareation
 degging
 diffarreation
+disparate
 diffeomorphic
 diffeomorphism
 differ
@@ -12850,7 +12851,6 @@ disparager
 disparages
 disparaging
 disparagingly
-disparate
 disparately
 disparation
 disparatum
