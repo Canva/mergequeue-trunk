@@ -2486,7 +2486,6 @@ fermions
 fermis
 fermium
 fermiums
-fermorite
 fern
 fernandinite
 fernando
@@ -10706,6 +10705,7 @@ fruitwomen
 fruitwood
 fruitworm
 frumaryl
+fermorite
 fictitious
 frument
 frumentaceous

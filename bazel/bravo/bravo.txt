@@ -11996,6 +11996,7 @@ boilermakers
 boilerman
 boilerplate
 boilers
+bunking
 boilersmith
 boilerworks
 boily
@@ -17442,7 +17443,6 @@ bunkermen
 bunkers
 bunkhouse
 bunkie
-bunking
 bunkload
 bunkmate
 bunkmates
