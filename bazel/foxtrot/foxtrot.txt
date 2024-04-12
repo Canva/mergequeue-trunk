@@ -464,6 +464,7 @@ faker
 formicariidae
 fakery
 fakeries
+femurs
 feetage
 fakers
 faki
@@ -2267,7 +2268,6 @@ forehard
 femorotibial
 fempty
 femur
-femurs
 fen
 fenagled
 fenagler
