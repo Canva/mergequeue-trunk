@@ -994,6 +994,7 @@ bahisti
 bahmani
 bahmanid
 bahnung
+bivalents
 baho
 bahoe
 bahoo
@@ -9934,7 +9935,6 @@ bivalence
 bivalency
 bivalencies
 bivalent
-bivalents
 bivalve
 bivalved
 bivalves
