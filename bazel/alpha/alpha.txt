@@ -8744,6 +8744,7 @@ achievers
 allis
 allision
 alliteral
+assailants
 alliterate
 alliterated
 alliterates
@@ -21568,7 +21569,6 @@ assailable
 assailableness
 assailant
 attomy
-assailants
 assailed
 assailer
 assailers
