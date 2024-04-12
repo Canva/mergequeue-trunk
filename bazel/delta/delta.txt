@@ -14022,7 +14022,6 @@ disusage
 disusance
 disuse
 disused
-disuses
 disusing
 disutility
 disutilize
@@ -16995,6 +16994,7 @@ dressmake
 dressmakery
 dressmakers
 dressmakership
+disuses
 dressmaking
 dressoir
 dressoirs
