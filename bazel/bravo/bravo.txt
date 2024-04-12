@@ -13685,6 +13685,7 @@ bovids
 boviform
 bovine
 bovinely
+bronchotetany
 bovines
 bovinity
 bovinities
@@ -15975,7 +15976,6 @@ bronchospasm
 bronchostenosis
 bronchostomy
 bronchostomies
-bronchotetany
 bronchotyphus
 bronchotome
 bronchotomy

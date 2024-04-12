@@ -7069,6 +7069,7 @@ goosebill
 goosebird
 gooseboy
 goosebone
+grossirete
 goosecap
 goosed
 goosefish
@@ -9358,7 +9359,6 @@ guesstimate
 grosshead
 grossierete
 grossify
-grossirete
 grossly
 glees
 grosso
