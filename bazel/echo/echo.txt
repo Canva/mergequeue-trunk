@@ -11021,6 +11021,7 @@ euphemism
 euphemisms
 euphemistic
 euphemistical
+ewry
 euphemistically
 euphemization
 euphemize
@@ -11729,7 +11730,6 @@ ewest
 ewhow
 ewing
 ewound
-ewry
 ewte
 ex
 exacerbated

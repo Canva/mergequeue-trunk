@@ -2705,6 +2705,7 @@ decopperization
 decopperize
 decor
 decorability
+diphthongised
 decorable
 decorably
 decorament
@@ -10437,7 +10438,6 @@ diphthonging
 diphthongisation
 diphthongise
 dalar
-diphthongised
 diphthongising
 diphthongization
 diphthongize
