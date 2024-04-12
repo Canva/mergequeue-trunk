@@ -79,6 +79,7 @@ earlyish
 earlike
 earliness
 earlish
+enfacing
 earlywood
 earlobe
 earlock
@@ -5544,7 +5545,6 @@ enface
 enfaced
 enfacement
 enfaces
-enfacing
 elatedly
 enfamous
 enfants
