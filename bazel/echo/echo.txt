@@ -129,7 +129,6 @@ ears
 earscrew
 earsh
 earshell
-earshot
 earshots
 earsore
 epistolean
@@ -8815,6 +8814,7 @@ equivalencies
 equivalencing
 equivalent
 equivalently
+earshot
 equivalents
 equivaliant
 equivalue
