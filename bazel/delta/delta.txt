@@ -9136,7 +9136,6 @@ dyeability
 dyeable
 ditriglyph
 dieb
-dieback
 diebacks
 dyebeck
 diecase
@@ -12273,6 +12272,7 @@ dishevelled
 dishevelling
 dishevelment
 dishevelments
+dieback
 dishexecontahedroid
 dishful
 dishy
