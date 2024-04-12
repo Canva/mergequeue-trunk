@@ -144,6 +144,7 @@ grimliness
 gaduin
 gadus
 gadwall
+gipsyry
 gadwalls
 gadwell
 gadzooks
@@ -5449,7 +5450,6 @@ glycins
 glycyphyllin
 glycyrize
 glycyrrhiza
-gipsyry
 glycyrrhizin
 groundman
 gouging
