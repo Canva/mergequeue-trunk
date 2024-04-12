@@ -2253,6 +2253,7 @@ cancelable
 cancelation
 canceled
 canceleer
+competible
 canceler
 cancelers
 cancelier
@@ -20579,7 +20580,6 @@ competently
 competentness
 competes
 classmates
-competible
 competing
 competition
 competitioner
