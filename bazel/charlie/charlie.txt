@@ -3867,6 +3867,7 @@ chloralide
 carcinosarcomas
 carcinosarcomata
 carcinus
+cleomes
 carcoon
 card
 cardaissin
@@ -15942,7 +15943,6 @@ clenches
 clenching
 cleoid
 cleome
-cleomes
 cleopatra
 clep
 cleped
