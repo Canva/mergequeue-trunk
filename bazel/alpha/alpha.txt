@@ -7289,6 +7289,7 @@ alangine
 alani
 alanyl
 alanyls
+arborizing
 alanin
 alanine
 alanines
@@ -18587,7 +18588,6 @@ arborist
 arborists
 arborization
 arborize
-arborizing
 arboroid
 arborolater
 arborous
