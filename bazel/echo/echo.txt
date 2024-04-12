@@ -5582,6 +5582,7 @@ enfeebling
 enfeeblish
 enfelon
 enfeoff
+extensively
 enfeoffed
 experimentarian
 enfeoffing
@@ -13576,7 +13577,6 @@ extensions
 extensity
 endorsements
 extensive
-extensively
 extensiveness
 empathizing
 extensivity

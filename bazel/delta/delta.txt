@@ -10722,6 +10722,7 @@ dependent
 dipterology
 dipterologist
 dipteron
+disgavelling
 dipteros
 dipterous
 dipterus
@@ -12114,7 +12115,6 @@ disgavel
 disgaveled
 disgaveling
 disgavelled
-disgavelling
 disgeneric
 dysgenesic
 dysgenesis
