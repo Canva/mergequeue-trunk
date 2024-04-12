@@ -2614,6 +2614,7 @@ acolyth
 acolythate
 acolytus
 acology
+aglets
 acologic
 acolous
 acoluthic
@@ -6234,7 +6235,6 @@ agley
 ansation
 aglet
 aglethead
-aglets
 agly
 acacine
 aglycon

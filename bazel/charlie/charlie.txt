@@ -1776,7 +1776,6 @@ cambiums
 cambyuskan
 camblet
 cambodia
-cambodian
 cambodians
 camboge
 cambogia
@@ -28292,6 +28291,7 @@ crates
 craticular
 cratinean
 crating
+cambodian
 cratometer
 cratometry
 cratometric
