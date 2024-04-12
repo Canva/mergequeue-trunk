@@ -2708,6 +2708,7 @@ generics
 generification
 generis
 graylags
+goings
 generosity
 generosities
 goutiness
@@ -6540,7 +6541,6 @@ generalizable
 goyish
 goyle
 going
-goings
 gois
 goitcho
 goiter
