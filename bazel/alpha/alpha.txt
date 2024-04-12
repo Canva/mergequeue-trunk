@@ -9561,6 +9561,7 @@ altropathy
 altrose
 altruism
 altruisms
+arrendator
 altruist
 altruistic
 altruists
@@ -20215,7 +20216,6 @@ arrears
 arrect
 arrector
 arrendation
-arrendator
 arrenotoky
 arrentable
 arrentation
