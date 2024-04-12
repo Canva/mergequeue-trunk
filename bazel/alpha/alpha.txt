@@ -3132,7 +3132,6 @@ actinoids
 actinolite
 actinolitic
 actinology
-actinologous
 actinomere
 actinomeric
 actinometers
@@ -20546,6 +20545,7 @@ artgum
 artha
 arthel
 arthemis
+actinologous
 arthogram
 arthra
 arthragra
