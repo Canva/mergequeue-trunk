@@ -2752,6 +2752,7 @@ flutters
 festerment
 festers
 festy
+funambulist
 festilogy
 forthcomingness
 festilogies
@@ -11094,7 +11095,6 @@ funambule
 frontality
 funambulic
 funambulism
-funambulist
 funambulo
 funambuloes
 funaria
