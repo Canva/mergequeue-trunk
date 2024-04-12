@@ -5750,6 +5750,7 @@ engirdle
 engirdled
 exodromy
 engirdles
+ensweeten
 engirdling
 engirds
 engirt
@@ -6522,7 +6523,6 @@ encephalola
 enswathes
 enswathing
 ensweep
-ensweeten
 entablature
 entablatured
 emigrated
