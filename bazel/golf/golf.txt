@@ -3397,6 +3397,7 @@ germanism
 germanist
 germanistic
 germanium
+gpss
 gomphosis
 germaniums
 gashest
@@ -9296,7 +9297,6 @@ groomers
 groomy
 grooming
 groomish
-gpss
 galipot
 groomishly
 groomlet
