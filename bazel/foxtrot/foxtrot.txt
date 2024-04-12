@@ -7337,7 +7337,6 @@ fopperies
 flockling
 fopperly
 foppy
-fopping
 foppish
 fops
 fopship
@@ -9171,6 +9170,7 @@ foxwood
 fozy
 fozier
 foziest
+fopping
 fozinesses
 femorocele
 fp
