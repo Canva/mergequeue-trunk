@@ -3580,7 +3580,6 @@ filagreing
 filament
 filamentar
 filamentary
-filamented
 filamentiferous
 filamentoid
 filamentose
@@ -8546,6 +8545,7 @@ formulaic
 formulaically
 formulary
 formularies
+filamented
 formularisation
 formularise
 febricide
