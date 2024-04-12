@@ -5093,6 +5093,7 @@ exemptible
 endocarditic
 endocardium
 endocarp
+ethylates
 endocarpal
 endocarpic
 endocarpoid
@@ -10387,7 +10388,6 @@ estus
 ethylamine
 ethylate
 ethylated
-ethylates
 ethylating
 ethylation
 ethylbenzene
