@@ -7192,7 +7192,6 @@ grassier
 gorgoniacea
 gorgoniacean
 gorgoniaceous
-gorgonian
 gorgonin
 gorgonise
 gorgonised
@@ -9135,6 +9134,7 @@ grisbet
 gurgly
 grysbok
 grise
+gorgonian
 griselda
 griseous
 grisette
