@@ -6346,6 +6346,7 @@ cavendish
 caver
 cavern
 cavernal
+citoles
 caverned
 cavernicolous
 caverning
@@ -14908,7 +14909,6 @@ citolas
 citole
 citoler
 citolers
-citoles
 cytolymph
 cytolysin
 cytolysis

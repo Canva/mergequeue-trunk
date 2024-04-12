@@ -2286,7 +2286,6 @@ deceptional
 deceptions
 deceptious
 diethylstilbestrol
-deceptiously
 deceptive
 deceptively
 deceptiveness
@@ -4981,6 +4980,7 @@ demurrer
 discernably
 demurrers
 demurring
+deceptiously
 demurringly
 demutization
 den
