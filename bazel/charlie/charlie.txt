@@ -12098,7 +12098,6 @@ chowderheaded
 chowderheadedness
 chowdering
 chowders
-chowed
 chowhound
 chowing
 chowry
@@ -21080,6 +21079,7 @@ cephalotome
 conationalistic
 conations
 conative
+chowed
 conatural
 conatus
 conaxial
