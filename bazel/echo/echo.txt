@@ -11261,6 +11261,7 @@ eutaenia
 eutannin
 eutaxy
 eutaxic
+exarillate
 eutaxie
 exercisers
 eutaxite
@@ -11868,7 +11869,6 @@ exarchies
 exarchist
 exarchs
 exareolate
-exarillate
 exaristate
 eireannach
 eth
