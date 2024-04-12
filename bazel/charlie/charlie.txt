@@ -13990,7 +13990,6 @@ czarowitz
 cynosures
 cynosurus
 cynotherapy
-cynoxylon
 cinquain
 cinquains
 cinquanter
@@ -26288,6 +26287,7 @@ costumey
 costumer
 costumery
 costumers
+cynoxylon
 costumes
 costumic
 costumier
