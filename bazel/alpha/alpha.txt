@@ -5463,7 +5463,6 @@ affrighted
 affrightedly
 acarpellous
 affrighter
-affrightful
 affydavy
 affrightfully
 affrighting
@@ -15996,6 +15995,7 @@ antiqua
 antiquary
 antiquarian
 antiquarianism
+affrightful
 antiquarianize
 antiquarianly
 antiquarians

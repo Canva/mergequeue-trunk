@@ -5021,7 +5021,6 @@ ender
 endergonic
 endermatic
 endermic
-endogastric
 endermically
 enderon
 enderonic
@@ -8330,6 +8329,7 @@ epitaxially
 epitaxic
 epitaxies
 epitaxis
+endogastric
 epitela
 epitendineum
 epitenon
