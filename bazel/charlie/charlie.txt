@@ -4187,7 +4187,6 @@ caribed
 cladophyll
 caribes
 caribi
-caribing
 caribou
 caribous
 carica
@@ -21550,6 +21549,7 @@ concurring
 concurs
 concursion
 concurso
+caribing
 concursus
 concuss
 concussant
