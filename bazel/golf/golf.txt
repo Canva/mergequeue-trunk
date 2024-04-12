@@ -3762,6 +3762,7 @@ ghorkhar
 ghost
 ghostdom
 ghosted
+gnathostomatous
 ghostess
 ghostfish
 ghostfishes
@@ -3917,7 +3918,6 @@ giboia
 gibraltar
 gibs
 gibson
-gnathostomatous
 gibsons
 gibstaff
 gibus
