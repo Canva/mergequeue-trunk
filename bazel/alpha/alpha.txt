@@ -1071,6 +1071,7 @@ abstract
 abstractable
 abstracted
 abstractedly
+alegar
 abstracter
 abstracters
 abstractest
@@ -7823,7 +7824,6 @@ alefnull
 alefs
 aleft
 alefzero
-alegar
 aleger
 alehouse
 autostage
