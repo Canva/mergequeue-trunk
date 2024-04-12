@@ -1892,6 +1892,7 @@ eleutherodactyl
 eyn
 eyne
 einkanter
+ethmopalatine
 einkorn
 einsteinian
 enclasps
@@ -10450,7 +10451,6 @@ ethmolith
 ethmomaxillary
 ethmonasal
 ethmopalatal
-ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
