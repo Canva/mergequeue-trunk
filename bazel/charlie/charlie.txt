@@ -715,7 +715,6 @@ cahita
 cahiz
 collyr
 cahokia
-circulating
 cahoot
 cahoots
 cahot
@@ -29949,6 +29948,7 @@ crotaphion
 crotaphite
 crotaphitic
 crotaphytus
+circulating
 cocomat
 crotch
 crotched
