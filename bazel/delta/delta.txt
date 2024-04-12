@@ -2443,6 +2443,7 @@ decivilize
 deck
 decke
 decked
+deprecable
 deckedout
 deckel
 deckels
@@ -5834,7 +5835,6 @@ depraving
 depravingly
 depravity
 depravities
-deprecable
 deprecated
 demythologise
 deprecates
