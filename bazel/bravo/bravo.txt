@@ -15853,6 +15853,7 @@ bromizer
 basified
 bromizes
 bromizing
+bulimus
 bromlite
 bromo
 bromoacetone
@@ -17014,7 +17015,6 @@ bulimic
 bulimiform
 bulimoid
 bulimulidae
-bulimus
 belief
 bulk
 bishoping
