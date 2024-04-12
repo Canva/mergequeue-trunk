@@ -2031,6 +2031,7 @@ camphoid
 camphol
 campholic
 campholide
+comagmatic
 campholytic
 camphols
 camphor
@@ -19623,7 +19624,6 @@ comacine
 comade
 comae
 comagistracy
-comagmatic
 comake
 comaker
 comakers

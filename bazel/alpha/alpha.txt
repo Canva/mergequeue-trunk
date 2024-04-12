@@ -4699,6 +4699,7 @@ advocation
 advocative
 advocator
 advocatory
+agiotages
 advocatress
 advocatrice
 advocatrix
@@ -6174,7 +6175,6 @@ agynous
 agio
 agios
 agiotage
-agiotages
 agyrate
 agyrophobia
 arbitraries
