@@ -3538,7 +3538,6 @@ defunctness
 defuse
 defuses
 defusing
-defusion
 defuze
 dims
 defuzed
@@ -13402,6 +13401,7 @@ dissceptre
 dissceptred
 doat
 dissceptring
+defusion
 disscussive
 disseason
 disseat

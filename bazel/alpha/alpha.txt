@@ -10093,6 +10093,7 @@ ambrosterol
 ambrotype
 ambsace
 ambsaces
+artaba
 ambulacra
 ambulacral
 ambulacriform
@@ -20428,7 +20429,6 @@ arsonous
 arsons
 arsphenamine
 art
-artaba
 artabe
 artamus
 artar
