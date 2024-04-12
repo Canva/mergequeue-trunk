@@ -1573,6 +1573,7 @@ acclimates
 acclimating
 acclimation
 acclimatisable
+amphigenous
 acclimatisation
 acclimatise
 acclimatised
@@ -11131,7 +11132,6 @@ amphigene
 ascertainment
 amphigenesis
 amphigenetic
-amphigenous
 amphigenously
 amphigony
 amphigonia
