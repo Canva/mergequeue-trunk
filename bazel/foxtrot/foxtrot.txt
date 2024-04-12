@@ -5875,6 +5875,7 @@ flocci
 floccilation
 floccillation
 floccing
+frankable
 floccipend
 floccose
 floccosely
@@ -6778,7 +6779,6 @@ foes
 foeship
 foetal
 foetalism
-frankable
 foetalization
 foetation
 foeti
