@@ -3780,7 +3780,6 @@ adequation
 adequative
 ammine
 adermia
-adermin
 adermine
 adesmy
 adespota
@@ -8804,6 +8803,7 @@ allochthon
 allochthonous
 adscititiously
 allocyanine
+adermin
 alloclase
 allocochick
 allocryptic

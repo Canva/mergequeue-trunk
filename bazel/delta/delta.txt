@@ -722,7 +722,6 @@ damselfishes
 damselfly
 damselflies
 damselhood
-damson
 damsons
 dan
 dana
@@ -10661,6 +10660,7 @@ dipping
 dippings
 dipppy
 dipppiest
+damson
 downstater
 diprimary
 diprismatic
