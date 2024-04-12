@@ -2367,6 +2367,7 @@ gelandesprung
 gelant
 gelants
 gelasian
+gena
 gelasimus
 gelastic
 guaican
@@ -2591,7 +2592,6 @@ gemutlich
 gemutlichkeit
 gemwork
 gen
-gena
 genae
 genal
 genapp

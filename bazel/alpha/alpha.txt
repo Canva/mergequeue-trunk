@@ -868,7 +868,6 @@ abrosia
 archididascalian
 abrosias
 abrotanum
-abrotin
 abrotine
 abrupt
 abrupter
@@ -21195,6 +21194,7 @@ asian
 asianic
 asianism
 asians
+abrotin
 asiarch
 asiarchate
 asiatic
