@@ -19972,7 +19972,6 @@ concupiscent
 cabal
 commemorators
 commemorize
-commemorized
 commemorizing
 commence
 commenceable
@@ -22679,6 +22678,7 @@ conquerors
 conquers
 conquest
 conquians
+commemorized
 conquinamine
 conquinine
 cachoeira
