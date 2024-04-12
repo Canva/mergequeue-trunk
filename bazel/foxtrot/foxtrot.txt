@@ -3132,7 +3132,6 @@ fibrocartilage
 fibrocartilaginous
 fibrocaseose
 fibrocaseous
-fibrocellular
 fibrocement
 fibrochondritis
 fibrochondrosteal
@@ -4805,6 +4804,7 @@ flaggiest
 flagginess
 flagging
 flaggings
+fibrocellular
 flaggish
 flagilate
 flagitate
