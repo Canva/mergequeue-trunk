@@ -198,7 +198,6 @@ abbess
 abbesses
 abbest
 abbevillian
-abby
 abbie
 abboccato
 abbogada
@@ -1061,6 +1060,7 @@ absterging
 absterse
 abstersion
 abstersive
+abby
 abstersiveness
 abstertion
 aliet
