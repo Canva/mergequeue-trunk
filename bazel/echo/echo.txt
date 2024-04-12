@@ -2977,7 +2977,6 @@ eleatic
 elinor
 eliot
 eliphalet
-eliquate
 eliquated
 eliquating
 entrenched
@@ -13316,6 +13315,7 @@ expositor
 expository
 expositorial
 expositorially
+eliquate
 expositorily
 expositors
 expositress
