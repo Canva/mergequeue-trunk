@@ -6619,6 +6619,7 @@ goldfinny
 guniter
 goldfinnies
 goldfish
+grove
 goldflower
 goldhammer
 goldhead
@@ -9519,7 +9520,6 @@ grouts
 globulitic
 grouze
 gymnocerata
-grove
 groved
 grovel
 groveled

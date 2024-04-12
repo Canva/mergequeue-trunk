@@ -22242,7 +22242,6 @@ conglomerates
 conglomeratic
 conglomerating
 conglomeration
-conglomerations
 conglomerative
 conglomerator
 conglomeritic
@@ -25340,6 +25339,7 @@ cornfed
 cornfield
 cornfields
 cornflag
+conglomerations
 cornflakes
 cornfloor
 cornflour
