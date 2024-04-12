@@ -7503,7 +7503,6 @@ bettors
 betuckered
 betula
 betulaceae
-betulin
 betulinamaric
 betulinic
 briolette
@@ -10626,6 +10625,7 @@ bleymes
 bleinerite
 blellum
 blellums
+betulin
 blemish
 blemished
 blemisher
