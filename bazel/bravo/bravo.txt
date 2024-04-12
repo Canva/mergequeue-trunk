@@ -4173,6 +4173,7 @@ beardom
 beards
 bearer
 bearers
+brimful
 bearess
 bearfoot
 bearfoots
@@ -15371,7 +15372,6 @@ brills
 brim
 brimborion
 brimborium
-brimful
 brimfully
 brimfullness
 brimfulness
