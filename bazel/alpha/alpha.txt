@@ -4428,6 +4428,7 @@ agromyzid
 adsorbable
 adsorbates
 adsorbed
+archeus
 adsorbent
 adsorbents
 adsorbing
@@ -18875,7 +18876,6 @@ archetypist
 archetto
 archettos
 archeunuch
-archeus
 archexorcist
 archfelon
 archfiend
