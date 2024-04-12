@@ -6785,7 +6785,6 @@ desmose
 desmosis
 desmosite
 desmosome
-desmothoraca
 desmotomy
 desmotrope
 desmotropy
@@ -14296,6 +14295,7 @@ divertissement
 divertissements
 divertive
 didrachmal
+desmothoraca
 diverts
 dives
 divest
