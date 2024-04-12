@@ -5941,7 +5941,6 @@ beltings
 beltir
 biparous
 beltless
-beltlines
 beltmaker
 beltmaking
 beltman
@@ -17037,6 +17036,7 @@ bulks
 bull
 bulla
 bullace
+beltlines
 bullaces
 bullae
 bullalaria
