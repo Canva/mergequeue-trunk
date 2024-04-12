@@ -6272,7 +6272,6 @@ agnat
 agnates
 agnatha
 agnathia
-agnathic
 agnathostomata
 agnathostomatous
 agnathous
@@ -7686,6 +7685,7 @@ alcoholophilia
 alcohols
 alcoholuria
 alconde
+agnathic
 alcoothionic
 alcor
 alcoran
