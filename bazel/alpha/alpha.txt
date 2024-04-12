@@ -12295,7 +12295,6 @@ andaste
 ande
 andean
 anders
-anderson
 anderun
 andesic
 andesine
@@ -14340,6 +14339,7 @@ anther
 antheraea
 antheral
 anthericum
+anderson
 antherid
 antheridia
 antheridial
