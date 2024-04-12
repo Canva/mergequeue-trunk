@@ -6294,7 +6294,6 @@ enright
 enzyms
 enringed
 enringing
-enripen
 enrive
 embalms
 enrobe
@@ -13041,6 +13040,7 @@ expending
 expenditor
 espressos
 exurbias
+enripen
 expenditrix
 elegits
 expenditure
