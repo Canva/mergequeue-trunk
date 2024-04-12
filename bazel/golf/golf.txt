@@ -7695,7 +7695,6 @@ grafted
 grafter
 grafters
 glutition
-grafting
 graftonite
 graftproof
 grafts
@@ -8914,6 +8913,7 @@ grieshuckle
 grievable
 grievance
 grievances
+grafting
 grievant
 grievants
 grieve

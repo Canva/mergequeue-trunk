@@ -5692,6 +5692,7 @@ fator
 flint
 flinted
 flinter
+fossorial
 flinthead
 flinthearted
 forbreak
@@ -9221,7 +9222,6 @@ fractionate
 fractionated
 fractionating
 forbodes
-fossorial
 fractioned
 fractioning
 fractionisation
