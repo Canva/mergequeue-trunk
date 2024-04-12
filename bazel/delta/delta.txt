@@ -1881,7 +1881,6 @@ debrief
 debriefed
 debriefing
 debriefings
-debris
 debrominate
 debromination
 debruise
@@ -17347,6 +17346,7 @@ droplet
 droplets
 droplight
 droplike
+debris
 dropline
 dropling
 dropman
