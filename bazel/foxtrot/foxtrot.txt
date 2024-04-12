@@ -822,7 +822,6 @@ fila
 fanned
 fannel
 fanneling
-fannell
 fanner
 fanners
 fannia
@@ -9892,6 +9891,7 @@ fundable
 freshmen
 freshness
 freesp
+fannell
 freshwater
 freshwoman
 fresison
