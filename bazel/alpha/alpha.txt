@@ -9820,7 +9820,6 @@ amarity
 amaritude
 amarna
 amaroid
-amaroidal
 amarth
 amarthritis
 amas
@@ -12823,6 +12822,7 @@ angiosperm
 angiospermae
 attacks
 angiospermal
+amaroidal
 angiospermic
 angiospermous
 angiosperms
