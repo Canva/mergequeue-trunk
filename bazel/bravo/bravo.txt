@@ -9613,7 +9613,6 @@ bisection
 bisectional
 bisectionally
 bisections
-bisector
 bisectors
 bisectrices
 bisects
@@ -14736,6 +14735,7 @@ braziletto
 brazilian
 brazilianite
 brazilians
+bisector
 brazilin
 brazilins
 brazilite
