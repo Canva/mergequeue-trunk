@@ -6367,6 +6367,7 @@ benzalazine
 benzalcohol
 bakupari
 benzaldehyde
+buckhorn
 benzaldiphenyl
 benzaldoxime
 bandeaus
@@ -14135,7 +14136,6 @@ bradynosus
 bradypepsy
 bradypepsia
 bradypeptic
-buckhorn
 bradyphagia
 bradyphasia
 bradyphemia

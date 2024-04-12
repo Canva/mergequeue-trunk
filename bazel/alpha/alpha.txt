@@ -17073,6 +17073,7 @@ aplite
 aplites
 aplitic
 aplobasalt
+aristocraticalness
 aplodiorite
 aplodontia
 aplodontiidae
@@ -19766,7 +19767,6 @@ aristocrat
 aristocratic
 aristocratically
 amphophilous
-aristocraticalness
 aristocraticism
 aristocraticness
 aristocrats
