@@ -1344,7 +1344,6 @@ dauted
 dautie
 dauties
 dauting
-dauts
 dauw
 davach
 davainea
@@ -7851,6 +7850,7 @@ dextraural
 dextrer
 dextrin
 diacromyodi
+dauts
 dextrinate
 dextrine
 dextrines
