@@ -2762,6 +2762,7 @@ festin
 festinance
 festinate
 foregoers
+friendships
 festinated
 festinating
 filemaking
@@ -10016,7 +10017,6 @@ fenestrone
 fleawood
 friendship
 fuciphagous
-friendships
 frier
 fryer
 friers
