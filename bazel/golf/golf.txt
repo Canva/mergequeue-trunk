@@ -8010,7 +8010,6 @@ graniteware
 gingersnap
 granitic
 granitical
-graniticoline
 granitiferous
 granitification
 granitiform
@@ -9429,6 +9428,7 @@ grounders
 gonfanon
 groundflower
 groundhog
+graniticoline
 groundy
 grounding
 galvanotactic
