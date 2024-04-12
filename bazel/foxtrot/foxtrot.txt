@@ -4293,6 +4293,7 @@ fireworm
 firy
 firiness
 festa
+fruitbearing
 firing
 firings
 firk
@@ -10659,7 +10660,6 @@ fruitage
 fruitages
 fruitarian
 fruitarianism
-fruitbearing
 fruitcake
 fruitcakey
 fruitcakes

@@ -12697,7 +12697,6 @@ chuckles
 chucklesome
 chuckling
 chucklingly
-chuckram
 chuckrum
 chucks
 chuckstone
@@ -13681,6 +13680,7 @@ cryptonym
 cimicifugin
 cimicoid
 cimier
+chuckram
 cymiferous
 ciminite
 cymlin
