@@ -6481,7 +6481,6 @@ agriculture
 agriculturer
 agricultures
 agriculturist
-agriculturists
 agrief
 agrilus
 agrimony
@@ -8675,6 +8674,7 @@ alleviated
 alleviater
 alleviaters
 alleviates
+agriculturists
 alleviating
 alleviatingly
 alleviation
