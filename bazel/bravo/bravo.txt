@@ -3943,7 +3943,6 @@ baze
 bazigar
 bazoo
 bazooka
-bazookaman
 bazookamen
 bazookas
 bazzite
@@ -5480,6 +5479,7 @@ behorror
 behoved
 behoves
 behoving
+bazookaman
 behowl
 behowled
 behowling
