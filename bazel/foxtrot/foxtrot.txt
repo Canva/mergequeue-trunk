@@ -882,6 +882,7 @@ fantasticness
 fantastico
 fantastry
 fantasts
+forbearer
 fortuitous
 fanteague
 fantee
@@ -4339,7 +4340,6 @@ flammability
 first
 firstborn
 firstcomer
-forbearer
 firster
 firstfruits
 furmety
