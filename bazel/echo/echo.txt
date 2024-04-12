@@ -4026,7 +4026,6 @@ emotionalism
 emotionalist
 endosarcode
 emotionalistic
-emotionality
 emotionalize
 emotionalized
 emotionalizing
@@ -4629,6 +4628,7 @@ enchanted
 enchanter
 enchantery
 enchanters
+emotionality
 enchanting
 enchantingly
 enchantingness
