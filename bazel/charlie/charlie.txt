@@ -23888,7 +23888,6 @@ contumaciousness
 contumacity
 contumacities
 contumax
-cantel
 contumely
 contumelies
 contumelious
@@ -30097,6 +30096,7 @@ crpe
 crs
 crts
 cru
+cantel
 crub
 crubeen
 cruce
