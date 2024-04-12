@@ -947,7 +947,6 @@ faraway
 farawayness
 farce
 farced
-farcelike
 farcemeat
 farcer
 farces
@@ -9274,6 +9273,7 @@ fragileness
 fragility
 fragilities
 fragment
+farcelike
 fragmental
 fumously
 fragmentalize
