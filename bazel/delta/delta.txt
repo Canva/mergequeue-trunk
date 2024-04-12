@@ -2067,7 +2067,6 @@ decapetalous
 decaphyllous
 decapitable
 decapitalization
-decapitate
 decapitated
 decapitates
 decapitation
@@ -10780,6 +10779,7 @@ directors
 directorship
 directorships
 directress
+decapitate
 directrix
 directs
 direful
