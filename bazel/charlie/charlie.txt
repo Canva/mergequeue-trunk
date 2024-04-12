@@ -9643,6 +9643,7 @@ cheesed
 caramba
 cheeseflower
 cheeselep
+cutaneously
 cheeselip
 cheesemaker
 cheesemaking
@@ -31757,7 +31758,6 @@ cut
 cutability
 cutaneal
 cutaneous
-cutaneously
 cutaway
 cutaways
 cutback

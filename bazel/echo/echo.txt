@@ -11303,7 +11303,6 @@ eutropous
 euvrou
 euxanthate
 euxanthic
-euxanthin
 euxanthone
 euxenite
 euxenites
@@ -11923,6 +11922,7 @@ excavation
 excavational
 excavationist
 excavations
+euxanthin
 excavator
 excavatory
 excavatorial
