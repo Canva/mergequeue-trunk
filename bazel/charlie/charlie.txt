@@ -164,7 +164,6 @@ censerless
 caboose
 cabooses
 caboshed
-cabossed
 chloroanemia
 cabot
 cabotage
@@ -5694,6 +5693,7 @@ categorial
 categoric
 categorical
 categorically
+cabossed
 categoricalness
 categories
 categorisation
