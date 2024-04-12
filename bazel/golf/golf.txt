@@ -343,6 +343,7 @@ galactoid
 galactolipide
 galactolipin
 galactolysis
+gyrostatics
 galactoma
 galactometer
 galactometry
@@ -4986,7 +4987,6 @@ glaciology
 glaciologic
 glaciological
 glaciologist
-gyrostatics
 glaciologists
 ganisters
 glaciomarine

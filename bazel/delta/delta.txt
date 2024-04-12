@@ -2536,6 +2536,7 @@ declive
 daer
 declivent
 declivity
+degami
 declivities
 declivitous
 declivitously
@@ -3548,7 +3549,6 @@ deg
 degage
 degame
 degames
-degami
 degamis
 deganglionate
 degarnish
