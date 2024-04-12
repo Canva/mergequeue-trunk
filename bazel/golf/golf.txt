@@ -5545,7 +5545,6 @@ glimmered
 glimmery
 glimmering
 glimmeringly
-glazily
 glimmerings
 glimmerous
 glimmers
@@ -7673,6 +7672,7 @@ graecism
 graecize
 graecized
 graecizes
+glazily
 graecizing
 graecomania
 graecophil
