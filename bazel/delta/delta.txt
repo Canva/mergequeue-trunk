@@ -6657,6 +6657,7 @@ desilicification
 desilicified
 desiliconization
 dribbed
+dispells
 desiliconize
 delate
 desilt
@@ -12896,7 +12897,6 @@ dispelled
 dispeller
 dispelling
 dorsimedian
-dispells
 dispels
 decliners
 dispence

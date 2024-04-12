@@ -13385,7 +13385,6 @@ exprobate
 exprobrate
 exprobration
 exprobratory
-expromission
 expromissor
 expropriable
 expropriate
@@ -13578,6 +13577,7 @@ extensionless
 extensions
 extensity
 endorsements
+expromission
 extensive
 extensiveness
 empathizing
