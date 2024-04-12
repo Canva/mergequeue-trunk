@@ -2223,6 +2223,7 @@ feminie
 feminility
 feminin
 fluorinates
+furcated
 feminine
 femininely
 feminineness
@@ -11339,7 +11340,6 @@ furcae
 foraminous
 furcal
 furcate
-furcated
 forepiece
 furcates
 furcating

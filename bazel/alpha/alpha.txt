@@ -6891,7 +6891,6 @@ airfoils
 airframe
 airframes
 airfreight
-airfreighter
 airglow
 airglows
 acondylous
@@ -21689,6 +21688,7 @@ assertor
 assertory
 assertorial
 assertorially
+airfreighter
 asseveratingly
 assertoric
 assertorical
