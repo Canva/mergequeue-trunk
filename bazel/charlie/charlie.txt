@@ -2437,7 +2437,6 @@ canellas
 canelle
 canelo
 canelos
-caneology
 canephor
 canephora
 canephorae
@@ -9667,6 +9666,7 @@ cheetie
 cheetul
 cheewink
 cheezit
+caneology
 chef
 chefdom
 chefdoms
