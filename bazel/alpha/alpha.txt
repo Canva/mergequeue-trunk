@@ -5243,6 +5243,7 @@ afars
 afb
 afd
 afear
+anthoid
 afeard
 afeared
 afebrile
@@ -14404,7 +14405,6 @@ anthogenesis
 anthogenetic
 anthogenous
 anthography
-anthoid
 anthokyan
 anthol
 antholysis
