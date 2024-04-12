@@ -10602,6 +10602,7 @@ etymonic
 etymons
 etiogenic
 etiolate
+eucalyptol
 etiolated
 etiolates
 etiolating
@@ -10680,7 +10681,6 @@ eucalypti
 eucalyptian
 eucalyptic
 eucalyptography
-eucalyptol
 eucalyptole
 eucalypts
 eucarida
