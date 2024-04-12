@@ -10916,7 +10916,6 @@ disaffectation
 disaffected
 disaffectedly
 disaffectedness
-disaffecting
 disaffection
 disaffectionate
 disaffections
@@ -15940,6 +15939,7 @@ dottier
 dottiest
 dottily
 dottiness
+disaffecting
 degratia
 dotting
 dottle
