@@ -9688,7 +9688,6 @@ cheilion
 cheilitis
 cheilodipteridae
 cheilodipterus
-cheiloplasties
 cheilostomata
 cheilostomatous
 cheilotomy
@@ -16122,6 +16121,7 @@ climacter
 climactery
 climacterial
 climacteric
+cheiloplasties
 climacterical
 climacterically
 climacterics

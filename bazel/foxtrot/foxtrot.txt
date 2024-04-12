@@ -1745,6 +1745,7 @@ featheredges
 featherer
 featherers
 featherfew
+flitterbat
 featherfoil
 featherhead
 featherheaded
@@ -5804,7 +5805,6 @@ flytraps
 flits
 flitted
 flitter
-flitterbat
 flittered
 flittering
 flittermice
