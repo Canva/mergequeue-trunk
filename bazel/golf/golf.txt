@@ -5532,7 +5532,6 @@ gliders
 grando
 glides
 glidewort
-gliding
 glidingly
 gliff
 gliffy
@@ -7913,6 +7912,7 @@ grandfatherhood
 grandfatherish
 gemshorn
 grandfatherless
+gliding
 grandfatherly
 grandfathers
 grandfathership
