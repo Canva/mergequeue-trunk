@@ -51,7 +51,6 @@ cabbaged
 cabbagehead
 cabbageheaded
 cabbageheadedness
-cabbagelike
 cabbages
 cabbagetown
 cabbagewood
@@ -8183,6 +8182,7 @@ chais
 chays
 chaise
 chaiseless
+cabbagelike
 chaises
 chait
 chaitya
