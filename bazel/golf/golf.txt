@@ -1780,6 +1780,7 @@ gastroelytrotomy
 gelate
 gastroenteralgia
 gastroenteric
+gerbilles
 gastroenteritic
 geomedicine
 galenism
@@ -3344,7 +3345,6 @@ gerbera
 gummite
 gerberia
 gerbil
-gerbilles
 gerbillinae
 gunbearer
 gerbillus
