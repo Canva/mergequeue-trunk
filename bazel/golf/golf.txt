@@ -1491,6 +1491,7 @@ garrat
 garred
 garret
 garreted
+gavel
 garreteer
 garrya
 garryaceae
@@ -2091,7 +2092,6 @@ gavage
 gavages
 gavall
 gave
-gavel
 gavelage
 gaveled
 gaveler

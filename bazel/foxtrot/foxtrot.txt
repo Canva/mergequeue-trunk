@@ -7060,7 +7060,6 @@ fon
 fonctionnaire
 fond
 fondaco
-fondant
 fondants
 fondateur
 fonded
@@ -11071,6 +11070,7 @@ fuminess
 figworm
 fuming
 fumingly
+fondant
 fumish
 fumishing
 fumishly
