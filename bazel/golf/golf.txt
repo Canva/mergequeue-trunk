@@ -314,7 +314,6 @@ gal
 gala
 glyc
 galabeah
-galabieh
 galabiya
 galacaceae
 galactagog
@@ -10312,6 +10311,7 @@ gules
 gulf
 gulfy
 gulfier
+galabieh
 gulfiest
 gulfing
 gulflike

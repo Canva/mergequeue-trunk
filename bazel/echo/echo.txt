@@ -769,6 +769,7 @@ ecphasis
 ecphonema
 ecphorable
 ecphore
+embryologists
 ecphory
 ecphoria
 ecphoriae
@@ -3671,7 +3672,6 @@ embryological
 embryologically
 embryologies
 embryologist
-embryologists
 embryoma
 embryomas
 embryomata
