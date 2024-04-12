@@ -7271,6 +7271,7 @@ cephalocathartic
 cephalocaudal
 cephalocele
 cephalocentesis
+crivetz
 cephalocercal
 cephalocereus
 cephalochord
@@ -29554,7 +29555,6 @@ critters
 crittur
 critturs
 consular
-crivetz
 crizzel
 crizzle
 crizzled

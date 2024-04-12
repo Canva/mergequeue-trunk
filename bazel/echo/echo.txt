@@ -1465,7 +1465,6 @@ effuse
 effused
 effusely
 effuses
-effusiometer
 espiegle
 effusion
 effusions
@@ -1908,6 +1907,7 @@ eyras
 eire
 eyre
 eyren
+effusiometer
 eirenarch
 eirene
 excusive
