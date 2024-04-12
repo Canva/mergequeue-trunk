@@ -16036,6 +16036,7 @@ doughbird
 doughboy
 doughboys
 doughface
+dubba
 doughfaceism
 doughfeet
 doughfoot
@@ -17669,7 +17670,6 @@ detouring
 dub
 dubash
 dubb
-dubba
 dubbah
 dubbed
 dubbeh
