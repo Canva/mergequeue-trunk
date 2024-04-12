@@ -2580,7 +2580,6 @@ decoll
 decollate
 disseizin
 dervish
-decollated
 decollating
 decollator
 decolletage
@@ -3254,6 +3253,7 @@ deferred
 deferrer
 deferrers
 deferring
+decollated
 deferrization
 dismissible
 deferrize
