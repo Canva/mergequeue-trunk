@@ -11470,6 +11470,7 @@ discommodious
 discommodiously
 discommodiousness
 discommodity
+daniglacial
 denary
 discommodities
 discommon
@@ -17537,7 +17538,6 @@ drumbles
 drumbling
 drumfire
 drumfires
-daniglacial
 drumfish
 drumfishes
 drumhead
