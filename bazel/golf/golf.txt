@@ -5127,6 +5127,7 @@ guaxima
 glancing
 glancingly
 growled
+ghuz
 gland
 glandaceous
 glandarious
@@ -7242,7 +7243,6 @@ gormless
 gorraf
 gorrel
 gorry
-ghuz
 giles
 gorse
 givenness
