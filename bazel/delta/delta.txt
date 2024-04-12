@@ -12780,7 +12780,6 @@ doubtfully
 disoperation
 dasnt
 disopinion
-disoppilate
 disorb
 disorchard
 disordain
@@ -16876,6 +16875,7 @@ dreamscape
 dreamsy
 dreamsily
 dreamsiness
+disoppilate
 deadflat
 dreamt
 dreamtide
