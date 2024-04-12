@@ -7494,7 +7494,6 @@ forcive
 forcleave
 forclose
 forconceit
-forcut
 ford
 fencelet
 fordableness
@@ -10774,6 +10773,7 @@ fosterable
 fruticeous
 frutices
 fruticeta
+forcut
 fruticetum
 fruticose
 fruticous
