@@ -7879,6 +7879,7 @@ bible
 bibles
 bibless
 biblic
+butylic
 biblical
 boccie
 biblicality
@@ -18172,7 +18173,6 @@ butylates
 butylating
 butylene
 butylenes
-butylic
 butyls
 butin
 butyn
