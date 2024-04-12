@@ -4531,7 +4531,6 @@ demidog
 demidolmen
 demidome
 demieagle
-demyelinate
 demyelination
 demies
 demifarthing
@@ -10891,6 +10890,7 @@ dysacousia
 dysacousis
 dysacousma
 disacquaint
+demyelinate
 disacquaintance
 disacryl
 dysadaptation
