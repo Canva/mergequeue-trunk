@@ -1183,6 +1183,7 @@ educatability
 educatable
 educate
 educated
+encreel
 educatedly
 educatedness
 educates
@@ -4869,7 +4870,6 @@ encratic
 encratism
 encratite
 encrease
-encreel
 encrimson
 encrinal
 encrinic
