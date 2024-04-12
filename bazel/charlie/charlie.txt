@@ -2175,6 +2175,7 @@ canalboat
 canale
 canaled
 canaler
+conscripts
 canales
 canalete
 canali
@@ -22738,7 +22739,6 @@ conscriptional
 conscriptionist
 conscriptions
 conscriptive
-conscripts
 conscripttion
 consderations
 consecrate
