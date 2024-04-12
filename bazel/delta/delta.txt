@@ -1478,7 +1478,6 @@ deaconesses
 demurrable
 deaconhood
 disform
-deaconing
 deaconry
 deaconries
 deacons
@@ -11782,6 +11781,7 @@ discusser
 discusses
 deflection
 discussing
+deaconing
 discussion
 discussional
 discussionis
