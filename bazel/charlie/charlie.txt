@@ -5637,6 +5637,7 @@ catchpolling
 catchup
 catchups
 catchwater
+circumspatial
 catchweed
 catchweight
 catchword
@@ -14391,7 +14392,6 @@ circumsession
 circumsinous
 circumsolar
 circumspangle
-circumspatial
 circumspect
 circumspection
 conjugating
