@@ -3476,6 +3476,7 @@ fifteenthly
 fifteenths
 fifth
 fifthly
+furunculous
 fifths
 fifty
 fifties
@@ -11513,7 +11514,6 @@ furuncles
 furuncular
 furunculoid
 fleshen
-furunculous
 furunculus
 furze
 furzed
