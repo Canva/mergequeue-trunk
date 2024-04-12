@@ -21420,7 +21420,6 @@ conclusiveness
 conclusory
 conclusum
 concn
-concoagulate
 concoagulation
 concoct
 crackable
@@ -26127,6 +26126,7 @@ cosmoplastic
 cosmopoietic
 cosmopolicy
 cosmopolis
+concoagulate
 cosmopolises
 cosmopolitan
 cosmopolitanisation
