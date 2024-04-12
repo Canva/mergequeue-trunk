@@ -3772,6 +3772,7 @@ adequation
 adequative
 ammine
 adermia
+amply
 adermine
 adesmy
 adespota
@@ -8609,7 +8610,6 @@ agrammatical
 allegresse
 allegretto
 allegrettos
-amply
 allegro
 allegros
 alley
