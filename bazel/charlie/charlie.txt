@@ -2178,7 +2178,6 @@ canaler
 canales
 canalete
 canali
-canalicular
 canaliculate
 canaliculated
 canaliculation
@@ -24920,6 +24919,7 @@ corbels
 corbet
 corby
 corbicula
+canalicular
 corbiculae
 corbiculate
 corbiculum
