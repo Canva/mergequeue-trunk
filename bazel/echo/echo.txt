@@ -10855,6 +10855,7 @@ eugregarinida
 eugubine
 eugubium
 euhages
+excipulaceae
 euharmonic
 euhedral
 euhemerise
@@ -12025,7 +12026,6 @@ exciding
 excipient
 exciple
 exciples
-excipulaceae
 excipular
 excipule
 excipuliform
