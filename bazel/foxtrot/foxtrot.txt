@@ -230,7 +230,6 @@ facula
 flatway
 faculae
 facular
-faculative
 faculous
 femerell
 facultate
@@ -6146,6 +6145,7 @@ flosculous
 frowzier
 flosh
 floss
+faculative
 footbath
 flossa
 flossed
