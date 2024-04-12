@@ -1614,6 +1614,7 @@ ballistocardiograph
 ballistocardiography
 ballistocardiographic
 ballistophobia
+bud
 ballium
 ballywack
 ballywrack
@@ -16685,7 +16686,6 @@ bucrane
 bucrania
 bucranium
 bucrnia
-bud
 buda
 budbreak
 buddage
