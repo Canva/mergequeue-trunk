@@ -21159,6 +21159,7 @@ ashman
 ashmen
 ashmolean
 ashochimi
+aurify
 ashore
 ashot
 ashpan
@@ -23573,7 +23574,6 @@ auriculovertical
 auride
 auriferous
 aurifex
-aurify
 aurific
 aurification
 aurified
