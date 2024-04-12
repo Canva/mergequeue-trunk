@@ -2208,7 +2208,6 @@ eldritch
 elds
 elean
 eleanor
-eleazar
 elec
 elecampane
 elechi
@@ -6202,6 +6201,7 @@ enormous
 enormously
 enormousness
 enorn
+eleazar
 enos
 enosis
 endopod
