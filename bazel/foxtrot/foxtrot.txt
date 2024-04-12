@@ -2095,6 +2095,7 @@ furfuraceous
 fellagha
 fellah
 fellaheen
+fotched
 fellahin
 fellahs
 fellas
@@ -8919,7 +8920,6 @@ fostership
 fostress
 fot
 fotch
-fotched
 fother
 fothergilla
 fothering
