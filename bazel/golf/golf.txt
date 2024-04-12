@@ -2385,7 +2385,6 @@ gelatinated
 gelatinating
 gelatination
 gelatine
-gelatined
 gelatines
 gelating
 gelatiniferous
@@ -10022,6 +10021,7 @@ guejarite
 ghosting
 guelf
 guelph
+gelatined
 guelphish
 goalers
 gook
