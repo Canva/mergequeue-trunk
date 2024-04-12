@@ -10576,7 +10576,6 @@ amination
 aminded
 amines
 amini
-aminish
 aminity
 aminities
 aminization
@@ -17427,6 +17426,7 @@ apostate
 apostates
 apostatic
 apostatical
+aminish
 apostatically
 apostatise
 apostatised
