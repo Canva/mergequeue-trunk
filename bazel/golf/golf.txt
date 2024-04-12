@@ -3365,7 +3365,6 @@ geriatrician
 geriatrics
 geriatrist
 gerygone
-gerim
 geryon
 geryonia
 geryonid
@@ -6636,6 +6635,7 @@ goldin
 golding
 goldish
 goldless
+gerim
 goldlike
 goldminer
 goldmist
