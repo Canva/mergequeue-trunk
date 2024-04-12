@@ -1017,6 +1017,7 @@ darker
 darkest
 darkful
 darkhaired
+deluders
 darkhearted
 darkheartedness
 darky
@@ -4293,7 +4294,6 @@ deluce
 deludable
 deluded
 deluder
-deluders
 deludes
 ditrigonal
 deludher
