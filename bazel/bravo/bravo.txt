@@ -5899,6 +5899,7 @@ belonephobia
 belonesite
 belong
 belonged
+binmen
 belonger
 belonging
 belongings
@@ -8871,7 +8872,6 @@ binitarianism
 binits
 bink
 binman
-binmen
 binna
 binnacle
 binnacles
