@@ -5129,6 +5129,7 @@ aerotherapeutics
 aerotherapy
 aerothermodynamic
 aerothermodynamics
+alectrion
 aerotonometer
 aerotonometry
 aerotonometric
@@ -7818,7 +7819,6 @@ alectoropodous
 alectryomachy
 antihydropic
 alectryomancy
-alectrion
 alectryon
 alectrionidae
 alecup
