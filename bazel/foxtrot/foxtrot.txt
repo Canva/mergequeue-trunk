@@ -6363,6 +6363,7 @@ fluidmeter
 fluidness
 fluidounce
 fluidrachm
+forget
 fluidram
 fluidrams
 fluids
@@ -8264,7 +8265,6 @@ forgery
 forgeries
 forgers
 forges
-forget
 fluxer
 forgetful
 forgetfully

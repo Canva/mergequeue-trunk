@@ -8693,6 +8693,7 @@ ally
 alliable
 alliaceae
 antiperistatically
+ammonifying
 alliaceous
 alliage
 alliance
@@ -10756,7 +10757,6 @@ ammonified
 ammonifier
 aricine
 ammonifies
-ammonifying
 antiaesthetic
 ammoniojarosite
 ammonion
