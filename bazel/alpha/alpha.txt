@@ -16810,7 +16810,6 @@ akebi
 aphanomyces
 aphanophyre
 aphanozygous
-apharsathacites
 aphasia
 aphasiacs
 aphasias
@@ -24190,6 +24189,7 @@ automatic
 automatical
 automatically
 automaticity
+apharsathacites
 automatics
 automatictacessing
 automatin
