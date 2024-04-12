@@ -1034,6 +1034,7 @@ darkliest
 darkling
 darklings
 darkmans
+deportation
 darkness
 darknesses
 darkroom
@@ -5776,7 +5777,6 @@ depopulator
 depopulators
 deport
 deportability
-deportation
 deportations
 deporte
 deported
