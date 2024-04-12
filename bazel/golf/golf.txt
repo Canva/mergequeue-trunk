@@ -1475,7 +1475,6 @@ garniture
 gashouse
 garon
 garoo
-garookuh
 garote
 garoter
 garotes
@@ -1691,6 +1690,7 @@ gasterosteoid
 gasterosteus
 gasterotheca
 gasterothecal
+garookuh
 gasterotrichan
 gastful
 gasthaus
