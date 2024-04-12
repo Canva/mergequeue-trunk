@@ -8235,7 +8235,6 @@ epispadias
 epispastic
 epitrochoid
 evaluable
-epispermic
 epispinal
 episplenitis
 episporangium
@@ -13514,6 +13513,7 @@ exstipulate
 exstrophy
 exstruct
 exsuccous
+epispermic
 exsuction
 exsudate
 eight
