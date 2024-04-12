@@ -17714,7 +17714,6 @@ duc
 ducal
 ducally
 ducamara
-ducape
 ducat
 ducato
 ducaton
@@ -18569,6 +18568,7 @@ dustpan
 dustpans
 dustpoint
 dustrag
+ducape
 dustrags
 dartboard
 dissentient
