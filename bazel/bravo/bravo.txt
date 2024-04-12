@@ -13090,6 +13090,7 @@ borrower
 borrowers
 borrows
 bors
+bramble
 borsch
 borsches
 borscht
@@ -14374,7 +14375,6 @@ brokership
 bramah
 bramantesque
 bramantip
-bramble
 brambleberry
 brambleberries
 bramblebush
