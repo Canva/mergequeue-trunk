@@ -471,6 +471,7 @@ faky
 fakiness
 faking
 fakir
+forebush
 fakirism
 fakirs
 fakofo
@@ -7576,7 +7577,6 @@ forebreast
 forebridge
 forebroads
 foreburton
-forebush
 forecabin
 fleetings
 forecaddie

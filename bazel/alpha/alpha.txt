@@ -10939,7 +10939,6 @@ amorphophyte
 amorphotae
 amorphous
 amorphously
-amorphousness
 amorphozoa
 amorphus
 amort
@@ -19855,6 +19854,7 @@ arkansawyer
 arkansite
 arkie
 arkite
+amorphousness
 aceologic
 arkose
 arkoses
