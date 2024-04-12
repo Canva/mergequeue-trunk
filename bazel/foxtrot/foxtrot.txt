@@ -4755,7 +4755,6 @@ flagella
 flagellant
 flammiferous
 flagellantism
-flagellants
 flagellaria
 flagellariaceous
 flagellata
@@ -7031,6 +7030,7 @@ followed
 follower
 followers
 followeth
+flagellants
 followingly
 followings
 follows
