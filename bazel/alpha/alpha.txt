@@ -7807,7 +7807,6 @@ alecs
 alectoria
 alectorides
 alectoridine
-alectorioid
 alectoris
 apachism
 alectoromachy
@@ -24015,6 +24014,7 @@ autodidacts
 autodifferentiation
 autodiffusion
 autodigestion
+alectorioid
 autodigestive
 autodynamic
 autodyne
