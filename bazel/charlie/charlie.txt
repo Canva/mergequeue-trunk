@@ -2905,7 +2905,6 @@ canvassers
 canvasses
 canvassy
 canzo
-canzon
 canzona
 canzonas
 canzonet
@@ -19143,6 +19142,7 @@ collomia
 collop
 colloped
 collophane
+canzon
 collophanite
 collophore
 collops
