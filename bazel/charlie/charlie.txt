@@ -17766,6 +17766,7 @@ codfish
 codfisher
 codfishery
 codfisheries
+colation
 codfishes
 codfishing
 codger
@@ -18665,7 +18666,6 @@ colascioni
 colat
 colate
 catalyzing
-colation
 colatitude
 colatorium
 colauxe
