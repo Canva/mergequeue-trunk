@@ -18841,6 +18841,7 @@ archenemies
 archenia
 archenteric
 archenteron
+australoid
 archeocyte
 archeol
 archeolithic
@@ -23711,7 +23712,6 @@ australic
 australioid
 australis
 australite
-australoid
 australopithecinae
 australopithecine
 australopithecus
