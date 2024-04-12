@@ -6133,7 +6133,6 @@ bendees
 bendell
 bender
 benders
-behusband
 bendy
 bendies
 bending
@@ -13042,6 +13041,7 @@ bornane
 borne
 bornean
 borneo
+behusband
 borneol
 borneols
 bornyl
