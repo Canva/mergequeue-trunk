@@ -10254,6 +10254,7 @@ dionaeaceae
 dione
 dionym
 dionymal
+duer
 dionise
 dionysia
 dionysiac
@@ -17865,7 +17866,6 @@ duenna
 duennadom
 duennas
 duennaship
-duer
 dues
 duessa
 duet

@@ -7863,7 +7863,6 @@ granado
 granage
 granam
 granatite
-granary
 granaries
 gawsy
 granat
@@ -9207,6 +9206,7 @@ grizelin
 grizzel
 grizzled
 grizzlers
+granary
 gurdy
 genocides
 grizzles
