@@ -25154,7 +25154,6 @@ corymbiform
 corymblike
 corymbous
 coinquinate
-corymbs
 corimelaena
 corimelaenidae
 corindon
@@ -30659,6 +30658,7 @@ cueva
 cuff
 cuffed
 cuffy
+corymbs
 cuffyism
 cuffin
 cuffing

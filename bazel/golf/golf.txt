@@ -6922,6 +6922,7 @@ gonophoric
 gonophorous
 gonophs
 gonopodia
+grille
 gryph
 gonopodial
 gonopodium
@@ -8968,7 +8969,6 @@ grilladed
 grillades
 grillage
 grillages
-grille
 grylle
 grilled
 grillee
