@@ -2975,6 +2975,7 @@ elinguation
 elingued
 eleatic
 elinor
+excels
 eliot
 eliphalet
 eliquate
@@ -11954,7 +11955,6 @@ excellent
 excellently
 enomoty
 excelling
-excels
 excelse
 excelsin
 excelsior
