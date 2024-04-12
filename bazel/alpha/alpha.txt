@@ -14781,7 +14781,6 @@ antiauxin
 antibacchic
 antibacchii
 antibacchius
-antibacterial
 antibacteriolytic
 antiballistic
 antiballooner
@@ -21826,6 +21825,7 @@ armadillo
 assistantship
 att
 assistantships
+antibacterial
 assisted
 assistency
 assister
