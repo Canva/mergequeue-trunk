@@ -1876,7 +1876,6 @@ gastropore
 gastroptosia
 gastropulmonary
 gastropulmonic
-gastrorrhagia
 gorling
 gastrorrhaphy
 gastrorrhea
@@ -9356,6 +9355,7 @@ grosse
 grossed
 grossen
 grandmotherism
+gastrorrhagia
 grosser
 grossers
 grosses
