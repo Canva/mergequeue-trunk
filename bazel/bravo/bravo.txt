@@ -951,6 +951,7 @@ bagpiping
 bagplant
 bagpudding
 bagrationite
+betrap
 bagre
 bagreef
 biopsychic
@@ -7445,7 +7446,6 @@ bastardising
 betrayment
 betrays
 betraise
-betrap
 betravel
 blist
 betread
