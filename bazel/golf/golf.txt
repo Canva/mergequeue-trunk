@@ -9800,7 +9800,6 @@ guayaqui
 guaiaretic
 guaiasanol
 guaycuru
-guaycuruan
 guaymie
 guaiocum
 guaiocums
@@ -10798,6 +10797,7 @@ guttulate
 guttule
 gulpier
 gateman
+guaycuruan
 guttulous
 guttur
 guttural
