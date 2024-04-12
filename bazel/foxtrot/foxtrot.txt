@@ -4822,7 +4822,6 @@ fasciolaria
 frontspiece
 flagpole
 flagpoles
-flagrance
 flagrancy
 flagrant
 flagrante
@@ -8072,6 +8071,7 @@ forestalling
 forestallment
 forestalls
 forestalment
+flagrance
 forestate
 forestation
 flexional
