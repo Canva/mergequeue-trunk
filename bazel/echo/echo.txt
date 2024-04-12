@@ -5180,6 +5180,7 @@ endogalvanism
 endogamy
 endogamic
 endogamous
+erosion
 endogastrically
 endogastritis
 endogen
@@ -9305,7 +9306,6 @@ erose
 erosely
 eroses
 erosible
-erosion
 erosional
 erosionally
 erythrulose
