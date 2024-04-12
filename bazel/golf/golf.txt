@@ -146,7 +146,6 @@ gadus
 gadwall
 gipsyry
 gadwalls
-gadwell
 gadzooks
 gae
 gaea
@@ -9787,6 +9786,7 @@ guayabi
 guayabo
 guaiac
 guayacan
+gadwell
 guaiacol
 geranomorphic
 guaiacolize
