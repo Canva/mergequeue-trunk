@@ -379,6 +379,7 @@ daying
 daijo
 daiker
 daikered
+dom
 daikers
 daikon
 dail
@@ -15221,7 +15222,6 @@ doltishness
 dolts
 dolus
 dolven
-dom
 defaulter
 domage
 domain
