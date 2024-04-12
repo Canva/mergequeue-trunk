@@ -2433,7 +2433,6 @@ gelechia
 gelechiid
 gelechiidae
 gelee
-geleem
 gelees
 gelidiaceae
 gelidity
@@ -6790,6 +6789,7 @@ gondolier
 gringo
 gondoliere
 gondoliers
+geleem
 gone
 goney
 goneness
