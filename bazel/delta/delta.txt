@@ -833,7 +833,6 @@ dangers
 doglegs
 dangersome
 dangle
-dangleberry
 dangled
 danglement
 dangler
@@ -2612,6 +2611,7 @@ decolouring
 decolourisation
 decolourised
 dogmatism
+dangleberry
 decolouriser
 decolourising
 decolourization

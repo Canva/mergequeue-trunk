@@ -977,7 +977,6 @@ ecumenistic
 expanses
 ecumenopolis
 ecurie
-ecus
 eczema
 eczemas
 eczematization
@@ -11141,6 +11140,7 @@ eurhythmy
 eurhythmic
 eurhythmics
 eurhodol
+ecus
 euryalae
 euryale
 euryaleae
