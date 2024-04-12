@@ -2772,7 +2772,6 @@ acratia
 acraturesis
 acrawl
 acraze
-acre
 acreable
 acreage
 acreak
@@ -24809,6 +24808,7 @@ avisos
 avital
 avitaminoses
 avitaminosis
+acre
 avitic
 avives
 avizandum
