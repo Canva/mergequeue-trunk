@@ -3568,7 +3568,6 @@ degassers
 degasses
 degassing
 degauss
-degaussing
 degelatinize
 degender
 degener
@@ -16997,6 +16996,7 @@ dressoir
 dressoirs
 drest
 dretch
+degaussing
 drevel
 drew
 drewite
