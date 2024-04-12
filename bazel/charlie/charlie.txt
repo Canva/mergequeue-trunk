@@ -11269,7 +11269,6 @@ chlormethylic
 chlornal
 chloro
 chloroacetate
-chloroacetic
 chloroacetone
 chloroacetophenone
 chloroamide
@@ -18740,6 +18739,7 @@ coleopteron
 coleopterous
 chosing
 coleoptile
+chloroacetic
 coleoptilum
 coleopttera
 coleorhiza
