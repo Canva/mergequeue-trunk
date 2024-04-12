@@ -4151,6 +4151,7 @@ fire
 fireable
 firearm
 firearms
+fraternally
 fireback
 favourably
 fireball
@@ -9499,7 +9500,6 @@ fraternal
 fraternalism
 fraternalist
 fraternality
-fraternally
 fraternate
 fraternation
 fraternisation
