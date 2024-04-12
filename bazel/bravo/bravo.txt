@@ -1740,6 +1740,7 @@ balsam
 balsamaceous
 balsamation
 balsamea
+blastoidea
 balsameaceae
 balsamed
 balsamer
@@ -16806,7 +16807,6 @@ buffleheaded
 buffo
 buffone
 buffont
-blastoidea
 backhauled
 buffoon
 buffoonery
