@@ -6522,6 +6522,7 @@ desecrator
 desectionalize
 deseed
 desegmentation
+didactical
 desegmented
 disordination
 desegregate
@@ -9036,7 +9037,6 @@ didache
 didachist
 didact
 didactic
-didactical
 didacticality
 didactically
 didactician
