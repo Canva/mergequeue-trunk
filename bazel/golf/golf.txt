@@ -1652,6 +1652,7 @@ gasper
 granulomata
 gaspereau
 gaspereaus
+grecizes
 gaspergou
 gaspers
 gaspy
@@ -8580,7 +8581,6 @@ grecians
 grecism
 grecize
 grecized
-grecizes
 grecizing
 greco
 grecomania
