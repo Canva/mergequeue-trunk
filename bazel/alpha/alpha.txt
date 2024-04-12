@@ -7275,7 +7275,6 @@ aneroid
 alamonti
 alamort
 alamosite
-alamoth
 alan
 alands
 alang
@@ -15768,6 +15767,7 @@ antiparagraphic
 antiparalytic
 antiparalytical
 antiparallel
+alamoth
 antiparallelogram
 antiparasitic
 antiparasitical
