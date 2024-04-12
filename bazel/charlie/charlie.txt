@@ -17129,6 +17129,7 @@ coala
 coalas
 coalbag
 coalbagger
+cultirostres
 coalbin
 coalbins
 coalbox
@@ -30828,7 +30829,6 @@ cultic
 cultigen
 cultigens
 cultirostral
-cultirostres
 cultish
 cultism
 canchi

@@ -458,7 +458,6 @@ galeiform
 galempong
 gooseries
 galempung
-guestimated
 galen
 galena
 galenas
@@ -5596,6 +5595,7 @@ glyptograph
 glyptographer
 glyptography
 gonake
+guestimated
 glyptographic
 glyptolith
 glyptology
