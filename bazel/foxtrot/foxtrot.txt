@@ -1654,7 +1654,6 @@ fchar
 fipenny
 fcomp
 fconv
-finalizing
 fconvert
 fcp
 fcs
@@ -10991,6 +10990,7 @@ fetishmonger
 fulvescent
 fulvid
 fulzie
+finalizing
 fum
 fumade
 fumado
