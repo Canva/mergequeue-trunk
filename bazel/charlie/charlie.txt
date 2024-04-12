@@ -4916,7 +4916,6 @@ carwash
 carwashes
 carwitchet
 carzey
-casaba
 casabas
 casabe
 casablanca
@@ -16972,6 +16971,7 @@ cnidopod
 cnidosac
 confoundable
 cnidoscolus
+casaba
 cnidosis
 co
 coabode
