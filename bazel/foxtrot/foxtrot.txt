@@ -6007,6 +6007,7 @@ floorwalker
 floorwalkers
 floorward
 furniment
+frush
 floorwise
 floosy
 floosies
@@ -10735,7 +10736,6 @@ frumpled
 frumpling
 frumps
 frundel
-frush
 flakers
 frusla
 frust
