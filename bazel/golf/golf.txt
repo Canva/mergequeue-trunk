@@ -10010,6 +10010,7 @@ gudgeon
 gudgeoned
 gilim
 gudgeoning
+guitars
 gudgeons
 gudget
 gudok
@@ -10275,7 +10276,6 @@ ganching
 guitarists
 ghazies
 guitarlike
-guitars
 gladdener
 guitermanite
 guitguit
