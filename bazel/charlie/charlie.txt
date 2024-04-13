@@ -18286,6 +18286,7 @@ cognates
 cognati
 cognatic
 cognatical
+corporealness
 cognation
 cognatus
 cognisability
@@ -25589,7 +25590,6 @@ corporeality
 corporealization
 corporealize
 corporeally
-corporealness
 corporeals
 corporeity
 crankier
