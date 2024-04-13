@@ -97,6 +97,7 @@ earmarkings
 earmarks
 earmindedness
 euphemist
+effetman
 epithelioblastoma
 equitation
 earmuff
@@ -1366,7 +1367,6 @@ effervescive
 effete
 effetely
 effeteness
-effetman
 effetmen
 examinative
 efficace
