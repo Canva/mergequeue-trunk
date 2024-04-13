@@ -4064,7 +4064,6 @@ delicatessens
 diploglossate
 delice
 delicense
-delichon
 deliciae
 deliciate
 delicious
@@ -8686,6 +8685,7 @@ diazepams
 diazeuxis
 diazid
 diazide
+delichon
 diazin
 diazines
 diazins
