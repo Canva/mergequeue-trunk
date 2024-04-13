@@ -10844,7 +10844,6 @@ chipyard
 chipling
 chipmuck
 chipmucks
-chipmunk
 chipmunks
 chipolata
 chippable
@@ -17586,6 +17585,7 @@ cochliodus
 cochlite
 cochlitis
 cochlospermaceae
+chipmunk
 cochlospermaceous
 cochlospermum
 cochon
