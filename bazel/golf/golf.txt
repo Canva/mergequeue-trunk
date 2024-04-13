@@ -4262,6 +4262,7 @@ gymnocarpic
 gymnocarpous
 gymnoceratous
 gymnocidium
+griefless
 gymnocladus
 gymnoconia
 gershom
@@ -8899,7 +8900,6 @@ griecep
 grief
 griefful
 grieffully
-griefless
 grieflessness
 griefs
 griege

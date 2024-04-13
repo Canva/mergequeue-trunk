@@ -9018,7 +9018,6 @@ alloxanate
 alloxanic
 alloxans
 alloxantin
-alloxyproteic
 alloxuraemia
 alloxuremia
 alloxuric
@@ -12301,6 +12300,7 @@ andesite
 andesites
 andesytes
 andesitic
+alloxyproteic
 andevo
 andhra
 andi
