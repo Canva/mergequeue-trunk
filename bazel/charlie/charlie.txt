@@ -6891,6 +6891,7 @@ cenogonous
 cenomanian
 cenosite
 cenosity
+coelogastrula
 cenospecies
 custodiam
 cenospecific
@@ -17912,7 +17913,6 @@ coeloblastic
 coeloblastula
 coelococcus
 coelodont
-coelogastrula
 coelogyne
 coeloglossum
 coelom

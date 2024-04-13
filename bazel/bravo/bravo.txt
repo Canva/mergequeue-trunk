@@ -9475,7 +9475,6 @@ bughead
 byrlady
 byrlakin
 byrlaw
-byrlawman
 bronziest
 byrlawmen
 birle
@@ -12307,6 +12306,7 @@ bombing
 brushball
 bombings
 bombyx
+byrlawman
 bombyxes
 budgeting
 bomble
