@@ -6546,6 +6546,7 @@ entamoebiasis
 excuss
 entamoebic
 entangle
+evangelism
 entangleable
 entangled
 entangledness
@@ -11389,7 +11390,6 @@ evangelisation
 evangelise
 evangelised
 evangeliser
-evangelism
 evangelist
 evangelistary
 evangelistaries
