@@ -6789,7 +6789,6 @@ fogbound
 fogbow
 freakdom
 fogdogs
-fogdom
 foge
 fogeater
 fogey
@@ -8829,6 +8828,7 @@ fosh
 fosie
 fosite
 furnacemen
+fogdom
 foss
 fossa
 flunks
