@@ -11388,6 +11388,7 @@ amtrack
 amtracks
 amtracs
 amtrak
+archeries
 amu
 aweather
 amuchco
@@ -18842,7 +18843,6 @@ archer
 archerfish
 archerfishes
 archery
-archeries
 acolapissa
 archers
 archership
