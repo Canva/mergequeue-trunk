@@ -5223,6 +5223,7 @@ bisiliquous
 begary
 begarie
 begarlanded
+boomlet
 begarnish
 begartered
 begash
@@ -12754,7 +12755,6 @@ booming
 boomingly
 boomkin
 boomkins
-boomlet
 boomlets
 booms
 boomslang

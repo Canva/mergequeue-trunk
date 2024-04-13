@@ -2397,6 +2397,7 @@ firearmed
 feretories
 fodders
 frontes
+fumuli
 feretrum
 ferfel
 ferforth
@@ -11088,7 +11089,6 @@ fummle
 fumose
 fumosity
 fumous
-fumuli
 fungated
 fun
 funambulant
