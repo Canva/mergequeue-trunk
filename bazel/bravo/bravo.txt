@@ -8814,7 +8814,6 @@ binaural
 binauricular
 binbashi
 bind
-binder
 bindery
 binderies
 binders
@@ -15265,6 +15264,7 @@ bridie
 bridle
 bemusedly
 bridled
+binder
 bumbarge
 bridleless
 bridler
