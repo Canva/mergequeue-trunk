@@ -8364,6 +8364,7 @@ chalone
 chalones
 chalons
 chalot
+cumarin
 chaloth
 chaloupe
 chalta
@@ -30913,7 +30914,6 @@ cumaphytic
 cumaphytism
 cumar
 cumara
-cumarin
 cumarins
 cumarone
 cumaru
