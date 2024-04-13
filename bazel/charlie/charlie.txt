@@ -6298,7 +6298,6 @@ cavalcaded
 cavalcades
 cavalcading
 cavalero
-cardinalist
 cavaleros
 cavalier
 cavaliere
@@ -17724,6 +17723,7 @@ codeclination
 codecs
 coded
 codefendant
+cardinalist
 codefendants
 codeias
 codein
