@@ -69,6 +69,7 @@ embolism
 embloom
 earlduck
 earle
+eophyte
 earless
 earlet
 early
@@ -7349,7 +7350,6 @@ eons
 eopalaeozoic
 expressionable
 eopaleozoic
-eophyte
 eophytic
 eophyton
 eorhyolite
