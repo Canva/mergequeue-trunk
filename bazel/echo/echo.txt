@@ -5212,6 +5212,7 @@ endomesoderm
 endometry
 exodos
 endometria
+epiboly
 endometrial
 endometriosis
 etiotropically
@@ -7597,7 +7598,6 @@ epiblastic
 epiblasts
 epiblemata
 epibole
-epiboly
 epibolic
 epibolies
 epibolism
