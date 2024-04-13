@@ -9366,6 +9366,7 @@ grossify
 grossly
 glees
 grosso
+gruelling
 grossulaceous
 grossular
 grossularia
@@ -9635,7 +9636,6 @@ gaudies
 gruelled
 grueller
 gruellers
-gruelling
 gruellings
 grues
 gruesome
