@@ -12270,6 +12270,7 @@ ancor
 ancora
 ancoral
 ancraophobia
+astructive
 ancre
 ancress
 ancresses
@@ -22344,7 +22345,6 @@ adversion
 astrospectroscopic
 astrospherecentrosomic
 astrotheology
-astructive
 astrut
 astucious
 astuciously

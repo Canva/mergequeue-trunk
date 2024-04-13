@@ -9194,6 +9194,7 @@ fractals
 fracted
 fracticipita
 fractile
+frizettes
 flashforwards
 fraction
 fractional
@@ -10251,7 +10252,6 @@ frizel
 frizers
 frizes
 frizette
-frizettes
 frizing
 frizz
 frizzante
