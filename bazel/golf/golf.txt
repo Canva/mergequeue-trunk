@@ -4768,6 +4768,7 @@ girllikeness
 girls
 girn
 girned
+gunman
 girny
 girnie
 girning
@@ -10505,7 +10506,6 @@ gunlock
 gunlocks
 gunmaker
 gunmaking
-gunman
 guelphic
 gunmanship
 gunmen
