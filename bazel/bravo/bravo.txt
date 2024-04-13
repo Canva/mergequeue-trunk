@@ -15235,7 +15235,6 @@ bridgeboard
 bridgebote
 bridgebuilder
 bridgebuilding
-bridged
 bridgehead
 bridgeless
 bridgelike
@@ -16849,6 +16848,7 @@ bugeye
 bugeyed
 bugeyes
 bugfish
+bridged
 buggane
 bugged
 bugger
