@@ -5732,6 +5732,7 @@ depolariser
 darksome
 depolarising
 depolarization
+disfunctions
 depolarize
 depolarized
 depolarizers
@@ -12107,7 +12108,6 @@ disfunction
 dysfunction
 dysfunctional
 dysfunctioning
-disfunctions
 dysfunctions
 disfurnish
 disfurnished
