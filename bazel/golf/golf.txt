@@ -3291,6 +3291,7 @@ gomeril
 geotherm
 geothermally
 geothermometer
+griecep
 geoty
 gyrations
 geotic
@@ -8898,7 +8899,6 @@ gibbier
 griece
 gowland
 grieced
-griecep
 grief
 griefful
 grieffully
