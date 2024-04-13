@@ -5247,6 +5247,7 @@ begetting
 beggable
 beggardom
 beggared
+brickish
 beggarer
 beggaress
 beggarhood
@@ -15171,7 +15172,6 @@ bricky
 brickyard
 brickier
 bricking
-brickish
 brickkiln
 bricklayer
 bricklayers

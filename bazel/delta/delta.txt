@@ -8467,6 +8467,7 @@ diaphanoscope
 dirties
 diaphanotype
 diaphanous
+discolorated
 diaclasite
 diaphanously
 diaphanousness
@@ -11420,7 +11421,6 @@ discolichen
 discolith
 discolor
 discolorate
-discolorated
 decarburization
 discoloration
 discolorations
