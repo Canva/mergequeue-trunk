@@ -263,7 +263,6 @@ abdominally
 abdominals
 abdominoanterior
 abdominocardiac
-abdominocentesis
 abdominocystic
 abdominogenital
 arthroderm
@@ -19488,6 +19487,7 @@ arghan
 arghel
 arghool
 arghoul
+abdominocentesis
 argid
 argify
 argil

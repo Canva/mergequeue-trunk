@@ -16156,6 +16156,7 @@ dowage
 dowager
 daddock
 dowagerism
+downfold
 dowagers
 dowcet
 dowcote
@@ -16234,7 +16235,6 @@ downfall
 downfallen
 downfeed
 downflow
-downfold
 downfolded
 downgate
 dilluer
