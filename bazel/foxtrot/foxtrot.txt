@@ -2726,7 +2726,6 @@ folkway
 fervours
 fescennine
 fescue
-fescues
 fesels
 fess
 fesse
@@ -3236,6 +3235,7 @@ fictation
 fictileness
 fictility
 farsang
+fescues
 fiction
 fictional
 fictionalize
