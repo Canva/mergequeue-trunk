@@ -5130,6 +5130,7 @@ fistulatous
 flatlander
 flatlanders
 forewaters
+frazzled
 flatlands
 flatlets
 forequarter
@@ -9563,7 +9564,6 @@ frazer
 frazing
 frazzle
 flattop
-frazzled
 frazzles
 frazzling
 frden
