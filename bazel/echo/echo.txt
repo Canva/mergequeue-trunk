@@ -7049,7 +7049,6 @@ entrecote
 entrecotes
 entredeux
 entree
-epiglottides
 entrees
 excisor
 entrefer
@@ -13362,6 +13361,7 @@ expressionists
 expressionlessly
 expressionlessness
 ergasia
+epiglottides
 expressions
 expressive
 expressively
