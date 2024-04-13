@@ -1700,7 +1700,6 @@ eiders
 eidetic
 eidetically
 eidograph
-eidola
 eidolic
 eidolism
 eidolology
@@ -13365,6 +13364,7 @@ expressively
 expressiveness
 expressivism
 expressivity
+eidola
 expressless
 expressly
 expressmen
