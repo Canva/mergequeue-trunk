@@ -3019,7 +3019,6 @@ acrosporous
 adnexa
 across
 acrostic
-acrostical
 acrostichal
 acrosticheae
 acrostichic
@@ -5798,6 +5797,7 @@ agadic
 agag
 again
 againbuy
+acrostical
 againsay
 against
 againstand

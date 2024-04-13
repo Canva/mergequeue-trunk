@@ -3272,6 +3272,7 @@ ficus
 fid
 fidac
 fidalgo
+folic
 fidate
 fidation
 functorial
@@ -6938,7 +6939,6 @@ foliated
 foliating
 foliator
 foliature
-folic
 folies
 foliicolous
 foliiferous
