@@ -1512,6 +1512,7 @@ faunist
 fragmentized
 faunistic
 faunistical
+fourer
 faunistically
 faunlike
 faunological
@@ -9025,7 +9026,6 @@ foeture
 foveola
 fourchette
 fourchite
-fourer
 fourflusher
 fourflushers
 fourfold
