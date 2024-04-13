@@ -12890,7 +12890,6 @@ bop
 bopeep
 bopyrid
 bobadilism
-bopyridae
 bopyridian
 bopped
 brigadiers
@@ -18069,6 +18068,7 @@ buskers
 busky
 buskin
 buskined
+bopyridae
 buskins
 buskle
 busks
