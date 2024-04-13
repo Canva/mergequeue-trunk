@@ -293,6 +293,7 @@ caciqueship
 caciquism
 cack
 cacked
+coactor
 cackerel
 cacking
 cackle
@@ -17000,7 +17001,6 @@ coaction
 coactive
 coactively
 coactivity
-coactor
 coacts
 coadamite
 coadapt
