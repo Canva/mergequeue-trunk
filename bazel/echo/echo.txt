@@ -2344,6 +2344,7 @@ erythrophore
 electrocoating
 electrocolloidal
 electrocontractility
+evocators
 electroconvulsive
 electrocorticogram
 earthless
@@ -11675,7 +11676,6 @@ epitoxoid
 evocativeness
 energy
 evocatory
-evocators
 evodia
 evoe
 eleut

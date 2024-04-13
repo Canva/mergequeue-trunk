@@ -4379,7 +4379,6 @@ demarcature
 demarch
 demarche
 demarches
-demarchy
 demaree
 demargarinate
 demark
@@ -9175,6 +9174,7 @@ dyemaking
 diencephala
 diencephalic
 dispellable
+demarchy
 diencephalon
 diene
 diener
