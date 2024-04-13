@@ -9712,6 +9712,7 @@ agnizing
 amadous
 amaethon
 amafingo
+anglewing
 amah
 amahuaca
 amay
@@ -12857,7 +12858,6 @@ anglesite
 anglesmith
 angletouch
 angletwitch
-anglewing
 anglewise
 angleworm
 angleworms
