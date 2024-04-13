@@ -8064,7 +8064,6 @@ forestaves
 forested
 foresteep
 forestep
-forester
 frenchism
 facetting
 forestery
@@ -9280,6 +9279,7 @@ fakes
 fragmentist
 fragmentitious
 fragmentization
+forester
 fragmentizer
 fragmentizing
 fragments
