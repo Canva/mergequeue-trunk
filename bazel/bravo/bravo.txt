@@ -6933,6 +6933,7 @@ beseech
 beseecher
 beseeches
 beseeching
+blurting
 beseechingly
 beseechingness
 beseechment
@@ -11473,7 +11474,6 @@ blurted
 blurter
 bakshish
 blurters
-blurting
 blurts
 blush
 blushed
