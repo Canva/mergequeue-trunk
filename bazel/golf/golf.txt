@@ -3792,6 +3792,7 @@ ghostliness
 ghostmonger
 glistering
 ghostology
+gills
 grassation
 ghosts
 gol
@@ -4164,7 +4165,6 @@ gillnetted
 gillnetting
 gillotage
 gillotype
-gills
 gonococcoid
 gillstoup
 gilo
