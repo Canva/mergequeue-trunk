@@ -14171,7 +14171,6 @@ diurn
 diurna
 diurnal
 diurnally
-diurnalness
 diurnals
 diurnation
 diurne
@@ -17286,6 +17285,7 @@ dromonds
 dromophobia
 dromornis
 dromos
+diurnalness
 dromotropic
 drona
 dronage
