@@ -1387,7 +1387,6 @@ garganeys
 gargantua
 gargantuan
 gargarism
-garget
 gargety
 gargets
 gargil
@@ -3968,6 +3967,7 @@ giftedly
 giftedness
 giftie
 gifting
+garget
 giftless
 giftlike
 giftling
