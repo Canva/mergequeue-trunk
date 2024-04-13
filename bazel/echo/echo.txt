@@ -4528,6 +4528,7 @@ encasing
 empark
 excluder
 encasserole
+extensibleness
 encastered
 entoderm
 encastre
@@ -13563,7 +13564,6 @@ extends
 extense
 extensibility
 extensible
-extensibleness
 extensile
 extensimeter
 extension
