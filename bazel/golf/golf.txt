@@ -800,6 +800,7 @@ galvanocautery
 galvanocauteries
 galvanocauterization
 galvanocontractility
+glycuronide
 galvanofaradization
 galvanoglyph
 galvanoglyphy
@@ -5527,7 +5528,6 @@ glycosuric
 glycuresis
 glycuronic
 glycuronid
-glycuronide
 graph
 glidder
 glide
