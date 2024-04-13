@@ -11487,7 +11487,6 @@ anacalypsis
 anacampsis
 anacamptic
 anacamptically
-anacamptics
 anacamptometer
 anacanthine
 anacanthini
@@ -12821,6 +12820,7 @@ angiospermic
 angiospermous
 angiosperms
 angiosporous
+anacamptics
 angiostegnosis
 angiostenosis
 angiostomy
