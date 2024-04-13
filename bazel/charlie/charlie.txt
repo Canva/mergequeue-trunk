@@ -4357,7 +4357,6 @@ carminite
 carminophilous
 carmoisin
 carmot
-carn
 carnac
 carnacian
 carnage
@@ -8350,6 +8349,7 @@ challenges
 challenging
 challengingly
 chally
+carn
 challie
 challies
 challiho
