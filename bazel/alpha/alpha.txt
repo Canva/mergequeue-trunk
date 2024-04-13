@@ -8267,7 +8267,6 @@ alima
 alimenation
 aliment
 alimental
-alimentally
 alimentary
 alimentariness
 alimentation
@@ -24073,6 +24072,7 @@ abrasiometer
 autogiro
 autogyro
 autogiros
+alimentally
 autogyros
 autognosis
 ambulators
