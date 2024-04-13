@@ -10118,6 +10118,7 @@ ambulatoria
 aphanitism
 ambulatorial
 ambulatories
+anguis
 ambulatorily
 ambulatorium
 ambulatoriums
@@ -12953,7 +12954,6 @@ anguineal
 anguineous
 anguinidae
 anguiped
-anguis
 anguish
 anguished
 anguishes
