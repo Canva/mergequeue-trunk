@@ -6235,7 +6235,6 @@ benetted
 biblicistic
 benettle
 beneurous
-beneventan
 benevolences
 benevolency
 benevolentness
@@ -16360,6 +16359,7 @@ brusher
 brushers
 brushes
 brushet
+beneventan
 brushfire
 brushful
 brushy
