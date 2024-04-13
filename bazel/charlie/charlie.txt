@@ -25421,7 +25421,6 @@ cornuated
 cornubianite
 circumambulating
 cornucopia
-cornucopiae
 cornucopian
 cataian
 cornucopias
@@ -27840,6 +27839,7 @@ crabbiness
 crabbing
 crabbish
 crabbit
+cornucopiae
 crabcatcher
 crabeater
 crabeating
