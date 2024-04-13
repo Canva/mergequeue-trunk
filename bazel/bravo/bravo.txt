@@ -1820,6 +1820,7 @@ bamboozlers
 bamboozles
 bamboozling
 bambos
+boronic
 bamboula
 bambuba
 bambuco
@@ -13064,7 +13065,6 @@ borolanite
 boron
 boronatrocalcite
 boronia
-boronic
 borons
 borophenylic
 bibliotherapeutic

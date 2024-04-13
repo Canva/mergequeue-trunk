@@ -1215,6 +1215,7 @@ educts
 edulcorate
 edulcorated
 edulcorating
+expostulates
 edulcoration
 edulcorative
 edulcorator
@@ -11493,7 +11494,6 @@ evening
 evenly
 evenlight
 evenlong
-expostulates
 evenmete
 evenminded
 evenmindedness
