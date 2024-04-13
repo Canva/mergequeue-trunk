@@ -7307,7 +7307,6 @@ alares
 alarge
 alary
 alaria
-alaric
 alarm
 alarmable
 alarmclock
@@ -13796,6 +13795,7 @@ anonym
 anonyma
 anonyme
 anonymity
+alaric
 anonymities
 anonymously
 anonymousness
