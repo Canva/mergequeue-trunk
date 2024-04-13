@@ -2148,6 +2148,7 @@ bannat
 banned
 banner
 bales
+bearded
 bannerer
 banneret
 bannerets
@@ -4155,7 +4156,6 @@ bearcoot
 bratticed
 biassing
 beard
-bearded
 beardedness
 bewigged
 bearder
