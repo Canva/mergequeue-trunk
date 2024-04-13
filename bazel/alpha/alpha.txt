@@ -8244,6 +8244,7 @@ alighting
 alightment
 alights
 align
+aquas
 aligned
 aligners
 aligning
@@ -18225,7 +18226,6 @@ aquariums
 aquarius
 aquarter
 amidoazobenzol
-aquas
 aquascope
 aquascutum
 aquate

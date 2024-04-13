@@ -9237,6 +9237,7 @@ fractiously
 fractiousness
 fractocumulus
 fractostratus
+furtively
 fractuosity
 fractur
 fracturable
@@ -11508,7 +11509,6 @@ faradonervous
 furthest
 furthy
 furtive
-furtively
 furtum
 furud
 furuncle
