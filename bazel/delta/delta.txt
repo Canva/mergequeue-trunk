@@ -10614,7 +10614,6 @@ diplospondylic
 diplospondylism
 diplostemony
 diplostemonous
-diplostichous
 diplotaxis
 diplotegia
 diplozoon
@@ -11824,6 +11823,7 @@ disdiapason
 disdiazo
 disdodecahedroid
 disdub
+diplostichous
 dissonous
 dramm
 disease
