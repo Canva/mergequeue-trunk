@@ -3602,7 +3602,6 @@ filatory
 filature
 filatures
 filazer
-filbert
 filberts
 futurable
 filch
@@ -5502,6 +5501,7 @@ fleshmonger
 fleshpot
 fleshpots
 fleshquake
+filbert
 flet
 fleta
 fletched

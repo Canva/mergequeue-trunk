@@ -1776,6 +1776,7 @@ baltheus
 borophenol
 balti
 baltimore
+beys
 buckteeth
 baltimorean
 baltis
@@ -5520,7 +5521,6 @@ beyondness
 beyonds
 beira
 beyrichite
-beys
 beisa
 beisance
 beyship
