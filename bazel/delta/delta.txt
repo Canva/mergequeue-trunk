@@ -3295,6 +3295,7 @@ dealated
 deficient
 deficits
 defied
+dissimilitude
 defier
 defiers
 defies
@@ -13548,7 +13549,6 @@ dangered
 dentaliidae
 dissimilatory
 dissimile
-dissimilitude
 dissymmetry
 dolichocercic
 disjunction
