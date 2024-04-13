@@ -4067,7 +4067,6 @@ empanoply
 empaper
 emparchment
 emparl
-empasm
 empasma
 everbloomer
 empassion
@@ -5922,6 +5921,7 @@ enhydrite
 educatee
 enhydritic
 engnessang
+empasm
 entoolitic
 enhydros
 enhypostasia
