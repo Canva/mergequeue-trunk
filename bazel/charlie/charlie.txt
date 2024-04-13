@@ -22649,6 +22649,7 @@ childbear
 conormal
 conoscente
 conoscenti
+cryptopin
 conoscope
 conoscopic
 conourish
@@ -29332,7 +29333,6 @@ cryptophyte
 cryptophytic
 cryptophthalmos
 cryptopyic
-cryptopin
 cryptopine
 cryptopyrrole
 cryptoporticus

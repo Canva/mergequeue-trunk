@@ -8329,7 +8329,6 @@ bigam
 bigamy
 bigamic
 bigamies
-bigamist
 bigamistic
 bigamistically
 bigamists
@@ -18016,6 +18015,7 @@ bushtits
 bushveld
 bushwa
 bushwack
+bigamist
 bushwahs
 bushwalking
 bushwas
