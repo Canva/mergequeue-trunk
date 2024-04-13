@@ -8452,7 +8452,6 @@ chamisal
 chamise
 chamises
 chamiso
-caryopteris
 chamisos
 chamite
 chamkanni
@@ -12151,6 +12150,7 @@ chrysaor
 chrysarobin
 chrysatropic
 chrysazin
+caryopteris
 chrysazol
 chryseis
 chryselectrum
