@@ -6482,6 +6482,7 @@ enspangle
 ensphere
 ensphered
 enspheres
+epode
 ensphering
 enspirit
 ensporia
@@ -8477,7 +8478,6 @@ epocha
 epochally
 epoche
 epochism
-epode
 epodes
 ethnographic
 encrinus
