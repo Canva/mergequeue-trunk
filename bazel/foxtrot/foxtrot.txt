@@ -2584,6 +2584,7 @@ fault
 ferriprussiate
 ferriprussic
 ferris
+ferroboron
 fribblery
 ferrites
 ferritic
@@ -6873,7 +6874,6 @@ foisons
 foist
 foxtongue
 foisted
-ferroboron
 foister
 foisty
 flaxbird
