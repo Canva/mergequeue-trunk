@@ -947,6 +947,7 @@ faraon
 farasula
 faraway
 farawayness
+flauntiness
 farce
 farced
 farcemeat
@@ -5220,7 +5221,6 @@ flauntier
 flauntiest
 flauntily
 folkboat
-flauntiness
 flaunting
 flauntingly
 faunas

@@ -5083,7 +5083,6 @@ empathizing
 enunciation
 ethmoturbinate
 endobronchially
-empaled
 endobronchitis
 endocannibalism
 endocardia
@@ -7276,6 +7275,7 @@ enwreathe
 enwreathed
 enwreathing
 enwrite
+empaled
 enwrought
 enwwove
 euphonym
