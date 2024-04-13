@@ -7151,6 +7151,7 @@ gordunite
 gore
 gorebill
 gutturalization
+greediest
 gored
 gorefish
 gogos
@@ -8592,7 +8593,6 @@ greece
 greed
 greedy
 greedier
-greediest
 greedygut
 greedyguts
 greedily
