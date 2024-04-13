@@ -2406,6 +2406,7 @@ gelatinizability
 gelatinizable
 gelatinization
 gelatinize
+goniatitoid
 granulose
 gruppetto
 gelatinized
@@ -6825,7 +6826,6 @@ goniatites
 goniatitic
 goniatitid
 goniatitidae
-goniatitoid
 gonyaulax
 gadling
 gonycampsis
