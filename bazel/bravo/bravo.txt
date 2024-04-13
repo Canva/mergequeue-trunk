@@ -1547,7 +1547,6 @@ baller
 ballerina
 ballerinas
 ballerine
-ballers
 ballet
 balletic
 balletically
@@ -7921,6 +7920,7 @@ bibliolatry
 bibliolatrist
 bibliolatrous
 bibliology
+ballers
 bibliological
 bibliologies
 bismuthite
