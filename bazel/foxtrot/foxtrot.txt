@@ -2924,7 +2924,6 @@ feudalization
 feudalize
 feudalized
 feudalizing
-feudally
 feudary
 firmamental
 feudaries
@@ -6889,6 +6888,7 @@ folates
 folcgemot
 founding
 fold
+feudally
 fevers
 foldage
 foresettle

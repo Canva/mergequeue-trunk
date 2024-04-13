@@ -14820,6 +14820,7 @@ cytioderma
 cityscape
 cityscapes
 cytisine
+crinum
 cytitis
 cityward
 citywards
@@ -29119,7 +29120,6 @@ crinolines
 crinose
 crinosity
 crinula
-crinum
 crinums
 cryobiology
 cryobiological
