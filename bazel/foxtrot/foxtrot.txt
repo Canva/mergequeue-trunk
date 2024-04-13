@@ -216,7 +216,6 @@ factors
 factorship
 factotum
 factotums
-fiorded
 factrix
 facts
 factual
@@ -1616,6 +1615,7 @@ favouringly
 favourite
 favourless
 favours
+fiorded
 favous
 favus
 favuses
