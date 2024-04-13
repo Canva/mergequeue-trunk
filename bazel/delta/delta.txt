@@ -12672,7 +12672,6 @@ disruptions
 dismembers
 dipteran
 dismembrate
-dismembrated
 dismembrator
 dehypnotize
 dysmenorrhagia
@@ -15781,6 +15780,7 @@ dorsipinal
 dorsispinal
 dorsiventral
 depreciations
+dismembrated
 dorsiventrality
 dorsiventrally
 dorsoabdominal
