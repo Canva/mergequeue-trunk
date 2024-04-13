@@ -6377,6 +6377,7 @@ fluyts
 fluke
 fluked
 flukey
+friday
 flukeless
 flukes
 foujdary
@@ -9992,7 +9993,6 @@ frictionlessly
 frictionlessness
 frictionproof
 frictions
-friday
 fastuously
 fridges
 fried
