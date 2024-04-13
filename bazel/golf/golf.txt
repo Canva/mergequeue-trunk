@@ -5265,7 +5265,6 @@ glaucodot
 glaucodote
 glaucolite
 glaucoma
-goldcup
 galipots
 glaucomys
 glauconia
@@ -10462,6 +10461,7 @@ gunbarrel
 gunbuilder
 guncotton
 gunda
+goldcup
 gundeck
 gundelet
 gundelow

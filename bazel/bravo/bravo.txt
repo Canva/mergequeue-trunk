@@ -9271,6 +9271,7 @@ bipartite
 bipartitely
 bipartition
 bipartizan
+branchiate
 bipaschal
 bypass
 bypassed
@@ -14421,7 +14422,6 @@ branchia
 branchiae
 branchial
 branchiata
-branchiate
 branchicolous
 branchier
 branchiest
