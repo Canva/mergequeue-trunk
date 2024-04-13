@@ -1119,6 +1119,7 @@ dase
 dasein
 dasewe
 dash
+decoyers
 dashboard
 dashboards
 dashed
@@ -2570,7 +2571,6 @@ decohesion
 decoy
 decoic
 decoyer
-decoyers
 decoying
 decoyman
 decoys
