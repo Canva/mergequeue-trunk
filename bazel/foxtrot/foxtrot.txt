@@ -2843,6 +2843,7 @@ feticide
 feticides
 fetid
 fluxed
+foozles
 fetidity
 fetidly
 fetidness
@@ -7314,7 +7315,6 @@ foozle
 foozled
 foozler
 foozlers
-foozles
 foozling
 fop
 fopdoodle
