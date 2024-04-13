@@ -7852,7 +7852,6 @@ epigyne
 epigyny
 epigynies
 epigynous
-epigynum
 epiglot
 epiglottal
 evolutility
@@ -10816,6 +10815,7 @@ eudidymite
 eudiometer
 eudiometry
 eudiometric
+epigynum
 eudiometrical
 eudiometrically
 eudipleural
