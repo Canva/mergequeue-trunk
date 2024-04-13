@@ -2571,6 +2571,7 @@ electrophoresing
 electrophoresis
 electrophoretically
 electrophoretogram
+enmove
 eave
 electrophori
 extund
@@ -6099,7 +6100,6 @@ enmew
 enmity
 enmities
 enmoss
-enmove
 enmuffle
 enneacontahedral
 ennead
