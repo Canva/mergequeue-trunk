@@ -4368,7 +4368,6 @@ beblot
 beblotch
 beblubber
 beblubbered
-bebog
 bebop
 bebopper
 beboppers
@@ -12995,6 +12994,7 @@ bugseeds
 boodleism
 boreism
 borel
+bebog
 borele
 betrample
 borers

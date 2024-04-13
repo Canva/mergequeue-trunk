@@ -18856,7 +18856,6 @@ collapse
 collapsed
 collapses
 collapsibility
-collapsible
 collapsing
 collar
 collarband
@@ -25069,6 +25068,7 @@ corelational
 corelative
 corelatively
 coreless
+collapsible
 coreligionist
 cooperancy
 corelysis
