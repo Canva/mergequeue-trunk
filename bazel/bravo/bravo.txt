@@ -8275,7 +8275,6 @@ bifidated
 bifidity
 bifidities
 bifidly
-bifilar
 bifilarly
 bifistular
 biflabellate
@@ -8588,6 +8587,7 @@ bilingualism
 bilinguality
 bilingually
 bilinguar
+bifilar
 bilinguist
 byliny
 bilinigrin
