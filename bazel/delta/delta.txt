@@ -11087,6 +11087,7 @@ disassembles
 disassembly
 disassembling
 disassent
+durani
 disassiduity
 disassimilate
 disassimilated
@@ -18419,7 +18420,6 @@ durance
 durances
 durandarte
 durangite
-durani
 diacetonuria
 durant
 duranta
