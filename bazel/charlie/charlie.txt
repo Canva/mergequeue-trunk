@@ -188,6 +188,7 @@ cabretta
 cabrettas
 cabreuva
 cabrie
+chloralization
 cabrilla
 cabrillas
 cabriole
@@ -11171,7 +11172,6 @@ chloragogue
 chloral
 chloralformamide
 chloralism
-chloralization
 cymbocephalic
 chukars
 chloralize

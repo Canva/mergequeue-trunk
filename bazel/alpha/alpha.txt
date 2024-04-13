@@ -7386,6 +7386,7 @@ albarelli
 albarello
 albarellos
 albarium
+aposematically
 albas
 albaspidin
 albata
@@ -17392,7 +17393,6 @@ aposaturn
 aposaturnium
 aposelene
 aposematic
-aposematically
 admittee
 acridan
 aposepalous
