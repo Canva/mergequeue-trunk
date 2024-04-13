@@ -5249,7 +5249,6 @@ endophasia
 endophasic
 endophyllaceae
 endophyllous
-endophyllum
 endophytal
 endophyte
 endophytic
@@ -9848,6 +9847,7 @@ espino
 entomologize
 espinos
 enfoil
+endophyllum
 esplanade
 esplees
 evaluators
