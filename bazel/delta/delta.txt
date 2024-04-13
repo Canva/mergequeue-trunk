@@ -4747,7 +4747,6 @@ democratism
 democratist
 democratization
 democratize
-destaining
 democratized
 democratizer
 democratizes
@@ -5218,6 +5217,7 @@ denouncements
 digladiate
 denouncer
 denouncers
+destaining
 denounces
 denouncing
 dens
