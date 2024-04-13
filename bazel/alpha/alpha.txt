@@ -18372,7 +18372,6 @@ arachnidism
 arachnidium
 arachnids
 arachnism
-arachnites
 arachnitis
 arachnoid
 arachnoidal
@@ -21798,6 +21797,7 @@ assyriological
 assyriologist
 aliases
 assyriologue
+arachnites
 assyroid
 assis
 assisa
