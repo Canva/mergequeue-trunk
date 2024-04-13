@@ -5490,6 +5490,7 @@ enemied
 enemies
 estancieros
 eburnification
+euterpe
 enemying
 enemylike
 enemyship
@@ -13439,7 +13440,6 @@ exquisitiveness
 exradio
 exradius
 exrupeal
-euterpe
 exrx
 exsanguinate
 exsanguinated
