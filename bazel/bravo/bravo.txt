@@ -2468,6 +2468,7 @@ barcelonas
 barchan
 barchans
 barche
+beacher
 barcolongo
 barcone
 barcoo
@@ -3994,7 +3995,6 @@ beachcombing
 beachdrops
 beached
 basiation
-beacher
 beaches
 beachfront
 beachhead
