@@ -2063,7 +2063,6 @@ camphorweed
 camphorwood
 campi
 campy
-campier
 campiest
 campignian
 campily
@@ -2411,6 +2410,7 @@ candlewick
 candlewicking
 candlewicks
 candlewright
+campier
 candling
 candock
 candollea
