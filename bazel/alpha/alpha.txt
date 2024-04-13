@@ -10037,7 +10037,6 @@ amblyomma
 amblyope
 amblyopia
 amblyopic
-amblyopsidae
 amblyopsis
 amblyoscope
 amblypod
@@ -14349,6 +14348,7 @@ antheriferous
 antherine
 antherless
 antherogenous
+amblyopsidae
 antheroid
 antherozoid
 antherozoidal

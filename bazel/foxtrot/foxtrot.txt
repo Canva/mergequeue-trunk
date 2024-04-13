@@ -3297,7 +3297,6 @@ fiddlerfish
 fiddlerfishes
 fiddlery
 fiddlers
-fiddles
 foreknowable
 fiddlestick
 fiddlesticks
@@ -10350,6 +10349,7 @@ frolic
 fibrinoplastic
 frolicful
 flagships
+fiddles
 frolicked
 frolicker
 frolickers
