@@ -18265,7 +18265,6 @@ cogitative
 cogitatively
 cogitativeness
 cogitativity
-cogitator
 cogitators
 cogito
 coglorify
@@ -23698,6 +23697,7 @@ contramarque
 contramure
 contranatural
 contrantiscion
+cogitator
 contraoctave
 contraorbital
 contraorbitally
