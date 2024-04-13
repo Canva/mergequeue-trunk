@@ -595,6 +595,7 @@ echiurida
 echiuroid
 echiuroidea
 echiurus
+emus
 echo
 echocardiogram
 echoed
@@ -4333,7 +4334,6 @@ emunctories
 emundation
 eches
 emunge
-emus
 emuscation
 emusified
 emusifies

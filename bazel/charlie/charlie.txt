@@ -10844,7 +10844,6 @@ chipboard
 chipchap
 chipchop
 chipewyan
-chipyard
 chiplet
 chipling
 chipmuck
@@ -30953,6 +30952,7 @@ cumyl
 cuminal
 cuminic
 cuminyl
+chipyard
 cuminoin
 cuminol
 cuminole
