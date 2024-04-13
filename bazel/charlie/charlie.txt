@@ -7662,6 +7662,7 @@ cerithiidae
 cerithioid
 cerithium
 cerium
+cocowort
 ceriums
 cermet
 cheatable
@@ -17671,7 +17672,6 @@ cocotte
 cocottes
 cocovenantor
 cocowood
-cocowort
 cocozelle
 cocreate
 cocreated
