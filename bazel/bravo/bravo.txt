@@ -5565,6 +5565,7 @@ bekiss
 bekissed
 bekisses
 bekissing
+bibiru
 bekko
 beknave
 beknight
@@ -7877,7 +7878,6 @@ bibio
 bibionid
 bibionidae
 bibiri
-bibiru
 bibitory
 bibl
 bible
