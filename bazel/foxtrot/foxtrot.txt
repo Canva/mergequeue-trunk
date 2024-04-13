@@ -5960,7 +5960,6 @@ floods
 fortifiable
 floodway
 feute
-floodways
 floodwall
 floodwater
 floodwood
@@ -8141,6 +8140,7 @@ foretooth
 flinches
 foretopman
 foretopmast
+floodways
 foretopmen
 foretops
 foretrace
