@@ -5964,7 +5964,6 @@ glottitis
 glossolaly
 goony
 glottochronology
-gymnemic
 glottochronological
 glottogony
 ginzoes
@@ -6303,6 +6302,7 @@ gastraeum
 gnetales
 gnetum
 gnetums
+gymnemic
 gneu
 gnocchetti
 gnome
