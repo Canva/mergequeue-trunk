@@ -5287,7 +5287,6 @@ endorachis
 endoradiosonde
 endoral
 endore
-evened
 endorhinitis
 endorphin
 endorsable
@@ -6551,6 +6550,7 @@ entangled
 entangledness
 endotrachelitis
 entanglement
+evened
 entanglements
 entangler
 entanglers
