@@ -5763,7 +5763,6 @@ bellacoola
 belladonna
 bellarmine
 bellatrix
-bellbind
 buckjump
 bellbinder
 bellbine
@@ -9250,6 +9249,7 @@ biozone
 byp
 bethabara
 bipack
+bellbind
 bipacks
 bipaleolate
 bipalium
