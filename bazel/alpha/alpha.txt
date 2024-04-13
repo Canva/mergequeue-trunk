@@ -549,6 +549,7 @@ ablatively
 ablatives
 ablator
 ablaut
+anchietin
 ablauts
 ablaze
 able
@@ -12140,7 +12141,6 @@ ancestrian
 ancestries
 ancha
 anchat
-anchietin
 anchietine
 anchieutectic
 anchylose
