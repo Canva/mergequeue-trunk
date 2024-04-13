@@ -9188,7 +9188,6 @@ dieresis
 dieretic
 dieri
 diervilla
-dies
 dyes
 dieselization
 dieselize
@@ -15817,6 +15816,7 @@ diablotin
 dragomans
 dorsoventrad
 dorsoventral
+dies
 dorsoventrality
 dorsula
 dorsum

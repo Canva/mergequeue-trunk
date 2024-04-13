@@ -7904,6 +7904,7 @@ grandeur
 grandeurs
 grandeval
 grandevity
+glabrous
 grandeza
 grandezza
 garnisheement
@@ -8709,7 +8710,6 @@ greenstick
 greenstone
 greensward
 greenswarded
-glabrous
 greentail
 greenth
 greenths
