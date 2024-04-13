@@ -963,7 +963,6 @@ absinthol
 absinthole
 absinths
 absyrtus
-absis
 absist
 absistos
 absit
@@ -2932,6 +2931,7 @@ acrometer
 acromia
 acromial
 acromicria
+absis
 acromimia
 acromioclavicular
 acromiocoracoid

@@ -5688,7 +5688,6 @@ belgard
 belgas
 belgian
 belgians
-belgic
 birdbrain
 belgium
 belgophile
@@ -8826,6 +8825,7 @@ binding
 bindingness
 bindings
 bindle
+belgic
 bindles
 bindlet
 bindoree
