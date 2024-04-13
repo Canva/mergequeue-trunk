@@ -5440,7 +5440,6 @@ dermosynovitis
 deodorisation
 deodorise
 deodorised
-deodoriser
 deodorising
 deodorization
 deodorize
@@ -8154,6 +8153,7 @@ diageotropism
 diaglyph
 diaglyphic
 diaglyptic
+deodoriser
 diagnosable
 diagnose
 dipus
