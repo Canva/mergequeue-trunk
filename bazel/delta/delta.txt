@@ -10568,6 +10568,7 @@ diplomatism
 diplomatist
 diplomatists
 diplomatology
+downstrokes
 diplomats
 diplomyelia
 diplonema
@@ -16328,7 +16329,6 @@ downstate
 downsteepy
 downstreet
 downstroke
-downstrokes
 downswing
 downswings
 downtake

@@ -2364,6 +2364,7 @@ achronychous
 achronism
 achroodextrin
 aptyalia
+arcboutant
 astrakhan
 achroodextrinase
 achroous
@@ -18645,7 +18646,6 @@ arcate
 arcato
 arcature
 arcatures
-arcboutant
 arccos
 audiviser
 arccosine
