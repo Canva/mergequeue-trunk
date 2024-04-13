@@ -3427,7 +3427,6 @@ bassos
 bassus
 basswood
 basswoods
-basta
 bastaard
 bastard
 bastarda
@@ -4228,6 +4227,7 @@ beatee
 beaten
 beaterman
 beaters
+basta
 beath
 beati
 beatify
