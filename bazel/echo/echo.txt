@@ -9949,7 +9949,6 @@ essoinment
 essoins
 essonite
 essonites
-essorant
 explorate
 est
 estab
@@ -12162,6 +12161,7 @@ excoriate
 excoriated
 excoriates
 excoriating
+essorant
 excoriation
 excoriations
 excorticate
