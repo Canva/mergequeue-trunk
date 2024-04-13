@@ -4662,7 +4662,6 @@ enchiridia
 enchiridion
 enchiridions
 enchiriridia
-enchytrae
 enchytraeid
 enchytraeidae
 enchytraeus
@@ -8919,6 +8918,7 @@ erect
 erectable
 erected
 exclusionist
+enchytrae
 enantioblastic
 erecter
 erecters
