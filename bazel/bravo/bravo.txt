@@ -8452,6 +8452,7 @@ bihamate
 byhand
 bihari
 biharmonic
+basalia
 bihydrazine
 bihourly
 bija
@@ -12380,7 +12381,6 @@ bonderize
 bonderman
 bonders
 bondfolk
-basalia
 bondhold
 bondholder
 bondholders

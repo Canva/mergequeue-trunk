@@ -30212,7 +30212,6 @@ crumblet
 cultellation
 crumbly
 crumblier
-crumbliest
 creatureliness
 crumbliness
 crumbling
@@ -30416,6 +30415,7 @@ ctenophoran
 ctenophore
 ctenophoric
 ctenophorous
+crumbliest
 ctenoplana
 ctenostomata
 ctenostomatous
