@@ -8826,6 +8826,7 @@ exhortatively
 equivocacies
 equivocal
 equivocalities
+equivoke
 equivocally
 equivocalness
 equivocate
@@ -8839,7 +8840,6 @@ effigiation
 equivocator
 equivocatory
 equivocators
-equivoke
 equivokes
 equivoluminal
 equivoque
