@@ -18619,7 +18619,6 @@ coke
 cokey
 cokelike
 cokeman
-connexionalism
 cokeney
 clinocephalism
 coker
@@ -19304,6 +19303,7 @@ colonnades
 colonnette
 colonopathy
 colonopexy
+connexionalism
 colonoscopy
 colons
 colonus
