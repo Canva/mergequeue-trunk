@@ -1075,7 +1075,6 @@ calciphobous
 calciprivic
 calcisponge
 calcispongiae
-calcite
 calcites
 calcitestaceous
 calcitic
@@ -25015,6 +25014,7 @@ cordwain
 cordwainer
 cordwainery
 cordwains
+calcite
 cordwood
 cordwoods
 core
