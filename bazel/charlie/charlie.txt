@@ -7324,7 +7324,6 @@ cephalophine
 cephalophorous
 cephalophus
 cephaloplegia
-cephaloplegic
 cephalopod
 cephalopoda
 cephalopodan
@@ -28312,6 +28311,7 @@ craunchingly
 cravat
 cravats
 cravatted
+cephaloplegic
 chytra
 crave
 craved
