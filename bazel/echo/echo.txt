@@ -4711,7 +4711,6 @@ encyclopedic
 encyclopedical
 encyclopedically
 encyclopedism
-encyclopedist
 enciente
 encina
 encinal
@@ -10455,6 +10454,7 @@ ethmomaxillary
 ethmonasal
 ethmopalatal
 ethmophysal
+encyclopedist
 ethmopresphenoidal
 ethmose
 energico
