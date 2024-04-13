@@ -1643,7 +1643,6 @@ deanthropomorphic
 deanthropomorphism
 deanthropomorphization
 deanthropomorphize
-deappetizing
 deaquation
 dear
 dearborn
@@ -10043,6 +10042,7 @@ dynastically
 dynasticism
 dynastid
 dynastidan
+deappetizing
 dynastides
 dynasties
 dynastinae
