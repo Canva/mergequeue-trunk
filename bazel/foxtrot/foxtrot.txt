@@ -4645,7 +4645,6 @@ fixator
 fixature
 fixe
 fixed
-fixedness
 fibroreticulate
 fixer
 fixers
@@ -9532,6 +9531,7 @@ foreroom
 frau
 fraud
 frauder
+fixedness
 fraudfully
 fraudlessly
 fraudlessness
