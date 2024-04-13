@@ -3197,6 +3197,7 @@ elucidatory
 elucidators
 eluctate
 eluctation
+exploit
 elucubrate
 elucubration
 elude
@@ -13221,7 +13222,6 @@ explodent
 exploder
 exploders
 explodes
-exploit
 exploitable
 exploitage
 exploitation

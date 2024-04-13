@@ -16007,7 +16007,6 @@ brongniardite
 bronk
 bronstrops
 boxwallah
-bronteana
 bronteon
 brontephobia
 bronteum
@@ -16353,6 +16352,7 @@ butling
 bruscha
 bruscus
 brush
+bronteana
 brushability
 brushable
 brushback
