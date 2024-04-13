@@ -3901,6 +3901,7 @@ cardiacea
 cardiacean
 cardiacle
 cardiacs
+choosey
 cardiae
 cardiagra
 cardiagram
@@ -11804,7 +11805,6 @@ choosableness
 cycloidal
 choose
 chooseable
-choosey
 chooser
 choosers
 chooses
