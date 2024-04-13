@@ -12333,7 +12333,6 @@ dishwater
 dendrolite
 dishwatery
 dishwiper
-dishwiping
 disidentify
 dysidrosis
 disilane
@@ -18536,6 +18535,7 @@ dustbins
 dustblu
 dustbox
 dustcart
+dishwiping
 dustcloth
 detectably
 dustcover
