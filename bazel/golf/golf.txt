@@ -5709,7 +5709,6 @@ globosely
 globoseness
 globosite
 globosity
-globosities
 globous
 globously
 globousness
@@ -6968,6 +6967,7 @@ gooder
 gooders
 goodhap
 goodheartedly
+globosities
 goodheartedness
 goodhumoredness
 goodie
