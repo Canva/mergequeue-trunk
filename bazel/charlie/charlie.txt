@@ -13483,7 +13483,6 @@ cigar
 cigaresque
 cigaret
 cigarets
-cigarette
 cigarettes
 cigarfish
 cigarillo
@@ -27122,6 +27121,7 @@ countersecurity
 counterselection
 countersense
 counterservice
+cigarette
 countershade
 clione
 countershading
