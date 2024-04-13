@@ -10977,7 +10977,6 @@ chirothesia
 chirotype
 chirotony
 chirotonsor
-chirp
 chirped
 chirper
 chirpers
@@ -31374,6 +31373,7 @@ curler
 curlew
 curlewberry
 correlation
+chirp
 curlews
 curly
 curlicue
