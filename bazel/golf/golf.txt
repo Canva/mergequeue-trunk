@@ -2834,6 +2834,7 @@ grasps
 genitor
 gendering
 genitory
+goupen
 genitorial
 genitors
 genitourinary
@@ -7404,7 +7405,6 @@ goumi
 goumier
 goundou
 goup
-goupen
 galvanize
 goupin
 gour
