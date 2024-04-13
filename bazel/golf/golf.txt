@@ -2668,7 +2668,6 @@ generalism
 glorified
 grogshops
 generalissima
-generalissimo
 generalissimos
 generalist
 generalistic
@@ -7431,6 +7430,7 @@ granuliferous
 grabbier
 gourdworm
 girasols
+generalissimo
 geminal
 goury
 gourmand
