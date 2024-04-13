@@ -3584,6 +3584,7 @@ adduct
 adducted
 adducting
 adduction
+antistate
 adductor
 adductors
 adducts
@@ -16258,7 +16259,6 @@ antistadholderian
 antistalling
 antistaphylococcic
 antistat
-antistate
 antistater
 antistatic
 antistatism
