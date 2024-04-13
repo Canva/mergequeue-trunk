@@ -6411,7 +6411,6 @@ desalted
 desalter
 desalters
 desalting
-dobbers
 desalts
 desamidase
 desamidization
@@ -15710,6 +15709,7 @@ dormins
 dormitary
 dormition
 dormitive
+dobbers
 dormitories
 dormouse
 dorn
