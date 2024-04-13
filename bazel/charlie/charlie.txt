@@ -1035,6 +1035,7 @@ calciform
 calcifugal
 calcifugous
 calcigenous
+clavicularium
 calcigerous
 calcimeter
 calcimine
@@ -15734,7 +15735,6 @@ clarifiable
 clavicornia
 clavicotomy
 clavicular
-clavicularium
 claviculate
 claviculus
 clavier
