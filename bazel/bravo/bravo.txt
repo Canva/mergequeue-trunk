@@ -1293,7 +1293,6 @@ balaneutics
 balangay
 balanic
 balanid
-balanidae
 balaniferous
 broderie
 balanism
@@ -5550,6 +5549,7 @@ bestowed
 bejig
 bejuco
 bajri
+balanidae
 bejuggle
 bejumble
 bejumbled
