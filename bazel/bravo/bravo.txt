@@ -4609,6 +4609,7 @@ bedaubs
 bedlike
 bedawee
 bedawn
+billing
 bedaze
 bedazed
 bedazement
@@ -7995,7 +7996,6 @@ bibracteate
 bibracteolate
 bibs
 bibulosity
-billing
 bibulosities
 bibulous
 bibulously
