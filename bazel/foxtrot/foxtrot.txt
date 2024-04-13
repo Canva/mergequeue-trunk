@@ -424,7 +424,6 @@ flakily
 fairly
 fairlike
 fairling
-fairm
 fairnesses
 fragilely
 fairs
@@ -4566,6 +4565,7 @@ fobbed
 fitcher
 fitchery
 freshment
+fairm
 fitchering
 fabrikoid
 fairylike
