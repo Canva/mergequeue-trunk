@@ -1967,7 +1967,6 @@ feedstuff
 feedstuffs
 feedway
 feedwater
-favela
 feeing
 feel
 feeler
@@ -6364,6 +6363,7 @@ fluidness
 fluidounce
 forget
 fluidram
+favela
 fluidrams
 fluids
 fluigram
