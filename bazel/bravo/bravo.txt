@@ -814,7 +814,6 @@ buba
 badly
 badling
 badman
-badmash
 badmen
 badminton
 badmouth
@@ -2791,6 +2790,7 @@ baroco
 barodynamic
 barodynamics
 barognosis
+badmash
 barogram
 barograms
 barograph

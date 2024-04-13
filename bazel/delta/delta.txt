@@ -858,6 +858,7 @@ danism
 danite
 danization
 danize
+dichromaticism
 duralumin
 dank
 dankali
@@ -8876,7 +8877,6 @@ dichromasia
 downturned
 dichromat
 dichromatic
-dichromaticism
 dichromatism
 debonairty
 dichromic
