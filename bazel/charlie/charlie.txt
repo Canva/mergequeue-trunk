@@ -2109,7 +2109,6 @@ camps
 campshed
 campshedding
 campsheeting
-campshot
 campsite
 campsites
 campstool
@@ -7023,6 +7022,7 @@ centigrade
 centigrado
 centigram
 centigramme
+campshot
 confluences
 centigrams
 centile
