@@ -512,7 +512,6 @@ galictis
 galidia
 galidictis
 galik
-garrafa
 gruffing
 galilean
 galilei
@@ -3904,6 +3903,7 @@ gibed
 gibel
 gibelite
 gibeonite
+garrafa
 guarders
 giber
 gibers
