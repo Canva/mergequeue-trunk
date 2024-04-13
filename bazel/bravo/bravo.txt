@@ -7308,6 +7308,7 @@ besuit
 besully
 beswarm
 beswarmed
+biannual
 beswarming
 beswarms
 besweatered
@@ -7816,7 +7817,6 @@ biangulate
 biangulated
 biangulous
 bianisidine
-biannual
 biannually
 blandfordia
 biannulate
