@@ -5993,7 +5993,6 @@ bemaul
 bemazed
 bembecidae
 bembex
-bemeal
 bemean
 bemeaned
 bemeaning
@@ -12813,6 +12812,7 @@ bootable
 bootblack
 bootblacks
 bootboy
+bemeal
 berkeleyism
 booted
 bootees
