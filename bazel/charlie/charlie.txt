@@ -8682,6 +8682,7 @@ chanson
 chansonette
 chansonnette
 chansonnier
+congruity
 chansonniers
 chansons
 chanst
@@ -22317,7 +22318,6 @@ congruently
 congruism
 congruist
 congruistic
-congruity
 congruities
 congruous
 congruously
