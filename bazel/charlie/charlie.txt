@@ -665,6 +665,7 @@ caffoy
 caffoline
 caffre
 cafh
+chadars
 cafila
 cafiz
 cafoy
@@ -8014,7 +8015,6 @@ chad
 chadacryst
 chadar
 chadarim
-chadars
 chadelle
 chadless
 chadlock
