@@ -14913,7 +14913,6 @@ anticipated
 anticipates
 anticipating
 aphoriser
-anticipatingly
 anticipation
 anticipations
 anticipative
@@ -23057,6 +23056,7 @@ attest
 attestable
 attestant
 attestation
+anticipatingly
 amahs
 attestations
 alalia
