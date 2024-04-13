@@ -5854,7 +5854,6 @@ gorier
 glossarist
 glossarize
 gifture
-glossas
 glossata
 glossator
 glossatorial
@@ -7181,6 +7180,7 @@ gorgonacea
 gorgonacean
 gorgonaceous
 gorgoneia
+glossas
 gorgoneion
 garau
 gorgonesque
