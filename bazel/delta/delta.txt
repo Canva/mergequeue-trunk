@@ -1948,6 +1948,7 @@ decadently
 decadents
 decades
 decadi
+departmentization
 decadianome
 dauerlauf
 decadic
@@ -5545,7 +5546,6 @@ departmentalized
 departmentalizes
 departmentalizing
 departmentally
-departmentization
 departmentize
 departs
 departure

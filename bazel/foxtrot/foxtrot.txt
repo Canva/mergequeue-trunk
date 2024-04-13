@@ -2770,7 +2770,6 @@ festivalgoer
 festivally
 flidder
 festivals
-festively
 festiveness
 festivity
 festivities
@@ -9005,6 +9004,7 @@ fountainlet
 fibrinogenic
 fountainlike
 filicite
+festively
 fountainous
 fountainously
 fustle
