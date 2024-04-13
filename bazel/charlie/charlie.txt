@@ -2500,6 +2500,7 @@ canine
 canines
 caning
 caniniform
+coalescency
 caninity
 caninities
 caninus
@@ -17134,7 +17135,6 @@ coalers
 coalesce
 coalescence
 cellarless
-coalescency
 coalescent
 coalesces
 coalescing
