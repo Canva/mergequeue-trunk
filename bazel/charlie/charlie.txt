@@ -6696,6 +6696,7 @@ casaque
 coremium
 cellarage
 cellared
+crampons
 cellarer
 cellarers
 cellaress
@@ -28058,7 +28059,6 @@ crampit
 crampits
 crampon
 cramponnee
-crampons
 coggie
 crampoon
 crampoons
