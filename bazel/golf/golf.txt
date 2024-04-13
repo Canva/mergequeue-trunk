@@ -8367,7 +8367,6 @@ grattoirs
 gratton
 gratuitant
 gratuity
-gratuities
 gratuito
 gratuitously
 gratuitousness
@@ -9530,6 +9529,7 @@ groundwork
 grovellingly
 grovellings
 grovels
+gratuities
 grover
 grovers
 groves
