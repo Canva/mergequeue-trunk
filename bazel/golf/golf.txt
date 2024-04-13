@@ -6626,7 +6626,6 @@ goldy
 goldie
 goldilocks
 goldylocks
-guacin
 goldin
 golding
 goldish
@@ -8321,6 +8320,7 @@ grater
 graters
 grates
 gratewise
+guacin
 grather
 gratia
 glassweed
