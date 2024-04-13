@@ -579,7 +579,6 @@ fallopian
 fallostomy
 fallout
 funerate
-fallouts
 fallow
 forlornity
 frenziedly
@@ -3941,6 +3940,7 @@ finds
 font
 fine
 fineable
+fallouts
 fineableness
 finebent
 franchisal
