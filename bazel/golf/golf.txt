@@ -1177,7 +1177,6 @@ gangtide
 gangue
 ganguela
 gangues
-gangwa
 gangway
 grenadilla
 gangwayed
@@ -9967,6 +9966,7 @@ gambrel
 guavaberry
 guavina
 guaza
+gangwa
 guazuma
 guazuti
 guazzo
