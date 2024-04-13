@@ -3540,7 +3540,6 @@ bateleur
 batell
 bateman
 bouchal
-babelic
 bannered
 batement
 bater
@@ -5882,6 +5881,7 @@ bellum
 becobweb
 bellwaver
 bellweather
+babelic
 bellweed
 bellwether
 bellwethers
