@@ -421,7 +421,6 @@ abietin
 abietineae
 abietineous
 alchemilla
-abietinic
 abietite
 abiezer
 abigail
@@ -976,6 +975,7 @@ absoluter
 absolutes
 absolutest
 absolution
+abietinic
 absolutions
 absolutism
 aeronef
