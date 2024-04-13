@@ -3829,6 +3829,7 @@ carcels
 carcer
 carceral
 carcerate
+coendure
 carcerated
 carcerating
 carceration
@@ -17983,7 +17984,6 @@ coenanthium
 coendear
 coendidae
 coendou
-coendure
 coendured
 coendures
 coenduring
