@@ -2466,7 +2466,6 @@ gelotoscopy
 groundsel
 gelototherapy
 gels
-girondist
 granodioritic
 gelsemia
 gutterlike
@@ -2780,6 +2779,7 @@ genyantrum
 genic
 genically
 geniculate
+girondist
 geniculated
 geniculately
 grunzie
