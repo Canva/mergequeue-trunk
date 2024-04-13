@@ -6036,6 +6036,7 @@ agglomerator
 autoing
 agglutinability
 agglutinable
+assemblywoman
 agglutinant
 apical
 agglutinate
@@ -21645,7 +21646,6 @@ assemblyman
 assemblymen
 assembling
 actuaries
-assemblywoman
 assemblywomen
 assent
 assentation
