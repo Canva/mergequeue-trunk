@@ -8258,7 +8258,6 @@ forges
 fluxer
 forgetful
 forgetfully
-fogdog
 forgetfulness
 forgetive
 forgets
@@ -8657,6 +8656,7 @@ forspend
 forspent
 farstepped
 ferally
+fogdog
 footing
 forspoke
 forspoken
