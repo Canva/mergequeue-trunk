@@ -2142,7 +2142,6 @@ elaterin
 elaterins
 elaterite
 elateroid
-elaterometer
 elaters
 elates
 elatha
@@ -8424,6 +8423,7 @@ epitome
 epitomes
 epitomical
 epitomically
+elaterometer
 epitomisation
 epitomise
 epitomiser
