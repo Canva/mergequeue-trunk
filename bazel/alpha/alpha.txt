@@ -6730,7 +6730,6 @@ aigre
 aigremore
 alkaligen
 aigret
-amyraldist
 aigrets
 aigrette
 adenomeningeal
@@ -22179,6 +22178,7 @@ astragalocentral
 astragalomancy
 astragalonavicular
 astragaloscaphoid
+amyraldist
 astragalotibial
 astragals
 astragalus
