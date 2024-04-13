@@ -90,7 +90,6 @@ dacryopyorrhea
 dacryopyosis
 dizygotic
 dacryops
-dacryorrhea
 dacryosyrinx
 dacryosolenitis
 dacryostenosis
@@ -1491,6 +1490,7 @@ deactivations
 deactivator
 deactivators
 deadbeat
+dacryorrhea
 deadbeats
 defrosts
 deadcenter

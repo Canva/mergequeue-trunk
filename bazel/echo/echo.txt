@@ -104,7 +104,6 @@ earn
 earnable
 earned
 earner
-earners
 earnest
 earnestful
 earnestly
@@ -3798,6 +3797,7 @@ emeerates
 emeers
 emeership
 emeline
+earners
 emend
 emendable
 emendandum
