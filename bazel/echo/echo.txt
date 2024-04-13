@@ -10034,6 +10034,7 @@ esthesiogenic
 esthesiography
 esthesiology
 esthesiometer
+excerption
 esthesiometry
 esthesiometric
 esthesioneurosis
@@ -11994,7 +11995,6 @@ excerpted
 excerpter
 etheneldeli
 excerpting
-excerption
 ectodynamomorphic
 excerpts
 excess
