@@ -5568,7 +5568,6 @@ catastatic
 catasterism
 catastrophal
 catastrophe
-catastrophes
 catastrophic
 catastrophical
 catastrophically
@@ -16545,6 +16544,7 @@ cloisterwise
 cloistral
 cloistress
 cloit
+catastrophes
 cloke
 cloky
 clokies
