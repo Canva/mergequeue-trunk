@@ -1219,6 +1219,7 @@ ganoses
 ganosis
 geometrical
 ganowanian
+growling
 gansa
 gansey
 ganser
@@ -9558,7 +9559,6 @@ growliest
 growliness
 gemses
 gastornis
-growling
 growls
 grown
 grownup
