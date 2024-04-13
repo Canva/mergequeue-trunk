@@ -5538,6 +5538,7 @@ bejelling
 bejesuit
 bejesus
 bejewel
+bronk
 bejeweled
 bejeweling
 blockline
@@ -16004,7 +16005,6 @@ broncos
 broncs
 bludgeoning
 brongniardite
-bronk
 bronstrops
 boxwallah
 bronteana
