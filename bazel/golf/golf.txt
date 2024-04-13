@@ -642,7 +642,6 @@ galliformes
 greetingless
 galligaskin
 galligaskins
-gallygaskins
 gallying
 gallimaufry
 gallinaceae
@@ -7029,6 +7028,7 @@ goofy
 goofier
 goofiest
 goofily
+gallygaskins
 goofiness
 goofing
 goofs
