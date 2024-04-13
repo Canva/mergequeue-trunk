@@ -3110,6 +3110,7 @@ defamous
 deadworks
 defang
 defassa
+duomi
 defat
 defatigable
 defatigate
@@ -18309,7 +18310,6 @@ duologs
 duologue
 duologues
 duomachy
-duomi
 duomos
 duopod
 doyst
