@@ -738,6 +738,7 @@ gallup
 galluptious
 gallus
 galluses
+gastrocolic
 grisard
 gallweed
 gallwort
@@ -1761,7 +1762,6 @@ gastrocnemian
 gastrocnemii
 gastrocnemius
 gastrocoel
-gastrocolic
 gastrocoloptosis
 gastrocolostomy
 gastrocolotomy

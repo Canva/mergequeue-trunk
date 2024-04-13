@@ -3118,6 +3118,7 @@ capitoul
 capitoulate
 capitula
 capitulant
+creeling
 capitular
 capitulary
 centrists
@@ -28580,7 +28581,6 @@ creekside
 creekstuff
 creel
 climatography
-creeling
 creels
 creem
 creen
