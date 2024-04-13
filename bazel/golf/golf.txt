@@ -3601,7 +3601,6 @@ gesticulation
 gesticulations
 gesticulative
 gesticulatively
-gesticulatory
 gestio
 gestion
 gestning
@@ -8051,6 +8050,7 @@ granted
 grantedly
 grantee
 gravidas
+gesticulatory
 granter
 granters
 granth
