@@ -798,7 +798,6 @@ badging
 badgir
 badhan
 badiaga
-badian
 badigeon
 badinage
 badinaged
@@ -14102,6 +14101,7 @@ brackmard
 bracon
 braconid
 braconidae
+badian
 braconids
 braconniere
 bracozzo
