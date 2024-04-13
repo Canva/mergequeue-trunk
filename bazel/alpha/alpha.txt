@@ -10218,6 +10218,7 @@ amici
 amendatory
 amende
 amended
+androphore
 amender
 amenders
 amending
@@ -12418,7 +12419,6 @@ androphagous
 androphyll
 anthropomorphising
 androphobia
-androphore
 androphorous
 androphorum
 andropogon
