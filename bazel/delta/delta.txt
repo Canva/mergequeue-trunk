@@ -11259,7 +11259,6 @@ disceptator
 discepted
 desmogen
 discern
-discernable
 discerned
 discerner
 discernible
@@ -15567,6 +15566,7 @@ doornails
 doornboom
 doorpiece
 doorplates
+discernable
 doorpost
 doorposts
 doors
