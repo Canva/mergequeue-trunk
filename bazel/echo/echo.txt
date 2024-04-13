@@ -5415,6 +5415,7 @@ endotoxin
 endotracheal
 endotrophi
 endotrophic
+ensnarer
 esphresis
 endotropic
 endoubt
@@ -6451,7 +6452,6 @@ ensnare
 ensnared
 ensnarement
 ensnarements
-ensnarer
 ensnarers
 ensnares
 ensnarl
