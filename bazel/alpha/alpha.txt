@@ -3061,7 +3061,6 @@ aquatint
 actification
 actin
 actinal
-actinally
 actinautography
 actinautographic
 actine
@@ -3358,6 +3357,7 @@ acutish
 antinationally
 acutograve
 acutonodose
+actinally
 allochirally
 acutorsion
 acxoyatl
