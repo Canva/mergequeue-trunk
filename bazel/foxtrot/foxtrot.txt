@@ -2963,6 +2963,7 @@ feverberries
 feverbush
 fidgetiness
 fevered
+flowery
 feveret
 feverfew
 feverfews
@@ -6236,7 +6237,6 @@ floweret
 flowerets
 flowerfly
 flowerful
-flowery
 floweriest
 flowerily
 floweriness
