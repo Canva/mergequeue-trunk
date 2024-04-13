@@ -845,7 +845,6 @@ fantail
 fantailed
 fantails
 fantaisie
-fantasy
 fantasia
 fantasias
 fantasie
@@ -3741,6 +3740,7 @@ frownless
 filler
 fillercap
 fractionator
+fantasy
 fillers
 filles
 fillet
