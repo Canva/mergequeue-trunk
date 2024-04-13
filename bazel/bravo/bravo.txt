@@ -8463,7 +8463,6 @@ bijection
 bijections
 bree
 bijective
-bijectively
 bijou
 bijouterie
 bijoux
@@ -9700,6 +9699,7 @@ bismuth
 bismuthal
 bismuthate
 bismuthide
+bijectively
 bismuthiferous
 bismuthyl
 bismuthine
