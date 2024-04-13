@@ -17700,6 +17700,7 @@ coda
 codable
 codal
 codamin
+coursy
 codamine
 codas
 codder
@@ -27365,7 +27366,6 @@ coursey
 courser
 coursers
 courses
-coursy
 coursing
 coursings
 court
