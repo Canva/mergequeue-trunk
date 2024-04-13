@@ -2072,7 +2072,6 @@ elaphe
 elaphebolion
 elaphine
 elaphodus
-elaphoglossum
 elaphomyces
 elaphomycetaceae
 elaphrium
@@ -9836,6 +9835,7 @@ espigle
 euryon
 espying
 espinal
+elaphoglossum
 espinel
 espinette
 espingole
