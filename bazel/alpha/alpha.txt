@@ -7788,7 +7788,6 @@ aldus
 ale
 alea
 aleak
-aleatory
 aleatoric
 alebench
 aleberry
@@ -9465,6 +9464,7 @@ alternacy
 alternamente
 archartist
 alternance
+aleatory
 alternant
 alternanthera
 absolvable
