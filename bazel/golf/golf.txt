@@ -3328,7 +3328,6 @@ geranin
 graftage
 geraniol
 geranium
-gofferer
 geraniums
 generalized
 geranomorph
@@ -10544,6 +10543,7 @@ gunpoint
 gunpoints
 gunpowdery
 gyrally
+gofferer
 gunpowderous
 gunpower
 gracile
