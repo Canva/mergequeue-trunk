@@ -10235,7 +10235,6 @@ chiastolite
 chiastoneural
 chiastoneury
 chiastoneurous
-chiaus
 chiauses
 chiave
 chiavetta
@@ -17154,6 +17153,7 @@ coaly
 coalyard
 coalyards
 coalier
+chiaus
 coaliest
 coalify
 coalification
