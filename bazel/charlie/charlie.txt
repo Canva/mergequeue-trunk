@@ -19772,7 +19772,6 @@ comedist
 comedo
 comedos
 comedown
-comedowns
 comely
 comelier
 comeliest
@@ -24689,6 +24688,7 @@ coprecipitation
 copremia
 copremias
 copremic
+comedowns
 copresbyter
 copresence
 copresent
