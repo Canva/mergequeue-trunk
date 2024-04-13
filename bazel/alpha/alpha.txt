@@ -833,6 +833,7 @@ abridgeable
 abridged
 anamneses
 abridgedly
+agister
 anisotropical
 abridgement
 abridgements
@@ -6191,7 +6192,6 @@ agist
 agistator
 archaeocyte
 agisted
-agister
 agisting
 agistment
 agists
