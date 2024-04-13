@@ -12673,6 +12673,7 @@ angelico
 angelin
 angelina
 angeline
+apickback
 angelinformal
 angelique
 angelito
@@ -16968,7 +16969,6 @@ apician
 apicifixed
 apicillary
 apicitis
-apickback
 apickpack
 apicoectomy
 apicolysis
