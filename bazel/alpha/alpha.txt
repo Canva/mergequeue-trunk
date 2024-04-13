@@ -4942,6 +4942,7 @@ aerobioscope
 aerobiosis
 aerobiotic
 aerobiotically
+amyotrophy
 aerobious
 aerobium
 aeroboat
@@ -10641,7 +10642,6 @@ amyosthenia
 amyosthenic
 amyotaxia
 amyotonia
-amyotrophy
 amyotrophia
 amyotrophic
 amyous
