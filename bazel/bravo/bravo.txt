@@ -4703,7 +4703,6 @@ bedye
 bedizening
 bedight
 bedighted
-bedighting
 bedights
 bedikah
 bedim
@@ -15624,6 +15623,7 @@ broadcloth
 broaden
 broadened
 broadener
+bedighting
 broadeners
 broadening
 broadenings
