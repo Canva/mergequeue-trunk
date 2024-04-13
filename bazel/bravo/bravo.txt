@@ -1899,6 +1899,7 @@ bandeau
 bandeaux
 britishers
 banded
+blastomycetes
 bandel
 bandelet
 bandelette
@@ -10446,7 +10447,6 @@ blastomere
 blastomeric
 blastomyces
 blastomycete
-blastomycetes
 blastomycetic
 bergamots
 blastomycetous
