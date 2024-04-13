@@ -14673,6 +14673,7 @@ cystogenesis
 cystogenous
 cystogram
 cystoid
+corroborators
 cystoidea
 cystoidean
 cystoids
@@ -25763,7 +25764,6 @@ corroborator
 chrism
 corroboratory
 corroboratorily
-corroborators
 corroboree
 corroboreed
 corroboreeing

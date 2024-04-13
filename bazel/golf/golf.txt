@@ -10106,7 +10106,6 @@ gulas
 guestship
 guetar
 guetare
-guetre
 gufa
 guffawed
 guffawing
@@ -10522,6 +10521,7 @@ gunnen
 gunner
 gunnera
 gunneraceae
+guetre
 gunnery
 gunneries
 gunners
