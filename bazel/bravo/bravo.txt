@@ -1397,7 +1397,6 @@ baldmoneys
 baldness
 baldnesses
 baldoquin
-baldpate
 baldpated
 baldpatedness
 baldpates
@@ -11238,6 +11237,7 @@ blows
 blowse
 blowsed
 blowsy
+baldpate
 blowsier
 blowsily
 blowspray
