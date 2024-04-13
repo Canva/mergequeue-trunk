@@ -5134,6 +5134,7 @@ endocrania
 endocranial
 endocranium
 endocrin
+exquisitely
 ember
 endocrinal
 endocrine
@@ -13431,7 +13432,6 @@ epitomate
 expwy
 exquire
 exquisite
-exquisitely
 exquisiteness
 exquisitism
 exquisitive
