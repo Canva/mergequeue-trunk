@@ -6620,6 +6620,7 @@ enterocele
 enterocentesis
 enteroceptor
 enterochirurgia
+explanitory
 enterochlorophyll
 expandability
 endorsement
@@ -13175,7 +13176,6 @@ enticingness
 explanatory
 explanatorily
 explanatoriness
-explanitory
 explant
 explantation
 explanted
