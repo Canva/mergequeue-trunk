@@ -2924,7 +2924,6 @@ eliciting
 elicitor
 elicitory
 elicitors
-elicits
 elide
 enameloma
 elided
@@ -3851,6 +3850,7 @@ emerizing
 emerod
 emerods
 emeroid
+elicits
 emeroids
 emersed
 emersion
