@@ -1061,7 +1061,6 @@ darns
 daroga
 darogah
 darogha
-daroo
 darr
 darraign
 depositions
@@ -3210,6 +3209,7 @@ demagnify
 defenestrated
 defenestrates
 defenestrating
+daroo
 defenestration
 defensative
 defensed

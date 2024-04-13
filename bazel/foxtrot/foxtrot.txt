@@ -6222,7 +6222,6 @@ flowage
 flowages
 flowchart
 flowcharted
-flowcharting
 flowcharts
 flowcontrol
 flowe
@@ -7900,6 +7899,7 @@ forepossessed
 forepreparation
 flexuosities
 foreprepare
+flowcharting
 forepretended
 foreprise
 foreprize
