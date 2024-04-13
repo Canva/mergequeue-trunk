@@ -1644,7 +1644,6 @@ gasoliner
 gasolinic
 gasometer
 gasometry
-gasometric
 gasometrical
 gasometrically
 gasoscope
@@ -2694,6 +2693,7 @@ generalty
 generate
 generated
 generater
+gasometric
 generates
 generational
 generationism

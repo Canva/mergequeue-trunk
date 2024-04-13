@@ -3265,7 +3265,6 @@ fictious
 fictitiously
 fictitiousness
 fistularioid
-fictively
 ficula
 ficus
 fid
@@ -10826,6 +10825,7 @@ fuci
 fucinita
 fucivorous
 fucus
+fictively
 fucused
 fucuses
 fud
