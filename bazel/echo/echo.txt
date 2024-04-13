@@ -2159,6 +2159,7 @@ elator
 enmist
 englute
 elatrometer
+evaluators
 elb
 elbert
 elboic
@@ -9848,7 +9849,6 @@ espinos
 enfoil
 esplanade
 esplees
-evaluators
 esponton
 espousage
 espousals
