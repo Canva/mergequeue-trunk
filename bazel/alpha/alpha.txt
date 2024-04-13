@@ -10382,7 +10382,6 @@ amyclaean
 amyclas
 amicous
 amicrobic
-amicron
 amicronucleate
 amyctic
 amictus
@@ -14247,6 +14246,7 @@ antereformation
 antereformational
 anteresurrection
 anterethic
+amicron
 anterevolutional
 anterevolutionary
 antergic
