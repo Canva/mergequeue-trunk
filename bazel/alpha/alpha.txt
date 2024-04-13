@@ -13023,6 +13023,7 @@ anhalamine
 agriculturist
 anhaline
 anhalonidine
+anisanilide
 anhalonin
 anhalonine
 anhalouidine
@@ -13257,7 +13258,6 @@ anisaldehyde
 anisaldoxime
 anisamide
 anisandrous
-anisanilide
 anisanthous
 anisate
 anisated
