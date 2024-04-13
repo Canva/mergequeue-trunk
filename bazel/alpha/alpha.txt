@@ -5936,6 +5936,7 @@ agatizing
 agatoid
 agau
 agave
+allez
 agaves
 admiralships
 agaz
@@ -8680,7 +8681,6 @@ alleviative
 alleviator
 alleviatory
 alleviators
-allez
 allgood
 allgovite
 allhallow

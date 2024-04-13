@@ -7079,7 +7079,6 @@ gooseflesh
 gooseflower
 goosefoot
 goosefoots
-goosegirl
 goosegog
 gooseherd
 goosehouse
@@ -9104,6 +9103,7 @@ gripped
 glazings
 grippelike
 gripper
+goosegirl
 gridlock
 grippers
 grippy
