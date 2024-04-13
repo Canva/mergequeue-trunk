@@ -4235,6 +4235,7 @@ beath
 beati
 beatify
 beatific
+biliment
 beatifical
 beatifically
 beatificate
@@ -8566,7 +8567,6 @@ bilifuscin
 bilihumin
 bilimbing
 bilimbis
-biliment
 bilin
 bylina
 byline

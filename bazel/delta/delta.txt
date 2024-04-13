@@ -4373,7 +4373,6 @@ demarcation
 demarcations
 demarcator
 demarcatordemarcators
-demarcators
 demarcature
 demarch
 demarche
@@ -5192,6 +5191,7 @@ denormalized
 denotable
 denotate
 denotation
+demarcators
 denotational
 denotationally
 denotative
