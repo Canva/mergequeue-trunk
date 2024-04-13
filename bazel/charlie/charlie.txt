@@ -1407,6 +1407,7 @@ callant
 callants
 callas
 callat
+cowpunch
 callate
 callback
 callbacks
@@ -27695,7 +27696,6 @@ cowpony
 costing
 cowpox
 cowpoxes
-cowpunch
 cowpuncher
 cowpunchers
 cowquake
