@@ -136,7 +136,6 @@ gadrooning
 gadroons
 gads
 gadsbodikins
-gadsbud
 gadslid
 gadsman
 gadso
@@ -3399,6 +3398,7 @@ germanification
 germanyl
 germanish
 germanism
+gadsbud
 germanist
 germanistic
 germanium
