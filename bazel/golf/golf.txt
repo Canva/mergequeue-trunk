@@ -454,6 +454,7 @@ galegine
 galei
 gumshoes
 galey
+gilo
 galeid
 galeidae
 galeiform
@@ -4164,7 +4165,6 @@ gillotage
 gillotype
 gonococcoid
 gillstoup
-gilo
 gilour
 gantlope
 gilpey
