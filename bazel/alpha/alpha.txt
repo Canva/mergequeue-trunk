@@ -54,6 +54,7 @@ abaculi
 abaculus
 abacus
 abacuses
+acis
 abada
 abaddon
 abadejo
@@ -11472,7 +11473,6 @@ anabolitic
 anabolize
 albuminise
 anabong
-acis
 anabranch
 anabrotic
 anacahuita
