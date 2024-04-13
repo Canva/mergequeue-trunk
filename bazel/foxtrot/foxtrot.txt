@@ -634,6 +634,7 @@ falsity
 falsities
 falstaffian
 faltboat
+fenestrato
 faltboats
 faltche
 faltere
@@ -2323,7 +2324,6 @@ fenestral
 fenestrate
 fenestrated
 fenestration
-fenestrato
 fenestrule
 ficaria
 fenetre

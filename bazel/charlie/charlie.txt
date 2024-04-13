@@ -2839,6 +2839,7 @@ cantles
 cantlet
 cantline
 cantling
+codeins
 canto
 canton
 cortege
@@ -17726,7 +17727,6 @@ codeina
 codeinas
 codeine
 codeines
-codeins
 codeless
 codelight
 codelinquency
