@@ -18314,7 +18314,6 @@ cognizably
 cognizance
 cognizant
 cognize
-cognized
 chairperson
 cognizee
 cognizer
@@ -24218,6 +24217,7 @@ convulsing
 convulsion
 convulsional
 convulsionary
+cognized
 convulsionaries
 chirographer
 convulsionism
