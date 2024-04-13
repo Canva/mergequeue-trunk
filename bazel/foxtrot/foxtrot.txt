@@ -291,7 +291,6 @@ frogstool
 fadmongering
 fados
 fadridden
-fads
 fae
 faecalith
 federation
@@ -8427,6 +8426,7 @@ formals
 fireboats
 formamide
 formamidine
+fads
 formamido
 formamidoxime
 formanilide
