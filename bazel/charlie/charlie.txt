@@ -11084,6 +11084,7 @@ chitter
 chitterling
 chitterlings
 chitters
+cirripeds
 chitties
 chitting
 caballeros
@@ -14497,7 +14498,6 @@ cirripede
 cirripedia
 cypselomorph
 cirripedial
-cirripeds
 cirrocumular
 citrul
 cirrocumulative
