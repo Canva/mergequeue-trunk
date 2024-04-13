@@ -6425,6 +6425,7 @@ ensilation
 ensile
 ensiled
 ensiles
+expiate
 ensiling
 ensilist
 ensilver
@@ -13120,7 +13121,6 @@ expetible
 expy
 earlobes
 expiable
-expiate
 expiated
 expiates
 expiating

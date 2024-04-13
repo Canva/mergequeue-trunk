@@ -8146,6 +8146,7 @@ bicuspidal
 bicuspidate
 bid
 bidactyl
+booklists
 bidactylous
 bidar
 bidarka
@@ -12667,7 +12668,6 @@ broomy
 booklift
 booklike
 bookling
-booklists
 booklore
 booklores
 booklouse
