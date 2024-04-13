@@ -5538,7 +5538,6 @@ gliderport
 gliders
 grando
 glides
-glidewort
 glidingly
 gynecol
 gliff
@@ -9725,6 +9724,7 @@ grungiest
 grunion
 grunions
 grunswel
+glidewort
 grunt
 grunted
 grunter
