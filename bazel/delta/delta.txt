@@ -816,7 +816,6 @@ danegeld
 danegelds
 danegelt
 danelaw
-dungeon
 danes
 daneweed
 daneweeds
@@ -9517,6 +9516,7 @@ dignity
 dignities
 dignosle
 dignotion
+dungeon
 dygogram
 digonal
 digoneutic
