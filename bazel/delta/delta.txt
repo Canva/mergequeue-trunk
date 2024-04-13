@@ -4399,7 +4399,6 @@ demasculinizing
 demast
 demasted
 demasting
-dishfuls
 demasts
 dematerialisation
 dematerialise
@@ -17156,6 +17155,7 @@ damans
 dripproof
 drips
 dripstick
+dishfuls
 dripstone
 dript
 drys
