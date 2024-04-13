@@ -2134,6 +2134,7 @@ acetonurometer
 acetophenetide
 acetophenetidin
 acetophenetidine
+antievolution
 acetophenin
 antiodontalgic
 armada
@@ -15197,7 +15198,6 @@ antietam
 antiethnic
 antieugenic
 antievangelical
-antievolution
 antievolutional
 abnormality
 antievolutionally
