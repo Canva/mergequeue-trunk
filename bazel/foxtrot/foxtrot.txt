@@ -8826,7 +8826,6 @@ forzandos
 forzato
 fosh
 fosie
-fosite
 furnacemen
 foss
 fossa
@@ -9419,6 +9418,7 @@ frankenstein
 franker
 fantoddish
 frankers
+fosite
 frankest
 fireguard
 frankfold
