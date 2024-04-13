@@ -2094,7 +2094,6 @@ gavage
 gavages
 gavall
 gave
-gavelage
 gaveled
 gaveler
 gavelet
@@ -2625,6 +2624,7 @@ genealogists
 great
 genealogize
 genealogizer
+gavelage
 genear
 genearch
 geneat
