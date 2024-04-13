@@ -7049,7 +7049,6 @@ besmirchers
 besmirches
 besmirchment
 besmoke
-besmoked
 besmokes
 besmoking
 besmooth
@@ -11607,6 +11606,7 @@ boatsmen
 boatsteerer
 boatswain
 boatswains
+besmoked
 boattail
 boatward
 boatwoman
