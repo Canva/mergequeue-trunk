@@ -13822,6 +13822,7 @@ bowsed
 bowser
 bowses
 bowshot
+breathalyse
 bowshots
 bowsie
 bowsing
@@ -14882,7 +14883,6 @@ breathability
 breathable
 breathableness
 boaters
-breathalyse
 breathe
 breatheableness
 breathed
