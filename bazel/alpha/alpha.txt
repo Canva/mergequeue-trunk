@@ -9051,7 +9051,6 @@ allusive
 allusively
 allusiveness
 allusory
-allutterly
 alluvia
 alluvial
 alluvials
@@ -11434,6 +11433,7 @@ amusiveness
 amutter
 alibiing
 amuze
+allutterly
 amuzzle
 amvis
 amzel
