@@ -6356,7 +6356,6 @@ fluidize
 fluidized
 followup
 fluidizer
-flotations
 fluidizes
 fluidly
 fluidmeter
@@ -9207,6 +9206,7 @@ fractionalize
 fractionalized
 fractionalizing
 fractionally
+flotations
 fractionary
 fractionate
 fractionated
