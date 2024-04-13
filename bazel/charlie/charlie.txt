@@ -6349,7 +6349,6 @@ cavendish
 caver
 cavern
 cavernal
-citoles
 caverned
 cavernicolous
 caverning
@@ -17603,6 +17602,7 @@ cocinera
 cocineras
 cocinero
 cocircular
+citoles
 cocircularity
 cannonballing
 cocytean

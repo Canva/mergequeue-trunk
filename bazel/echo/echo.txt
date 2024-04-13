@@ -10216,6 +10216,7 @@ etcher
 etchers
 etches
 etchimin
+exilition
 etching
 etchings
 eteocles
@@ -12583,7 +12584,6 @@ eccentricities
 exiling
 exility
 eyestones
-exilition
 eximidus
 eximious
 eximiously
