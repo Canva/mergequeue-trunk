@@ -1833,6 +1833,7 @@ fernless
 frankeniaceae
 feces
 fizzer
+fermion
 fechnerian
 fecial
 fecials
@@ -2473,7 +2474,6 @@ fermi
 founders
 fermila
 fermillet
-fermion
 flexity
 fermions
 fermis
