@@ -1721,7 +1721,6 @@ filtrate
 feat
 feateous
 feater
-featest
 feather
 featherback
 featherbed
@@ -4645,6 +4644,7 @@ fixator
 fixature
 fixe
 fixed
+featest
 fixedness
 fibroreticulate
 fixer

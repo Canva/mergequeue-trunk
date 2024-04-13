@@ -12842,6 +12842,7 @@ churchlier
 churchliest
 churchlike
 churchliness
+contentable
 churchman
 churchmanly
 churchmanship
@@ -23411,7 +23412,6 @@ coutelle
 contends
 contenement
 content
-contentable
 consummate
 contentation
 contented
