@@ -606,7 +606,6 @@ echoer
 encrustment
 echoers
 echoes
-echogram
 echograph
 echoic
 echoing
@@ -10605,6 +10604,7 @@ etymons
 etiogenic
 etiolate
 eucalyptol
+echogram
 etiolated
 etiolates
 etiolating
