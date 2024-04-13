@@ -5397,7 +5397,6 @@ begumming
 begums
 begun
 begunk
-begut
 behale
 behalf
 behallow
@@ -6776,6 +6775,7 @@ berline
 berliner
 berliners
 berlines
+begut
 berlinite
 berlinize
 berlins
