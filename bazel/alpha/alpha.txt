@@ -11289,6 +11289,7 @@ amphorous
 amphoteric
 amphotericin
 amphrysian
+aporetic
 ampyces
 ampicillin
 ampitheater
@@ -17364,7 +17365,6 @@ apoplex
 apoplexy
 apoplexious
 apoquinamine
-aporetic
 aporhyolite
 aporiae
 aporias
