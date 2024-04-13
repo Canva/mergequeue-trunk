@@ -5294,7 +5294,6 @@ endorsed
 endorsee
 endorsees
 endere
-endorser
 endorsers
 electrodialyzer
 endorses
@@ -12508,6 +12507,7 @@ exhibition
 exhibitional
 exhibitioner
 exhibitionism
+endorser
 exhibitionist
 ensnaringly
 evilhearted
