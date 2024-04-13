@@ -29623,6 +29623,7 @@ crocks
 crocodile
 crocodilean
 crocodiles
+cruisken
 crocodilia
 crocodilian
 crocodilidae
@@ -30187,7 +30188,6 @@ caliperer
 cruising
 cruisingly
 cruiskeen
-cruisken
 cruive
 crull
 cruller
