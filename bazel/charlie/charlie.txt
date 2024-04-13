@@ -1901,7 +1901,6 @@ camisia
 camisias
 camisole
 camisoles
-camister
 camize
 cosmolabe
 camla
@@ -21565,6 +21564,7 @@ condemningly
 condemnor
 connaisseur
 condensability
+camister
 condensable
 condensance
 condensary

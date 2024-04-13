@@ -8920,7 +8920,6 @@ generalizable
 grieves
 grieveship
 grievingly
-grievous
 grievously
 grievousness
 griff
@@ -10503,6 +10502,7 @@ geraty
 gunlaying
 gunless
 gunline
+grievous
 gunlock
 gunlocks
 gunmaking
