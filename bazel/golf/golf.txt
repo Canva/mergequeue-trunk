@@ -2235,7 +2235,6 @@ gearshifts
 gearwheel
 gearwheels
 glistening
-gease
 geason
 geast
 geaster
@@ -2863,6 +2862,7 @@ genoms
 genonema
 genophobia
 gph
+gease
 genos
 genospecies
 genotype
