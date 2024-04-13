@@ -2619,6 +2619,7 @@ ferromagnetism
 ferromanganese
 ferrometer
 ferromolybdenum
+fanny
 feminised
 ferronatrite
 ferronickel
@@ -6838,7 +6839,6 @@ fohat
 fohn
 fohns
 foy
-fanny
 foyaite
 foyaitic
 foible
