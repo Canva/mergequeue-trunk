@@ -7187,7 +7187,6 @@ deteriorations
 deteriorative
 deteriorator
 deteriorism
-deteriority
 determ
 determa
 dazzled
@@ -9948,6 +9947,7 @@ dimplement
 dimples
 dimply
 dimplier
+deteriority
 dimpliest
 dimpling
 dimps
