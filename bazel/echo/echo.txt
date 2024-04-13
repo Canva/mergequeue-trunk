@@ -2363,6 +2363,7 @@ electrode
 electrodeless
 electrodentistry
 electrodeposit
+eledoisin
 estanciero
 electrodepositable
 electrodeposition
@@ -2703,7 +2704,6 @@ electrum
 elects
 electuary
 electuaries
-eledoisin
 enceint
 eledone
 eleemosinar
