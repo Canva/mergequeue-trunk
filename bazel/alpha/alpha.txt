@@ -1909,6 +1909,7 @@ acephalous
 anticipatory
 akoasma
 acephalus
+acrocephalic
 acepots
 argonautic
 acequia
@@ -2870,7 +2871,6 @@ acrocentric
 assassinator
 acrocephaly
 acrocephalia
-acrocephalic
 acrocephalous
 acroceratidae
 acroceraunian
