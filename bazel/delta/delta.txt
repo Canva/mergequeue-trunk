@@ -403,7 +403,6 @@ daymark
 daimen
 daymen
 doupion
-dormmice
 datedly
 daimiel
 daimio
@@ -2923,6 +2922,7 @@ dedignation
 diazeutic
 dedimus
 dedit
+dormmice
 deditician
 dediticiancy
 dedition
