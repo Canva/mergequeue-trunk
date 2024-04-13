@@ -2157,7 +2157,6 @@ acetoveratrone
 autoradiographic
 acetoxyl
 acetoxyls
-apologizers
 acetoxime
 acetoxyphthalide
 acetphenetid
@@ -11914,6 +11913,7 @@ anapophysial
 anapophysis
 anapsid
 anapsida
+apologizers
 anapsidan
 anapterygota
 anapterygote
