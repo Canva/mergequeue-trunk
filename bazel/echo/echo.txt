@@ -8032,6 +8032,7 @@ epinglette
 epinicial
 eponymy
 epinician
+exercitation
 epinicion
 epinyctis
 effervesce
@@ -12417,7 +12418,6 @@ excised
 exerciser
 exercising
 exercitant
-exercitation
 exercite
 exercitor
 exercitorial
