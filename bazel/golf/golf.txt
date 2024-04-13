@@ -1458,7 +1458,6 @@ garnetberry
 garneter
 garnetiferous
 garnetlike
-garnett
 garnetter
 garnetwork
 garni
@@ -8050,6 +8049,7 @@ granophyre
 granophyric
 granose
 granospherite
+garnett
 grantable
 granted
 grantedly
