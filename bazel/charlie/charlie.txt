@@ -29309,7 +29309,6 @@ cryptolith
 cryptology
 cryptologic
 cryptological
-cryptologist
 cryptolunatic
 cryptomere
 cryptomeria
@@ -31824,6 +31823,7 @@ cutiterebra
 cutitis
 cutization
 cutlas
+cryptologist
 cutlases
 cutlash
 cutlass
