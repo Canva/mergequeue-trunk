@@ -1251,6 +1251,7 @@ fasted
 fasten
 fastened
 fastener
+furlanas
 fasteners
 fastening
 fastenings
@@ -3323,7 +3324,6 @@ fideistic
 fideists
 fidejussion
 fidejussionary
-furlanas
 fidejussor
 fidejussory
 fidel
