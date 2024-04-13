@@ -5526,6 +5526,7 @@ delighting
 depart
 departed
 departement
+disjointing
 dwining
 departements
 departer
@@ -12506,7 +12507,6 @@ disjoins
 disjoint
 disjointed
 disjointedness
-disjointing
 disjointly
 disjointness
 disjoints
