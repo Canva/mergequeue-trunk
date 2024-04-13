@@ -11658,6 +11658,7 @@ downspout
 discourteous
 decimetres
 discourteously
+dogtooth
 discourteousness
 discoach
 discourtesy
@@ -14996,7 +14997,6 @@ dogstones
 dogtail
 dogteeth
 dogtie
-dogtooth
 dogtoothing
 dogtrick
 dogtrots
