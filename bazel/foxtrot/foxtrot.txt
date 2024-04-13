@@ -9935,6 +9935,7 @@ freudian
 freudianism
 freudians
 freudist
+fungible
 fry
 friable
 friand
@@ -11207,7 +11208,6 @@ fungi
 fungia
 fungian
 fungibility
-fungible
 fungibles
 fungic
 fungicidal
