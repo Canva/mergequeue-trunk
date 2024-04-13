@@ -3855,7 +3855,6 @@ adiaphanousness
 adiaphon
 adiaphonon
 adiaphora
-adiaphoral
 adiaphoresis
 adiaphoretic
 adiaphory
@@ -17195,6 +17194,7 @@ apofenchene
 apoferritin
 apogaeic
 atropa
+adiaphoral
 apogaic
 apogalacteum
 apogamy
