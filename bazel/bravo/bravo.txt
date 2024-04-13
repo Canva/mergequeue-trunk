@@ -3785,7 +3785,6 @@ battler
 battlers
 battles
 battleship
-battleships
 battlesome
 battlestead
 battlewagon
@@ -6958,6 +6957,7 @@ besew
 beshade
 beshadow
 beshadowed
+battleships
 beshadowing
 beshadows
 beauxite
