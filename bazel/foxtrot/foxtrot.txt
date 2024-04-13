@@ -324,6 +324,7 @@ fayalites
 fayence
 faiences
 fayettism
+fundulinae
 faikes
 fail
 failance
@@ -11173,7 +11174,6 @@ fundraising
 funds
 fiberfill
 funduck
-fundulinae
 funduline
 fundulus
 fundungi
