@@ -1002,7 +1002,6 @@ darin
 daring
 daringly
 drawspan
-daringness
 darings
 dariole
 darioles
@@ -16998,6 +16997,7 @@ dressmakers
 dressmakership
 disuses
 dressmaking
+daringness
 dressoir
 dressoirs
 drest
