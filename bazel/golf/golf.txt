@@ -1084,6 +1084,7 @@ gandoura
 gandul
 gandum
 gandurah
+gypsyisms
 ganef
 ganefs
 ganev
@@ -4637,7 +4638,6 @@ gastrostaxis
 glucke
 gipsyism
 gypsyism
-gypsyisms
 gipsylike
 gypsylike
 glowworm
