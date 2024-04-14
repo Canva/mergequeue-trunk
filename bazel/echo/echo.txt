@@ -4576,6 +4576,7 @@ encephalodialysis
 elotherium
 encephalograph
 encephalographic
+entangling
 encephalographically
 encephaloid
 encephalolith
@@ -6558,7 +6559,6 @@ entanglements
 entangler
 entanglers
 entangles
-entangling
 entanglingly
 entapophysial
 entapophysis
