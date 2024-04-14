@@ -1251,6 +1251,7 @@ fasten
 fastened
 fastener
 furlanas
+fenian
 fasteners
 fastening
 fastenings
@@ -2329,7 +2330,6 @@ fenestrule
 ficaria
 fenetre
 fengite
-fenian
 fenianism
 fenite
 foziness

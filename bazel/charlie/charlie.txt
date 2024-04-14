@@ -2048,7 +2048,6 @@ camphols
 camphor
 camphoraceous
 camphorate
-camphorated
 camphorates
 camphorating
 camphory
@@ -16241,6 +16240,7 @@ clinoclasite
 clinodiagonal
 clinodomatic
 clinodome
+camphorated
 clinograph
 clinographic
 clinohedral
