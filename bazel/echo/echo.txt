@@ -810,6 +810,7 @@ ectepicondylar
 ecteron
 ectethmoid
 ectethmoidal
+enunciators
 ecthesis
 ecthetically
 ecthyma
@@ -7160,7 +7161,6 @@ enunciatively
 eradiates
 enunciator
 enunciatory
-enunciators
 enure
 enured
 enures
