@@ -22488,7 +22488,6 @@ conjuror
 cricetine
 conjurors
 conk
-conkanee
 conked
 conker
 conkers
@@ -24354,6 +24353,7 @@ coopee
 cooper
 cooperage
 cooperant
+conkanee
 cooperate
 cooperated
 cooperates
