@@ -2227,6 +2227,7 @@ banxring
 banzai
 banzais
 baobab
+bienly
 baobabs
 bap
 baphia
@@ -8224,7 +8225,6 @@ banishes
 byelorussian
 byelorussians
 byeman
-bienly
 biennales
 bienne
 bienness

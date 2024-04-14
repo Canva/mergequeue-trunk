@@ -767,6 +767,7 @@ caiquejee
 caiques
 cobaea
 cair
+clearers
 caird
 cairds
 cairene
@@ -15816,7 +15817,6 @@ clearcole
 cleared
 clearedness
 clearer
-clearers
 clearest
 clearheadedly
 clearheadedness
