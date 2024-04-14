@@ -7255,6 +7255,7 @@ grayware
 gortonian
 gortonite
 gos
+gesellschaften
 goschen
 gosh
 goshawk
@@ -7392,7 +7393,6 @@ gametic
 goujon
 goujons
 goulan
-gesellschaften
 goularo
 goulash
 goulashes
