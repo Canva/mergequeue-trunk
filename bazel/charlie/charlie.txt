@@ -8283,7 +8283,6 @@ chaldaical
 chaldaism
 chaldean
 chiver
-chaldee
 chalder
 chaldese
 chaldron
@@ -29853,6 +29852,7 @@ crossfoot
 crossgrainedness
 crosshackle
 crosshair
+chaldee
 crosshairs
 crosshand
 crosshatch
