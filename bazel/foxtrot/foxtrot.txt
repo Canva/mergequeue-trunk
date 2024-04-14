@@ -4387,6 +4387,7 @@ fisheyes
 fisher
 fisherboat
 foreswear
+fulcrumed
 fisherboy
 fisheress
 fragmentate
@@ -10855,7 +10856,6 @@ fulcraceous
 fulcral
 fulcrum
 fulcrumage
-fulcrumed
 fulcruming
 fulcrums
 foolhardihood
