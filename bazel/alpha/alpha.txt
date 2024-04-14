@@ -14034,7 +14034,6 @@ antanandro
 antanemic
 antapex
 antapexes
-antaphrodisiac
 antaphroditic
 antapocha
 antapodosis
@@ -17018,6 +17017,7 @@ apioid
 apioidal
 apiol
 apiole
+antaphrodisiac
 apiology
 apiologies
 apiologist
