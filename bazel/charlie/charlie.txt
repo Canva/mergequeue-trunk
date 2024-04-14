@@ -6370,7 +6370,6 @@ cavetto
 cavettos
 cavy
 cavia
-caviar
 caviares
 caviars
 cavicorn
@@ -31414,6 +31413,7 @@ curpel
 curpin
 curple
 curr
+caviar
 currach
 currachs
 currack
