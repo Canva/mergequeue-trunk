@@ -7076,7 +7076,6 @@ fondus
 fone
 fonly
 fonnish
-fono
 franks
 fons
 feetfirst
@@ -7296,6 +7295,7 @@ footstool
 footstools
 footway
 footways
+fono
 footwalk
 footwall
 footwalls

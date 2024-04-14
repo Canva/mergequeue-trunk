@@ -7343,6 +7343,7 @@ alaruming
 alarums
 alas
 alasas
+astrophotometry
 alascan
 antipolo
 alaska
@@ -22338,7 +22339,6 @@ astrophotography
 analoga
 astrophotographic
 astrophotometer
-astrophotometry
 astrophotometrical
 astroscope
 astroscopy
