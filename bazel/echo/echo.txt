@@ -1513,6 +1513,7 @@ egally
 egranulose
 egards
 egba
+endocardiac
 exaggeratedly
 egbert
 engineership
@@ -5093,7 +5094,6 @@ endobronchially
 endobronchitis
 endocannibalism
 endocardia
-endocardiac
 exemptible
 endocarditic
 endocardium

@@ -1650,7 +1650,6 @@ accompanists
 accomplement
 accompli
 accomplice
-accomplices
 accompliceship
 accomplicity
 accomplish
@@ -18950,6 +18949,7 @@ archikaryon
 archil
 archilithic
 archilla
+accomplices
 archilochian
 archilowe
 archils
