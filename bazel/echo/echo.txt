@@ -6019,6 +6019,7 @@ enlay
 exterritorially
 enlard
 exiguities
+errand
 enlarge
 enlargeable
 enlargeableness
@@ -9384,7 +9385,6 @@ errableness
 errabund
 errancy
 errancies
-errand
 errantia
 errantly
 errantness
