@@ -6567,6 +6567,7 @@ flushes
 flushest
 flushgate
 flushy
+fodge
 flushing
 flushingly
 flushness
@@ -6740,7 +6741,6 @@ fodderer
 foddering
 fodderless
 foder
-fodge
 fodgel
 fixedly
 fodient
