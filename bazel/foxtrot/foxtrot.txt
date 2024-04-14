@@ -22,6 +22,7 @@ fablemaker
 fablemonger
 fablemongering
 fabler
+fulzie
 fablers
 fabliaux
 fabling
@@ -10992,7 +10993,6 @@ fracturableness
 fetishmonger
 fulvescent
 fulvid
-fulzie
 finalizing
 fum
 fumade
