@@ -1635,7 +1635,6 @@ deaminized
 deaminizing
 deammonation
 deanathematize
-deaned
 deanery
 deaneries
 deanimalize
@@ -8533,6 +8532,7 @@ diapsidan
 diarchy
 dyarchy
 diarchial
+deaned
 diarchic
 dyarchic
 dyarchical
