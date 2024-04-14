@@ -2541,10 +2541,10 @@ deco
 decoagulate
 decoagulated
 dorms
+decoct
 decoagulation
 decoat
 decocainize
-decoct
 decocted
 decoctible
 decocting
