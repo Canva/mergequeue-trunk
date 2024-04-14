@@ -6190,6 +6190,7 @@ causality
 causalities
 cotesian
 causally
+crave
 causals
 causans
 causata
@@ -28309,7 +28310,6 @@ cravats
 cravatted
 cephaloplegic
 chytra
-crave
 craved
 craven
 cravened
