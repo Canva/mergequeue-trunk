@@ -6879,6 +6879,7 @@ despised
 despiser
 despisers
 despises
+diploneural
 dagbamba
 despising
 despisingly
@@ -10575,7 +10576,6 @@ diplomyelia
 diplonema
 detroit
 diplonephridia
-diploneural
 diplont
 diplontic
 diplonts
