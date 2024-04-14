@@ -13437,6 +13437,7 @@ ankylostoma
 ankylostomiasis
 ankylotia
 ankylotic
+anneals
 ankylotome
 ankylotomy
 ankylurethria
@@ -13505,7 +13506,6 @@ annealed
 annealer
 annealers
 annealing
-anneals
 annect
 annectant
 annectent

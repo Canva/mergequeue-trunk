@@ -10418,7 +10418,6 @@ diphosphate
 diphosphid
 duumvirs
 diphosphide
-diphosphoric
 diphosphothiamine
 diosmosed
 diphrelatic
@@ -11551,6 +11550,7 @@ disconsolation
 disconsonancy
 disconsonant
 discontented
+diphosphoric
 discontentedly
 discontentedness
 discontentful
