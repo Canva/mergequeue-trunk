@@ -3389,7 +3389,6 @@ friability
 fieldfare
 fieldfight
 fieldy
-fieldie
 fasciculite
 fielding
 fieldish
@@ -9654,6 +9653,7 @@ fixes
 freehanded
 freehandedly
 freehandedness
+fieldie
 fairness
 freehearted
 fricandoes
