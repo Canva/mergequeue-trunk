@@ -4279,7 +4279,6 @@ firewarden
 firewater
 flaxwench
 flounderingly
-fireweed
 fireweeds
 firewood
 fishergirl
@@ -8071,6 +8070,7 @@ foresty
 forestial
 forestian
 forestiera
+fireweed
 foresting
 forestish
 forestland
