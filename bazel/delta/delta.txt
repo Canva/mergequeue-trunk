@@ -2095,6 +2095,7 @@ decarbonise
 decarbonised
 decarboniser
 decarbonising
+disbarment
 decarbonization
 decarbonize
 decarbonized
@@ -11142,7 +11143,6 @@ disbands
 disbar
 dysbarism
 disbark
-disbarment
 disobliges
 disbarments
 disbarred
