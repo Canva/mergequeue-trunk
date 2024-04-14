@@ -3054,6 +3054,7 @@ fiberizes
 fiberizing
 fiberless
 fiberous
+froggier
 fibers
 fiberscope
 fiberware
@@ -10315,7 +10316,6 @@ frogfoot
 forboded
 frogger
 froggy
-froggier
 froggies
 froggiest
 fridge
