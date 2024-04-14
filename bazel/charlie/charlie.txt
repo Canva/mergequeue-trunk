@@ -13461,7 +13461,6 @@ ciderist
 ciderkin
 ciderlike
 ciders
-cyders
 cydippe
 cydippian
 cydippid
@@ -15274,6 +15273,7 @@ claithes
 clayton
 claytonia
 claiver
+cyders
 clayware
 claywares
 clayweed

@@ -1956,6 +1956,7 @@ bejabers
 bandlessly
 bandlessness
 bandlet
+boldfacing
 bandlimit
 bandlimited
 bandlimiting
@@ -12058,7 +12059,6 @@ bostrychoid
 boldfaced
 boldfacedly
 boldfacedness
-boldfacing
 batodendron
 boldhearted
 boldheartedly
