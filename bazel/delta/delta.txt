@@ -15488,6 +15488,7 @@ doodler
 doodlers
 doodles
 doodlesack
+duckpond
 doodling
 doodskop
 doohickey
@@ -17769,7 +17770,6 @@ duckmeat
 duckmole
 duckpin
 duckpins
-duckpond
 divelled
 ducks
 duckstone
