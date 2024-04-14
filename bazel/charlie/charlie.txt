@@ -8305,7 +8305,6 @@ chalicotheriidae
 chalicotherioid
 chalicotherium
 chalina
-chalinidae
 chalinine
 chalinitis
 chalk
@@ -21063,6 +21062,7 @@ cephalotome
 conationalistic
 conations
 conative
+chalinidae
 chowed
 conatural
 conatus
