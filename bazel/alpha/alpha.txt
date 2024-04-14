@@ -3331,6 +3331,7 @@ animalculist
 apprehensions
 acupress
 acupressure
+andaman
 acupunctuation
 acupuncturation
 acupuncturator
@@ -12283,7 +12284,6 @@ andabata
 andabatarian
 andalusian
 andalusite
-andaman
 andamanese
 andamenta
 andamento
