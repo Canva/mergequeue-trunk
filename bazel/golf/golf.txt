@@ -6304,6 +6304,7 @@ gnomesque
 gnomic
 gnomical
 gnomish
+garau
 gnomist
 gnomists
 gabert
@@ -7185,7 +7186,6 @@ gorgonaceous
 gorgoneia
 glossas
 gorgoneion
-garau
 gorgonesque
 gorgoneum
 gorgonia
