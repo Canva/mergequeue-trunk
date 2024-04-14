@@ -4016,7 +4016,6 @@ gigantomachy
 gigantopithecus
 gigantosaurus
 gigantostraca
-gigantostracous
 gigartina
 gigartinaceae
 gigartinaceous
@@ -10110,6 +10109,7 @@ guffaws
 guffy
 guffin
 guffs
+gigantostracous
 gufought
 gangliglia
 gugal

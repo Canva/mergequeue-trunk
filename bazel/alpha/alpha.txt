@@ -2196,7 +2196,6 @@ acharnement
 achate
 achates
 achatina
-achatinella
 achatinidae
 act
 achatour
@@ -16842,6 +16841,7 @@ aphicidal
 aphicide
 aphid
 aphides
+achatinella
 aphidian
 aphidians
 aphidicide
