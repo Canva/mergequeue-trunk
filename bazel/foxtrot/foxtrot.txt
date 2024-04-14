@@ -5336,6 +5336,7 @@ fleahopper
 fleay
 fleak
 fg
+fraticelli
 fleam
 fleamy
 fleams
@@ -9512,7 +9513,6 @@ fraternizer
 fraternizes
 fraternizing
 fraters
-fraticelli
 fraticellian
 fratry
 fulcrate
