@@ -1932,7 +1932,6 @@ eisegesis
 eggberries
 expedite
 eisegetical
-eisenberg
 eisodic
 eisteddfod
 eisteddfodau
@@ -7234,6 +7233,7 @@ erythroclastic
 envisagement
 envisages
 envisaging
+eisenberg
 envision
 envisioned
 envisioning
