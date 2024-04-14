@@ -7436,6 +7436,7 @@ forceable
 forced
 forcedly
 forceful
+fountful
 forcefully
 forceless
 forcelessness
@@ -8994,7 +8995,6 @@ fountainously
 fustle
 fountains
 fountainwise
-fountful
 founts
 fouquieriaceae
 fouquieriaceous
