@@ -11969,7 +11969,6 @@ boyg
 boigid
 boiguacu
 boyhood
-boyhoods
 boii
 boyish
 brunion
@@ -15326,6 +15325,7 @@ brighid
 bright
 brighteyes
 brighten
+boyhoods
 brightened
 brightener
 brighteners

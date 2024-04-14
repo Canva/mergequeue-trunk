@@ -1859,7 +1859,6 @@ eighteenmo
 eighteenmos
 eighteens
 eighteenth
-eighteenthly
 eighteenths
 eightfoil
 eightfold
@@ -4780,6 +4779,7 @@ eclipsis
 encloister
 enclosable
 enclose
+eighteenthly
 etymologize
 experimentalists
 enclosed
