@@ -10913,6 +10913,7 @@ blithesomely
 blithesomeness
 bkgd
 blithest
+bugbearish
 blitter
 blitum
 blitz
@@ -16845,7 +16846,6 @@ bugbane
 bugbanes
 bugbear
 bugbeardom
-bugbearish
 bugbite
 bugeye
 bugeyed
