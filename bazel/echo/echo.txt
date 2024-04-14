@@ -8709,6 +8709,7 @@ equinal
 enfant
 equinate
 emerging
+exciter
 equine
 equinecessary
 equinely
@@ -12070,7 +12071,6 @@ excitedly
 excitedness
 excitement
 excitements
-exciter
 exciters
 excites
 exciting
