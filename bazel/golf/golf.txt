@@ -2805,6 +2805,7 @@ genipap
 greenstuff
 genipaps
 genyplasty
+gorillaship
 grainsick
 genips
 genisaro
@@ -7212,7 +7213,6 @@ gorillalike
 gloze
 gorillas
 gynaecocracies
-gorillaship
 gramash
 gorillian
 gorilline
