@@ -15819,6 +15819,7 @@ antipatriarchally
 antipatriarchy
 antipatriot
 antipatriotic
+attractant
 astonishing
 antipatriotically
 antipatriotism
@@ -23142,7 +23143,6 @@ attractability
 attractable
 attractance
 attractancy
-attractant
 attracted
 archpapist
 attracter
