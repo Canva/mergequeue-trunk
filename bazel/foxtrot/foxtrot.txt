@@ -1526,7 +1526,6 @@ faussebraie
 faussebraye
 faussebrayed
 faust
-fauster
 faustian
 faute
 fanfaron
@@ -8282,6 +8281,7 @@ forgiver
 forgivers
 forgives
 friaries
+fauster
 forgiving
 federalness
 forgivingly

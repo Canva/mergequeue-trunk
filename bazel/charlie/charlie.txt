@@ -2672,6 +2672,7 @@ canonicalness
 canonicals
 canonicate
 canonici
+chelidonic
 canonicity
 canonics
 canonisation
@@ -9751,7 +9752,6 @@ chelydidae
 chelidonate
 centas
 chelidonian
-chelidonic
 chelidonin
 chelidonine
 chelidonium
