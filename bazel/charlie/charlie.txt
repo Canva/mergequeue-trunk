@@ -5587,7 +5587,6 @@ catatonics
 catawampous
 catawampously
 catawamptious
-catawamptiously
 catawampus
 cadwal
 catawba
@@ -23207,6 +23206,7 @@ consultantship
 consultary
 consultation
 consultations
+catawamptiously
 consultative
 consultatively
 consultatory
