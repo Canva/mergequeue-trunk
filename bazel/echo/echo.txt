@@ -10070,6 +10070,7 @@ estimable
 expenthesis
 emit
 estimableness
+evangeliaries
 estimably
 estimate
 enfonced
@@ -11376,7 +11377,6 @@ evangely
 evangelian
 etymic
 evangeliary
-evangeliaries
 evangeliarium
 evangelic
 evangelical

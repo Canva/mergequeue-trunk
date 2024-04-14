@@ -57,6 +57,7 @@ abacus
 abacuses
 acis
 abada
+adcraft
 abaddon
 abadejo
 abadengo
@@ -3478,7 +3479,6 @@ adcon
 afforded
 adcons
 admires
-adcraft
 add
 alane
 addability
