@@ -10260,6 +10260,7 @@ executional
 eternisation
 eternise
 eternised
+exobiology
 eternises
 eternish
 eternising
@@ -12654,7 +12655,6 @@ exoascus
 exobasidiaceae
 exclaim
 exobasidium
-exobiology
 exobiologist
 exobiologists
 exocannibalism
