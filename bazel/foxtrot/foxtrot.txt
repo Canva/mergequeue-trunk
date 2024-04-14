@@ -3065,6 +3065,7 @@ fibra
 fibration
 fibreboard
 fibred
+fraudfully
 fibrefill
 fibreglass
 fibreless
@@ -9529,7 +9530,6 @@ frau
 fraud
 frauder
 fixedness
-fraudfully
 fraudlessly
 fraudlessness
 fyces
