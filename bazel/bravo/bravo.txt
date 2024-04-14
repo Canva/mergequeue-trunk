@@ -1787,6 +1787,7 @@ balustered
 balusters
 balustrade
 balustraded
+biforking
 balustrades
 balustrading
 balwarra
@@ -8295,7 +8296,6 @@ biforate
 biforin
 biforine
 biforked
-biforking
 biformed
 berthage
 bhaga
