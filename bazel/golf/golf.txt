@@ -1610,7 +1610,6 @@ gaslighted
 gaslighting
 gisel
 glyoxim
-gaslightness
 gaslights
 gaslit
 gaslock
@@ -8636,6 +8635,7 @@ greeneries
 greenest
 greenfinch
 greenfish
+gaslightness
 greenfishes
 greenfly
 greengage
