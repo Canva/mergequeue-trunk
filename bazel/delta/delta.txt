@@ -14013,7 +14013,6 @@ disunities
 disuniting
 dysury
 dysuria
-dysurias
 dysuric
 disusage
 disusance
@@ -15558,6 +15557,7 @@ doorman
 doormat
 doormats
 doormen
+dysurias
 doornail
 doornails
 doornboom
