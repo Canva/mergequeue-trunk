@@ -6614,6 +6614,7 @@ goldfields
 goldfinch
 goldfinches
 goldfinny
+gradates
 guniter
 goldfinnies
 goldfish
@@ -7602,7 +7603,6 @@ gradable
 gradal
 gradate
 gradated
-gradates
 gradatim
 gradating
 grisping
