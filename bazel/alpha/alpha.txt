@@ -17430,7 +17430,6 @@ apostatically
 apostatise
 apostatised
 apostatising
-apostatism
 arrivance
 apostatize
 apostatized
@@ -21634,6 +21633,7 @@ assemblance
 assemble
 assembled
 assemblee
+apostatism
 assemblement
 assembler
 assembles
