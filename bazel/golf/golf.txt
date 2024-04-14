@@ -866,7 +866,6 @@ gamba
 gambade
 gambades
 garnice
-gambado
 gambadoes
 gambados
 gambang
@@ -6999,6 +6998,7 @@ gras
 goodwife
 goodwily
 goodwilies
+gambado
 goodwill
 goodwilled
 goodwilly
