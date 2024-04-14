@@ -6816,7 +6816,6 @@ berreave
 backplanes
 berreaved
 bendability
-berreaves
 berreaving
 berret
 berretta
@@ -10332,6 +10331,7 @@ betowel
 blanketless
 blanketlike
 blanketmaker
+berreaves
 boatwise
 blanketmaking
 blanketry
