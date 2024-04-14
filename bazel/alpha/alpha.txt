@@ -5986,6 +5986,7 @@ agelong
 agen
 agency
 agencies
+archivolt
 agend
 agenda
 agendaless
@@ -19041,7 +19042,6 @@ astroalchemist
 archives
 archivist
 archivists
-archivolt
 archizoic
 archjockey
 archking

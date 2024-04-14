@@ -1144,7 +1144,6 @@ fascial
 fascias
 fasciate
 fasciated
-fasciately
 fasciation
 fascicled
 fascicles
@@ -1656,6 +1655,7 @@ fcs
 fdname
 fdtype
 fdub
+fasciately
 fdubs
 fe
 feaberry
