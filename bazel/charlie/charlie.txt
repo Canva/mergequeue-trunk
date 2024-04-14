@@ -5323,7 +5323,6 @@ casuariiformes
 casuarina
 casuarinaceous
 casuarinales
-casuarius
 casuist
 chamaecyparis
 cytozoon
@@ -18592,6 +18591,7 @@ coys
 coislander
 coisns
 coistrel
+casuarius
 coystrel
 coistrels
 coistril
