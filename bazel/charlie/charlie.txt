@@ -15754,7 +15754,6 @@ clavodeltoideus
 clavola
 clavolae
 clavolet
-clavus
 clavuvi
 claw
 clawback
@@ -21998,6 +21997,7 @@ conflagrant
 conflagrate
 conflagrated
 conflagrating
+clavus
 conflagration
 conflagrations
 conflagrator
