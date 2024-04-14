@@ -9241,6 +9241,7 @@ alogy
 alogia
 alogical
 alogically
+avosets
 alogism
 alogotrophy
 aloha
@@ -24857,7 +24858,6 @@ avolitional
 avondbloem
 avos
 avoset
-avosets
 avouch
 avouchable
 avouched
