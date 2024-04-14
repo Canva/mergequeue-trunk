@@ -4048,7 +4048,6 @@ finical
 finically
 finicalness
 finicism
-finick
 finicky
 finickiest
 finickily
@@ -4082,6 +4081,7 @@ finitive
 finitude
 finitudes
 finjan
+finick
 fink
 finked
 finkel
