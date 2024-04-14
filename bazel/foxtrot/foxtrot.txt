@@ -7309,6 +7309,7 @@ footweary
 footwears
 footwork
 foraminiferous
+fulgourous
 footworks
 foozle
 foozled
@@ -10891,7 +10892,6 @@ fulgora
 fulgorid
 fulgoridae
 fulgorous
-fulgourous
 fulgur
 fulgural
 floccular
