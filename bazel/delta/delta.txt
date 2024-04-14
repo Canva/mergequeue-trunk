@@ -2659,7 +2659,6 @@ decompresses
 decompressing
 decompression
 decompressions
-decompressive
 deconcatenate
 deconcentrate
 deconcentrated
@@ -11564,6 +11563,7 @@ discontinual
 discontinuances
 discontinuation
 discontinuations
+decompressive
 discontinue
 discontinued
 discontinuee
