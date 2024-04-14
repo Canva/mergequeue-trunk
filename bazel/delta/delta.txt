@@ -4897,7 +4897,6 @@ dewily
 demorage
 demoralisation
 demoralise
-demoralised
 demoraliser
 demoralising
 demoralization
@@ -11083,6 +11082,7 @@ disassembled
 disassembler
 disassembles
 disassembly
+demoralised
 disassembling
 disassent
 durani
