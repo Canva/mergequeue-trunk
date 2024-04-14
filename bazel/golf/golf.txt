@@ -2123,7 +2123,6 @@ gonorrheal
 goldenseal
 gawish
 gawk
-gawked
 gawker
 gawkhammer
 gawky
@@ -4705,6 +4704,7 @@ girdling
 girdlingly
 girds
 gire
+gawked
 gyre
 gelandejump
 gyrectomies
