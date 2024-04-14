@@ -1846,7 +1846,6 @@ gastronomically
 gastronomics
 gastronosus
 gastropancreatic
-gastropancreatitis
 gastroparalysis
 gastroparesis
 gastroparietal
@@ -4892,6 +4891,7 @@ git
 gitalin
 gitana
 glucolysis
+gastropancreatitis
 gayety
 gazehound
 gitanemuck
