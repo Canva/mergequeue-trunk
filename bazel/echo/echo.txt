@@ -1666,6 +1666,7 @@ exiler
 egret
 egrets
 egrid
+exsiccative
 egrimony
 egritude
 egromancy
@@ -13490,7 +13491,6 @@ exsiccate
 exsiccated
 exsiccating
 exsiccation
-exsiccative
 exsiccator
 exsiliency
 exsolution
