@@ -1599,7 +1599,6 @@ bullwork
 ballistician
 ballisticians
 beaune
-barege
 ballistics
 ballistocardiogram
 ballistocardiograph
@@ -10600,6 +10599,7 @@ bleaunt
 bleb
 blebby
 blebs
+barege
 blechnoid
 blechnum
 bleck
