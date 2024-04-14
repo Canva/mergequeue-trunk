@@ -1204,6 +1204,7 @@ calepin
 calesa
 calesas
 calescent
+crosshatcher
 cheapening
 calesin
 calf
@@ -29858,7 +29859,6 @@ crosshairs
 crosshand
 crosshatch
 crosshatched
-crosshatcher
 crosshatches
 crosshatching
 crosshaul
