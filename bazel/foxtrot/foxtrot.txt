@@ -6971,7 +6971,6 @@ folklorists
 footman
 folkmoot
 flatmate
-folkmooter
 foreignization
 folkmoots
 folkmote
@@ -10056,6 +10055,7 @@ frightenedness
 frightener
 frightening
 frighteningness
+folkmooter
 frightens
 frighter
 frightful
