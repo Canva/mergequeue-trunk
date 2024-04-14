@@ -7810,7 +7810,6 @@ alebion
 alebush
 alec
 alecithal
-armageddon
 alecithic
 alecize
 anisocercal
@@ -14284,6 +14283,7 @@ anterooms
 anteropygal
 anteroposterior
 anteroposteriorly
+armageddon
 anterospinal
 anterosuperior
 anteroventral
