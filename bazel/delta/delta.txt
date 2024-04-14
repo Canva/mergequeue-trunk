@@ -1633,7 +1633,6 @@ deaminize
 deaminized
 deaminizing
 deammonation
-dean
 deanathematize
 deaned
 deanery
@@ -6244,6 +6243,7 @@ dermatoptera
 dermatoptic
 desirously
 dermatorrhagia
+dean
 dermatorrhea
 dermatorrhoea
 dermatosclerosis
