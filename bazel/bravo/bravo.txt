@@ -2799,7 +2799,6 @@ barographs
 baroko
 barolo
 barology
-barolong
 baromacrometer
 barometer
 boroughship
@@ -4888,6 +4887,7 @@ bedwarf
 bedwarfed
 bedwarfing
 bedwarfs
+barolong
 bedwarmer
 bedwell
 bee
