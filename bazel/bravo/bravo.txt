@@ -9829,7 +9829,6 @@ bitonality
 bitonalities
 bitore
 bytownite
-bytownitite
 basilosaurus
 bitreadle
 bitripinnatifid
@@ -13411,6 +13410,7 @@ bottomried
 bottomries
 bottomrying
 bottoms
+bytownitite
 bottstick
 bottu
 bathyscaphe
