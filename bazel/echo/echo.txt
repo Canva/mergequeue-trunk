@@ -3363,6 +3363,7 @@ embanking
 embankment
 embankments
 embanks
+everyway
 embannered
 embaphium
 embar
@@ -6197,7 +6198,6 @@ exobiological
 enophthalmus
 eusynchite
 enopla
-everyway
 enoplan
 enoplion
 enoptromancy
