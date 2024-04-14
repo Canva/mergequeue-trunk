@@ -4261,7 +4261,6 @@ adonidin
 adonin
 adoniram
 adonis
-adonises
 adonist
 adonite
 adonitol
@@ -18007,6 +18006,7 @@ approbation
 approbations
 approbative
 approbativeness
+adonises
 approbator
 approbatory
 apprompt
