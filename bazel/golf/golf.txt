@@ -2057,7 +2057,6 @@ gaure
 gaiters
 gauric
 gaurie
-goosish
 gaurs
 gansel
 gaus
@@ -3240,6 +3239,7 @@ georgia
 georgiadesite
 georgian
 georgiana
+goosish
 georgians
 griquaite
 georgic
