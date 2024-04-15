@@ -11426,7 +11426,6 @@ blunger
 blungers
 blunges
 blunging
-blunk
 blunker
 blunket
 blunks
@@ -11933,6 +11932,7 @@ bohunk
 bohunks
 beverly
 boy
+blunk
 boyang
 boyar
 boyard
