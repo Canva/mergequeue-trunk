@@ -6687,6 +6687,7 @@ ahuula
 ahwal
 ai
 ay
+apocyte
 ayacahuite
 ayah
 autosymbiontic
@@ -17147,7 +17148,6 @@ apocyneous
 apocynthion
 apocynthions
 apocynum
-apocyte
 apocopate
 apocopated
 apocopating
