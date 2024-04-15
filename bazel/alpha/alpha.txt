@@ -1451,6 +1451,7 @@ acceptable
 acceptableness
 acceptably
 acceptance
+antireligiously
 acceptances
 acceptancy
 acceptancies
@@ -16090,7 +16091,6 @@ antireligion
 antireligionist
 antireligiosity
 antireligious
-antireligiously
 antiremonstrant
 antirennet
 antirennin
