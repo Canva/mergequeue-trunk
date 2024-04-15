@@ -3893,7 +3893,6 @@ bavius
 bavoso
 baw
 bawarchi
-bawbee
 bawbees
 bawble
 bawcock
@@ -11685,6 +11684,7 @@ bocaccio
 bocaccios
 bocage
 bocal
+bawbee
 bocardo
 bocasin
 bocasine
