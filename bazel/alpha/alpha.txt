@@ -7680,7 +7680,6 @@ alcoholising
 alcoholysis
 alcoholism
 alcoholist
-alcoholytic
 alcoholizable
 abelicea
 alcoholization
@@ -12926,6 +12925,7 @@ angraecum
 angry
 angrier
 angriest
+alcoholytic
 angriness
 alarmist
 angst
