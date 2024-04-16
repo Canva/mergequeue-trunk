@@ -7326,6 +7326,7 @@ enzymotic
 enzone
 enzooty
 enzootic
+ethmoids
 enzootics
 extollers
 eo
@@ -10472,7 +10473,6 @@ eemis
 ethmoid
 ethmoidal
 ethmoiditis
-ethmoids
 ethmolith
 ethmomaxillary
 ethmonasal

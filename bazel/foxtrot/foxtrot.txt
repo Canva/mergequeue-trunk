@@ -4678,6 +4678,7 @@ fixups
 fixure
 fixures
 fiz
+fontful
 fizelyite
 fizgig
 fauxbourdon
@@ -7086,7 +7087,6 @@ fontange
 fontanges
 fonted
 fontes
-fontful
 fonticulus
 flywheels
 fontina
