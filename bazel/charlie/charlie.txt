@@ -4070,7 +4070,6 @@ cardophagus
 cardosanto
 cardplayer
 cardplaying
-cardroom
 cards
 cardshark
 cardsharp
@@ -28924,6 +28923,7 @@ cribworks
 cricetid
 cricetidae
 cricetids
+cardroom
 cricetus
 crick
 cricke
