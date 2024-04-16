@@ -641,7 +641,6 @@ faltering
 falteringly
 flaggingly
 ferrymen
-falters
 falun
 faradising
 falus
@@ -7991,6 +7990,7 @@ foreshower
 foreshown
 foreshows
 foreshroud
+falters
 foreside
 foresides
 funnelwise
