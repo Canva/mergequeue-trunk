@@ -2853,7 +2853,6 @@ decury
 decuria
 decurion
 decurionate
-decurions
 decurrence
 decurrences
 decurrency
@@ -15145,6 +15144,7 @@ dolman
 dolmans
 dolmas
 dolmen
+decurions
 dolmenic
 dolmens
 dolomedes

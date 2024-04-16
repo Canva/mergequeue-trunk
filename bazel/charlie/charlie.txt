@@ -10392,6 +10392,7 @@ chiffonier
 chiffoniers
 chiffonnier
 chiffonnieres
+conable
 chiffonniers
 chiffons
 clavierist
@@ -21024,7 +21025,6 @@ comurmurer
 comvia
 con
 coseys
-conable
 conacaste
 conacre
 conal
