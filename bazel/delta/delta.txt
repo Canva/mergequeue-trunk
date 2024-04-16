@@ -12057,7 +12057,6 @@ davoch
 disfavour
 drakefly
 disfavourable
-disfavoured
 disfavourer
 disfavouring
 disfeature
@@ -17987,6 +17986,7 @@ dulcorate
 dulcose
 duledge
 daysides
+disfavoured
 duler
 duly
 dulia

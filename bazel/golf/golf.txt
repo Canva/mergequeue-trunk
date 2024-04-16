@@ -6949,7 +6949,6 @@ goodheartedness
 goodhumoredness
 goodie
 goodyear
-goodyera
 goodies
 goodyish
 goodyism
@@ -7073,6 +7072,7 @@ gercrow
 gooselike
 gooseliver
 goosemouth
+goodyera
 grailing
 goosenecked
 goosepimply
