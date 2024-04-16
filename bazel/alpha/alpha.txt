@@ -18782,6 +18782,7 @@ archdetective
 archdiocesan
 archdiocese
 archdioceses
+autobiology
 archdiplomatist
 archdissembler
 archdisturber
@@ -23893,7 +23894,6 @@ autobiographic
 autobiographical
 autobiographically
 autobiographist
-autobiology
 autoblast
 autoboat
 autoboating
