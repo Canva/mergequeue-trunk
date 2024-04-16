@@ -2632,7 +2632,6 @@ electropuncture
 electropuncturing
 electroreceptive
 electroreduction
-electrorefine
 electrorefining
 electroretinograph
 electroretinography
@@ -11755,6 +11754,7 @@ ewing
 ewound
 ewte
 ex
+electrorefine
 exacerbated
 exacerbates
 exacerbating
