@@ -1818,7 +1818,6 @@ eyeserver
 eyeservice
 eyeshade
 eyeshades
-eyeshield
 eyeshine
 eyeshot
 eyeshots
@@ -8643,6 +8642,7 @@ equiarticulate
 equiatomic
 equiaxe
 equiaxed
+eyeshield
 equiaxial
 equibalance
 equibalanced
