@@ -8922,6 +8922,7 @@ alloplast
 alloplasty
 alloplastic
 alloploidy
+anticipated
 afflation
 allopolyploid
 allopolyploidy
@@ -14887,7 +14888,6 @@ anticynically
 anticynicism
 anticipant
 anticipatable
-anticipated
 anticipates
 anticipating
 aphoriser
