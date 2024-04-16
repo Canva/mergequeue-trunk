@@ -5022,7 +5022,6 @@ caseweed
 casewood
 cystenchymatous
 casework
-caseworker
 caseworkers
 caseworks
 caseworm
@@ -22592,6 +22591,7 @@ connote
 connoted
 connotes
 connoting
+caseworker
 connotive
 connotively
 conns
