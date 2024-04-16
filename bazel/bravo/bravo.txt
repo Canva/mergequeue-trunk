@@ -3309,7 +3309,6 @@ basiophthalmous
 basiotribe
 basiotripsy
 basiparaplastin
-basipetal
 basipetally
 basiphobia
 basipodite
@@ -7851,6 +7850,7 @@ bibbing
 bibble
 bibbler
 bibbling
+basipetal
 backlotter
 bibcock
 bibcocks
