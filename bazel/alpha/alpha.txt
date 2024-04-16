@@ -3066,7 +3066,6 @@ actian
 aquatint
 actification
 actin
-actinal
 actinautography
 actinautographic
 actine
@@ -4908,6 +4907,7 @@ aerified
 aerifies
 aerifying
 aeriform
+actinal
 aerily
 aeriness
 aero
