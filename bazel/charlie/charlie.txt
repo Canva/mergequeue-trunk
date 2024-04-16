@@ -4305,7 +4305,6 @@ carlylism
 carlin
 carlina
 carline
-carlines
 carling
 carlings
 carlino
@@ -15404,6 +15403,7 @@ clapped
 clapperboard
 clapperclaw
 clapperclawer
+carlines
 clapperdudgeon
 clappered
 clappermaclaw

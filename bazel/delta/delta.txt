@@ -4747,7 +4747,6 @@ democratize
 democratized
 democratizer
 democratizes
-democratizing
 democrats
 democraw
 democritean
@@ -18349,6 +18348,7 @@ dupioni
 dupla
 duplation
 duple
+democratizing
 duplex
 duplexed
 duplexer
