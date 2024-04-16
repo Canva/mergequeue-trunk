@@ -607,7 +607,6 @@ abnegations
 abnegative
 abnegator
 abnegators
-abner
 abnerval
 apprehensive
 abnet
@@ -8380,6 +8379,7 @@ alives
 alivincular
 alix
 alizarate
+abner
 alizari
 alizarin
 abasing
