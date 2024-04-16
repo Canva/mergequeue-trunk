@@ -4790,6 +4790,7 @@ diodon
 demology
 demological
 demon
+drearness
 diminutivize
 demonastery
 demoness
@@ -16887,7 +16888,6 @@ dreariness
 drearing
 drearisome
 drearly
-drearness
 dreche
 dreck
 drecks
