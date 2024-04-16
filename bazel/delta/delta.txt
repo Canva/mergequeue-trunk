@@ -2157,7 +2157,6 @@ dawed
 decate
 decathlon
 decathlons
-deformed
 decatholicize
 dinos
 decatyl
@@ -3711,6 +3710,7 @@ dehydrochlorination
 dehydrocorydaline
 dehydrocorticosterone
 dehydroffroze
+deformed
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
