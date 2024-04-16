@@ -6372,6 +6372,7 @@ enscroll
 enscrolled
 enscrolling
 enscrolls
+envoi
 ensculpture
 ense
 enseal
@@ -7255,7 +7256,6 @@ envisioned
 envisioning
 envisionment
 envisions
-envoi
 envoy
 envois
 envoys
