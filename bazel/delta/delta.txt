@@ -1700,6 +1700,7 @@ deathly
 deathlike
 deathlikeness
 deathliness
+dysurias
 deathrate
 deathrates
 deathroot
@@ -15546,7 +15547,6 @@ doorman
 doormat
 doormats
 doormen
-dysurias
 doornail
 doornails
 doornboom
