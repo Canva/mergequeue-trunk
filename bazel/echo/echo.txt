@@ -4843,7 +4843,6 @@ encopreses
 encopresis
 encorbellment
 encorbelment
-encore
 emulsifiable
 encored
 encores
@@ -9897,6 +9896,7 @@ ess
 essay
 essayed
 essayer
+encore
 essayers
 essaying
 essayism
