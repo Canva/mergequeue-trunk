@@ -2474,6 +2474,7 @@ fernandinite
 fernando
 fernbird
 fernbrake
+feuterer
 ferned
 footnoting
 fernery
@@ -2872,7 +2873,6 @@ fetter
 fetterbush
 fettered
 fetterer
-feuterer
 fetterers
 fettering
 fetterlock
