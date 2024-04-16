@@ -1802,7 +1802,6 @@ febronianism
 february
 factualist
 februarius
-februation
 fec
 farmeress
 fecal
@@ -9716,6 +9715,7 @@ freetrader
 freeway
 freeward
 flavorings
+februation
 flockling
 freewheel
 freewheeler
