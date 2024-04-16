@@ -15387,6 +15387,7 @@ brimse
 brimstone
 brimstonewort
 brin
+buskins
 burrio
 brince
 brinded
@@ -18067,7 +18068,6 @@ busky
 buskin
 buskined
 bopyridae
-buskins
 buskle
 busload
 busman
