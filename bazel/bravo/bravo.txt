@@ -8129,7 +8129,6 @@ bicron
 bicrons
 bicrural
 bicuculline
-bicultural
 biculturalism
 bicursal
 bicuspid
@@ -13148,6 +13147,7 @@ bosniak
 bosnian
 benzoyl
 bosnisch
+bicultural
 bosom
 bosomed
 bosomer

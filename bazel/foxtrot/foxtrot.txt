@@ -508,6 +508,7 @@ falconets
 falconidae
 falconiform
 falconiformes
+ferlied
 falconinae
 falconlike
 frillies
@@ -2414,7 +2415,6 @@ ferities
 ferk
 ferkin
 ferly
-ferlied
 frangulinic
 ferlies
 ferlying
