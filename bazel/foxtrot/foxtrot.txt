@@ -6009,7 +6009,6 @@ ferbam
 floppiness
 flops
 flopwing
-flor
 foredooming
 flora
 florae
@@ -8749,6 +8748,7 @@ freestyle
 fortuitist
 feiseanna
 faunal
+flor
 fortuitously
 fortuitus
 fortunate
