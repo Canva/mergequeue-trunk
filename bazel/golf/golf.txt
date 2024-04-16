@@ -4163,7 +4163,6 @@ gilt
 gilten
 gestening
 glochidium
-gilty
 gilts
 gilttail
 gilver
@@ -6844,6 +6843,7 @@ glumella
 goniopholidae
 goniopholis
 goniostat
+gilty
 goniotropous
 gonystylaceae
 gonystylaceous
