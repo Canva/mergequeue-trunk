@@ -1352,6 +1352,7 @@ balboas
 balbriggan
 balbusard
 balbutiate
+biblical
 balbutient
 balbuties
 balche
@@ -7870,7 +7871,6 @@ bibles
 bibless
 biblic
 butylic
-biblical
 boccie
 biblicality
 burlers
