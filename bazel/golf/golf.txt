@@ -379,6 +379,7 @@ galactosemic
 galactosidase
 galoped
 garfishes
+gestural
 galactosyl
 gambusia
 galactosis
@@ -3607,7 +3608,6 @@ gestonie
 gestor
 gests
 gestura
-gestural
 grapy
 gasconaded
 gallimaufries
