@@ -6850,7 +6850,6 @@ entire
 entirely
 electrodiagnoses
 entireness
-entires
 entirety
 entiris
 entirities
@@ -8566,6 +8565,7 @@ eq
 eqpt
 equability
 equable
+entires
 exponential
 equableness
 equably
