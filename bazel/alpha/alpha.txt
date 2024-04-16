@@ -22437,6 +22437,7 @@ ataxiameter
 ataxiaphasia
 ataxias
 ataxic
+authenticator
 ataxies
 ataxinomic
 ataxite
@@ -23795,7 +23796,6 @@ authenticates
 authenticating
 authentication
 authentications
-authenticator
 arrtez
 athetosic
 authenticators
