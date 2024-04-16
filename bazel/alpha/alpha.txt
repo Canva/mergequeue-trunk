@@ -6653,6 +6653,7 @@ ahnfeltia
 aho
 ahoy
 aholds
+azole
 aholt
 assewer
 ahom
@@ -25299,7 +25300,6 @@ azogreen
 azogrenadine
 azohumic
 azoic
-azole
 azoles
 azolitmin
 azolla
