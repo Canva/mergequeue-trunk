@@ -1941,7 +1941,6 @@ gateways
 gateward
 gatewards
 guariba
-gatewise
 gatewoman
 gateworks
 gatewright
@@ -4158,6 +4157,7 @@ gilpy
 gilravage
 gilravager
 gils
+gatewise
 gilsonite
 gilt
 gilten
