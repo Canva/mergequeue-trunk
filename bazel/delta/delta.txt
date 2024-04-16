@@ -4926,6 +4926,7 @@ demotions
 demotist
 demotists
 demount
+dicyclic
 demountability
 demountable
 demounted
@@ -17841,7 +17842,6 @@ duecentist
 duecento
 duecentos
 dueful
-dicyclic
 drepane
 dueled
 dueler

@@ -7197,7 +7197,6 @@ enveloped
 enveloper
 envelopers
 enveloping
-envelopment
 envelopments
 entailing
 envelops
@@ -12942,6 +12941,7 @@ expansions
 expansive
 expansively
 expansiveness
+envelopment
 expansivity
 expansum
 expansure
