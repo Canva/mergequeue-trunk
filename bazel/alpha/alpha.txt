@@ -16586,7 +16586,6 @@ aortolith
 aortomalacia
 aortomalaxis
 aortopathy
-aortoptosia
 aortoptosis
 aortorrhaphy
 aortosclerosis
@@ -23283,6 +23282,7 @@ alpenhorn
 audiences
 audiencia
 audiencier
+aortoptosia
 audient
 audients
 audile

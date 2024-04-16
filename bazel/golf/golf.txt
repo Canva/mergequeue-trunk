@@ -5111,6 +5111,7 @@ glamourously
 glamours
 glance
 glancer
+gorgonise
 glances
 guaxima
 glancing
@@ -7177,7 +7178,6 @@ gorgoniacea
 gorgoniacean
 gorgoniaceous
 gorgonin
-gorgonise
 gorgonised
 gorgonising
 gorgonize
