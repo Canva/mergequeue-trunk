@@ -6231,6 +6231,7 @@ beneplacito
 beshackle
 benes
 benet
+benzopyranyl
 benetnasch
 benetted
 biblicistic
@@ -6484,7 +6485,6 @@ benzophosphinic
 benzophthalazine
 benzopinacone
 benzopyran
-benzopyranyl
 benzopyrazolone
 benzopyrene
 benzopyrylium

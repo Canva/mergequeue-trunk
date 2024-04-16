@@ -3603,7 +3603,6 @@ gestning
 gestonie
 gestor
 gests
-gestura
 grapy
 gasconaded
 gallimaufries
@@ -7076,6 +7075,7 @@ goosegog
 gooseherd
 goosehouse
 goosey
+gestura
 gercrow
 gooselike
 gooseliver
