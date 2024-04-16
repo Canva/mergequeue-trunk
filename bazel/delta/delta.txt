@@ -8862,6 +8862,7 @@ dichotomies
 dichotomisation
 dichotomise
 dimethoxymethane
+distributes
 dichotomist
 dichotomistic
 dichotomization
@@ -13895,7 +13896,6 @@ distribute
 distributedly
 distributee
 distributer
-distributes
 distributing
 distribution
 distributional
