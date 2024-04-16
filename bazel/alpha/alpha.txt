@@ -10059,7 +10059,6 @@ ambolic
 ambomalleal
 antenatus
 ambon
-ambones
 ambonite
 ambonnay
 ambos
@@ -22221,6 +22220,7 @@ astringence
 astringency
 astringent
 astringently
+ambones
 astringents
 astringer
 astringes
