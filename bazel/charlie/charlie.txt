@@ -9686,7 +9686,6 @@ cheimaphobia
 carpometacarpus
 cheimatophobia
 cheyney
-cheyneys
 cheir
 cheiragra
 cheiranthus
@@ -22864,6 +22863,7 @@ consignified
 consignifying
 consigning
 consignment
+cheyneys
 consignments
 consignor
 consignors

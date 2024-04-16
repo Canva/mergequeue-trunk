@@ -5407,7 +5407,6 @@ denumerable
 denumerably
 denumeral
 denumerant
-denumerantive
 denumerative
 denunciable
 denunciant
@@ -16272,6 +16271,7 @@ download
 downloadable
 downloaded
 downloading
+denumerantive
 downloads
 downlooked
 downlooker
