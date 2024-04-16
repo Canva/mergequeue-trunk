@@ -7659,7 +7659,6 @@ alcyones
 alcyoniaceae
 alcyonic
 alcyoniform
-alcyonium
 alcyonoid
 alcippe
 alclad
@@ -7812,6 +7811,7 @@ analphabetical
 alebion
 alebush
 alec
+alcyonium
 alecithal
 alecithic
 alecize
