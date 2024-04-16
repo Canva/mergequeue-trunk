@@ -14808,6 +14808,7 @@ cytinus
 cytioderm
 cytioderma
 cityscape
+confit
 cityscapes
 cytisine
 crinum
@@ -21976,7 +21977,6 @@ confiscators
 confiserie
 confisk
 confisticating
-confit
 confitent
 confiteor
 confix
