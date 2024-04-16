@@ -12174,7 +12174,6 @@ disguisable
 disguisay
 disguisal
 disguise
-disguised
 deracialize
 disguisedly
 disguisedness
@@ -14383,6 +14382,7 @@ damourite
 divorcible
 divorcing
 divorcive
+disguised
 divort
 divot
 divots

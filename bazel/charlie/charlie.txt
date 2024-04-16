@@ -13509,6 +13509,7 @@ ciliferous
 ciliform
 ciliiferous
 ciliiform
+citywards
 ciliium
 cylinder
 constructing
@@ -14808,7 +14809,6 @@ cytisine
 crinum
 cytitis
 cityward
-citywards
 citywide
 citizen
 citizendom
