@@ -13394,7 +13394,6 @@ anitrogenous
 anyway
 anyways
 anywhen
-anywhence
 anywhere
 anywhereness
 anywheres
@@ -24392,6 +24391,7 @@ autosymbolically
 autosymnoia
 ambushing
 autosyn
+anywhence
 autosyndesis
 autosite
 autositic
