@@ -9883,6 +9883,7 @@ chemosorptive
 chemosphere
 chemospheric
 chemostat
+colosso
 chemosterilant
 chemosterilants
 chemosurgery
@@ -19383,7 +19384,6 @@ colosseum
 colossi
 colossian
 colossians
-colosso
 colossochelys
 colossus
 colossuses
