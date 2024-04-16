@@ -22393,6 +22393,7 @@ ataghan
 ataghans
 ataigal
 ataiyal
+autographical
 atake
 atalaya
 atalayas
@@ -24092,7 +24093,6 @@ autographed
 autographer
 autography
 autographic
-autographical
 autographically
 autographing
 autographism
