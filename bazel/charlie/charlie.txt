@@ -10986,7 +10986,6 @@ chirpily
 ct
 chirpiness
 chirping
-chirpingly
 chirps
 chirr
 clumproot
@@ -22183,6 +22182,7 @@ coloratura
 congers
 conges
 congession
+chirpingly
 congest
 congested
 congestedness
