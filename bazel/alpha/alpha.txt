@@ -308,6 +308,7 @@ abecedaria
 abecedarian
 abecedarians
 abecedaries
+autopore
 abecedarius
 acrostolion
 abed
@@ -24313,7 +24314,6 @@ autopolyploid
 autopolyploidy
 autopolo
 autopoloist
-autopore
 autoportrait
 autoportraiture
 autopositive
