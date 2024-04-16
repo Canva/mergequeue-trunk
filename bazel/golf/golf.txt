@@ -4319,6 +4319,7 @@ gimped
 gimpiest
 gyms
 gymslip
+galiongee
 gin
 gyn
 gynaecea
@@ -7396,7 +7397,6 @@ gourde
 gourded
 gourdes
 gourdful
-galiongee
 gourdhead
 gourdy
 gourdiness

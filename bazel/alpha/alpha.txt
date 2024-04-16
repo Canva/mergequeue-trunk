@@ -7834,7 +7834,6 @@ alectryon
 alectrionidae
 alecup
 alee
-alef
 alefnull
 alefs
 aleft
@@ -21362,6 +21361,7 @@ atuami
 aspectual
 aspen
 aspens
+alef
 asper
 alpigene
 asperate
