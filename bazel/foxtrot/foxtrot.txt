@@ -813,7 +813,6 @@ fanleaf
 fanlight
 fanlights
 fanmaking
-fanman
 fila
 fanned
 fannel
@@ -5480,6 +5479,7 @@ fleshlily
 failingly
 fleshliness
 fleshling
+fanman
 fleshment
 fleshmonger
 fleshpot
