@@ -9285,7 +9285,6 @@ alouette
 alouettes
 alout
 alow
-alowe
 aloxite
 alp
 alpaca
@@ -9306,6 +9305,7 @@ alpestrine
 autotype
 alpha
 alphabet
+alowe
 alphabetary
 alphabetarian
 alphabeted
