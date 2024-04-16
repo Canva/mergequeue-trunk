@@ -5279,6 +5279,7 @@ flavoury
 festive
 flavouring
 flavourless
+fluviatic
 flavourous
 flavours
 flavoursome
@@ -6628,7 +6629,6 @@ fluttersome
 fluvanna
 fluvial
 fluvialist
-fluviatic
 fluviatile
 fling
 fluvicoline
