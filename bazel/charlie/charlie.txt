@@ -4274,6 +4274,7 @@ caryotins
 carious
 cariousness
 caripeta
+chausseemeile
 caripuna
 cariri
 caririan
@@ -9348,7 +9349,6 @@ chauri
 chaus
 chausse
 chaussee
-chausseemeile
 chaussees
 chaussure
 chaussures
