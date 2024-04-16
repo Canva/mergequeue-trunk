@@ -4733,7 +4733,6 @@ democrat
 democratian
 democratic
 democratically
-disscepter
 democratifiable
 democratisation
 democratise
@@ -8524,6 +8523,7 @@ distemperate
 diapnotic
 diapophyses
 diapophysial
+disscepter
 diapophysis
 diaporesis
 diaporthe
