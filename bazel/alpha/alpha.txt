@@ -584,7 +584,6 @@ ablow
 ablude
 abluent
 abluents
-arithmetic
 ablush
 abluted
 ablution
@@ -19748,6 +19747,7 @@ aristas
 aristate
 ariste
 aristeas
+arithmetic
 aristeia
 aristida
 aristides
