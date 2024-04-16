@@ -4548,6 +4548,7 @@ demihague
 demihake
 demihaque
 deavely
+dialectal
 demihearse
 demiheavenly
 demihigh
@@ -8228,7 +8229,6 @@ dial
 dialcohol
 dialdehyde
 dialect
-dialectal
 dialectalize
 dialectally
 deuteroplasm

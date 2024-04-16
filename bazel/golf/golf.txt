@@ -2454,6 +2454,7 @@ gutterlike
 gelsemic
 goniotheca
 gelsemine
+glaucophyllous
 gethsemane
 gelseminic
 gelsemium
@@ -5254,7 +5255,6 @@ gammick
 glaucophanize
 gladliest
 guernsey
-glaucophyllous
 glaucosis
 glaucous
 glaucously
