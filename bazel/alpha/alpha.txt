@@ -23537,7 +23537,6 @@ aureously
 auresca
 aureus
 auribromide
-auric
 aurichalcite
 aurichalcum
 aurichloride
@@ -23879,6 +23878,7 @@ autobahn
 autobahnen
 autobahns
 autobasidia
+auric
 autobasidiomycetes
 autobasidiomycetous
 autobasidium

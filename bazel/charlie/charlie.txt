@@ -2958,7 +2958,6 @@ capacities
 capacitive
 capacitively
 capacitor
-capacitors
 capanna
 capanne
 cystolithectomy
@@ -27817,6 +27816,7 @@ cattle
 crabbed
 crabbedly
 crabbedness
+capacitors
 crabber
 caribisi
 crabbery
