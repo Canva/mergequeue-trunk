@@ -3114,7 +3114,6 @@ geomagnetically
 geomagnetics
 guestless
 geomagnetist
-geomaly
 geomalic
 geomalism
 geomancer
@@ -8358,6 +8357,7 @@ grattoir
 grattoirs
 gratton
 gratuitant
+geomaly
 gratuity
 gratuito
 gratuitously
