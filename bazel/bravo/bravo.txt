@@ -1307,6 +1307,7 @@ balanocele
 balanoglossida
 balanoglossus
 balanoid
+barrable
 balanophora
 balanophoraceae
 boteroll
@@ -2900,7 +2901,6 @@ barr
 besprinkling
 barra
 barrabkie
-barrable
 barracan
 barrace
 barrack
