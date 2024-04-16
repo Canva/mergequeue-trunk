@@ -969,6 +969,7 @@ fard
 fardage
 farde
 farded
+feminization
 fardel
 fardelet
 fardels
@@ -2233,7 +2234,6 @@ foredecree
 feministics
 feminity
 feminities
-feminization
 flagfall
 fibrobronchitis
 feminize
