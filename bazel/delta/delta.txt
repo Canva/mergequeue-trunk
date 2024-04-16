@@ -5619,6 +5619,7 @@ dephasing
 dephycercal
 dephilosophize
 dephysicalization
+dequeued
 dephysicalize
 dephlegmate
 dephlegmated
@@ -5998,7 +5999,6 @@ deputizing
 dequantitate
 dequeen
 dequeue
-dequeued
 dequeues
 dequeuing
 dropshots

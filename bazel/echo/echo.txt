@@ -7578,7 +7578,6 @@ ephor
 ephoral
 essayical
 ephoralty
-ephorate
 ephorates
 ephori
 ephoric
@@ -11213,6 +11212,7 @@ eurygaean
 eurypteroidea
 eurypterus
 euripupi
+ephorate
 elytrigerous
 euryscope
 embarren
