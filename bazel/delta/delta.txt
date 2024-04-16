@@ -5046,6 +5046,7 @@ diatonically
 dendrobates
 dendrobatinae
 dendrobe
+diseme
 dendrobium
 dendrocalamus
 dendroceratina
@@ -11887,7 +11888,6 @@ disembrangle
 disembroil
 disembroilment
 disemburden
-diseme
 disemic
 disemplane
 disemplaned
