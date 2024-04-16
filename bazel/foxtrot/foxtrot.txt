@@ -1254,6 +1254,7 @@ fasti
 fastidiosity
 folkboat
 fastidious
+formularizer
 fastidiously
 fastidiousness
 fates
@@ -8535,7 +8536,6 @@ formularist
 formularistic
 formularization
 formularized
-formularizer
 formularizing
 formulate
 formulated
