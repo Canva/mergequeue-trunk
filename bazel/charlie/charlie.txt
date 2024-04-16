@@ -9866,7 +9866,6 @@ chemoprophylactic
 chemoprophylaxis
 chemoreception
 chemoreceptive
-chemoreceptivity
 chemoreceptivities
 chemoreceptor
 chemoreflex
@@ -13559,6 +13558,7 @@ cilioflagellata
 chrysophan
 cilioflagellate
 ciliograde
+chemoreceptivity
 ciliola
 ciliolate
 cubans

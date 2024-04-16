@@ -918,6 +918,7 @@ ectosomal
 ectosome
 ectosphenoid
 ectosphenotic
+encephalographic
 ehatisaht
 ectosphere
 ectosteal
@@ -4592,7 +4593,6 @@ encephalocoele
 encephalodialysis
 elotherium
 encephalograph
-encephalographic
 entangling
 encephalographically
 encephaloid
