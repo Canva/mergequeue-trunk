@@ -9644,7 +9644,6 @@ cheesy
 cheesier
 cheesiest
 cheesiness
-cheesing
 cheetah
 cheetahs
 cheeter
@@ -12336,6 +12335,7 @@ chromaticness
 chromatics
 chromatid
 chromatin
+cheesing
 cyclonoscope
 chromatinic
 chromatioideae
