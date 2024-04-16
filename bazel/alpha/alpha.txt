@@ -17705,7 +17705,6 @@ appendicular
 appendicularia
 appendicularian
 appendiculariidae
-appendiculata
 appendiculate
 appending
 appendix
@@ -23177,6 +23176,7 @@ attributively
 attributor
 attrist
 attrite
+appendiculata
 attrited
 attriteness
 attriting
