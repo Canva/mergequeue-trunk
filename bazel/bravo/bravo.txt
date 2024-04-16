@@ -7921,6 +7921,7 @@ bibliomania
 bibliomaniac
 behavioristic
 bibliomaniacal
+bota
 bibliomanian
 bibliomanianism
 bibliomanism
@@ -13222,7 +13223,6 @@ boswellize
 boswellized
 boswellizing
 bot
-bota
 botany
 botanic
 botanica
