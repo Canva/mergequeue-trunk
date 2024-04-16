@@ -11571,7 +11571,6 @@ boathead
 boatheader
 boathook
 boathouse
-boathouses
 boatyard
 boatie
 backbends
@@ -12003,6 +12002,7 @@ boiloff
 boiloffs
 boilover
 boils
+boathouses
 boing
 boyo
 boyology
