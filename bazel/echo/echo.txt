@@ -4376,6 +4376,7 @@ epithelioglandular
 enactive
 enactment
 enactments
+entrepreneurs
 enactor
 enactory
 euorthoptera
@@ -7092,7 +7093,6 @@ entrepots
 effatum
 entreprenant
 entrepreneur
-entrepreneurs
 entrepreneurship
 entrepreneuse
 entrept

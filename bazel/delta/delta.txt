@@ -13246,7 +13246,6 @@ disqualifies
 decard
 disqualifying
 disquantity
-directrices
 disquarter
 disquiet
 disquieted
@@ -15768,6 +15767,7 @@ dorsiparous
 dorsipinal
 dorsispinal
 dorsiventral
+directrices
 depreciations
 dismembrated
 dorsiventrality
