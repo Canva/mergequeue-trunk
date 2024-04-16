@@ -4405,7 +4405,6 @@ dematerialise
 decubation
 dematerialised
 daun
-dematerialising
 dematerialization
 dematerialize
 dematerialized
@@ -6567,6 +6566,7 @@ desertlessly
 desertlike
 desertness
 desertress
+dematerialising
 desertrice
 deserts
 desertward
