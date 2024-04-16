@@ -3516,7 +3516,6 @@ batara
 batarde
 batardeau
 batata
-bullheadedness
 batatas
 batatilla
 batavi
@@ -4144,6 +4143,7 @@ beanweed
 bear
 bearability
 bearable
+bullheadedness
 bearableness
 bearably
 bearance
