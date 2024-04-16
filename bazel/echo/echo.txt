@@ -6381,6 +6381,7 @@ ensearcher
 enseat
 expurgators
 enseated
+escaping
 enchisel
 exhume
 enseating
@@ -9572,7 +9573,6 @@ escapes
 electiveness
 escapeway
 enleaf
-escaping
 encomiast
 escapingly
 escapism
