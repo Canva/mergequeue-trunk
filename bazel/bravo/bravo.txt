@@ -4431,6 +4431,7 @@ beche
 becheck
 becher
 binaurally
+blaring
 bechern
 bedeafening
 bechic
@@ -10366,7 +10367,6 @@ blare
 backyarder
 blares
 blarina
-blaring
 boredness
 blarneyed
 blarneyer
