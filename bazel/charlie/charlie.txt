@@ -18355,7 +18355,6 @@ coheir
 coheiress
 coheirs
 coheirship
-cohelper
 cohelpership
 cohen
 cohenite
@@ -31351,6 +31350,7 @@ curioso
 curiosos
 curious
 curiouser
+cohelper
 curiousest
 curiously
 curiousnesses

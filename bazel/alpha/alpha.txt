@@ -4721,6 +4721,7 @@ adzes
 adzooks
 ae
 aeacides
+ameliorate
 aeacus
 aeaean
 aechmophorus
@@ -10190,7 +10191,6 @@ ameliorable
 ameliorableness
 ameliorant
 alyssum
-ameliorate
 ameliorated
 ameliorates
 ameliorating
