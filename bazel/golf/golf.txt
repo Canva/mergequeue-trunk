@@ -5781,7 +5781,6 @@ gloomfully
 gloomy
 gloomier
 gelid
-gloomily
 gloominess
 gardeen
 glooming
@@ -7840,6 +7839,7 @@ gramp
 grampa
 gramper
 gramps
+gloomily
 grampus
 guessingly
 gagor
