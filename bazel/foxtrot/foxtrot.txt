@@ -3504,6 +3504,7 @@ figurable
 figurae
 figural
 figurally
+forethoughtless
 figurant
 figurante
 figurants
@@ -5818,7 +5819,6 @@ flench
 fload
 float
 floatability
-forethoughtless
 floatage
 floatages
 fireling

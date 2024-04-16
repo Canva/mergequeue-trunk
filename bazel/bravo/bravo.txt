@@ -8629,6 +8629,7 @@ birthwort
 billety
 billeting
 billets
+busheller
 billette
 billetty
 broadband
@@ -17960,7 +17961,6 @@ bushelfuls
 beseeched
 bushelled
 beresite
-busheller
 bushelling
 bushelman
 bushelmen
