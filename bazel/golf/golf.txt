@@ -2797,6 +2797,7 @@ genipaps
 genyplasty
 gorillaship
 grainsick
+gimels
 genips
 genisaro
 genista
@@ -4192,7 +4193,6 @@ gimcrackiness
 gimcracks
 garbel
 gymel
-gimels
 gimirrai
 gymkhana
 gymkhanas
