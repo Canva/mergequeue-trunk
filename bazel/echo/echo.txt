@@ -190,7 +190,6 @@ earthrise
 emajagua
 earthset
 electroplated
-earthsets
 earthshaker
 earthshaking
 earthshakingly
@@ -8203,6 +8202,7 @@ episcopes
 episcopicide
 episcopise
 episcopised
+earthsets
 episcopising
 episcopization
 episcopize

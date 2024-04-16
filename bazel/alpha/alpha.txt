@@ -692,7 +692,6 @@ abominated
 abominates
 abominating
 abomination
-abominations
 abominator
 affably
 abominators
@@ -12779,6 +12778,7 @@ angiolipoma
 angiolith
 angiology
 angioma
+abominations
 angiomalacia
 angiomas
 angiomata
