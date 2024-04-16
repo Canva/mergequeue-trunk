@@ -523,7 +523,6 @@ gastriloquist
 galinaceous
 galingale
 galinsoga
-galiongee
 galionji
 galiot
 galiots
@@ -7414,6 +7413,7 @@ gourde
 gourded
 gourdes
 gourdful
+galiongee
 gourdhead
 gourdy
 gourdiness
