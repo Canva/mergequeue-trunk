@@ -3867,7 +3867,6 @@ deploitation
 deis
 deys
 deiseal
-demurred
 deyship
 deisidaimonia
 deisin
@@ -11431,6 +11430,7 @@ discomedusae
 discomedusan
 discomedusoid
 discomfit
+demurred
 discomfited
 discomfiter
 discomfiting
