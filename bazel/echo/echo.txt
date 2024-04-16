@@ -6781,6 +6781,7 @@ elotillo
 enthalpies
 entheal
 enthean
+escharoid
 entheasm
 entheate
 enthelminthes
@@ -9605,7 +9606,6 @@ eschalots
 eschar
 eschara
 escharine
-escharoid
 escharotic
 eschars
 eschatocol
