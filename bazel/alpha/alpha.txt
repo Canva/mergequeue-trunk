@@ -7581,7 +7581,6 @@ alcaic
 alcaiceria
 alcaics
 alcaid
-ankylorrhinia
 alcaide
 alcayde
 alcaides
@@ -15372,6 +15371,7 @@ antihypertensives
 antihypnotic
 alkalous
 antihypnotically
+ankylorrhinia
 antihypochondriac
 antihypophora
 antihistamine
