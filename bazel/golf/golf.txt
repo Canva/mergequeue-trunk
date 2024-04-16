@@ -1408,6 +1408,7 @@ gastrins
 garibaldian
 gluttei
 garigue
+gelatinated
 garishly
 garishness
 garland
@@ -2365,7 +2366,6 @@ gelatification
 guarani
 gelatigenous
 gelatinate
-gelatinated
 gelatinating
 gelatination
 gelatine
