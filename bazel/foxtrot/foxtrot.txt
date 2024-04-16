@@ -2080,6 +2080,7 @@ fellagha
 fellah
 fellaheen
 fotched
+folliculosis
 fellahin
 fellahs
 fellas
@@ -8313,7 +8314,6 @@ forisfamiliation
 forjaskit
 forjesket
 forjudge
-folliculosis
 forjudged
 forjudger
 forjudges
