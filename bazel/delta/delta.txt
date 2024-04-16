@@ -10980,6 +10980,7 @@ disamenity
 disamis
 dysanalyte
 disanalogy
+donenesses
 dimethylaniline
 disanalogous
 disangularize
@@ -15388,7 +15389,6 @@ donee
 donees
 doney
 doneness
-donenesses
 donet
 dong
 donga
