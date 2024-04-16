@@ -5788,7 +5788,6 @@ bellhop
 bellhops
 bellhouse
 belli
-belly
 bellyache
 bellyached
 bdl
@@ -16162,6 +16161,7 @@ brouille
 brouillon
 broussonetia
 brow
+belly
 browache
 bargee
 browband
