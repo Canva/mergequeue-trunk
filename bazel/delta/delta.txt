@@ -10114,7 +10114,6 @@ disciplined
 dinic
 dinical
 dinichthyid
-dinichthys
 dining
 dinitrate
 dinitril
@@ -18261,6 +18260,7 @@ disinclinations
 duodecimality
 duodecimally
 duodecimfid
+dinichthys
 duodecimo
 duodecimole
 duodecimos
