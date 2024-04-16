@@ -3589,6 +3589,7 @@ embossing
 embossman
 embossment
 embossments
+exitial
 embost
 enterozoa
 exembryonate
@@ -12645,7 +12646,6 @@ exit
 exitance
 exite
 exited
-exitial
 exiting
 exition
 exitious
