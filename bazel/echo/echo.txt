@@ -6648,7 +6648,6 @@ endorsement
 enterocholecystostomy
 enterochromaffin
 enterocinesia
-enterocinetic
 enterocyst
 enterocystoma
 enterocleisis
@@ -6866,6 +6865,7 @@ emetin
 entitle
 entitled
 entitledness
+enterocinetic
 enriched
 entitling
 entitule
