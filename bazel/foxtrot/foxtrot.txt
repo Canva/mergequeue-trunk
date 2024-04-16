@@ -1949,7 +1949,6 @@ feeds
 feedsman
 feedstock
 feedstuff
-feedstuffs
 feedway
 feedwater
 feeing
@@ -3528,6 +3527,7 @@ figurative
 figuratively
 figurato
 figure
+feedstuffs
 figured
 figuredly
 figureheadless
