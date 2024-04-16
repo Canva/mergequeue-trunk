@@ -1228,6 +1228,7 @@ dateable
 dateableness
 datebook
 dated
+dignosle
 datedness
 dateless
 datelessness
@@ -9505,7 +9506,6 @@ dignitaries
 dignitas
 dignity
 dignities
-dignosle
 dignotion
 dungeon
 dygogram
