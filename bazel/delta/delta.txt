@@ -3450,6 +3450,7 @@ defoil
 dawish
 defoliage
 defoliant
+dissavs
 dorsobranchiata
 defoliants
 defoliate
@@ -13386,7 +13387,6 @@ dissavage
 dissaved
 dissaves
 dissaving
-dissavs
 demonic
 dissceptered
 dissceptre
