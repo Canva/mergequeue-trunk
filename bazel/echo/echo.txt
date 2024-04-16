@@ -1621,7 +1621,6 @@ egohood
 egoism
 egoisms
 egoist
-egoistic
 egoistical
 egoistically
 egoisticalness
@@ -8262,6 +8261,7 @@ epistatic
 epistaxis
 episteme
 epistemic
+egoistic
 epistemically
 epistemolog
 epistemologically
