@@ -8875,7 +8875,6 @@ averager
 allometry
 allomorph
 allomorphic
-allomorphism
 allomorphite
 allomucic
 allonge
@@ -22757,6 +22756,7 @@ atomistical
 atomistically
 atomists
 atomity
+allomorphism
 abrocoma
 atomization
 atomize
