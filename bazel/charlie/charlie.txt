@@ -1174,6 +1174,7 @@ calelectricity
 calembour
 calemes
 calendal
+cryptoheresy
 calendar
 calendared
 calendarer
@@ -29286,7 +29287,6 @@ cryptography
 cryptographic
 cryptographical
 cryptographist
-cryptoheresy
 cryptoheretic
 cryptolite
 cryptolith

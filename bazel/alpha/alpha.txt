@@ -2972,6 +2972,7 @@ acronyctous
 acronym
 acronymic
 acronymically
+agnoite
 acronymize
 atmogenic
 apium
@@ -6297,7 +6298,6 @@ agnoetae
 agnoete
 agnoetism
 agnoiology
-agnoite
 agnoites
 agnomen
 agnomens
