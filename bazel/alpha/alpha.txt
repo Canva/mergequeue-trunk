@@ -4528,7 +4528,6 @@ adumbratively
 adumbrellar
 adunation
 adunc
-aduncate
 aduncated
 aduncity
 aduncous
@@ -13208,6 +13207,7 @@ animated
 animatedly
 animately
 actionable
+aduncate
 animateness
 animater
 animaters

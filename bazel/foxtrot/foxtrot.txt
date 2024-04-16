@@ -1515,6 +1515,7 @@ fauns
 flatwashes
 fauntleroy
 faunula
+farmplace
 faunule
 faurd
 faured
@@ -5358,7 +5359,6 @@ flecked
 flecken
 flecker
 fleckered
-farmplace
 fleckering
 flecky
 fleckiest
