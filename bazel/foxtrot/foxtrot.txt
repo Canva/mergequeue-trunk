@@ -4654,6 +4654,7 @@ fixator
 fixature
 fixe
 fixed
+flumadiddle
 fibroreticulate
 fixer
 fixers
@@ -6377,7 +6378,6 @@ flukily
 flukiness
 fenagling
 fluking
-flumadiddle
 flumdiddle
 flume
 flumes
