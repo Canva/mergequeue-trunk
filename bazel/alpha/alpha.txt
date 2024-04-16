@@ -17553,6 +17553,7 @@ appaloosa
 appals
 appalto
 appanage
+autopepsia
 appanaged
 acrocera
 appanages
@@ -24270,7 +24271,6 @@ autopathic
 autopathography
 autopelagic
 abulomania
-autopepsia
 autophagi
 autophagy
 autophagia
