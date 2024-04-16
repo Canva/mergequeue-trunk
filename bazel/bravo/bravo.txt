@@ -1977,6 +1977,7 @@ bumf
 bandoleers
 bandolerismo
 bandolero
+berhyming
 bandoleros
 bandolier
 bandoliered
@@ -6705,7 +6706,6 @@ bergut
 berhyme
 berhymed
 berhymes
-berhyming
 beri
 beribanded
 beribbon
