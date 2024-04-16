@@ -5662,7 +5662,6 @@ enforcive
 enforcively
 enforest
 enfork
-enform
 elapinae
 enfort
 enforth
@@ -9753,6 +9752,7 @@ esonarthex
 ejaculatory
 esoneural
 esopgi
+enform
 esophagal
 esophagalgia
 esophageal
