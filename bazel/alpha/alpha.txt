@@ -7654,6 +7654,7 @@ alcine
 alcyon
 alcyonacean
 alcyonaria
+avifaunal
 alcyonarian
 alcyone
 alcyones
@@ -24776,7 +24777,6 @@ avie
 aview
 avifauna
 avifaunae
-avifaunal
 avifaunally
 andron
 armaments
