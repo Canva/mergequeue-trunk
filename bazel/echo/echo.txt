@@ -4604,7 +4604,6 @@ encephalomyelitis
 entrepreneurial
 encephalomyelopathy
 encephalomyocarditis
-eyeballing
 encephalonarcosis
 encephalopathy
 encephalopathia
@@ -13358,6 +13357,7 @@ expresser
 expresses
 expressibility
 expressible
+eyeballing
 expressibly
 expressio
 expression
