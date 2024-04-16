@@ -1307,6 +1307,7 @@ garbardine
 garbed
 garbell
 garbill
+groenendael
 gleamy
 garbing
 garble
@@ -9230,7 +9231,6 @@ grocerly
 grocers
 gedanken
 grockle
-groenendael
 groenlandicus
 grazeable
 groff
