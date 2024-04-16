@@ -6855,6 +6855,7 @@ airbus
 airbuses
 airbusses
 aircheck
+asyllabical
 airchecks
 aircoach
 aircoaches
@@ -21206,7 +21207,6 @@ asyla
 asylabia
 asilidae
 asyllabia
-asyllabical
 asylum
 asylums
 asilus
