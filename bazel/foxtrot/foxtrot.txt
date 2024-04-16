@@ -8354,6 +8354,7 @@ forleaving
 forleit
 futuristic
 forlese
+forst
 forlet
 frosts
 forletting
@@ -8647,7 +8648,6 @@ forspoke
 forspoken
 forspread
 fellatory
-forst
 fillebeg
 forstall
 forstand

@@ -8526,7 +8526,6 @@ diapophysis
 diaporesis
 diaporthe
 diapositive
-diapsid
 diapsida
 diapsidan
 diarchy
@@ -10181,6 +10180,7 @@ dino
 dinosaur
 dinosauria
 dinosauric
+diapsid
 dinothere
 dinotherian
 dinotherium
