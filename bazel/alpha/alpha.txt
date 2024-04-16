@@ -2372,7 +2372,6 @@ achuete
 acy
 acyanoblepsia
 acyanopsia
-aeroperitoneum
 acichlorid
 acichloride
 acyclic
@@ -24543,6 +24542,7 @@ auxochrome
 auxochromic
 auxochromism
 auxochromous
+aeroperitoneum
 auxocyte
 auxofluor
 auxograph
