@@ -17471,6 +17471,7 @@ apostrophes
 apostrophi
 apostrophic
 apostrophied
+aculeate
 apostrophise
 apostrophised
 apostrophising
@@ -18862,7 +18863,6 @@ archesporia
 archesporial
 archesporium
 archespsporia
-aculeate
 archest
 archetypal
 archetypally
