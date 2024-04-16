@@ -7590,6 +7590,7 @@ gradationally
 gradationately
 gradatively
 gradatory
+guaka
 graddan
 grade
 graded
@@ -9803,7 +9804,6 @@ guayules
 guajillo
 guajira
 guajiras
-guaka
 gualaca
 glooming
 guama
