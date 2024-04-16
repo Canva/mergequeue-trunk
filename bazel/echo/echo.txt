@@ -2184,7 +2184,6 @@ elboic
 elbow
 elbowchair
 elbowed
-elbower
 elbowy
 elbowing
 elbowpiece
@@ -3001,6 +3000,7 @@ eliquating
 eliquation
 eliquidate
 elisabeth
+elbower
 elysee
 elisha
 elishah

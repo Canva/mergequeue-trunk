@@ -16466,7 +16466,6 @@ antonomasy
 antonomasia
 antonomastic
 antonomastical
-amaga
 antonomastically
 antonovics
 antorbital
@@ -20217,6 +20216,7 @@ amphitropous
 arrestable
 arrestant
 arrestation
+amaga
 arrested
 arrestee
 arrestees
