@@ -2738,7 +2738,6 @@ festinance
 festinate
 foregoers
 friendships
-festinated
 festinating
 filemaking
 festination
@@ -10744,6 +10743,7 @@ fecche
 frusta
 frustrable
 frustraneous
+festinated
 frustrate
 frustrated
 frustrately
