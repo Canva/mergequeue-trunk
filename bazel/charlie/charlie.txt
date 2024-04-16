@@ -5259,6 +5259,7 @@ castled
 castlelike
 castlery
 circumambient
+causeuses
 castles
 castlet
 castleward
@@ -6213,7 +6214,6 @@ causers
 causes
 causeur
 causeuse
-causeuses
 causeway
 causewayed
 causewaying

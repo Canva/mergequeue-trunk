@@ -2631,7 +2631,6 @@ decompensation
 decompensations
 decompensatory
 decompile
-decompiler
 decomplex
 decomponent
 decomponible
@@ -3429,6 +3428,7 @@ defluvium
 disenthroning
 deflux
 defluxion
+decompiler
 defoam
 defoamed
 discordable
