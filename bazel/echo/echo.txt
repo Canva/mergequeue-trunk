@@ -4823,7 +4823,6 @@ encomendero
 euchologia
 encomy
 encomia
-encomiast
 encomiastic
 encomiastical
 encomiastically
@@ -9571,6 +9570,7 @@ electiveness
 escapeway
 enleaf
 escaping
+encomiast
 escapingly
 escapism
 esemplasy
