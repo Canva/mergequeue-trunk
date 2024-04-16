@@ -10943,7 +10943,6 @@ amortise
 amortised
 amortises
 amortising
-amortissement
 amortisseur
 amortizable
 amortization
@@ -12083,6 +12082,7 @@ anatomizer
 anatomizes
 anatomizing
 anatomopathologic
+amortissement
 anatopism
 anatosaurus
 antiaristocratical
