@@ -1419,7 +1419,6 @@ balearic
 balearica
 balebos
 baled
-baleen
 baleens
 bossism
 balefire
@@ -16028,6 +16027,7 @@ bronzewing
 bronzify
 bronzine
 bathyorographical
+baleen
 bronzing
 bleeding
 bronzite
