@@ -6371,7 +6371,6 @@ enseal
 ensealed
 ensealing
 extolment
-ensear
 emigating
 ensearch
 ensearcher
@@ -9701,6 +9700,7 @@ esebrias
 esemplastic
 elding
 eseptate
+ensear
 esere
 eserin
 eserine

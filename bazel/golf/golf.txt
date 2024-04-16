@@ -7629,6 +7629,7 @@ grads
 gradual
 gradualist
 gradualistic
+guillemet
 graduality
 geanticline
 gallantness
@@ -10204,7 +10205,6 @@ guily
 guyline
 guiling
 guillem
-guillemet
 gynecophore
 guillemot
 guillermo
