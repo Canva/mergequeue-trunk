@@ -12043,6 +12043,7 @@ choses
 chott
 chotts
 chou
+circumfuse
 chouan
 chouanize
 chouette
@@ -14272,7 +14273,6 @@ circumfluent
 circumfluous
 circumforaneous
 circumfulgent
-circumfuse
 circumfused
 circumfusile
 circumfusing
