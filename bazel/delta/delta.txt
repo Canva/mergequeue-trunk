@@ -1154,7 +1154,6 @@ dashwheel
 dasi
 dasya
 dasyatidae
-dasyatis
 dasylirion
 dasypaedal
 dasypaedes
@@ -16796,6 +16795,7 @@ drawnwork
 drawoff
 drawout
 drawplate
+dasyatis
 drawpoint
 drawrod
 draws
