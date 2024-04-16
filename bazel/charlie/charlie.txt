@@ -5857,6 +5857,7 @@ cathetus
 cathetusti
 cathexes
 cathexion
+chromites
 cathexis
 cathy
 cathin
@@ -12420,7 +12421,6 @@ chroming
 chromiole
 chromism
 chromite
-chromites
 chromitite
 chromium
 chromiums
