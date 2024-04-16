@@ -8950,7 +8950,6 @@ exclusionist
 enchytrae
 enantioblastic
 erecter
-erecters
 erectile
 erectility
 erecting
@@ -10851,6 +10850,7 @@ eugenia
 eugenic
 eugenically
 eugenicist
+erecters
 eugenicists
 eugenics
 eugenie
