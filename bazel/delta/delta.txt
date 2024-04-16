@@ -696,7 +696,6 @@ dampcourse
 damped
 dictionally
 dampen
-dampened
 dampener
 deaspiration
 dampeners
@@ -5512,6 +5511,7 @@ depaysee
 depancreatization
 disinfecting
 depancreatize
+dampened
 depardieu
 depark
 deparliament
