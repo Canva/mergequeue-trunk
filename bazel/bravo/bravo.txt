@@ -3938,6 +3938,7 @@ bazaars
 bazar
 bazars
 baze
+bees
 bazigar
 bazoo
 bazooka
@@ -5010,7 +5011,6 @@ beerocracy
 beerothite
 beerpull
 beers
-bees
 beest
 beestings
 bonytail
