@@ -13849,6 +13849,7 @@ cinephotomicrography
 cineplasty
 cofather
 cineplastics
+craniopathic
 canalized
 cineraceous
 cineradiography
@@ -28125,7 +28126,6 @@ craniometrically
 craniometrist
 craniopagus
 craniopathy
-craniopathic
 craniopharyngeal
 craniophore
 cranioplasty
