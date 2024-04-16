@@ -10270,7 +10270,6 @@ cougnar
 chicest
 chich
 chicha
-chicharra
 chichevache
 chichi
 chichicaste
@@ -30735,6 +30734,7 @@ culicid
 culicidae
 culicidal
 culicids
+chicharra
 culiciform
 culicifugal
 culicifuge
