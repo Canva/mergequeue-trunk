@@ -2604,7 +2604,6 @@ cannibally
 cannibals
 cannie
 cannier
-canniest
 cannikin
 cannily
 canniness
@@ -21803,6 +21802,7 @@ confederal
 confederalist
 confederate
 confederated
+canniest
 confederater
 confederates
 confederating
