@@ -2717,7 +2717,6 @@ decorative
 decoratively
 decorator
 decoratory
-decorators
 decore
 decorement
 decorist
@@ -13557,6 +13556,7 @@ dissimulators
 dissimule
 dissimuler
 dyssynergy
+decorators
 dyssynergia
 dissinew
 dissipable
