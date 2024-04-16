@@ -4338,6 +4338,7 @@ demagnetize
 demilancer
 demagnetized
 demagnetizes
+diatoms
 demagnetizing
 demagnification
 demagog
@@ -8657,7 +8658,6 @@ diatomine
 diatomist
 diatomite
 diatomous
-diatoms
 diatonic
 diatonical
 diatonicism
