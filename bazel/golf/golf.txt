@@ -1595,6 +1595,7 @@ gasifying
 gasiform
 gasket
 guttiest
+gearman
 gaskets
 gaskin
 gasking
@@ -2205,7 +2206,6 @@ gear
 gearcase
 gearing
 gearings
-gearman
 gears
 gasterotricha
 gearset
