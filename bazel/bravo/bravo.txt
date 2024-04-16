@@ -774,7 +774,6 @@ baddock
 bade
 badenite
 badge
-belling
 badged
 bituminiferous
 badgeless
@@ -10824,6 +10823,7 @@ blindfishes
 bine
 blindfold
 blindfolded
+belling
 blindfoldedly
 blindfoldedness
 blindfolder
