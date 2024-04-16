@@ -785,7 +785,6 @@ galvanism
 galvanist
 goosewinged
 galvanization
-galvanized
 galvanizer
 guaycuru
 galvanizers
@@ -3171,6 +3170,7 @@ gabbart
 gangrels
 geonegative
 geonic
+galvanized
 geonyctinastic
 geonyctitropic
 geonim
