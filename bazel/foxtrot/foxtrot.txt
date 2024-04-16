@@ -3315,6 +3315,7 @@ fideism
 fideisms
 fideist
 folklorist
+fulciment
 fideistic
 fideists
 fidejussion
@@ -10851,7 +10852,6 @@ fudgy
 fudging
 fulah
 fulani
-fulciment
 fulcra
 fulcraceous
 fulcral
