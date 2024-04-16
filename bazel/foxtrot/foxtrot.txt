@@ -1649,7 +1649,6 @@ fasciately
 fdubs
 fe
 feaberry
-feak
 feaked
 feaking
 feal
@@ -6876,6 +6875,7 @@ folate
 folates
 folcgemot
 founding
+feak
 fold
 feudally
 fevers

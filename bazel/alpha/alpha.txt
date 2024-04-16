@@ -9107,7 +9107,6 @@ almemar
 almemars
 almemor
 almendro
-almendron
 almery
 almerian
 almeries
@@ -20744,6 +20743,7 @@ artistical
 artistically
 artistry
 artistries
+almendron
 artists
 artize
 artless
