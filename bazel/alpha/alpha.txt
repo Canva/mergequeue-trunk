@@ -283,7 +283,6 @@ abdominovesical
 abduce
 abduced
 abducens
-abducent
 abducentes
 abduces
 abducing
@@ -806,6 +805,7 @@ abraum
 abraxas
 abrazite
 abrazitic
+abducent
 abrazo
 anglophily
 abrazos
