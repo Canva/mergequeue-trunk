@@ -5649,7 +5649,6 @@ afterfriend
 afterfruits
 afterfuture
 aftergame
-aftergas
 afterglide
 afterglow
 alloclasite
@@ -22492,6 +22491,7 @@ atemporal
 aten
 atenism
 atenist
+aftergas
 aterian
 ates
 atestine

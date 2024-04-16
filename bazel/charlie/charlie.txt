@@ -9379,6 +9379,7 @@ chavicine
 chavicol
 cowedly
 chaw
+compassed
 chawan
 chastisement
 chawbacon
@@ -20452,7 +20453,6 @@ comparts
 compass
 compassability
 compassable
-compassed
 compasser
 compasses
 compassing
