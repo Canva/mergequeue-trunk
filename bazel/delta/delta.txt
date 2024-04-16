@@ -12733,6 +12733,7 @@ disobediently
 disfurnishment
 disobey
 disobeyal
+dodecasyllable
 disobeyed
 disobeyer
 disobeyers
@@ -14738,7 +14739,6 @@ dodecarch
 dodecarchy
 dodecasemic
 dodecasyllabic
-dodecasyllable
 disavowedly
 dodecastylar
 dodecastyle

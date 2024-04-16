@@ -12083,7 +12083,6 @@ bolelia
 bolelike
 bolero
 boleros
-boles
 boletaceae
 boletaceous
 babble
@@ -13018,6 +13017,7 @@ boringly
 boringness
 borings
 borinqueno
+boles
 boris
 borish
 borism
