@@ -5796,7 +5796,6 @@ depositary
 distome
 depositaries
 depositation
-deposited
 depositee
 deedbote
 depositing
@@ -6395,6 +6394,7 @@ desacralize
 drugshop
 desagrement
 desalinate
+deposited
 desalinated
 desalinates
 desalinating
