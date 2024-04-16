@@ -2648,7 +2648,6 @@ acopyrin
 acopyrine
 acopon
 acor
-acorea
 acoria
 acorn
 acorned
@@ -20746,6 +20745,7 @@ artlike
 artmobile
 artocarpaceae
 artocarpad
+acorea
 artocarpeous
 artocarpous
 artocarpus
