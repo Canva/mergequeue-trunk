@@ -8007,7 +8007,6 @@ granjeno
 grank
 granma
 grannam
-granny
 grannybush
 grannie
 grannies
@@ -10732,6 +10731,7 @@ glouting
 gutlike
 gutling
 gutnic
+granny
 gutnish
 guts
 gutser
