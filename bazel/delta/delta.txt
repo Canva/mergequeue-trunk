@@ -12021,7 +12021,6 @@ disestablishes
 disestablishing
 disestablishmentarian
 disestablishmentarianism
-disestablismentarian
 disestablismentarianism
 disesteemed
 dingwall
@@ -13946,6 +13945,7 @@ disturbance
 doggoned
 disturbances
 disturbant
+disestablismentarian
 disturbation
 dellies
 devisals

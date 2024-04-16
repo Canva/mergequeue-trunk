@@ -829,6 +829,7 @@ ectypography
 ectiris
 ectoblast
 exceeds
+epilogues
 ectoblastic
 ectobronchium
 ectocardia
@@ -7990,7 +7991,6 @@ epilogizing
 epilogue
 exorciser
 epilogued
-epilogues
 epiloguing
 epiloguize
 epiloia
