@@ -7049,7 +7049,6 @@ fondest
 fonding
 fondle
 flirtigig
-fondled
 fondler
 fondlers
 fondles
@@ -7869,6 +7868,7 @@ fordable
 forepaws
 forepeak
 forepeaks
+fondled
 foreperiod
 foreplace
 foreplay
