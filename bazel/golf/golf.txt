@@ -7692,7 +7692,6 @@ graybeards
 graycoat
 grayed
 grayer
-grayest
 grayfish
 grayfishes
 grayfly
@@ -10266,6 +10265,7 @@ guitarfish
 guitarfishes
 guitarist
 ganching
+grayest
 ghazies
 guitarlike
 gladdener
