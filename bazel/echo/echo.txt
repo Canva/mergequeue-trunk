@@ -2756,7 +2756,6 @@ elegious
 elegise
 elegised
 elegises
-elegising
 extroverted
 elegist
 elegists
@@ -11129,6 +11128,7 @@ eupittonic
 euplastic
 extramural
 euplectella
+elegising
 euplexoptera
 euplocomi
 euploeinae
