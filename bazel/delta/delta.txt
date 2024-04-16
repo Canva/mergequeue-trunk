@@ -11691,7 +11691,6 @@ discreditableness
 donnie
 discreditably
 discredited
-discredits
 discreet
 discreeter
 discreetest
@@ -16349,6 +16348,7 @@ downwash
 dysanagnosia
 downweed
 downweight
+discredits
 downweighted
 downwind
 dogma
