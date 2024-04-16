@@ -2934,7 +2934,6 @@ acromial
 acromicria
 absis
 acromimia
-acromioclavicular
 acromiocoracoid
 acromiodeltoid
 acromyodi
@@ -24568,6 +24567,7 @@ availabile
 availability
 availabilities
 available
+acromioclavicular
 availableness
 availably
 availed
