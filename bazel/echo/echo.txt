@@ -3250,7 +3250,6 @@ elutions
 elutor
 epirotulian
 elutriate
-elutriated
 elutriating
 elutriation
 elutriator
@@ -12206,6 +12205,7 @@ excrescence
 excrescences
 excrescency
 excrescencies
+elutriated
 excrescent
 excrescential
 excrescently
