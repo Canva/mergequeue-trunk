@@ -7875,7 +7875,6 @@ dextrocerebral
 dextrocular
 dextrocularity
 dextrogyrate
-dextrogyration
 dextrogyratory
 dextrogyre
 dextrogyrous
@@ -18460,6 +18459,7 @@ durgan
 durgen
 durham
 durian
+dextrogyration
 durians
 duricrust
 duridine
