@@ -10578,6 +10578,7 @@ frowningly
 frowns
 frows
 frowsy
+fulmarus
 frowsiest
 frowsily
 frowsiness
@@ -10958,7 +10959,6 @@ fulltime
 fullwords
 fulmar
 fulmars
-fulmarus
 fulmen
 fulmicotton
 fulmina
