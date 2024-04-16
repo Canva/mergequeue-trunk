@@ -15460,6 +15460,7 @@ clarina
 clarinda
 clarine
 clarinet
+coadvice
 clarinetist
 clarinetists
 clarinets
@@ -17041,7 +17042,6 @@ coadventured
 coadventurer
 coadventuress
 coadventuring
-coadvice
 coaevals
 coaffirmation
 coafforest
