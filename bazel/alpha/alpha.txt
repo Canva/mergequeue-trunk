@@ -16976,7 +16976,6 @@ apicoectomy
 apicolysis
 andorra
 apicula
-apicular
 apiculate
 apiculated
 apiculi
@@ -20984,6 +20983,7 @@ asclepiad
 asclepiadaceae
 asclepiadaceous
 asclepiadae
+apicular
 asclepiadean
 asclepiadeous
 asclepiadic
