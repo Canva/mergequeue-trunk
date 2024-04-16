@@ -1615,6 +1615,7 @@ egocentricity
 egocentricities
 egocentrism
 egocentristic
+endopleuritic
 egocerus
 embryonically
 egohood
@@ -5290,7 +5291,6 @@ endopleura
 endopleural
 endopleurite
 electrometry
-endopleuritic
 endopodite
 endopoditic
 endopods
