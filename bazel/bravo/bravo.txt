@@ -4097,7 +4097,6 @@ beamless
 beamlet
 beamman
 beamroom
-beams
 beamsman
 beamster
 beamwork
@@ -8935,6 +8934,7 @@ bifanged
 biochemistries
 biochemists
 bedcovers
+beams
 bandoras
 biochore
 biocycles
