@@ -6955,6 +6955,7 @@ beefheaded
 besetters
 besetting
 besew
+beworship
 beshade
 beshadow
 beshadowed
@@ -7670,7 +7671,6 @@ briquetting
 beworried
 beworries
 beworrying
-beworship
 bewpers
 bewray
 bewrayed
