@@ -13971,6 +13971,7 @@ brachydactylous
 brachydiagonal
 brachydodrome
 brachydodromous
+brails
 brachydomal
 brachydomatic
 bulgarian
@@ -14282,7 +14283,6 @@ brailles
 braillewriter
 brailling
 braillist
-brails
 brain
 brainache
 braincap
