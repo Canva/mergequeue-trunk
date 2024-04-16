@@ -456,7 +456,6 @@ dermatographic
 dairyman
 dairymen
 dairywoman
-dairywomen
 dayroom
 dayrooms
 dairous
@@ -3257,6 +3256,7 @@ deferring
 decollated
 deferrization
 dismissible
+dairywomen
 deferrize
 deferrized
 deferrizing
