@@ -2575,6 +2575,7 @@ gems
 genouillere
 gigi
 gemsbok
+gunbarrel
 gemsboks
 gemsbuck
 gemsbucks
@@ -10454,7 +10455,6 @@ gunate
 gunated
 gunating
 gunation
-gunbarrel
 gunbuilder
 guncotton
 gunda
