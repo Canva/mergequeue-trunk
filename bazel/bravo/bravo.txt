@@ -5921,6 +5921,7 @@ barbecueing
 belowground
 belowstairs
 balantidic
+blotter
 belozenged
 bels
 belshazzar
@@ -11164,7 +11165,6 @@ blote
 blotless
 blots
 blotted
-blotter
 blotters
 blottesque
 blotty
