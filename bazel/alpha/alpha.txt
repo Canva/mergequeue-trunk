@@ -4046,7 +4046,6 @@ adjustation
 adjusted
 adjusters
 adjusting
-adjustive
 adjustment
 adjustmental
 adjustments
@@ -4770,6 +4769,7 @@ aefaldness
 aefauld
 aegagri
 aegagropila
+adjustive
 aegagropilae
 aegagropile
 aegagropiles
