@@ -5932,6 +5932,7 @@ agatized
 agatizes
 agatizing
 agatoid
+archrobber
 agau
 agave
 allez
@@ -19121,7 +19122,6 @@ archreactionary
 archrebel
 airfoils
 archregent
-archrobber
 archrogue
 archruler
 archsacrificator
