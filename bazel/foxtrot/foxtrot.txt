@@ -1100,7 +1100,6 @@ farseeingness
 friedelite
 farseer
 farset
-farsi
 farsight
 farsighted
 farsightedness
@@ -10444,6 +10443,7 @@ fease
 frontoauricular
 frontoethmoid
 fatimid
+farsi
 frontogenesis
 furlan
 flagitiously
