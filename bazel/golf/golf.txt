@@ -2641,7 +2641,6 @@ generable
 geisotherm
 generableness
 general
-generalate
 generalcy
 generalcies
 generale
@@ -3522,6 +3521,7 @@ gerrymanderer
 gerrymandering
 grandsir
 gerrymanders
+generalate
 gers
 gersdorffite
 gershon
