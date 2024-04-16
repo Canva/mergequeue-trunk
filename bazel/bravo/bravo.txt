@@ -1067,7 +1067,6 @@ bodyguard
 bailees
 bailey
 baileys
-bailer
 bailers
 baylet
 bailiary
@@ -16338,6 +16337,7 @@ bruno
 brunonia
 brunoniaceae
 brunonian
+bailer
 bianchi
 brunonism
 brunswick
