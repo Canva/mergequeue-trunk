@@ -9774,7 +9774,6 @@ amania
 amanist
 amanita
 amanitas
-amanitin
 amanitine
 amanitins
 amanitopsis
@@ -24618,6 +24617,7 @@ avaunt
 avdp
 ave
 avellan
+amanitin
 avellane
 avellano
 avelonge

@@ -9248,7 +9248,6 @@ fishpot
 fragileness
 fragility
 fragilities
-fragment
 farcelike
 fragmental
 fumously
@@ -11483,6 +11482,7 @@ furrings
 feudist
 furrow
 flaccidly
+fragment
 furrowed
 furrower
 furrowers
