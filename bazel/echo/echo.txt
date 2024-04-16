@@ -1093,7 +1093,6 @@ equipper
 edibility
 edible
 edibleness
-edibles
 edict
 edictal
 edictally
@@ -3724,6 +3723,7 @@ expositionary
 etagre
 enfranchise
 embryulcuses
+edibles
 epididymitis
 embrocado
 exulting

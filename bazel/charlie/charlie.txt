@@ -27181,6 +27181,7 @@ countertheme
 counterthought
 counterthreat
 counterthwarting
+cryopathy
 countertierce
 countertime
 countertype
@@ -29138,7 +29139,6 @@ cryological
 cryometry
 cryonic
 cryonics
-cryopathy
 cryophile
 cryophilic
 cryophyllite
