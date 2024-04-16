@@ -2283,6 +2283,7 @@ electret
 electrets
 electric
 electrical
+epionynychia
 electricalize
 electrically
 electricalness
@@ -7132,7 +7133,6 @@ entrustment
 entrusts
 entte
 entune
-epionynychia
 entwine
 elohistic
 entwined

@@ -7196,7 +7196,6 @@ determinantal
 dissociating
 determinants
 decidual
-determinate
 determinated
 determinately
 determinateness
@@ -7355,6 +7354,7 @@ detruncated
 detruncating
 detruncation
 damneder
+determinate
 demonologies
 daintihood
 detrusion
