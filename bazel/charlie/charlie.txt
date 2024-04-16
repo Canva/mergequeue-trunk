@@ -9042,7 +9042,6 @@ charlock
 charlocks
 charlotte
 charlottesville
-charm
 charmed
 charmedly
 charmel
@@ -16267,6 +16266,7 @@ clypeastridea
 clypeastrina
 clypeastroid
 clypeastroida
+charm
 clypeastroidea
 clypeate
 caraco
