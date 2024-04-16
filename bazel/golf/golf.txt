@@ -1094,6 +1094,7 @@ ganger
 gangerel
 gangers
 gadaea
+gingerade
 ganges
 gangflower
 ganging
@@ -4432,7 +4433,6 @@ gingelly
 gingellies
 guerdoned
 ginger
-gingerade
 gingerberry
 gingerbready
 glens
