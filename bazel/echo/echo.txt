@@ -962,7 +962,6 @@ ecttypal
 ecu
 ecuador
 ecuadoran
-ecuadorian
 ecuelle
 ecuelling
 ecumenacy
@@ -1101,6 +1100,7 @@ edicts
 edictum
 edicule
 ediface
+ecuadorian
 edify
 echolalia
 edificate

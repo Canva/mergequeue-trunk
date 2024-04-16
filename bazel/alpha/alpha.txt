@@ -6105,6 +6105,7 @@ aggregately
 aggregateness
 aggregates
 aggregating
+ammotherapy
 aggregation
 aggregational
 aggregations
@@ -10794,7 +10795,6 @@ ammophilous
 ammoresinol
 ammoreslinol
 ammos
-ammotherapy
 ammu
 ammunition
 amnemonic
