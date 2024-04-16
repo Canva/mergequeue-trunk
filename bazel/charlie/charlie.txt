@@ -4087,7 +4087,6 @@ careen
 careenage
 careener
 careeners
-careens
 career
 careered
 careerers
@@ -30536,6 +30535,7 @@ cubometatarsal
 cubonavicular
 cubs
 cubti
+careens
 cuca
 cucaracha
 cuchan
