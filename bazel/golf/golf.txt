@@ -3934,6 +3934,7 @@ giddily
 goldsmithery
 giddypate
 gideon
+glyceroxide
 gideonite
 gidgea
 germiparous
@@ -5435,7 +5436,6 @@ glycerols
 glycerophosphate
 glycerophosphoric
 glycerose
-glyceroxide
 glycic
 glycid
 glycide
