@@ -7620,6 +7620,7 @@ foredated
 folliful
 foredating
 foredeck
+forfeited
 foredecks
 foredeclare
 foredeem
@@ -8204,7 +8205,6 @@ forfault
 forfaulture
 forfeit
 forfeitableness
-forfeited
 forfeiter
 forfeiting
 forfeits
