@@ -14789,7 +14789,6 @@ antibug
 antiburgher
 antibusing
 antic
-antica
 anticachectic
 antical
 anticalcimine
@@ -16288,6 +16287,7 @@ antisupernaturalistic
 antisurplician
 antitabetic
 antitabloid
+antica
 antitangent
 antitank
 antitarnish

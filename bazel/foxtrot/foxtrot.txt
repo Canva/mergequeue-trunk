@@ -994,6 +994,7 @@ fascinates
 fargite
 fargood
 farhand
+forsakenly
 farhands
 farinaceous
 figwort
@@ -8617,7 +8618,6 @@ forsake
 fleaseed
 felty
 forsaken
-forsakenly
 forsakenness
 forsaker
 forsakes
