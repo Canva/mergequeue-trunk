@@ -8757,6 +8757,7 @@ expander
 equipluve
 embarrasses
 equipment
+eternalising
 equipments
 equipoise
 equipoised
@@ -10251,7 +10252,6 @@ eterminable
 eternal
 eternalise
 eternalised
-eternalising
 eternalism
 eternalist
 eternality
