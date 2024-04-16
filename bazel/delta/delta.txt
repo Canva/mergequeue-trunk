@@ -4687,7 +4687,6 @@ demitoilet
 demitone
 demitrain
 demitranslucence
-demits
 demitted
 denticulately
 dissective
@@ -10564,6 +10563,7 @@ diplomatique
 diplomatism
 diplomatist
 diplomatists
+demits
 diplomatology
 downstrokes
 diplomats

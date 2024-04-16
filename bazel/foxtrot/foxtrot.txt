@@ -3737,6 +3737,7 @@ filla
 foreleech
 fillagreed
 filled
+flatling
 fillemot
 frownless
 falsifier
@@ -5134,7 +5135,6 @@ flatlands
 flatlets
 forequarter
 flatly
-flatling
 flatlings
 flatlong
 flatman
