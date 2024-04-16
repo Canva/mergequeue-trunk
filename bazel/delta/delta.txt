@@ -5881,7 +5881,6 @@ dunked
 depressed
 depresses
 depressibility
-defacer
 depressibilities
 depressible
 depressing
@@ -16859,6 +16858,7 @@ dreamlessly
 dreamlet
 dreamlike
 dreamlikeness
+defacer
 dreamlit
 dreamlore
 dreams
