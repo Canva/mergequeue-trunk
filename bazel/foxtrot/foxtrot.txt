@@ -181,7 +181,6 @@ factious
 flirtatious
 factiously
 factiousness
-factish
 factitial
 factitiously
 factitive
@@ -8495,6 +8494,7 @@ formylating
 formylation
 formyls
 formin
+factish
 fleyedly
 fourbagger
 forminate
