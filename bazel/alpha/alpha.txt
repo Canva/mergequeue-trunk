@@ -10841,7 +10841,6 @@ amniota
 adda
 amniote
 amniotes
-amniotic
 amniotin
 amniotitis
 alkylamino
@@ -20150,6 +20149,7 @@ arquerite
 arquifoux
 arr
 antitheologian
+amniotic
 arracach
 arrace
 arrach
