@@ -2639,6 +2639,7 @@ fincas
 ferrugo
 futilize
 ferrule
+fickly
 ferruled
 ferruler
 ferrules
@@ -3217,7 +3218,6 @@ fickler
 ficklest
 ficklety
 ficklewise
-fickly
 fico
 ficoes
 ficoid
