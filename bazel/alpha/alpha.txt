@@ -11216,7 +11216,6 @@ amphistyly
 amphistylic
 amphistoma
 amphistomatic
-amphistome
 amphistomoid
 amphistomous
 amphistomum
@@ -19436,6 +19435,7 @@ argemony
 argenol
 argent
 argental
+amphistome
 agammaglobulinemia
 argentamid
 argentamide
