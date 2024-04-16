@@ -942,7 +942,6 @@ faraway
 farawayness
 flauntiness
 farce
-farced
 farcemeat
 farcer
 farces
@@ -4729,6 +4728,7 @@ flabella
 flabellate
 forefelt
 flabellifoliate
+farced
 flabellum
 flabile
 flabra

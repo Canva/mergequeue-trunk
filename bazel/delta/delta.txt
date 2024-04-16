@@ -9784,6 +9784,7 @@ darndests
 dilutors
 diluvy
 diluvia
+durably
 diluvial
 diluvialist
 diluvian
@@ -18406,7 +18407,6 @@ durable
 disinterestedness
 durableness
 durables
-durably
 duracine
 durain
 dandiacal
