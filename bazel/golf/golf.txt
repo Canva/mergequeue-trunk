@@ -4604,7 +4604,6 @@ gypsiferous
 galtonian
 gipsyfy
 gypsyfy
-gipsyhead
 gypsyhead
 gipsyhood
 gypsyhood
@@ -9604,6 +9603,7 @@ grudgefulness
 grudgeless
 grudgeons
 grudger
+gipsyhead
 gavelkind
 grudgery
 grudges
