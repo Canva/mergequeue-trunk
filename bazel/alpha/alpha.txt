@@ -16263,7 +16263,6 @@ antisplasher
 antisplenetic
 antispreader
 antispreading
-analecta
 antisquama
 antisquatting
 antistadholder
@@ -19572,6 +19571,7 @@ argonon
 argons
 argos
 argosy
+analecta
 argosies
 argosine
 argot
