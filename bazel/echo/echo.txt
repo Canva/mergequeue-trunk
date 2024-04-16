@@ -9839,6 +9839,7 @@ espials
 espichellite
 espieglerie
 espiegleries
+eutaxies
 espies
 espigle
 espying
@@ -10838,7 +10839,6 @@ euemerism
 euergetes
 euflavine
 euge
-eutaxies
 eugenesic
 eugenetic
 eugeny

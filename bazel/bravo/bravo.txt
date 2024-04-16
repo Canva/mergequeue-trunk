@@ -3472,6 +3472,7 @@ bastinaded
 bastinades
 baroi
 bastinading
+bieennia
 burbots
 bastinado
 breadline
@@ -8196,7 +8197,6 @@ bye
 bieberite
 biedermeier
 byee
-bieennia
 byegaein
 byelaw
 byelaws
