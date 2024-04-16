@@ -3656,6 +3656,7 @@ embreastment
 embreathe
 embreathement
 embrectomy
+establishing
 embrica
 embryectomy
 embryectomies
@@ -9970,7 +9971,6 @@ established
 establisher
 expire
 establishes
-establishing
 establishment
 establishmentarian
 establishmentarianism
