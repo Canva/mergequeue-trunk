@@ -935,7 +935,6 @@ farasula
 faraway
 farawayness
 flauntiness
-farce
 farcemeat
 farcer
 farces
@@ -5053,6 +5052,7 @@ flashed
 fibrils
 folden
 flashers
+farce
 ferter
 fishiest
 flashet
