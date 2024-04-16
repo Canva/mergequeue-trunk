@@ -2411,6 +2411,7 @@ acidifier
 acidifiers
 acidifies
 acidifying
+alveolosubnasal
 acidyl
 acidimetry
 acidimetric
@@ -9687,7 +9688,6 @@ alveololabial
 albacea
 alveololingual
 alveolonasal
-alveolosubnasal
 anxiousness
 alveolotomy
 alveolus
