@@ -1931,6 +1931,7 @@ eirenarch
 eirene
 excusive
 eirenic
+endothrix
 eyrer
 eyres
 enwisen
@@ -5415,7 +5416,6 @@ endothermous
 endothia
 endothoracic
 endothorax
-endothrix
 envergure
 endotys
 endotoxic
