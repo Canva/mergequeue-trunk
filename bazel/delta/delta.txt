@@ -2040,7 +2040,6 @@ decandrous
 decane
 decanery
 decanes
-decangular
 decani
 decanically
 decannulation
@@ -13277,6 +13276,7 @@ disray
 disrange
 disrank
 dysraphia
+decangular
 disrated
 disrates
 disrealize
