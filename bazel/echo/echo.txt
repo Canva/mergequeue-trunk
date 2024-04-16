@@ -3257,7 +3257,6 @@ elutriation
 elutriator
 eluvia
 excursory
-eluvial
 eluviate
 eluviated
 elongative
@@ -11680,6 +11679,7 @@ evite
 evited
 evites
 eviting
+eluvial
 evittate
 evocable
 evocated
