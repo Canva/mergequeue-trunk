@@ -1079,6 +1079,7 @@ dart
 dewbeam
 dovey
 dartagnan
+devising
 dartars
 darted
 dendrologists
@@ -7641,7 +7642,6 @@ devisee
 devisees
 deviser
 devisers
-devising
 devisings
 devisor
 devisors
