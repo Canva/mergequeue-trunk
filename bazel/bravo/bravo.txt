@@ -1073,6 +1073,7 @@ bailiaries
 blastopore
 beauclerk
 bailie
+brevirostrines
 bailiery
 bailieries
 bailies
@@ -15064,7 +15065,6 @@ breviradiate
 brevirostral
 brevirostrate
 balsamize
-brevirostrines
 brevis
 brevit
 brevity

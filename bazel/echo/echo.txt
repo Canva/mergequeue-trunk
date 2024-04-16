@@ -3306,7 +3306,6 @@ emanatistic
 emanativ
 emanatively
 emanator
-eulogisation
 emanatory
 emanators
 emancipate
@@ -4264,6 +4263,7 @@ empress
 empresse
 empresses
 empressment
+eulogisation
 emprime
 emprint
 emprise
