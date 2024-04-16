@@ -7054,7 +7054,6 @@ gooneys
 grandpappy
 goonie
 goonies
-goons
 goop
 goopy
 goops
@@ -7663,6 +7662,7 @@ gastroenteroptosis
 graecian
 graecism
 graecize
+goons
 graecized
 graecizes
 glazily
