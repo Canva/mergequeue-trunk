@@ -11494,7 +11494,6 @@ evenglome
 evenglow
 ethnarch
 evenhand
-evenhanded
 evenhandedly
 evenhandedness
 evenhead
@@ -11814,6 +11813,7 @@ exallotriote
 exalt
 exaltate
 empties
+evenhanded
 exaltation
 endoconidium
 exaltative
