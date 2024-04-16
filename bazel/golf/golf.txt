@@ -557,7 +557,6 @@ gallberries
 gallbladder
 gallbladders
 gaudish
-gardenias
 gallbush
 gasps
 galleass
@@ -5927,6 +5926,7 @@ glottalize
 gymnurinae
 glottalized
 glottalizing
+gardenias
 glottic
 glottid
 glottidean
