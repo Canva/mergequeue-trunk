@@ -25079,7 +25079,6 @@ corer
 corers
 cores
 coresidence
-coresidual
 coresign
 coresonant
 coresort
@@ -27526,6 +27525,7 @@ covering
 coverings
 coverless
 coverlet
+coresidual
 coverlets
 coverlid
 coverlids
