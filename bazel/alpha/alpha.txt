@@ -13474,7 +13474,6 @@ annalia
 asherahs
 annaline
 annalism
-annalist
 annalistic
 annalistically
 annalists
@@ -18542,6 +18541,7 @@ arbitrative
 arbitrator
 arbitrators
 arbitratorship
+annalist
 arbitratrix
 arbitre
 arbitrement
