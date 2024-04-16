@@ -2113,6 +2113,7 @@ fellmongering
 fellnesses
 felloe
 felloes
+foreward
 fermentatory
 fellow
 fellowcraft
@@ -8154,7 +8155,6 @@ foursome
 forevouch
 forevouched
 forevow
-foreward
 forewarm
 forewarmer
 forewarn
