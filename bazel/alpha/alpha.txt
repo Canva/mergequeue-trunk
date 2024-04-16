@@ -2574,7 +2574,6 @@ acmispon
 acmite
 acne
 acned
-acneiform
 acnemia
 acnes
 acnida
@@ -9262,6 +9261,7 @@ alonzo
 aloof
 aloofly
 aloose
+acneiform
 alop
 alopathic
 alopecia
