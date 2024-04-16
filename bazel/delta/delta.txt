@@ -11158,7 +11158,6 @@ disbind
 disblame
 disbloom
 disboard
-disbody
 disbodied
 disbogue
 disboscation
@@ -15790,6 +15789,7 @@ dorsolateral
 dorsolum
 dorsolumbar
 dorsomedial
+disbody
 dorsomedian
 dorsomesal
 dorsonuchal

@@ -4516,6 +4516,7 @@ ginnet
 ginny
 ginnier
 ginning
+goslet
 ginnings
 ginnle
 gynobase
@@ -7248,7 +7249,6 @@ goshdarn
 goshen
 gatten
 goslarite
-goslet
 goslings
 gosmore
 gospel
