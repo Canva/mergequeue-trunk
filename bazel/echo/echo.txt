@@ -9185,6 +9185,7 @@ erythematous
 erythemic
 euboic
 erythorbate
+euchrome
 eutheria
 erythraea
 erythraean
@@ -10748,7 +10749,6 @@ euchroic
 euchroite
 euchromatic
 euchromatin
-euchrome
 euchromosome
 eucyclic
 ethanols

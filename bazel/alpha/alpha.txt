@@ -15246,6 +15246,7 @@ antiferromagnetic
 antiferromagnetism
 antifertility
 antifertilizer
+almucantar
 alveolation
 anakinesis
 antifeudal
@@ -17587,7 +17588,6 @@ apparelment
 apparels
 apparence
 apparency
-almucantar
 apparens
 apparent
 apparentation
