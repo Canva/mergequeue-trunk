@@ -600,6 +600,7 @@ damascenes
 damascenine
 damascening
 damascus
+disshroud
 damask
 damasked
 damaskeen
@@ -13506,7 +13507,6 @@ dissheathe
 dissheathed
 disship
 disshiver
-disshroud
 dissidence
 dissidently
 dissidents
