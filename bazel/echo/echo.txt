@@ -5950,7 +5950,6 @@ enhypostatize
 eudalene
 enhorror
 enhort
-ectozoic
 enhuile
 enhunger
 enhungered
@@ -6807,6 +6806,7 @@ enthronements
 enthrones
 enthrong
 epopoeias
+ectozoic
 enthroning
 enthronise
 enthronised

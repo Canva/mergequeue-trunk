@@ -1724,7 +1724,6 @@ gastrelcosis
 gastric
 gastricism
 gastrilegous
-gastriloquy
 glittering
 grognard
 gastriloquism
@@ -9941,6 +9940,7 @@ guarish
 guarneri
 goldenest
 guarnieri
+gastriloquy
 guarrau
 guars
 guaruan
