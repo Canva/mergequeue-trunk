@@ -6276,7 +6276,6 @@ fluey
 fidawi
 flueless
 fluellen
-fluellin
 fluellite
 fellowed
 flueman
@@ -8708,6 +8707,7 @@ forthwith
 forty
 furcellaria
 fortier
+fluellin
 forties
 fortieth
 fortieths
