@@ -9011,7 +9011,6 @@ dictyonema
 dictyonina
 dictyonine
 dictions
-dictyophora
 dictyopteran
 dictyopteris
 dictyosiphon
@@ -11901,6 +11900,7 @@ disenabled
 deferable
 darkey
 disenablement
+dictyophora
 disenabling
 disenact
 disenamor
