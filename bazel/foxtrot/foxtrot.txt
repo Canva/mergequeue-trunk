@@ -2634,6 +2634,7 @@ ferruled
 ferruler
 ferrules
 ferrum
+flavous
 ferruminate
 ferruminating
 ferrumination
@@ -7575,7 +7576,6 @@ forecited
 foreclaw
 foreclosable
 foreclose
-flavous
 foreclosed
 foreclosing
 foreclosure
