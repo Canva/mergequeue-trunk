@@ -3888,6 +3888,7 @@ emes
 emesa
 emeses
 emesidae
+epidermoid
 emesis
 emetia
 emetic
@@ -7800,7 +7801,6 @@ epidermically
 epidermidalization
 epidermis
 epidermization
-epidermoid
 epidermolysis
 epidermomycosis
 epidermophyton
