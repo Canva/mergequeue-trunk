@@ -2835,7 +2835,6 @@ baroni
 barony
 bassets
 baronial
-baronies
 baronize
 baronized
 baronnes
@@ -4647,6 +4646,7 @@ bedecks
 bedecorate
 bedeen
 bedegar
+baronies
 bedeguar
 bedehouse
 bedehouses
