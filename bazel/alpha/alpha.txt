@@ -17632,7 +17632,6 @@ appeasing
 appeasingly
 affirmly
 appeasive
-appel
 appellability
 appellable
 appellancy
@@ -21920,6 +21919,7 @@ assumable
 antimetabolite
 assume
 assumed
+appel
 assumedly
 assument
 assumer

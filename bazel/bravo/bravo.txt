@@ -1132,7 +1132,6 @@ bursattee
 bairnie
 bairnish
 bairnishness
-bairnly
 bairnlier
 bairnliest
 bram
@@ -16672,6 +16671,7 @@ bucktails
 buckthorn
 bucktooth
 bucktoothed
+bairnly
 ballooning
 buckwagon
 buckwash
