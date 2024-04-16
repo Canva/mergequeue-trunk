@@ -4920,6 +4920,7 @@ giveaway
 giveaways
 givey
 given
+goura
 giver
 givers
 gyves
@@ -7388,7 +7389,6 @@ goup
 galvanize
 goupin
 gour
-goura
 granulomatous
 gourami
 gouramis
