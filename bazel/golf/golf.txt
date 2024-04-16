@@ -598,6 +598,7 @@ gallerylike
 grovelings
 gallet
 galleta
+garbling
 galletas
 galleting
 gallfly
@@ -1320,7 +1321,6 @@ garbler
 garblers
 garbles
 garbline
-garbling
 garblings
 garbo
 garboard
