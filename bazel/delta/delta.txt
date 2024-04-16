@@ -3800,6 +3800,7 @@ deidesheimer
 deify
 deific
 deifical
+deaconing
 deification
 deifications
 deificatory
@@ -11783,7 +11784,6 @@ discusser
 discusses
 deflection
 discussing
-deaconing
 discussion
 discussional
 discussionis
