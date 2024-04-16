@@ -2604,6 +2604,7 @@ enthuses
 eras
 exempla
 electrophotometry
+exhaustivity
 eventuates
 electrophotomicrography
 electrophototherapy
@@ -12505,7 +12506,6 @@ exhaustive
 expilate
 exhaustively
 exhaustiveness
-exhaustivity
 exhaustless
 exhaustlessly
 exhaustlessness
