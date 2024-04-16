@@ -10442,7 +10442,6 @@ diphthongic
 diphthonging
 diphthongisation
 diphthongise
-dalar
 diphthongising
 diphthongization
 diphthongize
@@ -15196,6 +15195,7 @@ dolphinfish
 dolphinfishes
 dolphinlike
 dolphins
+dalar
 dolphus
 dols
 disregardance
