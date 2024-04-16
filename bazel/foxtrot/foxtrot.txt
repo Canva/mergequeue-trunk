@@ -1607,7 +1607,6 @@ favouringly
 favourite
 favourless
 favours
-fiorded
 favous
 favus
 favuses
@@ -8232,6 +8231,7 @@ forfoughen
 frivolers
 forfoughten
 forgab
+fiorded
 forgat
 forgather
 forgathered
