@@ -12159,6 +12159,7 @@ chrysene
 chrysenic
 chrysid
 chrysidella
+clownishness
 chrysidid
 chrysididae
 chrysin
@@ -15690,7 +15691,6 @@ clavelization
 clavelize
 clavellate
 clavellated
-clownishness
 convertable
 claver
 clavered
