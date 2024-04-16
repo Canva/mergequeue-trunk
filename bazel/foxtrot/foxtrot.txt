@@ -7815,6 +7815,7 @@ foremessenger
 foremilk
 foremilks
 foremind
+foxiness
 foremisgiving
 foremistress
 foremost
@@ -9128,7 +9129,6 @@ foxie
 foxily
 farrowed
 feints
-foxiness
 foxinesses
 foxing
 foxish

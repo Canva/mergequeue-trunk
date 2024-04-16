@@ -10136,7 +10136,6 @@ dinkey
 dinkeys
 dinky
 dinkier
-dinkies
 dinkiest
 dinking
 dinkly
@@ -14895,6 +14894,7 @@ doggle
 doggo
 doggone
 doggonedest
+dinkies
 doggoner
 doggones
 doggonest
