@@ -4692,6 +4692,7 @@ girdlers
 girdles
 girdlestead
 gymnosperm
+glummer
 girdling
 girdlingly
 girds
@@ -6095,7 +6096,6 @@ glume
 glumes
 glumiferous
 glumly
-glummer
 glummest
 glummy
 glumness
