@@ -1133,7 +1133,6 @@ bairn
 bursattee
 bairnie
 bairnish
-bairnishness
 bairnly
 bairnlier
 bairnliest
@@ -15323,6 +15322,7 @@ brighid
 bright
 brighteyes
 brighten
+bairnishness
 brightened
 brightener
 brighteners
