@@ -3053,7 +3053,6 @@ fibrilla
 fibrillae
 fraken
 fibrillar
-fibrillary
 fibrillate
 fibrillated
 fibrillating
@@ -5490,6 +5489,7 @@ fleshquake
 filbert
 flet
 fleta
+fibrillary
 fletched
 fletcher
 fletcherism

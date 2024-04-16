@@ -21347,6 +21347,7 @@ concipiency
 concipient
 concise
 concisely
+counterscalloped
 conciseness
 conciser
 concisest
@@ -27095,7 +27096,6 @@ counters
 countersalient
 countersank
 counterscale
-counterscalloped
 counterscarp
 counterscoff
 countersconce
