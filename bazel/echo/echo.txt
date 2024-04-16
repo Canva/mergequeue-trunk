@@ -1327,6 +1327,7 @@ effects
 effectual
 effectuality
 effectualize
+eucharistize
 effectually
 effectualness
 effectuate
@@ -10719,7 +10720,6 @@ eucharises
 executers
 eucharist
 eucharistically
-eucharistize
 eucharistized
 eucharistizing
 eucharists

@@ -9336,6 +9336,7 @@ alphabetizer
 alphabetizers
 alphabetizes
 alphabetizing
+ataxonomic
 alphabetology
 alphabets
 alphameric
@@ -22444,7 +22445,6 @@ ataxic
 ataxies
 ataxinomic
 ataxite
-ataxonomic
 ataxophemia
 atazir
 atchison
