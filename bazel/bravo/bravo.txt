@@ -10489,7 +10489,6 @@ blathery
 blathers
 blatherskite
 blatherskites
-blatjang
 blats
 blatta
 blattariae
@@ -18181,6 +18180,7 @@ butyrate
 butyrates
 butyric
 butyrically
+blatjang
 backropes
 butyryl
 butyryls

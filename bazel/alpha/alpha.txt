@@ -2182,7 +2182,6 @@ achaetous
 achafe
 achage
 achagua
-achakzai
 achalasia
 achamoth
 achape
@@ -10028,6 +10027,7 @@ ambler
 amblers
 ambles
 amblyacousia
+achakzai
 amblyaphia
 amblycephalidae
 amblycephalus
