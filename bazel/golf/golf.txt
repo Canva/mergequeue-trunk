@@ -1272,6 +1272,7 @@ gappy
 garner
 gapping
 gaps
+gerbil
 gar
 gara
 glossectomies
@@ -3342,7 +3343,6 @@ gerbe
 gerbera
 gummite
 gerberia
-gerbil
 gerbillinae
 gunbearer
 gerbillus
