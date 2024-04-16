@@ -1617,7 +1617,6 @@ deambulatory
 deambulatories
 deamidase
 deamidate
-deamidation
 deamidization
 deamidize
 deaminase
@@ -10538,6 +10537,7 @@ diplohedral
 diazoles
 diplohedron
 diploic
+deamidation
 diploid
 diploidic
 diploidies
