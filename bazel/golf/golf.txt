@@ -4265,6 +4265,7 @@ goatling
 gymnogen
 gymnogene
 graphorrhea
+grysbok
 gymnogenous
 gymnogynous
 gunner
@@ -9121,7 +9122,6 @@ grisaille
 grisailles
 grisbet
 gurgly
-grysbok
 grise
 gorgonian
 griselda
