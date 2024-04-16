@@ -8573,7 +8573,6 @@ allegatum
 allegeable
 alleged
 allegedly
-allegement
 alleger
 allegers
 alleges
@@ -22120,6 +22119,7 @@ astigmic
 astigmism
 astigmometer
 astigmometry
+allegement
 astigmoscope
 astylar
 astilbe
