@@ -6483,6 +6483,7 @@ goethites
 goety
 goetic
 goetical
+gunsmith
 gofer
 goff
 generation
@@ -10557,7 +10558,6 @@ gunslinger
 gunslingers
 gunslinging
 gunsman
-gunsmith
 grandiloquence
 glossotherium
 gunsmithery
