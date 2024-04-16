@@ -2087,6 +2087,7 @@ elanet
 elans
 elanus
 elaphe
+etatisms
 elaphebolion
 elaphine
 elaphodus
@@ -10233,7 +10234,6 @@ etapes
 etas
 etatism
 etatisme
-etatisms
 etatist
 etcetera
 etceteras
