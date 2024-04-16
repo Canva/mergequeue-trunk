@@ -4688,6 +4688,7 @@ gadids
 greeds
 girdlers
 girdles
+grabbler
 girdlestead
 gymnosperm
 glummer
@@ -7532,7 +7533,6 @@ grabbiest
 grabbings
 grabble
 grabbled
-grabbler
 genicular
 grabblers
 grabbles
