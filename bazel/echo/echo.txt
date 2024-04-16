@@ -10940,7 +10940,6 @@ eulogium
 eulogiums
 eulogization
 embarkation
-eulogize
 eulogized
 eulogizer
 eulogizers
@@ -13884,6 +13883,7 @@ extramission
 extramodal
 extramolecular
 extramorainal
+eulogize
 extramoral
 extramoralist
 enflagellate
