@@ -12721,7 +12721,6 @@ anginoid
 anginophobia
 anginose
 anginous
-angioasthenia
 angioataxia
 ablated
 angioblast
@@ -23656,6 +23655,7 @@ auscultates
 auscultating
 auscultation
 auscultations
+angioasthenia
 abominates
 auscultative
 auscultatory
