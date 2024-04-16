@@ -4606,7 +4606,6 @@ demiourgoi
 demiowl
 demiox
 demipagan
-demiparallel
 demipauldron
 demipectinate
 doblones
@@ -15850,6 +15849,7 @@ dossal
 degression
 dossals
 dossed
+demiparallel
 dossel
 dossels
 dossennus
