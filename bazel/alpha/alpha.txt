@@ -220,7 +220,6 @@ abbrev
 abbreviatable
 abbreviate
 abbreviated
-abbreviately
 afdecho
 abbreviates
 abbreviating
@@ -18545,6 +18544,7 @@ arborea
 arboreal
 arboreally
 arborean
+abbreviately
 arbored
 arboreous
 arborer
