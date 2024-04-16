@@ -13789,6 +13789,7 @@ bowless
 bowlful
 bowlfuls
 bowly
+bullescene
 bowlike
 bowlin
 bowline
@@ -17097,7 +17098,6 @@ blowsily
 bulldust
 bulled
 buller
-bullescene
 bullet
 blockish
 bulleted
