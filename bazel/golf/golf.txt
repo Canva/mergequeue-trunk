@@ -4870,7 +4870,6 @@ girts
 gromet
 gis
 gisant
-gisants
 gisarme
 gise
 gyse
@@ -6796,6 +6795,7 @@ gonepoiesis
 gonepoietic
 genapper
 goneril
+gisants
 goners
 gonesome
 gonfalcon
