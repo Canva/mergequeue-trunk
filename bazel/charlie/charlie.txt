@@ -6907,6 +6907,7 @@ cenote
 cenotes
 cenozoic
 cenozoology
+coleoptile
 cense
 censed
 censers
@@ -18715,7 +18716,6 @@ coleopterological
 coleopteron
 coleopterous
 chosing
-coleoptile
 chloroacetic
 coleoptilum
 coleopttera
