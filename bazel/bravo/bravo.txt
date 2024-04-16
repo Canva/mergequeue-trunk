@@ -11950,7 +11950,6 @@ boychick
 boychicks
 boychiks
 boycott
-boycottage
 boycotted
 boycotting
 boycottism
@@ -17027,6 +17026,7 @@ bulked
 bulkhead
 bulkheaded
 bulkheading
+boycottage
 bulkheads
 bulky
 bulkier
