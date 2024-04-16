@@ -850,7 +850,6 @@ danian
 danic
 danicism
 daniel
-daniele
 danielic
 dyscrystalline
 danielle
@@ -8755,6 +8754,7 @@ dibrom
 dibromide
 dibromoacetaldehyde
 dibs
+daniele
 dibstone
 dibstones
 dibucaine
