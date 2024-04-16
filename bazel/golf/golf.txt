@@ -2770,6 +2770,7 @@ geniculately
 grunzie
 geniculation
 genies
+gigelira
 genii
 genin
 gestures
@@ -4016,7 +4017,6 @@ gigavolt
 gigawatt
 gigawatts
 gigback
-gigelira
 gigeria
 gigerium
 gyges
