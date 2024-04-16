@@ -14213,6 +14213,7 @@ divergenge
 divergent
 divergently
 diverges
+dowitchers
 diverging
 divergingly
 divers
@@ -16184,7 +16185,6 @@ dowieite
 dowiness
 dowitch
 dowitcher
-dowitchers
 dowl
 dowlas
 dowless
