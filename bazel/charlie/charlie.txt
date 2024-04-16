@@ -9953,7 +9953,6 @@ chenopodiaceae
 chenopodiaceous
 chenopodiales
 chenopodium
-chenopods
 cheongsam
 cheoplastic
 chepster
@@ -12532,6 +12531,7 @@ chromotherapy
 chromotherapist
 chromotype
 chromotypy
+chenopods
 chromotypic
 chromotypography
 chromotypographic
