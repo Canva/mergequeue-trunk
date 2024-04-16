@@ -6067,7 +6067,6 @@ bemuddling
 bemuffle
 bemurmur
 bemurmure
-bemurmured
 bemurmuring
 bemurmurs
 bemuse
@@ -9090,6 +9089,7 @@ biomicroscope
 biomicroscopy
 biomicroscopies
 biomorphic
+bemurmured
 bion
 byon
 bionditional

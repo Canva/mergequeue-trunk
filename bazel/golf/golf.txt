@@ -5826,7 +5826,6 @@ gloryingly
 gloryless
 gloriole
 germania
-glorioles
 gloriosa
 gloriosity
 gawsie
@@ -7034,6 +7033,7 @@ googol
 googolplex
 glegly
 googul
+glorioles
 gooier
 gooiest
 greenflies
