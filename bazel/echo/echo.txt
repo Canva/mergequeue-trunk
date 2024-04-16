@@ -4812,7 +4812,6 @@ encolden
 encollar
 encolor
 encolour
-encolpia
 encolpion
 emendately
 encolumn
@@ -5217,6 +5216,7 @@ endolaryngeal
 endolemma
 endolymph
 endolymphangial
+encolpia
 endolymphatic
 etiotropic
 endolysin
