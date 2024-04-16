@@ -1697,6 +1697,7 @@ enterobacterium
 eyah
 eyalet
 eyases
+examining
 eyass
 eichbergite
 eichhornia
@@ -11847,7 +11848,6 @@ ectosteally
 ephydrid
 examinership
 examines
-examining
 examiningly
 examplar
 example
