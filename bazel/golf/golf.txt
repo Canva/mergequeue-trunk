@@ -7082,7 +7082,6 @@ gooselike
 gooseliver
 goosemouth
 grailing
-gooseneck
 goosenecked
 goosepimply
 goosery
@@ -8655,6 +8654,7 @@ greenhouse
 greenhouses
 greeny
 goalkeeping
+gooseneck
 greenyard
 greeniest
 graptolitha

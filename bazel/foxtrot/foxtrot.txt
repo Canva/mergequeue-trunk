@@ -5932,6 +5932,7 @@ floodgates
 floody
 flooding
 floodless
+friday
 floodlet
 floodlight
 francis
@@ -6364,7 +6365,6 @@ fluyts
 fluke
 fluked
 flukey
-friday
 flukeless
 flukes
 foujdary
