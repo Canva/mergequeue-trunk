@@ -5810,6 +5810,7 @@ deposits
 depositum
 depositure
 deposure
+dogmatiser
 depot
 defecter
 depotentiate
@@ -14935,7 +14936,6 @@ danube
 dogmatisation
 dogmatise
 dogmatised
-dogmatiser
 dogmatising
 dogmatist
 daucus
