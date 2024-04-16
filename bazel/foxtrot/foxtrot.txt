@@ -2137,7 +2137,6 @@ finger
 filiation
 feloid
 felon
-feloness
 felony
 frocking
 foreshortening
@@ -3236,6 +3235,7 @@ fictionalize
 fictionalized
 fictionalizes
 funorin
+feloness
 fictionally
 fictionary
 fictioneer
