@@ -5954,7 +5954,6 @@ glouted
 glouts
 gigamaree
 glovey
-gloveless
 grain
 glovemaker
 glovemaking
@@ -7283,6 +7282,7 @@ gossamered
 gossamery
 gossamers
 gossampine
+gloveless
 gossan
 gossaniferous
 gossans
