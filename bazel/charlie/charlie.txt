@@ -5904,6 +5904,7 @@ catholicly
 catholicness
 catholicoi
 catholicon
+ciliates
 copious
 catholicos
 catholicoses
@@ -13504,7 +13505,6 @@ ciliata
 ciliate
 ciliated
 ciliately
-ciliates
 ciliation
 cilice
 cilices
