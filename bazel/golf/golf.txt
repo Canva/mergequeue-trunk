@@ -5956,6 +5956,7 @@ glottologies
 glottologist
 glotum
 gloucester
+grippingly
 glout
 glouted
 glouts
@@ -9101,7 +9102,6 @@ grippiest
 gongoresque
 grippiness
 gripping
-grippingly
 grippingness
 grippit
 gripple
