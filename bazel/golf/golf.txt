@@ -3312,7 +3312,6 @@ gerah
 gerahs
 gerald
 geraldine
-geraniaceae
 geraniaceous
 geranial
 geraniales
@@ -5665,6 +5664,7 @@ globality
 globalization
 globalize
 globalized
+geraniaceae
 globalizing
 globally
 globated
