@@ -7069,7 +7069,6 @@ desulfurize
 desulfurized
 desulfurizer
 desulfurizing
-desulfurs
 desulphur
 desulphurate
 desulphurated
@@ -16427,6 +16426,7 @@ drabble
 drabbler
 drabbles
 drabbling
+desulfurs
 drabler
 dandifies
 drably
