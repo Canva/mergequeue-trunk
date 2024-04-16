@@ -5968,7 +5968,6 @@ glotum
 gloucester
 glout
 glouted
-glouting
 glouts
 gigamaree
 gloved
@@ -10729,6 +10728,7 @@ gutless
 gutlessness
 grinnellia
 goldic
+glouting
 gutlike
 gutling
 gutnic
