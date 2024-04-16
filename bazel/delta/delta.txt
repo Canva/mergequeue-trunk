@@ -11693,7 +11693,6 @@ discreetly
 discreetness
 discrepance
 discrepancy
-discrepancies
 discrepancries
 doronicum
 discrepant
@@ -18425,6 +18424,7 @@ diacetonuria
 durant
 duranta
 durante
+discrepancies
 dioxids
 duraplasty
 duraquara
