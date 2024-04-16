@@ -923,7 +923,6 @@ baglike
 bagmaker
 bagmaking
 bagmen
-bagne
 bagnes
 bagnet
 bagnio
@@ -14806,6 +14805,7 @@ breaklist
 breakneck
 breakoff
 breakout
+bagne
 breakouts
 bicuspids
 breakover
