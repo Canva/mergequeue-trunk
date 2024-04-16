@@ -2425,6 +2425,7 @@ decision
 decisional
 decisionmake
 decisions
+dendraxon
 decisis
 decisive
 decisively
@@ -5032,7 +5033,6 @@ dendra
 dendrachate
 dendral
 dendraspis
-dendraxon
 dendric
 dendriform
 dendrite

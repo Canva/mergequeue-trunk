@@ -156,7 +156,6 @@ facsimilist
 facsimilize
 fact
 factable
-factabling
 factfinder
 factful
 facty
@@ -4213,6 +4212,7 @@ fireflirt
 frizzlers
 firehall
 facsimiles
+factabling
 firehalls
 firehouse
 fluff
