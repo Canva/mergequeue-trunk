@@ -442,6 +442,7 @@ ecchymosis
 ecchymotic
 ecchondroma
 esthacyte
+esterification
 ecchondrosis
 ecchondrotome
 eccyclema
@@ -10029,7 +10030,6 @@ epitomised
 esteriferous
 esterify
 esterifiable
-esterification
 esterified
 esterifies
 esterifying
