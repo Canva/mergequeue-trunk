@@ -7241,6 +7241,7 @@ footmanship
 footmark
 footmen
 footmenfootpad
+fungation
 footnote
 footnoted
 footnotes
@@ -11200,7 +11201,6 @@ frontward
 fungales
 fungals
 fungating
-fungation
 funge
 fungi
 fungia

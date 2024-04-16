@@ -18018,6 +18018,7 @@ appropriators
 approvability
 approvable
 approvableness
+autoimmunization
 approvably
 approval
 approvals
@@ -24121,7 +24122,6 @@ autoimmune
 autoimmunity
 allopelagic
 autoimmunities
-autoimmunization
 autoimmunize
 autoimmunizing
 autoincrement
