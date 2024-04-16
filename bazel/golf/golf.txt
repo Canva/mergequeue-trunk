@@ -1451,7 +1451,6 @@ garnetberry
 garneter
 garnetiferous
 garnetlike
-garnetter
 garnetwork
 garni
 garniec
@@ -6374,6 +6373,7 @@ goatpox
 goatroot
 goats
 goatsbane
+garnetter
 goatsbeard
 goatsfoot
 goatskin
