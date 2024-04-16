@@ -4902,7 +4902,6 @@ aerifaction
 aeriferous
 aerify
 aerification
-aerified
 aerifies
 aerifying
 aeriform
@@ -22875,6 +22874,7 @@ atrocity
 atrocities
 atrocoeruleus
 atrolactic
+aerified
 atropaceous
 atropal
 atropamine
