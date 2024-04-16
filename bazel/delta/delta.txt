@@ -4607,7 +4607,6 @@ demiorbit
 demiourgoi
 demiowl
 demiox
-demipagan
 demipauldron
 demipectinate
 doblones
@@ -11945,6 +11944,7 @@ disengaged
 disengagedness
 disengagement
 disengages
+demipagan
 disengaging
 disengirdle
 disenjoy
