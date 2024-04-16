@@ -9960,7 +9960,6 @@ ambidexterities
 ambidexterous
 ambidextral
 ambidextrous
-ambidextrously
 ambience
 ambiences
 ambiency
@@ -20483,6 +20482,7 @@ arteriograph
 arteriography
 arteriographic
 arteriolar
+ambidextrously
 arteriole
 arterioles
 arteriolith
