@@ -6503,7 +6503,6 @@ enstatite
 enstatolite
 ensteel
 ensteep
-enstool
 enstore
 enstranged
 enstrengthen
@@ -6579,6 +6578,7 @@ entastic
 entea
 erns
 entelam
+enstool
 entelechy
 entelechial
 entelechies
