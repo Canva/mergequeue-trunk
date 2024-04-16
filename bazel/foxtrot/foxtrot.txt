@@ -2837,7 +2837,6 @@ fetis
 fetish
 froster
 fetisheer
-fetisher
 fetishes
 fetishic
 fetishism
@@ -3816,6 +3815,7 @@ filoplume
 filopodia
 filopodium
 filosa
+fetisher
 filose
 farandole
 fidges

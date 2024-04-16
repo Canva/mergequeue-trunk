@@ -13419,6 +13419,7 @@ ankylotia
 ankylotic
 anneals
 ankylotome
+autoportrait
 ankylotomy
 ankylurethria
 ankyroid
@@ -24311,7 +24312,6 @@ autopolyploid
 autopolyploidy
 autopolo
 autopoloist
-autoportrait
 autoportraiture
 autopositive
 autopotamic
