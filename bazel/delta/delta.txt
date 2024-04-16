@@ -12467,7 +12467,6 @@ disintoxication
 disintrench
 dysyntribite
 disintricate
-disinure
 disinvagination
 disinvest
 disinvestiture
@@ -14381,6 +14380,7 @@ dichotomal
 divorcer
 defiguration
 divorcers
+disinure
 divorceuse
 duckeries
 damourite
