@@ -6786,7 +6786,6 @@ fogfruit
 fogfruits
 foggage
 foggages
-fogged
 fogger
 foggers
 fruited
@@ -10223,6 +10222,7 @@ fritterer
 frittering
 fritters
 friulian
+fogged
 frivol
 frivoled
 frivoler
