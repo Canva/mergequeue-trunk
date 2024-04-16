@@ -16523,7 +16523,6 @@ cloistral
 cloistress
 cloit
 catastrophes
-cloke
 cloky
 clokies
 clomb
@@ -24796,6 +24795,7 @@ corabeca
 congrio
 corabecan
 corach
+cloke
 coraciae
 coracial
 coracias
