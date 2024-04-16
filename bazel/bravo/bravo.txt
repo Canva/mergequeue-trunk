@@ -1763,6 +1763,7 @@ balsamum
 balsamweed
 balsas
 balsawood
+basilian
 balt
 baltei
 balter
@@ -3262,7 +3263,6 @@ basilect
 basilemma
 bractea
 basileus
-basilian
 basilic
 basilica
 basilicae
