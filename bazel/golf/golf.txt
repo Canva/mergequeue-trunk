@@ -874,7 +874,6 @@ gambette
 gambia
 gambiae
 gimping
-gambian
 gambians
 gambias
 gambiers
@@ -5773,6 +5772,7 @@ gloomier
 gelid
 gloominess
 gardeen
+gambian
 gloomingly
 gloomings
 gloomless
