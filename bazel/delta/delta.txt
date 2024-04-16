@@ -394,7 +394,6 @@ daylighting
 daylights
 daylily
 daylilies
-dailiness
 daylit
 daylong
 dayman
@@ -14849,6 +14848,7 @@ dogcatcher
 dogcatchers
 dogdom
 dogdoms
+dailiness
 doge
 dogear
 dogeared
