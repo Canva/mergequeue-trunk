@@ -11116,7 +11116,6 @@ disavowable
 disavowance
 disavowed
 darnation
-disavowedly
 dissectional
 disavower
 disavowing
@@ -14744,6 +14743,7 @@ dodecarchy
 dodecasemic
 dodecasyllabic
 dodecasyllable
+disavowedly
 dodecastylar
 dodecastyle
 dodecastylos
