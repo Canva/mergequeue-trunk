@@ -8950,6 +8950,7 @@ bedcovers
 bandoras
 biochore
 biocycles
+birdbrained
 botan
 biocidal
 biocide
@@ -9375,7 +9376,6 @@ birdbanding
 birdbath
 birdbaths
 birdberry
-birdbrained
 birdbrains
 birdcage
 birdcages
