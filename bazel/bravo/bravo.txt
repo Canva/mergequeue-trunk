@@ -3719,6 +3719,7 @@ battakhin
 battalias
 battalion
 battalions
+brutalities
 battarism
 battarismus
 batteau
@@ -16414,7 +16415,6 @@ bichromatic
 brutalitarian
 brutalitarianism
 brutality
-brutalities
 bionomics
 beccabunga
 brutalization
