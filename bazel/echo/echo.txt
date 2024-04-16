@@ -6878,6 +6878,7 @@ entocele
 entocyemate
 entocyst
 enows
+estraying
 entocnemial
 entocoele
 entocoelic
@@ -10141,7 +10142,6 @@ entity
 estragons
 estray
 estrayed
-estraying
 estrays
 estral
 estramazone
