@@ -2501,7 +2501,6 @@ feroce
 ferocious
 ferociously
 flatboat
-ferociousness
 ferocity
 ferocities
 feroher
@@ -5005,6 +5004,7 @@ flapcake
 freeloader
 flapdock
 flapdoodle
+ferociousness
 furcately
 flapdragon
 flaperon
