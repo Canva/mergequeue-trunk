@@ -2,7 +2,10 @@
 
 name: Upload Impacted Targets
 run-name: pr targets for ${{ github.ref_name }}
-on: pull_request
+on:
+  # disable this step for now
+  # pull_request:
+  workflow_dispatch: {}
 
 jobs:
   compute_pr_targets:
@@ -19,12 +22,13 @@ jobs:
         with:
           tools: gh jq
 
-      - name: download mq
-        run: |
-          gh release download --pattern='*.gz' --output mq.gz --clobber
-          tar -xf mq.gz
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: false
+          extract: true
 
       - name: get demo config
         id: get-demo-config
