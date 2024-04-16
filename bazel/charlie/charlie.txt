@@ -1808,7 +1808,6 @@ cambuscan
 came
 cameist
 camel
-camelback
 cameleer
 cameleers
 cameleon
@@ -5706,6 +5705,7 @@ categorising
 categorist
 categorization
 categorizations
+camelback
 categorize
 categorized
 categorizer
