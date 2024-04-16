@@ -1465,7 +1465,6 @@ calliphora
 calliphorid
 calliphoridae
 calliphorine
-callipygian
 callipygous
 callippic
 callirrhoe
@@ -18130,6 +18129,7 @@ coextension
 coextensive
 coextensively
 coextensiveness
+callipygian
 coextent
 cofactor
 cofactors
