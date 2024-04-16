@@ -7943,7 +7943,6 @@ aleut
 aleutian
 aneath
 aleutians
-aleutic
 aleutite
 alew
 alewhap
@@ -13562,6 +13561,7 @@ annoyer
 annoyers
 annoyful
 annoying
+aleutic
 annoyingness
 annoyment
 annoyous
