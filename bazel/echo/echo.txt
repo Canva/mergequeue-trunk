@@ -3189,7 +3189,6 @@ elsa
 else
 endemic
 elsehow
-elses
 elseways
 elsewhat
 elsewhen
@@ -9336,6 +9335,7 @@ erosional
 erosionally
 erythrulose
 erosions
+elses
 escoting
 erosive
 evanid
