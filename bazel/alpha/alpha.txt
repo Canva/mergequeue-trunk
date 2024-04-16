@@ -7735,6 +7735,7 @@ aldehydrol
 aldehol
 aldeia
 archegoniophore
+auslaute
 alden
 alder
 alderamin
@@ -23669,7 +23670,6 @@ ausgespielt
 aushar
 auslander
 auslaut
-auslaute
 ausones
 ausonian
 auspex

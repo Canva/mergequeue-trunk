@@ -3120,6 +3120,7 @@ fibroelastic
 fibroenchondroma
 fibroglioma
 fibrohemorrhagic
+fluked
 farfet
 fibroid
 fibroids
@@ -6364,7 +6365,6 @@ foulage
 fluitant
 fluyts
 fluke
-fluked
 flukey
 flukeless
 flukes
