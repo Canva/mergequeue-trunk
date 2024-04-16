@@ -3941,6 +3941,7 @@ finecomb
 flatbread
 fined
 fineer
+fuzzed
 fineish
 fineleaf
 fineless
@@ -11730,7 +11731,6 @@ fuzils
 fuzing
 fuzz
 fuzzball
-fuzzed
 fuzzes
 fuzzy
 fuzzier
