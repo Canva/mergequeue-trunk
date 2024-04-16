@@ -10728,6 +10728,7 @@ ammocoetidae
 ammodyte
 ammodytes
 ammodytidae
+arapaho
 ammodytoid
 ammonal
 ammonals
@@ -18446,7 +18447,6 @@ aranyaka
 arank
 aranzada
 arapahite
-arapaho
 arapahos
 arapaimas
 araphorostic
