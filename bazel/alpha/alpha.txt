@@ -5365,7 +5365,6 @@ aggerate
 affinity
 affinities
 affinition
-affinitive
 affirmable
 affirmably
 affirmance
@@ -11238,6 +11237,7 @@ amphitheatral
 amphitheatre
 amphitheatric
 ane
+affinitive
 amphitheatrical
 amphitheatrically
 affiancer

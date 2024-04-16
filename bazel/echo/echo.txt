@@ -5455,7 +5455,6 @@ extranidal
 endplate
 endplates
 endpleasure
-endpoints
 endrin
 endrins
 endromididae
@@ -5538,6 +5537,7 @@ energising
 energism
 energist
 energize
+endpoints
 exploiters
 energized
 energizer
