@@ -981,7 +981,6 @@ faretta
 farewell
 farewelled
 farewelling
-fuchsin
 farfal
 farfara
 farfel
@@ -7023,6 +7022,7 @@ followable
 followed
 follower
 followers
+fuchsin
 followeth
 flagellants
 followingly
