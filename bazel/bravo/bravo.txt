@@ -2098,6 +2098,7 @@ banjuke
 banjulele
 bank
 bankable
+bluebonnets
 bankalachi
 bankbook
 bankbooks
@@ -11294,7 +11295,6 @@ blueblaw
 blueblood
 blueblossom
 bluebonnet
-bluebonnets
 bluebook
 bluebooks
 bluebottle
