@@ -4707,6 +4707,7 @@ gyre
 gelandejump
 gyrectomies
 gyred
+guijo
 girella
 girellidae
 gyrencephala
@@ -10176,7 +10177,6 @@ ghoster
 guige
 guignardia
 guignol
-guijo
 guilandina
 guild
 gharry
