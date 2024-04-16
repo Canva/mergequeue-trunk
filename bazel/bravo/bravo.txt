@@ -4332,7 +4332,6 @@ beaverkill
 beaverkin
 beaverlike
 beaverpelt
-beaverroot
 beavers
 beaverskin
 beaverteen
@@ -10330,6 +10329,7 @@ blanketflower
 blankety
 blanketing
 betowel
+beaverroot
 blanketless
 blanketlike
 blanketmaker

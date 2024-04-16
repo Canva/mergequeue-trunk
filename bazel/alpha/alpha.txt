@@ -9088,7 +9088,6 @@ alman
 almanac
 authenticatable
 almanacs
-almander
 almandine
 almandines
 almandite
@@ -20557,6 +20556,7 @@ arthrobranchia
 arthrocarcinoma
 arthrocele
 arthrochondritis
+almander
 arthroclasia
 arthrocleisis
 arthroclisis
