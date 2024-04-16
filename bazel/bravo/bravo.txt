@@ -1272,7 +1272,6 @@ benzothiazole
 baikalite
 balalaika
 balalaikas
-balan
 balance
 balanceable
 balanced
@@ -5906,6 +5905,7 @@ belook
 belord
 belorussian
 belostoma
+balan
 belostomatidae
 belostomidae
 belotte
