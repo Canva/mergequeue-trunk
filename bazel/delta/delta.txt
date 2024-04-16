@@ -2549,6 +2549,7 @@ decocting
 decoction
 decoctive
 decocts
+disulfuret
 decoctum
 decodable
 decode
@@ -13969,7 +13970,6 @@ disulfoton
 disulfoxid
 disulfoxide
 dames
-disulfuret
 disulfuric
 disulphate
 disulphid
