@@ -4759,6 +4759,7 @@ demodex
 demodicidae
 demodocus
 demodulate
+diskette
 demodulated
 demodulates
 demodulating
@@ -12519,7 +12520,6 @@ disker
 dyskeratosis
 diskery
 discouragingness
-diskette
 dermolysis
 diskettes
 diskindness

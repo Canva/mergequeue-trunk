@@ -11951,7 +11951,6 @@ anaretical
 anargyroi
 anargyros
 anarya
-anaryan
 anarithia
 anarithmia
 anarthria
@@ -13954,6 +13953,7 @@ ansu
 ansulate
 answer
 answerability
+anaryan
 answerable
 answerableness
 answerably
