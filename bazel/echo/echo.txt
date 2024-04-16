@@ -3137,6 +3137,7 @@ exaltations
 elohist
 eloign
 externalizing
+electroosmosis
 eighteenfold
 eloigned
 eloigner
@@ -3825,7 +3826,6 @@ emendator
 emendatory
 emended
 emenders
-electroosmosis
 emendicate
 embowl
 expansometer
