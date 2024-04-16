@@ -8723,6 +8723,7 @@ alligatored
 alligatorfish
 alligatorfishes
 alligatoring
+antiboxing
 alligators
 allyic
 allying
@@ -14780,7 +14781,6 @@ antiblue
 antibodies
 antiboss
 ayin
-antiboxing
 antibrachial
 antibreakage
 antibridal
