@@ -11538,6 +11538,7 @@ cholecystolithotripsy
 cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
+corridas
 cholecystostomy
 cholecystostomies
 cholecystotomy
@@ -25702,7 +25703,6 @@ corresponsion
 corresponsive
 corresponsively
 corrida
-corridas
 corrido
 corridored
 croppers
