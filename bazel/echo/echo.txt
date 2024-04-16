@@ -263,7 +263,6 @@ eastering
 easterly
 easterlies
 emergency
-exospores
 easterliness
 easterling
 eastwards
@@ -12879,6 +12878,7 @@ exotery
 exoteric
 exoterica
 exoterical
+exospores
 exoterically
 exotericism
 embossmen

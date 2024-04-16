@@ -3265,7 +3265,6 @@ fid
 fidac
 fidalgo
 folic
-fidate
 fidation
 functorial
 fidded
@@ -10420,6 +10419,7 @@ frontierman
 foresaid
 frontiersman
 frontiersmen
+fidate
 frontignac
 formularize
 frontignan
