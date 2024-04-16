@@ -7637,6 +7637,7 @@ devisal
 deviscerate
 devise
 devised
+dichotomising
 devisee
 devisees
 deviser
@@ -8859,7 +8860,6 @@ dichotomically
 dichotomies
 dichotomisation
 dichotomise
-dichotomising
 dimethoxymethane
 dichotomist
 dichotomistic
