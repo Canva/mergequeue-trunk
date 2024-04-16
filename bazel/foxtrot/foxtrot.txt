@@ -1483,6 +1483,7 @@ flakes
 faultless
 faultlessly
 faultlessness
+forevalue
 faults
 faultsman
 faulx
@@ -8142,7 +8143,6 @@ foreturn
 flimflamming
 foreuse
 foreutter
-forevalue
 fittable
 forever
 forevermore

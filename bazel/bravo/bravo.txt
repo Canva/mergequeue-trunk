@@ -4111,6 +4111,7 @@ beanball
 beanballs
 beancod
 bromoform
+brothership
 beaned
 beaner
 beanery
@@ -14867,7 +14868,6 @@ brevi
 breastwood
 breastwork
 breastworks
-brothership
 breath
 breathability
 breathable
