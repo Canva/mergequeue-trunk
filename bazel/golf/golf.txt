@@ -5291,7 +5291,6 @@ glazes
 glaziery
 glazieries
 glaziers
-glaziest
 gnathostomous
 glazing
 glb
@@ -8336,6 +8335,7 @@ gratifications
 gratified
 gratifiedly
 gratifier
+glaziest
 gratifies
 gratifying
 gratifyingly

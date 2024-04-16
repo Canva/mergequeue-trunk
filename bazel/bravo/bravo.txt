@@ -6150,6 +6150,7 @@ beneception
 beneceptor
 benedicite
 benedick
+boilerplate
 benedicks
 benedict
 benedicta
@@ -11989,7 +11990,6 @@ boilermaker
 bradypnoea
 boilermakers
 boilerman
-boilerplate
 boilers
 bunking
 boilersmith
