@@ -2863,6 +2863,7 @@ euciliate
 exigences
 eleutherios
 eleutherism
+epilogism
 eleutherodactyli
 eleutheromania
 eleutheromaniac
@@ -7976,7 +7977,6 @@ epilogation
 epilogic
 enstatitic
 epilogical
-epilogism
 epilogist
 epilogistic
 epilogize
