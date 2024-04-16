@@ -8050,6 +8050,7 @@ algebra
 algebraic
 aquatical
 algebraical
+athreptic
 algebraically
 addled
 algebraist
@@ -22617,7 +22618,6 @@ athold
 athonite
 athort
 athrepsia
-athreptic
 athrill
 athrive
 athrocyte
