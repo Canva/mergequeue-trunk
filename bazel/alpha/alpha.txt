@@ -10506,7 +10506,6 @@ amygdule
 amygdules
 amigo
 amigos
-amiidae
 amil
 amyl
 amylaceous
@@ -17530,6 +17529,7 @@ apotropaion
 apotropaism
 apoturmeric
 anatropous
+amiidae
 apout
 apoxesis
 apoxyomenos

@@ -5146,7 +5146,6 @@ befoolable
 befooled
 befooling
 befoolment
-barberish
 befools
 befop
 before
@@ -9718,6 +9717,7 @@ bisque
 bisques
 bisquette
 bissabol
+barberish
 byssaceous
 byssal
 bissellia
