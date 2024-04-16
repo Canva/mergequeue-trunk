@@ -3301,7 +3301,6 @@ caponiser
 caps
 capsa
 capsaicin
-capsella
 capsheaf
 capshore
 capsian
@@ -29836,6 +29835,7 @@ crossflower
 crossfoot
 crossgrainedness
 crosshackle
+capsella
 crosshair
 chaldee
 crosshairs
