@@ -1055,6 +1055,7 @@ gander
 gandered
 ganderess
 gandergoose
+grecizes
 gandering
 ganders
 ganderteeth
@@ -1644,7 +1645,6 @@ gastness
 galvayned
 gaspereau
 gaspereaus
-grecizes
 gaspergou
 gaspers
 gaspy
