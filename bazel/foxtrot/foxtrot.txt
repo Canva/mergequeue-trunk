@@ -8412,6 +8412,7 @@ formanilide
 formant
 formula
 formants
+funnelform
 format
 firedogs
 formate
@@ -11280,7 +11281,6 @@ funmaking
 funned
 funnel
 funneled
-funnelform
 funneling
 funnellike
 fruitless
