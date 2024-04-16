@@ -5790,6 +5790,7 @@ filaze
 footrill
 flittermouse
 flittern
+frappeed
 fardo
 flitters
 flitty
@@ -9460,7 +9461,6 @@ fraple
 frapler
 frapp
 frappe
-frappeed
 frappeing
 frappes
 frary
