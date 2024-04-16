@@ -4228,6 +4228,7 @@ employers
 employes
 employless
 employment
+encourages
 electroviscous
 employments
 employs
@@ -4870,7 +4871,6 @@ extremist
 encouragements
 ephydriad
 expertise
-encourages
 entertain
 encouraging
 encouragingly
