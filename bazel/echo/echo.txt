@@ -7036,7 +7036,6 @@ entraining
 erk
 entrainment
 emulsive
-entrains
 entrammel
 emotionalising
 entranced
@@ -11787,6 +11786,7 @@ exactly
 exactness
 exactor
 exactors
+entrains
 exactress
 exacts
 exactus

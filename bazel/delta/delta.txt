@@ -7169,7 +7169,6 @@ deter
 deterge
 deterged
 detergence
-detergency
 detergent
 detergents
 deterger
@@ -18007,6 +18006,7 @@ dullhearted
 dullify
 dullification
 dulling
+detergency
 dangerful
 dullish
 dullishly
