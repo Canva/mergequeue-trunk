@@ -12699,6 +12699,7 @@ angerless
 angerly
 angerona
 angeronalia
+avelonge
 angers
 angetenar
 angevin
@@ -24620,7 +24621,6 @@ ave
 avellan
 avellane
 avellano
-avelonge
 aveloz
 avena
 avenaceous

@@ -4819,7 +4819,6 @@ cartmaker
 cartmaking
 cartman
 cartobibliography
-cartogram
 chloridizing
 cartographer
 cartographers
@@ -13281,6 +13280,7 @@ cyclocoelous
 cycloconium
 cyclode
 cyclodiene
+cartogram
 cyclodiolefin
 cyclodiolefine
 cycloganoid
