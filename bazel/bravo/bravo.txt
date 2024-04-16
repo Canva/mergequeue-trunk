@@ -3703,6 +3703,7 @@ barkless
 batrachoididae
 batrachophagous
 batrachophidia
+bedcord
 batrachophobia
 batrachoplasty
 batrachospermum
@@ -4627,7 +4628,6 @@ bedchairs
 bedchamber
 bratstva
 bedclothing
-bedcord
 byplays
 bedcover
 beddable
