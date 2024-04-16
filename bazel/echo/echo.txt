@@ -4604,6 +4604,7 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
+encolour
 encephalomeric
 encephalometer
 encephalometric
@@ -4822,7 +4823,6 @@ encoil
 encolden
 encollar
 encolor
-encolour
 encolpion
 emendately
 encolumn

@@ -870,7 +870,6 @@ fantasticality
 fantastically
 fulicine
 fantasticalness
-flagstaves
 fantasticate
 fantastication
 fantasticism
@@ -2765,6 +2764,7 @@ festivous
 festology
 flowerer
 festoon
+flagstaves
 festooned
 festoonery
 festooneries
