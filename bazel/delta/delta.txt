@@ -9645,6 +9645,7 @@ dilapidating
 dilapidation
 dilapidator
 dilatability
+disimprovement
 dilatable
 dilatableness
 dysmerogenetic
@@ -12373,7 +12374,6 @@ disimprison
 disimprisonment
 disimprove
 dyarchical
-disimprovement
 disincarceration
 disincarnate
 disincentive
