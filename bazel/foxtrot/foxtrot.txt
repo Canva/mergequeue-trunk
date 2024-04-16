@@ -914,7 +914,6 @@ faradise
 faradised
 faradiser
 faradises
-faradism
 fissionable
 faradisms
 faradization
@@ -2373,6 +2372,7 @@ feres
 fulciform
 feretory
 firearmed
+faradism
 feretories
 fodders
 frontes

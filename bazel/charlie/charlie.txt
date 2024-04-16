@@ -15269,7 +15269,6 @@ clamatores
 clamatory
 clamatorial
 clamb
-clambake
 clambakes
 clamber
 clamberer
@@ -30071,6 +30070,7 @@ crozer
 crozers
 crozes
 croziers
+clambake
 crozing
 crozle
 crozzle
