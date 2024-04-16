@@ -9607,6 +9607,7 @@ bisectrices
 bisects
 bisegment
 bisellia
+brume
 bisellium
 bysen
 biserial
@@ -16301,7 +16302,6 @@ brumaire
 brumbee
 brumbie
 brumbies
-brume
 biology
 brumes
 brummagem
