@@ -3397,7 +3397,6 @@ embarque
 embarras
 embarrased
 embarrass
-embarrassed
 embarrassedly
 embarrassing
 embarrassingly
@@ -10875,6 +10874,7 @@ euglenas
 euglenida
 euglenidae
 euglenineae
+embarrassed
 euglenoid
 epistrophic
 euglenoidina
