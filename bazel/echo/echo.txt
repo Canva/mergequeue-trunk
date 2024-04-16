@@ -7464,7 +7464,6 @@ etourderie
 epeirogenesis
 epeirogenetic
 epeirogeny
-epeirogenic
 epeirogenically
 epeisodia
 epeisodion
@@ -10703,6 +10702,7 @@ eucairite
 eucalyn
 eucalypteol
 eucalyptian
+epeirogenic
 eucalyptic
 eucalyptography
 eucalyptole
