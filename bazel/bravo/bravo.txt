@@ -999,6 +999,7 @@ bahoo
 baht
 bahts
 bahuma
+bothies
 beings
 bahur
 bahut
@@ -13291,7 +13292,6 @@ bothersomely
 bothersomeness
 bothy
 bothie
-bothies
 bothlike
 bardesanist
 bindis
