@@ -16221,6 +16221,7 @@ downer
 downers
 downface
 downfall
+dwarfisms
 downfallen
 downfeed
 downflow
@@ -18645,7 +18646,6 @@ dwarfish
 dwarfishly
 dwarfishness
 dwarfism
-dwarfisms
 dwarflike
 dwarfling
 dinoceratidae
