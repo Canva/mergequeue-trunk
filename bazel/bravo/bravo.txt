@@ -5562,6 +5562,7 @@ beking
 bekinkinite
 bekiss
 bekissed
+bosn
 bekisses
 bekissing
 bibiru
@@ -13137,7 +13138,6 @@ boskiness
 boskopoid
 bosks
 blandiloquous
-bosn
 blowoffs
 bosniac
 bosniak
