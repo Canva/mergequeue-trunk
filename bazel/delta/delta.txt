@@ -11806,6 +11806,7 @@ disdainfulness
 disdaining
 deepener
 disdainly
+disentitled
 disdainous
 disdains
 disdar
@@ -11978,7 +11979,6 @@ disenthroned
 disenthronement
 deled
 disentitle
-disentitled
 disentitlement
 disentitling
 disentomb
