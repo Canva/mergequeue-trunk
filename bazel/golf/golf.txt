@@ -4044,6 +4044,7 @@ gigglesome
 gaggled
 giggly
 gigglier
+gluttonizing
 giggliest
 giggling
 gentlehearted
@@ -6184,7 +6185,6 @@ gluttonish
 gluttonising
 gluttonize
 gluttonized
-gluttonizing
 gluttonous
 gluttons
 gm
