@@ -8169,6 +8169,7 @@ epipubes
 epipubis
 epirhizous
 epirogenetic
+excoct
 epirogeny
 epirogenic
 epirote
@@ -12140,7 +12141,6 @@ exclusivism
 exclusivist
 exclusivistic
 exclusivity
-excoct
 excoction
 excoecaria
 excogitable
