@@ -5936,6 +5936,7 @@ enheritance
 enhydra
 enhydrinae
 enhydrite
+epithelial
 educatee
 enhydritic
 engnessang
@@ -10429,7 +10430,6 @@ ethylenically
 ethylenimine
 ethylenoid
 eaglehawk
-epithelial
 ethylic
 ethylidene
 ethylidyne
