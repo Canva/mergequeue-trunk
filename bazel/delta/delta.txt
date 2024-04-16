@@ -2230,7 +2230,6 @@ decemviri
 decemvirs
 decemvirship
 decenary
-decence
 decency
 dices
 diselder
@@ -6361,6 +6360,7 @@ derriere
 decree
 derrieres
 dispersedly
+decence
 derringer
 derringers
 derrire
