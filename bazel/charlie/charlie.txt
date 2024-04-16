@@ -5082,6 +5082,7 @@ casketing
 casketlike
 caskets
 casky
+chattable
 casking
 casklike
 casks
@@ -9253,7 +9254,6 @@ chatot
 chats
 chatsome
 chatta
-chattable
 chattack
 chattah
 chattanooga
