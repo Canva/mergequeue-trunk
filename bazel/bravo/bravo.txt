@@ -3828,6 +3828,7 @@ batwoman
 batwomen
 batz
 batzen
+belaying
 billowing
 baubee
 baubees
@@ -5605,7 +5606,6 @@ belay
 belayed
 bedticking
 belayer
-belaying
 belays
 belait
 belaites
