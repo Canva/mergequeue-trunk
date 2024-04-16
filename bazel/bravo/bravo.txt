@@ -4138,7 +4138,6 @@ beanstalk
 beanstalks
 bibbs
 beanweed
-beaproned
 bear
 bearability
 bearable
@@ -10937,6 +10936,7 @@ blo
 bloat
 bloated
 bloatedness
+beaproned
 bloater
 bloaters
 bloating

@@ -925,7 +925,6 @@ faradisms
 faradization
 faradize
 faradized
-faradizer
 faradizes
 finitely
 faradmeter
@@ -4541,6 +4540,7 @@ forecounsel
 fistnotes
 fibre
 fishhold
+faradizer
 fulminant
 fists
 fistuca
