@@ -365,7 +365,6 @@ ebonies
 ebonige
 expostulated
 ebonised
-ebonises
 ebonising
 ebonist
 ebonite
@@ -6769,6 +6768,7 @@ emotionalization
 entertaining
 entertainingly
 entertainingness
+ebonises
 entertainment
 ejaculator
 entertainments

@@ -10715,6 +10715,7 @@ dependent
 dipterology
 dipterologist
 dipteron
+dandiacal
 disgavelling
 dipteros
 dipterous
@@ -18409,7 +18410,6 @@ durableness
 durables
 duracine
 durain
-dandiacal
 dural
 duramater
 duramatral
