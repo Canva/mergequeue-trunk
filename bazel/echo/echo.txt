@@ -5783,6 +5783,7 @@ engler
 englerophoenix
 englify
 extrasystolic
+eudiagnostic
 englifier
 englyn
 english
@@ -10821,7 +10822,6 @@ eudemons
 eudesmol
 eudemonics
 eudeve
-eudiagnostic
 eudiaphoresis
 eudidymite
 eudiometer
