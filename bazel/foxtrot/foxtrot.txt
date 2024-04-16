@@ -2801,7 +2801,6 @@ fetched
 fibrinate
 frontosquamosal
 filanders
-fetcher
 fetchers
 fetches
 fetching
@@ -6714,6 +6713,7 @@ focalizing
 focally
 focaloid
 foci
+fetcher
 focimeter
 focimetry
 fockle
