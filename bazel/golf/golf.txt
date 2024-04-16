@@ -1675,7 +1675,6 @@ gasterolichenes
 gasteromycete
 gasteromycetes
 gasteromycetous
-geomorphologist
 gasteropoda
 gasterosteidae
 gasterosteiform
@@ -7166,6 +7165,7 @@ glycollate
 gorgon
 gorgonacea
 gorgonacean
+geomorphologist
 gorgonaceous
 gorgoneia
 glossas
