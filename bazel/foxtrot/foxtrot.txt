@@ -4467,6 +4467,7 @@ flunkydom
 fissioned
 fissioning
 frays
+forestful
 fissions
 fissipalmation
 fissiparation
@@ -8057,7 +8058,6 @@ facetting
 forestery
 foresters
 forestership
-forestful
 foresty
 forestial
 forestian
