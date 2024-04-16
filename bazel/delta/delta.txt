@@ -7252,6 +7252,7 @@ detesting
 detests
 dethyroidism
 dethronable
+drageoir
 dethroned
 dethronement
 dethronements
@@ -16518,7 +16519,6 @@ dragboat
 dragbolt
 dragee
 dragees
-drageoir
 dragged
 dragger
 draggers
