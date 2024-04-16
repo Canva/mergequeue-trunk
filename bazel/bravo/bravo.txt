@@ -10932,6 +10932,7 @@ blizzardous
 blizzards
 blk
 blksize
+bothsided
 blo
 bloat
 bloated
@@ -13312,7 +13313,6 @@ bothrodendron
 bothroi
 bothropic
 bothrops
-bothsided
 bothsidedness
 boththridia
 bothway

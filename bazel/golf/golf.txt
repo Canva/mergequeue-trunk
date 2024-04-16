@@ -455,6 +455,7 @@ galega
 galegine
 galei
 gumshoes
+gastroplication
 galey
 gilo
 galeid
@@ -1862,7 +1863,6 @@ gastrophrenic
 gastrophthisis
 gastroplasty
 gastropleuritis
-gastroplication
 gastropneumonic
 gastropod
 gastropoda
