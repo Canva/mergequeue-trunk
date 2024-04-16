@@ -1294,6 +1294,7 @@ fatalist
 fatalistically
 fatalists
 fatality
+florent
 fatalities
 fatally
 forbecause
@@ -6029,7 +6030,6 @@ furnaced
 floreating
 folletto
 florences
-florent
 florentine
 florentines
 florentium
