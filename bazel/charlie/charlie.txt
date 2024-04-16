@@ -13887,6 +13887,7 @@ cynhyena
 cynias
 cyniatria
 canzos
+coenflame
 cyniatrics
 cynic
 cynical
@@ -17972,7 +17973,6 @@ coenenchymata
 coenenchymatous
 coenenchyme
 coenesthesis
-coenflame
 coengage
 coengager
 coenjoy
