@@ -11753,6 +11753,7 @@ discrowns
 discruciate
 dubby
 discs
+disseating
 discubation
 discubitory
 disculpate
@@ -13398,7 +13399,6 @@ disscussive
 disseason
 disseat
 disseated
-disseating
 dissect
 dissected
 dissectible
