@@ -5359,7 +5359,6 @@ affinitatively
 affinite
 aggerate
 affinity
-affinities
 affinition
 affirmable
 affirmably
@@ -15270,6 +15269,7 @@ antifundamentalist
 antifungal
 antifungin
 antigalactagogue
+affinities
 antigambling
 antiganting
 antigen
