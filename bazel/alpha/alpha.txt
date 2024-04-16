@@ -1355,6 +1355,7 @@ acarocecidia
 acarocecidium
 acarodermatitis
 acaroid
+acronymous
 acarol
 acarology
 acarologist
@@ -2979,7 +2980,6 @@ atmogenic
 apium
 acronymized
 acronymizing
-acronymous
 acronyms
 acronomy
 acrook
