@@ -10550,6 +10550,7 @@ bleached
 bleacher
 bleachery
 bleacherite
+blowsy
 bleacherman
 bleachers
 bleaches
@@ -11231,7 +11232,6 @@ blowproof
 blows
 blowse
 blowsed
-blowsy
 baldpate
 blowsier
 blowspray

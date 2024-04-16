@@ -1328,6 +1328,7 @@ garboils
 garbologist
 garbure
 garish
+goring
 garce
 grallina
 garcinia
@@ -7205,7 +7206,6 @@ gorilloid
 goriness
 garlandless
 gorinesses
-goring
 gorki
 gorkiesque
 gorkun
