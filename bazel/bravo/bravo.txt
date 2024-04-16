@@ -14322,6 +14322,7 @@ brainstormer
 brainstorming
 brainstorms
 brainteaser
+bulbose
 brainteasers
 brainward
 brainwash
@@ -16972,7 +16973,6 @@ bulbomembranous
 bulbonuclear
 bulbophyllum
 bulborectal
-bulbose
 bulbospinal
 bulbotuber
 bulbourethral
