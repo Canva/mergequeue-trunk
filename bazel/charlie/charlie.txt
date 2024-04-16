@@ -630,6 +630,7 @@ caesuras
 caesuric
 caf
 camerier
+chippered
 cafard
 cafardise
 chicky
@@ -10846,7 +10847,6 @@ chippage
 chipped
 chippendale
 chipper
-chippered
 chippering
 chippers
 chippewa

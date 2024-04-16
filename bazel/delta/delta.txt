@@ -10403,7 +10403,6 @@ diphyletic
 diphylla
 diphylleia
 diphyllobothrium
-diphyllous
 diphyodont
 diphyozooid
 diphysite
@@ -13515,6 +13514,7 @@ dissyllabic
 dissyllabify
 dissyllabification
 dissyllabise
+diphyllous
 dissyllabised
 dissyllabising
 dissyllabism
