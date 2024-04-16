@@ -7510,6 +7510,7 @@ albumenised
 albumeniser
 albumenising
 albumenization
+antilogism
 albumenize
 albumenized
 albumenizer
@@ -15466,7 +15467,6 @@ antilogy
 antilogic
 atropinize
 antilogies
-antilogism
 antilogistic
 antilogistically
 antilogous

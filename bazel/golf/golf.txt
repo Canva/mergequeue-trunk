@@ -7429,7 +7429,6 @@ gourmanderie
 gourmandise
 glt
 gourmandism
-gourmandize
 gourmandizer
 gomerals
 gourmands
@@ -7655,6 +7654,7 @@ graduator
 graduators
 graduses
 graeae
+gourmandize
 gastroenteroptosis
 graecian
 graecism
