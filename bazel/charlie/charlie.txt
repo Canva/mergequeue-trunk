@@ -3647,6 +3647,7 @@ carbolate
 carbolated
 carbolating
 carbolfuchsin
+culturologically
 carbolic
 carbolics
 carboline
@@ -30874,7 +30875,6 @@ culturization
 culturize
 culturology
 culturological
-culturologically
 cacatua
 culturologist
 cultus

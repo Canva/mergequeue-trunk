@@ -2450,7 +2450,6 @@ extraorbital
 electrography
 electrographic
 electrographite
-electrograving
 electroharmonic
 electrohemostasis
 engrailment
@@ -9854,6 +9853,7 @@ espying
 espinal
 elaphoglossum
 espinel
+electrograving
 espied
 espinette
 espingole
