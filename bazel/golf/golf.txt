@@ -3519,6 +3519,7 @@ gerundial
 gastropyloric
 gerundival
 gerundive
+guesstimate
 gimps
 gerunds
 gervais
@@ -9348,7 +9349,6 @@ gethsemanic
 grossers
 grosses
 grossest
-guesstimate
 grosshead
 grossierete
 grossify
