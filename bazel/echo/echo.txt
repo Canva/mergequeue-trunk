@@ -6729,6 +6729,7 @@ enterostasis
 evolutionally
 enterostenosis
 enterostomy
+exxon
 enterostomies
 enterotome
 enterotomy
@@ -14189,7 +14190,6 @@ exuviates
 exuviating
 exuviation
 exuvium
-exxon
 exzodiacal
 ensand
 ezba
