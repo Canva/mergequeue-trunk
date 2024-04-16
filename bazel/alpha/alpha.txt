@@ -2268,7 +2268,6 @@ achingly
 achiote
 achiotes
 achira
-achyranthes
 achirite
 achyrodes
 achitophel
@@ -17290,6 +17289,7 @@ apologue
 apologues
 areas
 apolousis
+achyranthes
 apolune
 antireactive
 apolunes
