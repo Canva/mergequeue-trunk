@@ -6412,7 +6412,6 @@ goaves
 gob
 goback
 goban
-gobang
 girl
 gobans
 gobbe
@@ -9720,6 +9719,7 @@ glidewort
 grunt
 grunted
 gossypol
+gobang
 grunter
 grunters
 grunting

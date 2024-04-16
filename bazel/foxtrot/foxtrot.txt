@@ -4563,6 +4563,7 @@ fit
 fitch
 fitche
 fitched
+floorward
 fitchee
 fobbed
 fitcher
@@ -5984,7 +5985,6 @@ floorthrough
 floorway
 floorwalker
 floorwalkers
-floorward
 furniment
 frush
 floorwise
