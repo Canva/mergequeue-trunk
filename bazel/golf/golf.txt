@@ -1809,7 +1809,6 @@ grassquit
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
-gowning
 gastrolavage
 gastrolienal
 gastrolysis
@@ -1862,6 +1861,7 @@ gastropleuritis
 gastropneumonic
 gastropod
 gastropoda
+gowning
 gastropodan
 gastropore
 gastroptosia
