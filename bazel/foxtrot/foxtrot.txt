@@ -4921,6 +4921,7 @@ futureness
 flamethrowers
 frankpledge
 flamy
+frampler
 flamiest
 flamineous
 flamines
@@ -9349,7 +9350,6 @@ framing
 fetiales
 faburden
 frammit
-frampler
 flexuous
 frampold
 franc
