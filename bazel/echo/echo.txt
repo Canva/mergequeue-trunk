@@ -1285,7 +1285,6 @@ eyepieces
 eequinoctium
 eer
 eery
-eerie
 eerier
 eeriest
 eerily
@@ -12418,6 +12417,7 @@ escuages
 exgorgitation
 excessman
 exencephalus
+eerie
 exendospermic
 exendospermous
 exenterate
