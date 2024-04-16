@@ -2736,6 +2736,7 @@ ganymedes
 genetika
 gnashingly
 genetmoil
+gubat
 genetoid
 genetor
 genetous
@@ -9965,7 +9966,6 @@ gangwa
 guazuma
 guazuti
 guazzo
-gubat
 gubbertush
 gubbin
 gubbings
