@@ -742,6 +742,7 @@ economizes
 economizing
 ecophysiology
 ecophysiological
+epiphysis
 ecorch
 epiphanize
 ecorche
@@ -8108,7 +8109,6 @@ epiphyseolysis
 epiphyses
 elemi
 epiphysial
-epiphysis
 epiphysitis
 epiphytal
 epiphyte
