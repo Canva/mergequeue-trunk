@@ -184,6 +184,7 @@ earthpeas
 earthquaked
 earthquaken
 earthquakes
+enstamp
 earthquaking
 earthquave
 earthrise
@@ -5014,7 +5015,6 @@ endeavors
 endeavour
 endeavoured
 endeavourer
-enstamp
 endeavouring
 endebt
 eustatically
