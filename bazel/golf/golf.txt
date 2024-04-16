@@ -3400,7 +3400,6 @@ germaniums
 gashest
 germanization
 germanize
-germanized
 gnocchi
 germanizer
 germanly
@@ -8619,6 +8618,7 @@ greenbugs
 greenbul
 greencloth
 greencoat
+germanized
 gooks
 greened
 greeney
