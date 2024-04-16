@@ -3020,7 +3020,6 @@ barroom
 barrooms
 barrow
 barrowcoat
-barrowful
 barrowist
 berrylike
 barrowman
@@ -11123,6 +11122,7 @@ bloomers
 bloomfell
 bloomy
 bloomier
+barrowful
 bloomiest
 bloomingly
 bloomingness
