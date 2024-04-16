@@ -8156,6 +8156,7 @@ forewarner
 forewarning
 forewarningly
 forewarns
+friskets
 flaxseed
 foreween
 foreweep
@@ -10258,7 +10259,6 @@ frizzer
 formerness
 frizzers
 frizzes
-friskets
 feminizes
 finning
 fomented
