@@ -2510,7 +2510,6 @@ aciniform
 angiosclerosis
 acinose
 acinotubular
-acinous
 acinuni
 addicent
 acinus
@@ -8856,6 +8855,7 @@ allogenically
 allograft
 allograph
 allographic
+acinous
 alloy
 alloyage
 alloyed
