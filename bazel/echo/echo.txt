@@ -1134,6 +1134,7 @@ edison
 edit
 editable
 edital
+enhypostatize
 editchar
 edited
 edith
@@ -5944,7 +5945,6 @@ enhydros
 enhypostasia
 enhypostasis
 enhypostatic
-enhypostatize
 eudalene
 enhorror
 enhort
