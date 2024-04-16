@@ -9076,6 +9076,7 @@ foveolae
 foveolar
 foveolarious
 falconry
+frolic
 foveolate
 foveolated
 foveole
@@ -10339,7 +10340,6 @@ froise
 froisse
 frokin
 fletch
-frolic
 fibrinoplastic
 frolicful
 flagships

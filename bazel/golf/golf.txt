@@ -4121,6 +4121,7 @@ gilled
 gillenia
 gracefulness
 gali
+granitiform
 giller
 gillers
 gilles
@@ -7996,7 +7997,6 @@ granitic
 granitical
 granitiferous
 granitification
-granitiform
 granitite
 granitize
 governorship
