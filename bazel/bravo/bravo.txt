@@ -6212,6 +6212,7 @@ beneficium
 benefit
 benefited
 benefiter
+burglarise
 bothros
 benefiting
 benefits
@@ -17646,7 +17647,6 @@ burglary
 burglaries
 burglarious
 burglariously
-burglarise
 burglarised
 burglarising
 burglarize
