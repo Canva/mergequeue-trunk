@@ -4623,7 +4623,6 @@ carpologist
 carpomania
 carpometacarpal
 carpometacarpi
-carpometacarpus
 carpompi
 carpool
 carpools
@@ -9686,6 +9685,7 @@ cheilostomatous
 cheilotomy
 cheilotomies
 cheimaphobia
+carpometacarpus
 cheimatophobia
 cheyney
 cheyneys
