@@ -7248,6 +7248,7 @@ bestowal
 bestowals
 bestower
 bestowing
+bodykins
 bestowment
 bestows
 bestraddle
@@ -11758,7 +11759,6 @@ bodyguards
 bodyhood
 beribers
 bodying
-bodykins
 bodiless
 bodyless
 bodilessness

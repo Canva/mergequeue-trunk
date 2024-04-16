@@ -12044,7 +12044,6 @@ anatira
 anatman
 anatocism
 anatole
-anatoly
 anatolian
 anatolic
 anatomy
@@ -16888,6 +16887,7 @@ ammocoetoid
 aphorists
 aphorize
 aphorized
+anatoly
 aphorizes
 aphorizing
 aphoruridae
