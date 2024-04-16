@@ -25329,7 +25329,6 @@ cornetter
 craning
 cornetti
 cornettino
-cornettist
 cornetto
 corneule
 corneum
@@ -29861,6 +29860,7 @@ crossings
 caulicule
 crossite
 crossjack
+cornettist
 crosslap
 crosslegs
 crossley
