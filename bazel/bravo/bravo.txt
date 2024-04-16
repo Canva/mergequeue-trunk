@@ -10733,6 +10733,7 @@ blepharoplegia
 blepharoptosis
 blepharorrhaphy
 blepharosyndesmitis
+brownnose
 blepharosynechia
 blepharospasm
 blepharospath
@@ -16205,7 +16206,6 @@ brownistical
 brownly
 brownness
 bromidrosis
-brownnose
 brownnoser
 brownout
 brownouts
