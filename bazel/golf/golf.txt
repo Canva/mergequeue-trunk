@@ -4173,6 +4173,7 @@ gimballing
 gimbals
 gothamite
 gismo
+gonomere
 groining
 gastrostomies
 gimbawawed
@@ -6892,7 +6893,6 @@ gonocoele
 gonoecium
 gonof
 gonofs
-gonomere
 greyer
 gonomery
 gonophore
