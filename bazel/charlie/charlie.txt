@@ -15927,7 +15927,6 @@ clenching
 cleoid
 cleome
 cleopatra
-clep
 cleped
 clepes
 cleping
@@ -25780,6 +25779,7 @@ corrodies
 corroding
 corrosibility
 corrosibleness
+clep
 corrosional
 corrosionproof
 corrosive
