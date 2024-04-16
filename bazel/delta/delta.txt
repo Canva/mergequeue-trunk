@@ -3912,7 +3912,6 @@ dekarch
 dekare
 dekastere
 deke
-deked
 dekes
 deking
 dekko
@@ -12790,6 +12789,7 @@ disorders
 disordinance
 disordinate
 disordinated
+deked
 dysorexia
 disorganic
 disorganise

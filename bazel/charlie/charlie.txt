@@ -11145,7 +11145,6 @@ chlamydomonadidae
 chlamydomonas
 chlamydophore
 countertrippant
-chlamydosaurus
 chlamydoselachidae
 chlamydoselachus
 chlamydosporic
@@ -30013,6 +30012,7 @@ crowbell
 crowberry
 crowbill
 crowboot
+chlamydosaurus
 crowd
 crowded
 crowdedly
