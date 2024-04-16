@@ -10309,7 +10309,6 @@ blandishments
 blandly
 berger
 blandness
-blank
 blankard
 blankbook
 blanked
@@ -12915,6 +12914,7 @@ borated
 borates
 borating
 borax
+blank
 boraxes
 borazon
 borazons
