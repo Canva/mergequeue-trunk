@@ -4576,6 +4576,7 @@ gaetulan
 gipped
 gypped
 gipper
+gthite
 gypper
 gyppery
 gyppers
@@ -9743,7 +9744,6 @@ gtc
 gentlemanlike
 gtd
 gteau
-gthite
 gtt
 gu
 guaba
