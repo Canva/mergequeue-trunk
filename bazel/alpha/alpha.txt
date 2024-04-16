@@ -3727,7 +3727,6 @@ adenomyxoma
 adenomyxosarcoma
 adenoncus
 adenoneural
-adenoneure
 adenopathy
 adenopharyngeal
 adenopharyngitis
@@ -21146,6 +21145,7 @@ ashkenazim
 ashlar
 ashlared
 ashlaring
+adenoneure
 ashlars
 ashler
 ashlered
