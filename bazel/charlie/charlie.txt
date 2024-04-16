@@ -3391,7 +3391,6 @@ captivation
 captivative
 captivator
 captivators
-captivatrix
 captive
 captived
 calvarias
@@ -30363,6 +30362,7 @@ cosmozoan
 cs
 csardas
 csc
+captivatrix
 csch
 csect
 chitinocalcareous
