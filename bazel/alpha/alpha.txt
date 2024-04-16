@@ -10318,6 +10318,7 @@ ameristic
 amerveil
 amesaces
 amesite
+autonomically
 amess
 ametabola
 ametaboly
@@ -24255,7 +24256,6 @@ autonomasy
 autonomic
 amusing
 autonomical
-autonomically
 autonomies
 autonomist
 autonomize
