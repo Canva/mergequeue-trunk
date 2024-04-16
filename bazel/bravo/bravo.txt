@@ -1951,7 +1951,6 @@ banditry
 barramundas
 bandits
 banditti
-bandle
 bandleader
 bandless
 bejabers
@@ -6931,6 +6930,7 @@ beseechingness
 beseechment
 beseek
 beseem
+bandle
 beseemed
 beseeming
 beseemingly
