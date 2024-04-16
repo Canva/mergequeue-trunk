@@ -10619,7 +10619,6 @@ bleeps
 bleery
 bleeze
 bischofite
-bleezy
 babuma
 bleymes
 bleinerite
@@ -13168,6 +13167,7 @@ bosporian
 bosporus
 bosque
 bosques
+bleezy
 bosquet
 bosquets
 bossage
