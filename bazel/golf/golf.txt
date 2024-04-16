@@ -7844,6 +7844,7 @@ grampa
 gramper
 gramps
 grampus
+guessingly
 gagor
 gaddish
 grampuses
@@ -10072,7 +10073,6 @@ guesser
 guessers
 guesses
 guessing
-guessingly
 gravitative
 gadinine
 guessive

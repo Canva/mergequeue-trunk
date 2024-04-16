@@ -303,7 +303,6 @@ dagswain
 daguerrean
 daguerreotype
 daguerreotyped
-daguerreotyper
 daguerreotypic
 daguerreotyping
 daguerreotypist
@@ -12145,6 +12144,7 @@ disgorging
 disgospel
 disgospelize
 disgout
+daguerreotyper
 disgrace
 disgraced
 dysgenetic
