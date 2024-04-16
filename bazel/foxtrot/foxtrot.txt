@@ -560,7 +560,6 @@ fallals
 fallation
 fallaway
 fallback
-fallbacks
 fallectomy
 fallen
 fallenness
@@ -2725,6 +2724,7 @@ fessways
 fest
 festae
 festal
+fallbacks
 festally
 feste
 festellae

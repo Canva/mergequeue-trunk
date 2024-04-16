@@ -5571,6 +5571,7 @@ beknight
 belfather
 blossoming
 beknighted
+blarney
 beknighting
 beknived
 ballistite
@@ -10365,7 +10366,6 @@ blares
 blarina
 blaring
 boredness
-blarney
 blarneyed
 blarneyer
 blarneying
