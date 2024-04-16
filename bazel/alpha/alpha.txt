@@ -6201,6 +6201,7 @@ agitated
 agitatedly
 agitates
 agitating
+antimodernist
 agitation
 achillein
 automatized
@@ -15587,7 +15588,6 @@ antimodel
 antimodern
 altitudinal
 antimodernism
-antimodernist
 antimodernistic
 antimodernization
 antimodernly
