@@ -17809,7 +17809,6 @@ applicableness
 applicably
 applicancy
 applicant
-applicants
 applicate
 application
 applications
@@ -20679,6 +20678,7 @@ articulations
 articulative
 anteroventrally
 articulator
+applicants
 articulatorily
 articulators
 articulite
