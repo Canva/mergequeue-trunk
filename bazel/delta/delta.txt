@@ -2275,7 +2275,6 @@ decentres
 decentring
 decephalization
 decephalize
-deceptible
 deceptional
 deceptions
 deceptious
@@ -14864,6 +14863,7 @@ dogfighting
 dogfights
 dogfish
 dogfishes
+deceptible
 dogfoot
 dogfought
 dogged
