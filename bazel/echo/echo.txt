@@ -1885,7 +1885,6 @@ eighties
 eightieth
 eightieths
 eightyfold
-electropotential
 eightling
 eightpenny
 eights
@@ -7621,6 +7620,7 @@ epicalyxes
 epically
 epicanthi
 epicanthic
+electropotential
 epicanthus
 epicardia
 epicardium
