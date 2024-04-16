@@ -4096,7 +4096,6 @@ deceleration
 delighter
 delightful
 delightfully
-delightfulness
 delightingly
 delightless
 delights
@@ -6012,6 +6011,7 @@ deradelphus
 deradenitis
 deradenoncus
 derah
+delightfulness
 deray
 deraign
 deraigned
