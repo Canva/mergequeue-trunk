@@ -118,6 +118,7 @@ dactyliology
 dactyliomancy
 dactylion
 dispersonalize
+died
 dactyliotheca
 dactylis
 dactylist
@@ -9144,7 +9145,6 @@ diecase
 diecious
 dieciously
 diectasis
-died
 decanters
 dyed
 diedric
