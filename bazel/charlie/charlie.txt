@@ -6225,7 +6225,6 @@ causidical
 causing
 causingness
 causon
-causse
 causson
 caustic
 caustical
@@ -11341,6 +11340,7 @@ chlorophyllaceous
 chlorophyllase
 chlorophyllian
 chlorophyllide
+causse
 chlorophylliferous
 chlorophylligenous
 chlorophylligerous
