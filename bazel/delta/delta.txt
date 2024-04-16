@@ -5708,7 +5708,6 @@ deplore
 deplored
 deploredly
 deploredness
-deplorer
 deplorers
 deplores
 deploring
@@ -10191,6 +10190,7 @@ dint
 dinted
 diana
 dinting
+deplorer
 dintless
 dints
 dinumeration
