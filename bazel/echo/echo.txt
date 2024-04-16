@@ -7784,6 +7784,7 @@ epidendrum
 epiderm
 epiderma
 epidermal
+epistolarily
 enthelmintha
 epidermatic
 epidermatoid
@@ -8297,7 +8298,6 @@ everness
 epistlers
 epistolary
 epistolarian
-epistolarily
 epistoler
 epistolet
 ensignment
