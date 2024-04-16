@@ -3655,7 +3655,6 @@ deoxidized
 degrease
 degreased
 degreaser
-degreases
 decadescent
 degreasing
 degree
@@ -18270,6 +18269,7 @@ duodecimos
 duodecuple
 duodedenums
 duodena
+degreases
 dismayingness
 duodenal
 duodenary
