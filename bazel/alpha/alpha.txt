@@ -20696,7 +20696,6 @@ artifice
 artificer
 artificers
 artificership
-artifices
 artificial
 artificialism
 artificiality
@@ -21747,6 +21746,7 @@ assiduous
 assiduously
 assiduousness
 assiege
+artifices
 assientist
 assiento
 assiette

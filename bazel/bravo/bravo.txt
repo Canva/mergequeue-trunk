@@ -109,7 +109,6 @@ bioelectrogenetically
 backtrace
 babylonite
 babylonize
-babine
 babingtonite
 babyolatry
 babion
@@ -12587,6 +12586,7 @@ booed
 battik
 boof
 boogeyman
+babine
 boogeymen
 booger
 blockout
