@@ -9352,6 +9352,7 @@ enjambements
 erotetic
 erotic
 erotica
+encastage
 erotical
 erotically
 eroticism
@@ -12333,7 +12334,6 @@ executable
 executant
 execute
 executed
-encastage
 executes
 emball
 executing
