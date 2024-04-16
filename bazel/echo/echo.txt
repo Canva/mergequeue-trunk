@@ -3046,6 +3046,7 @@ eliza
 elizabeth
 elizabethan
 elizabethanize
+expiring
 elizabethans
 elkanah
 engl
@@ -13163,7 +13164,6 @@ expirers
 expires
 expiry
 expiries
-expiring
 eanlings
 expiringly
 expiscate
