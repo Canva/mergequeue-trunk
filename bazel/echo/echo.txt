@@ -6474,6 +6474,7 @@ ensnarement
 ensnarements
 ensnarers
 ensnares
+erminois
 ensnarl
 ensnarled
 ensnarling
@@ -9304,7 +9305,6 @@ exemplupla
 erminette
 ermining
 erminites
-erminois
 ermitophobia
 exhibitive
 erne

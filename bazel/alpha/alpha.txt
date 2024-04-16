@@ -4110,7 +4110,6 @@ administering
 administerings
 administers
 administrable
-administrant
 alewife
 administrants
 administrated
@@ -12366,6 +12365,7 @@ androeccia
 androecia
 androecial
 androecium
+administrant
 androgamone
 androgen
 androgenesis
