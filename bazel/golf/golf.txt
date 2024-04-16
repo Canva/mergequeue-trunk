@@ -5728,7 +5728,6 @@ globulousness
 globus
 glochchidia
 glochid
-glochidia
 glochidial
 glochidian
 glochidiate
@@ -9015,6 +9014,7 @@ grimmiaceae
 goadster
 grimmiaceous
 grimmish
+glochidia
 grimness
 grimnesses
 griping
