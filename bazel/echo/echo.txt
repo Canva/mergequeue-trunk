@@ -7900,7 +7900,6 @@ epigrammatical
 epigrammatically
 encourager
 epigrammatise
-epigrammatised
 epigrammatising
 epigrammatism
 epigrammatize
@@ -11366,6 +11365,7 @@ electrocardiography
 evalue
 evan
 evanesce
+epigrammatised
 evanesced
 evanescence
 evanescency
