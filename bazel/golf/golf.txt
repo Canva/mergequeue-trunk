@@ -569,7 +569,6 @@ gnomonics
 galleyman
 gallein
 galipoidin
-galleine
 galleins
 ginglymi
 galleypot
@@ -2034,6 +2033,7 @@ gaunt
 gaunted
 gaunter
 gauntest
+galleine
 gaunty
 gauntlet
 gauntleted
