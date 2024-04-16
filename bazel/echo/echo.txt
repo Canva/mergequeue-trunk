@@ -1108,7 +1108,6 @@ edificate
 edification
 edificative
 edificator
-elderhood
 earock
 edificatory
 edifice
@@ -2878,6 +2877,7 @@ elev
 encincture
 elevable
 elevate
+elderhood
 elevated
 elevatedly
 elevatedness
