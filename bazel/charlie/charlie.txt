@@ -2742,7 +2742,6 @@ cantalas
 cantalever
 cantalite
 cantaliver
-cantaloup
 careerer
 cantaloupe
 cantaloupes
@@ -14140,6 +14139,7 @@ circlets
 circline
 circocele
 circovarian
+cantaloup
 circue
 circuit
 circuitable

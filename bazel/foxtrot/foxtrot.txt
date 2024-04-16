@@ -5495,7 +5495,6 @@ fletched
 fletcher
 fletcherism
 fletcherite
-fletcherize
 fletchers
 fletchings
 fletton
@@ -9852,6 +9851,7 @@ ferity
 frescoing
 fernambuck
 frescoist
+fletcherize
 frescoists
 frescos
 fresh
