@@ -2042,6 +2042,7 @@ encodes
 elaeagnaceae
 elaeagnaceous
 elaeagnus
+epidictic
 elaeis
 elaenia
 elaeoblast
@@ -7812,7 +7813,6 @@ epidia
 epidialogue
 epidiascope
 epidiascopic
-epidictic
 epididymal
 epididymides
 epididymis
