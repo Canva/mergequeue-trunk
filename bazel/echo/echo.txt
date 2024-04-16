@@ -6539,7 +6539,6 @@ entackle
 entad
 entada
 entail
-entailable
 entailed
 entailer
 entailment
@@ -9122,6 +9121,7 @@ erin
 erinaceous
 erinaceus
 erineum
+entailable
 enantiosis
 eryngium
 eringo
