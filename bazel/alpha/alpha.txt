@@ -16147,7 +16147,6 @@ allometric
 antisensitizing
 antisensuality
 antisensuous
-antisensuously
 antisensuousness
 antisepalous
 antisepsis
@@ -23958,6 +23957,7 @@ autoclasis
 autocomplexes
 autoclaves
 autoclaving
+antisensuously
 autocoder
 autocoherer
 autocoid
