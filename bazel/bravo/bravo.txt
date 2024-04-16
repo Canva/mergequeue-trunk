@@ -440,6 +440,7 @@ backpedaling
 backpiece
 backplane
 backplate
+bolshevism
 backpointer
 backpointers
 backrest
@@ -12167,7 +12168,6 @@ bolshevik
 bolsheviki
 bolshevikian
 bolsheviks
-bolshevism
 bentwood
 bolshevist
 bolshevistic
