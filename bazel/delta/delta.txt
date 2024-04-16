@@ -521,7 +521,6 @@ daleman
 daler
 dales
 dalesfolk
-dalesman
 dalesmen
 dalespeople
 daleswoman
@@ -12362,6 +12361,7 @@ disillusions
 disillusive
 disimagine
 disimitate
+dalesman
 disimitation
 disimpark
 disimpassioned
