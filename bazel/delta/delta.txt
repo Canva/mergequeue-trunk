@@ -2317,6 +2317,7 @@ deash
 dechloridizing
 dechlorinate
 dechlorinated
+droplike
 dechlorinating
 dechlorination
 dechoralize
@@ -17344,7 +17345,6 @@ dropkicks
 droplet
 droplets
 droplight
-droplike
 debris
 dropline
 dropling
