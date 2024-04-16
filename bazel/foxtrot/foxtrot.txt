@@ -10259,7 +10259,6 @@ frized
 frizel
 frizers
 frizes
-frizettes
 frizing
 frizz
 frizzante
@@ -11067,6 +11066,7 @@ fumigating
 fumigations
 fumigator
 fumigatory
+frizettes
 fumigatories
 furzery
 fumigatorium

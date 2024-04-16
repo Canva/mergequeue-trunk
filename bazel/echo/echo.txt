@@ -10953,6 +10953,7 @@ eumenes
 eumenid
 eumenidae
 eumenidean
+evanesced
 eumenides
 ethicized
 eumerism
@@ -11366,7 +11367,6 @@ electrocardiography
 evalue
 evan
 evanesce
-evanesced
 evanescence
 evanescency
 evanescenrly
