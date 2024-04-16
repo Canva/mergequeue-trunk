@@ -4198,6 +4198,7 @@ gymkhanas
 gimlet
 gimleted
 gimleteyed
+guava
 gimlety
 gimleting
 gimlets
@@ -9956,7 +9957,6 @@ guatoan
 guatusan
 guatuso
 guauaenok
-guava
 gambrel
 guavaberry
 guavina

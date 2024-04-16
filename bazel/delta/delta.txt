@@ -7357,6 +7357,7 @@ detruded
 detrudes
 detruding
 detruncate
+dhobey
 deficit
 detruncated
 detruncating
@@ -7950,7 +7951,6 @@ dhyana
 dhikr
 dhikrs
 dhobee
-dhobey
 dhobi
 dhoby
 dhobie
