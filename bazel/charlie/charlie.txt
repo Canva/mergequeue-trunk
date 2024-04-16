@@ -20581,7 +20581,6 @@ complainable
 complainant
 complainants
 complained
-complainer
 complainers
 complaining
 complainingly
@@ -25478,6 +25477,7 @@ coronary
 coronaries
 coronas
 coronate
+complainer
 coronated
 coronation
 corrosible
