@@ -8863,7 +8863,6 @@ fossilify
 fossilification
 fossilisable
 fossilised
-frameableness
 fossilising
 fossilism
 floorhead
@@ -9475,6 +9474,7 @@ frappeing
 frappes
 frapping
 frary
+frameableness
 frasco
 frase
 falsen
