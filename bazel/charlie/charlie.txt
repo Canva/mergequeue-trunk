@@ -5824,6 +5824,7 @@ cathedraled
 cathedralesque
 cathedralic
 cathedrallike
+crunching
 cathedrals
 cathedralwise
 cathedras
@@ -30238,7 +30239,6 @@ crunchier
 crunchiest
 crunchily
 crunchiness
-crunching
 crunchingly
 crunchingness
 crunchweed
