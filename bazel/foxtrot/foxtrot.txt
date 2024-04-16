@@ -573,7 +573,6 @@ fallibly
 farina
 falling
 falloff
-falloffs
 fallopian
 fallostomy
 fallout
@@ -6130,6 +6129,7 @@ flosculous
 frowzier
 flosh
 floss
+falloffs
 faculative
 footbath
 flossa
