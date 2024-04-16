@@ -2891,6 +2891,7 @@ baroxyton
 barpost
 barquantine
 barque
+biti
 barques
 barquest
 bedust
@@ -9810,7 +9811,6 @@ bitewings
 blastiest
 bitheism
 bunton
-biti
 bityite
 bytime
 biting
