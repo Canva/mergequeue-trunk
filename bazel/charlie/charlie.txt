@@ -20678,7 +20678,6 @@ comply
 compliable
 compliableness
 compliance
-compliances
 compliancy
 compliancies
 compliant
@@ -30391,6 +30390,7 @@ ctenodont
 chantefable
 ctenodus
 ctenoid
+compliances
 ctenoidean
 ctenoidei
 ctenoidian
