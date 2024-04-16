@@ -2401,6 +2401,7 @@ candlerent
 candlers
 candles
 candleshine
+celibataire
 candleshrift
 candlesnuffer
 candlestand
@@ -6644,7 +6645,6 @@ carminative
 celialgia
 celibacy
 celibacies
-celibataire
 celibatarian
 celibate
 celibatic

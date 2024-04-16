@@ -9201,7 +9201,6 @@ fractionated
 fractionating
 forbodes
 fractioned
-fractioning
 fractionisation
 fractionise
 fractionised
@@ -9365,6 +9364,7 @@ francisc
 francisca
 franciscan
 franciscanism
+fractioning
 franciscans
 francium
 franciums
