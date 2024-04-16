@@ -1769,7 +1769,6 @@ gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
 gelate
-gastroenteralgia
 gastroenteric
 gerbilles
 gastroenteritic
@@ -4368,6 +4367,7 @@ gynandrous
 gynantherous
 gynarchy
 gynarchic
+gastroenteralgia
 gynarchies
 gyne
 glibbest
