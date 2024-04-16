@@ -4880,7 +4880,6 @@ encradle
 encranial
 encraty
 encratic
-encratism
 encratite
 encrease
 encrimson
@@ -6747,6 +6746,7 @@ enterparlance
 enterpillar
 enterprise
 euphratean
+encratism
 engirdle
 essenianism
 enterprised
