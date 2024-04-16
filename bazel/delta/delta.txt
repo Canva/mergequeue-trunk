@@ -2292,7 +2292,6 @@ decerebrize
 decerned
 decerning
 decerns
-decerp
 decertation
 dielike
 databases
@@ -3103,6 +3102,7 @@ defamed
 defamer
 defamers
 defames
+decerp
 defamy
 defaming
 defamingly
