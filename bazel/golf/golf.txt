@@ -5357,7 +5357,6 @@ gleewoman
 gleg
 glegness
 glegnesses
-gley
 gleir
 gleys
 gleit
@@ -5448,6 +5447,7 @@ groundman
 gouging
 glycogelatin
 glycogen
+gley
 glycogenase
 glycogenesis
 glycogenetic
