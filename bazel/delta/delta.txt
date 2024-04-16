@@ -5449,6 +5449,7 @@ deodorizers
 deodorizes
 deodorizing
 deontology
+depasturage
 deontological
 deontologist
 deoperculate
@@ -5556,7 +5557,6 @@ delphinoid
 disrepute
 depasturable
 duodecane
-depasturage
 depasturation
 depasture
 depasturing
