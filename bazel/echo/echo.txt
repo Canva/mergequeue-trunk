@@ -3410,7 +3410,6 @@ embarricado
 embarring
 embars
 embassade
-embassador
 embassadress
 embassage
 embassiate
@@ -6043,6 +6042,7 @@ enhaloed
 enlargedness
 enlargement
 eupepsias
+embassador
 enlargements
 enlargers
 enlarges

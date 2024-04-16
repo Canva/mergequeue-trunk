@@ -15232,7 +15232,6 @@ claimsman
 claimsmen
 clayoquot
 claypan
-claypans
 clair
 clairaudience
 clairaudient
@@ -31471,6 +31470,7 @@ cursal
 cursaro
 curse
 cursed
+claypans
 curseder
 cursedest
 cursedly
