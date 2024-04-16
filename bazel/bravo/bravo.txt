@@ -230,7 +230,6 @@ baccy
 bacciferous
 baccilla
 baccilli
-baccillla
 baccillum
 baccivorous
 boers
@@ -13166,6 +13165,7 @@ bosque
 bosques
 bleezy
 bosquet
+baccillla
 bosquets
 bossage
 bossboy
