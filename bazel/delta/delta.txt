@@ -5313,7 +5313,6 @@ denticulate
 denticulated
 durability
 denticule
-dentiferous
 distempered
 dentification
 dentiform
@@ -6659,6 +6658,7 @@ declared
 desilver
 desilvered
 desilverization
+dentiferous
 desilverized
 desilverizer
 desilverizing

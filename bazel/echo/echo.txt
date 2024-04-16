@@ -2287,6 +2287,7 @@ electrical
 epionynychia
 electricalize
 electrically
+equipoising
 electricalness
 electrican
 electricans
@@ -8758,7 +8759,6 @@ eternalising
 equipments
 equipoise
 equipoised
-equipoising
 equipollence
 equipollency
 emprosthotonus
