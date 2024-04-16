@@ -5285,6 +5285,7 @@ gnathostomous
 glazing
 glb
 gld
+gondolier
 glead
 gleam
 guzzler
@@ -6754,7 +6755,6 @@ gondolas
 gondoletta
 grillee
 gangliform
-gondolier
 gringo
 gondoliere
 gondoliers
