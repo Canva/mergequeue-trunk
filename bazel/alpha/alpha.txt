@@ -938,7 +938,6 @@ absenteeship
 absenter
 absenters
 absentia
-absenting
 absently
 absentment
 absentminded
@@ -20052,6 +20051,7 @@ arnica
 arnicas
 arnold
 arnoldist
+absenting
 arnoseris
 arnotta
 arnotto
