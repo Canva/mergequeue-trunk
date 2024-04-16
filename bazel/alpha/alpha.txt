@@ -20934,6 +20934,7 @@ asceses
 ascesis
 ascetic
 ascetically
+aught
 asceticism
 ataraxias
 ascetics
@@ -23362,7 +23363,6 @@ augerer
 augers
 auget
 augh
-aught
 aughtlins
 aughts
 augite
