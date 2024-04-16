@@ -7141,7 +7141,6 @@ expermentized
 entwines
 entwist
 entwisting
-entwite
 enucleate
 ensuer
 enucleated
@@ -10451,6 +10450,7 @@ ethynyls
 ethiodide
 enlaces
 entincture
+entwite
 erpetoichthys
 ethion
 ethionamide
