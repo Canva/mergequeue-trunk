@@ -7871,7 +7871,6 @@ cesspools
 cest
 cesta
 cestas
-ceste
 cestidae
 cestoda
 cestodaria
@@ -10180,6 +10179,7 @@ chewinks
 chews
 chewstick
 chez
+ceste
 chg
 chhatri
 chi

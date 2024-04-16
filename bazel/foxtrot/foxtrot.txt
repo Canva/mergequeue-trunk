@@ -5883,7 +5883,6 @@ flock
 furdle
 flockbed
 flocker
-flocky
 flockiest
 flocking
 flockings
@@ -9604,6 +9603,7 @@ fred
 fredaine
 freddy
 freddie
+flocky
 freddo
 frederica
 freespac
