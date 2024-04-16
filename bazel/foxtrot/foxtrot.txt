@@ -2767,6 +2767,7 @@ flowerer
 festoon
 festooned
 festoonery
+finings
 festooneries
 festoony
 festooning
@@ -4052,7 +4053,6 @@ finiglacial
 finikin
 finiking
 fining
-finings
 finis
 finish
 finishable
