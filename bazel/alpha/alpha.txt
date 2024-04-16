@@ -19718,7 +19718,6 @@ arimasp
 arimaspian
 arimathaean
 ariocarpus
-arioi
 arioian
 ariolate
 ariole
@@ -20171,6 +20170,7 @@ arraign
 arraignability
 arraignable
 arraigned
+arioi
 arraigner
 aerosats
 arraigning

@@ -5628,6 +5628,7 @@ flightless
 forepassed
 flights
 flightshot
+freelovism
 flightworthy
 flyings
 flyleaf
@@ -9687,7 +9688,6 @@ freeloaded
 fopping
 freeloaders
 footworn
-freelovism
 freemanship
 freemason
 freemasonic
