@@ -5837,7 +5837,6 @@ glossary
 glossarial
 glossarian
 glossaries
-gorier
 glossarist
 glossarize
 gifture
@@ -6217,6 +6216,7 @@ gnathite
 gnathites
 garuda
 gynaecomasty
+gorier
 gnathitis
 gnathobase
 gnathobasic
