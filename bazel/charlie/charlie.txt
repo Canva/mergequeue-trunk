@@ -20168,6 +20168,7 @@ commonance
 commoned
 commonefaction
 commoney
+corpsman
 commoner
 commoners
 commonership
@@ -25587,7 +25588,6 @@ corpselike
 corpselikeness
 corpses
 corpsy
-corpsman
 corpsmen
 corpulence
 corpulences
