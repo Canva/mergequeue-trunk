@@ -6354,7 +6354,6 @@ benumb
 benumbed
 benumbing
 benumbingly
-benumbment
 benumbs
 benvenuto
 benward
@@ -15437,6 +15436,7 @@ brink
 brinkless
 brinkmanship
 brinks
+benumbment
 brinksmanship
 brinny
 brins
