@@ -552,6 +552,7 @@ backstroke
 backstrokes
 burdenable
 backstroking
+basnet
 backstromite
 backswept
 backswimmer
@@ -13040,7 +13041,6 @@ bornites
 bornitic
 boro
 borocaine
-basnet
 borocalcite
 borocitrate
 borofluohydric
