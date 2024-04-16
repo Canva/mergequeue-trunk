@@ -6838,6 +6838,7 @@ goniometer
 goniometry
 goniometric
 goniometrical
+grinned
 gonion
 gonyoncus
 gynophagite
@@ -9044,7 +9045,6 @@ grindstones
 gringole
 gringophobia
 gringos
-grinned
 grinner
 grinners
 grinny
