@@ -4822,6 +4822,7 @@ encolumn
 encolure
 encomendero
 euchologia
+euxine
 encomy
 encomia
 encomiastic
@@ -11326,7 +11327,6 @@ euxanthone
 euxenite
 euxenites
 eigne
-euxine
 eva
 evacuant
 evacuants
