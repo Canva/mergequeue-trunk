@@ -11394,6 +11394,7 @@ amula
 amulae
 amulas
 amulet
+ankylorrhinia
 amuletic
 amulets
 amulla
@@ -15350,7 +15351,6 @@ antihypertensives
 antihypnotic
 alkalous
 antihypnotically
-ankylorrhinia
 antihypochondriac
 antihypophora
 antihistamine
