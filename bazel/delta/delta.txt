@@ -6736,6 +6736,7 @@ desmatippus
 desmectasia
 desmepithelium
 desmic
+dulcid
 desmid
 desmidiaceae
 desmidiaceous
@@ -17958,7 +17959,6 @@ dulcets
 dulcian
 dulcianas
 descaled
-dulcid
 dulcify
 dulcification
 dewater
