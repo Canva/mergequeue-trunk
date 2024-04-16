@@ -4096,6 +4096,7 @@ beaminess
 beamsmen
 beaming
 beamingly
+bitterns
 beamish
 beamishly
 beamless
@@ -9868,7 +9869,6 @@ bitterly
 bitterling
 bittern
 bitterness
-bitterns
 bitternut
 brooklime
 bitterroot
