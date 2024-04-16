@@ -12980,6 +12980,7 @@ aquaduct
 angulation
 angulatogibbous
 antilegalist
+ankylosing
 angulatosinuous
 angule
 anguliferous
@@ -13414,7 +13415,6 @@ ankylosaur
 ankylosaurus
 ankylose
 ankyloses
-ankylosing
 ankylosis
 ankylostoma
 ankylostomiasis

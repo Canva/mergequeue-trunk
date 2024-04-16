@@ -1976,6 +1976,7 @@ gaud
 gaudeamus
 gaudeamuses
 gammarus
+glanced
 gaudery
 gauderies
 gaudy
@@ -5111,7 +5112,6 @@ glamourous
 glamourously
 glamours
 glance
-glanced
 glancer
 glances
 guaxima
