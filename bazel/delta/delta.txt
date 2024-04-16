@@ -11730,7 +11730,6 @@ discriminately
 discriminateness
 discriminates
 discriminating
-discriminatingly
 dephlogistication
 discriminatingness
 discrimination
@@ -17651,6 +17650,7 @@ dualin
 dualism
 dualisms
 dualist
+discriminatingly
 dualistic
 dualistically
 dualists
