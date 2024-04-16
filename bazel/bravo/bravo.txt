@@ -9549,6 +9549,7 @@ birthnight
 birthplace
 birthplaces
 birthrate
+burnishers
 birthrates
 birthright
 birthrights
@@ -17795,7 +17796,6 @@ burnish
 burnishable
 burnished
 burnisher
-burnishers
 burnishes
 burnishing
 burnishment
