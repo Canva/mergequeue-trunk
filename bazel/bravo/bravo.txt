@@ -6945,7 +6945,6 @@ bendel
 beastie
 beseemingness
 beseemly
-beseemliness
 beseems
 beseen
 beset
@@ -16799,6 +16798,7 @@ bibliokelpt
 buffeter
 buffeters
 buffeting
+beseemliness
 buffetings
 buffets
 buffi

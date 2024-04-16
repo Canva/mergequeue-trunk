@@ -2442,6 +2442,7 @@ acidoproteolytic
 acidoses
 afternoon
 acidosis
+arsenophenol
 acidotic
 acidproof
 acids
@@ -20386,7 +20387,6 @@ arsenolite
 arsenophagy
 arsenophen
 arsenophenylglycin
-arsenophenol
 arsenopyrite
 arsenostyracol
 arsenotherapy
