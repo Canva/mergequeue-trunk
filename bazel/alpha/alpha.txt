@@ -2917,6 +2917,7 @@ acrologic
 acrologically
 acrologism
 arboriculturist
+angioparesis
 alsmekill
 apostolically
 acrologue
@@ -12785,7 +12786,6 @@ angionoma
 angionosis
 angioparalysis
 angioparalytic
-angioparesis
 angiopathy
 aquamanale
 angiophorous
