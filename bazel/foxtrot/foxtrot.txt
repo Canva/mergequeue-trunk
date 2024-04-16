@@ -8085,7 +8085,6 @@ forestries
 flecnode
 forests
 forestside
-forestudy
 flue
 forestwards
 foresummer
@@ -11508,6 +11507,7 @@ furthering
 furtherly
 furthermore
 furthermost
+forestudy
 furthers
 furthersome
 faradonervous
