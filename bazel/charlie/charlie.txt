@@ -3367,7 +3367,6 @@ captainry
 captainries
 captainship
 captainships
-captan
 captance
 captandum
 captans
@@ -6227,6 +6226,7 @@ caustic
 caustical
 caustically
 causticism
+captan
 causticity
 causticization
 causticize
