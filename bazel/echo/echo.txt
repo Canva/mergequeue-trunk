@@ -8336,7 +8336,6 @@ exportations
 epitaphist
 eyeblack
 epitaphize
-epitaphless
 epitaphs
 epitases
 expurgative
@@ -11532,6 +11531,7 @@ eventlessness
 eventognath
 eventognathi
 eventognathous
+epitaphless
 eventration
 events
 eventual
