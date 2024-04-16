@@ -6858,7 +6858,6 @@ bertha
 berthas
 berthed
 berther
-berthierite
 berthing
 bilirubinemia
 berthold
@@ -14736,6 +14735,7 @@ breaching
 bread
 bookless
 breadbasket
+berthierite
 breadbaskets
 breadberry
 battlefield
