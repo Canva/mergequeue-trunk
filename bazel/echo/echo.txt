@@ -1100,6 +1100,7 @@ edictally
 edicts
 edictum
 edicule
+epigaea
 ediface
 ecuadorian
 edify
@@ -7831,7 +7832,6 @@ epifaunal
 epifaunas
 epifocal
 epifolliculitis
-epigaea
 epigaeous
 epigamic
 epigaster
