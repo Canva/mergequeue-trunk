@@ -907,7 +907,6 @@ fapesmo
 faq
 faqir
 faquir
-faquirs
 far
 farad
 faraday
@@ -3169,6 +3168,7 @@ fibromucous
 fibromuscular
 fretworked
 fibronuclear
+faquirs
 fibronucleated
 fibropapilloma
 fibroplasia
