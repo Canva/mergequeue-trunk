@@ -195,6 +195,7 @@ dads
 dadu
 daduchus
 dadupanthi
+dwarfishly
 dae
 daedal
 daedalea
@@ -18643,7 +18644,6 @@ dwarfy
 dwarfing
 derogatoriness
 dwarfish
-dwarfishly
 dwarfishness
 dwarfism
 dwarflike

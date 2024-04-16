@@ -80,7 +80,6 @@ facellite
 facemaker
 facemaking
 faceman
-faceoff
 facepiece
 faceplate
 facer
@@ -550,6 +549,7 @@ feltlike
 fallacious
 fallaciously
 flyability
+faceoff
 fallage
 flamefish
 fallalishly
