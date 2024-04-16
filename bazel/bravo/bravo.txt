@@ -13026,7 +13026,6 @@ borize
 born
 bornan
 bornane
-borne
 bornean
 borneo
 behusband
@@ -15080,6 +15079,7 @@ bunglesome
 brewership
 brewhouse
 beworried
+borne
 brewhouses
 brewing
 brewings
