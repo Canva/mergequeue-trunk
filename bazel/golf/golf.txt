@@ -1879,7 +1879,6 @@ gastroscope
 gastroscopy
 gastroscopic
 gastroscopies
-gastroscopist
 gastrosoph
 gastrosopher
 gastrosophy
@@ -2221,6 +2220,7 @@ gearset
 gearshift
 gearshifts
 gearwheel
+gastroscopist
 gearwheels
 glistening
 gastrular
