@@ -6144,6 +6144,7 @@ glutinant
 glutinate
 glutination
 gowaned
+gos
 glutinative
 gustatorily
 glutinize
@@ -7239,7 +7240,6 @@ gorst
 grayware
 gortonian
 gortonite
-gos
 gesellschaften
 goschen
 gosh

@@ -18260,7 +18260,6 @@ corporealness
 cognation
 cognatus
 cognisability
-cognisable
 cognisableness
 cognisably
 cognisance
@@ -23437,6 +23436,7 @@ contestableness
 contestably
 churled
 contestant
+cognisable
 contestants
 contestate
 contestation
