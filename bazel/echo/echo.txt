@@ -7074,7 +7074,6 @@ equidense
 entrechat
 entrechats
 entrecote
-entrecotes
 entredeux
 entree
 entrees
@@ -8515,6 +8514,7 @@ eponyms
 eponymus
 epoophoron
 epop
+entrecotes
 epopee
 epopoean
 exuding
