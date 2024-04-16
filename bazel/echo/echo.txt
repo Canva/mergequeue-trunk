@@ -5086,6 +5086,7 @@ endnote
 endnotes
 endoabdominal
 endoangiitis
+exodus
 exemplum
 endoaortitis
 endoappendicitis
@@ -12714,7 +12715,6 @@ empover
 exodontist
 enwoven
 exodromic
-exodus
 exoduses
 exoenzyme
 exoenzymic
