@@ -6852,6 +6852,7 @@ despecification
 despect
 despeed
 despend
+dixenite
 desperado
 desperadoes
 desperadoism
@@ -14435,7 +14436,6 @@ dix
 digallate
 diastole
 dixain
-dixenite
 dixy
 dixie
 dixiecrat

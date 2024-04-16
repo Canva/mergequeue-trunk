@@ -4386,6 +4386,7 @@ favellae
 fisherboy
 fisheress
 fragmentate
+fusicoccum
 fishery
 fisheries
 fisherman
@@ -11566,7 +11567,6 @@ footlight
 fusibleness
 fusibly
 fusicladium
-fusicoccum
 fusiform
 fusiformis
 fusil
