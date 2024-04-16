@@ -18343,6 +18343,7 @@ antefebrile
 angiotonase
 arach
 arache
+as
 arachic
 arachide
 arachidic
@@ -20815,7 +20816,6 @@ arzava
 arzawa
 anew
 arzun
-as
 asa
 asaddle
 asafetida
