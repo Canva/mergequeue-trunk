@@ -2860,7 +2860,6 @@ gph
 gease
 genos
 genospecies
-genotype
 genotypes
 genotypic
 genotypical
@@ -6484,6 +6483,7 @@ goblinry
 goblins
 gobmouthed
 gobo
+genotype
 goboes
 gobonated
 gobonee

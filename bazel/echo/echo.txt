@@ -614,6 +614,7 @@ eurypterida
 echoing
 echoingly
 echoism
+electrifies
 echoisms
 echoist
 echoize
@@ -2294,7 +2295,6 @@ electrified
 electrifier
 esthetophore
 electrifiers
-electrifies
 electrifying
 electrine
 electrizable
