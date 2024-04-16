@@ -5047,7 +5047,6 @@ gosain
 glaieul
 glaik
 glaiket
-gavotted
 glaiketness
 glaikit
 glaiks
@@ -5235,6 +5234,7 @@ glucine
 glaucescent
 glaucidium
 grapnels
+gavotted
 glaucin
 glaucine
 glaucionetta
