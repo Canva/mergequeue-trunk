@@ -5646,6 +5646,7 @@ beldamship
 britten
 belder
 belderroot
+billethead
 belduque
 beleaf
 bombazeen
@@ -8632,7 +8633,6 @@ billeted
 billeter
 billeters
 birthwort
-billethead
 billety
 billeting
 billets
