@@ -12315,7 +12315,6 @@ exdelicto
 exdie
 exdividend
 exeat
-exec
 execeptional
 execrable
 execrableness
@@ -13652,6 +13651,7 @@ externalizes
 externally
 externalness
 evolvements
+exec
 externals
 externat
 externate
