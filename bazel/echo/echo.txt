@@ -906,6 +906,7 @@ ectopterygoid
 ectoretina
 ermit
 ectorganism
+externality
 ectorhinal
 ectosarc
 excavated
@@ -13643,7 +13644,6 @@ externalising
 externalism
 externalist
 externalistic
-externality
 externalities
 externalization
 externalize
