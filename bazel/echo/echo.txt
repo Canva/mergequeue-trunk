@@ -5187,7 +5187,6 @@ endodontology
 endodontologist
 endoenteritis
 erbiums
-endoenzyme
 endoergic
 endoesophagitis
 endofaradism
@@ -8886,6 +8885,7 @@ exhedra
 epicerebral
 eradiating
 eradiation
+endoenzyme
 ends
 essential
 eradicable
