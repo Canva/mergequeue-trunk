@@ -3740,7 +3740,6 @@ fractionator
 fantasy
 filles
 fillet
-filleted
 filleting
 filletlike
 fillets
@@ -4084,6 +4083,7 @@ finlandization
 finless
 finlet
 finlike
+filleted
 finmark
 finmarks
 finn
