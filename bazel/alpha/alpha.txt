@@ -5387,7 +5387,6 @@ affixed
 affixer
 affixers
 affixes
-affixial
 affixion
 affixment
 affixt
@@ -6449,6 +6448,7 @@ agreers
 agrees
 agregation
 agrege
+affixial
 agreges
 agreing
 agremens
