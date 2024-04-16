@@ -2461,7 +2461,6 @@ goniotheca
 gelsemine
 gethsemane
 gelseminic
-gelseminine
 gelsemium
 grander
 gelsemiumia
@@ -3153,6 +3152,7 @@ geometrising
 geometrize
 gluconokinase
 geometrized
+gelseminine
 geometrizing
 geometroid
 geometroidea
