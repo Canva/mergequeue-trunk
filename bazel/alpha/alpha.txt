@@ -2515,6 +2515,7 @@ acipenserid
 acipenseridae
 acipenserine
 acipenseroid
+apices
 acipenseroidei
 acyrology
 acyrological
@@ -16954,7 +16955,6 @@ apiarists
 apiator
 apicad
 apically
-apices
 apician
 apicifixed
 apicillary
