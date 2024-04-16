@@ -8390,6 +8390,7 @@ epitheliomas
 epitheliomata
 egyptians
 epitheliomatous
+exfoliation
 epitheliomuscular
 epitheliosis
 epitheliotoxin
@@ -12469,7 +12470,6 @@ exfodiate
 exfoliate
 exfoliated
 exfoliating
-exfoliation
 elpidite
 enunciating
 exfoliative
