@@ -4,7 +4,6 @@ faade
 faailk
 fab
 faba
-fabaceae
 fasciotomy
 fabaceous
 fabella
@@ -8377,6 +8376,7 @@ formal
 formalazine
 formaldehyd
 froufrous
+fabaceae
 formaldehyde
 formaldehydesulphoxylate
 formaldehydesulphoxylic
