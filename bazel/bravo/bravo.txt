@@ -2157,7 +2157,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannerwise
 bannet
 bannets
 bannimus
@@ -14458,6 +14457,7 @@ branchlike
 branchling
 branchman
 branchway
+bannerwise
 brand
 brandade
 branded
