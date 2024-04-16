@@ -8905,7 +8905,6 @@ allopathist
 allopaths
 allopatry
 auxiliatory
-allopatric
 allopatrically
 allophanamid
 allophanamide
@@ -15779,6 +15778,7 @@ antiparastatitis
 antiparliament
 antiparliamental
 antiparliamentary
+allopatric
 antecedental
 antiparliamentarian
 antiparliamentarians
