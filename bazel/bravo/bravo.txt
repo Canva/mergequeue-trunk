@@ -656,7 +656,6 @@ bactericides
 bactericidin
 bacterid
 bacteriemia
-bacteriform
 bacterin
 bacterioagglutinin
 bacterioblast
@@ -15192,6 +15191,7 @@ bride
 bridebed
 bridebowl
 bridecake
+bacteriform
 bridechamber
 barbet
 bridecup
