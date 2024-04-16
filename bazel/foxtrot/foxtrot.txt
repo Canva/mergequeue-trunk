@@ -2517,7 +2517,6 @@ ferrateen
 ferrates
 ferratin
 ferrean
-fluorindine
 foulmouth
 ferredoxin
 ferreiro
@@ -8169,6 +8168,7 @@ forewings
 forewinning
 forewisdom
 flabbiest
+fluorindine
 forewish
 forewit
 flambee
