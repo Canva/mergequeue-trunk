@@ -5763,7 +5763,6 @@ afterthought
 afterthoughted
 afterthoughts
 afterthrift
-aftertime
 aftertimes
 aftertouch
 aftertreatment
@@ -9363,6 +9362,7 @@ alpheus
 alphyl
 alphyls
 alphin
+aftertime
 alphitomorphous
 alphol
 amphopeptone
