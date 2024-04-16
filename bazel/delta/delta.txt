@@ -6744,7 +6744,6 @@ desmidiologist
 desmids
 dampang
 desmine
-desmitis
 desmocytoma
 desmodactyli
 desmodynia
@@ -11583,6 +11582,7 @@ discoplacenta
 discoplacental
 discoplacentalian
 discoplasm
+desmitis
 discopodous
 dejerate
 dendrograph
