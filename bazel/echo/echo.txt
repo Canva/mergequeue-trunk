@@ -889,7 +889,6 @@ ectophyte
 ectophytic
 ectophloic
 ectopy
-ectopia
 ectopias
 ectopic
 ectopistes
@@ -13003,6 +13002,7 @@ expediences
 extremity
 expediency
 expediencies
+ectopia
 expediente
 expediential
 expedientially
