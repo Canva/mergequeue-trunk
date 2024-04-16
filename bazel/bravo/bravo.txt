@@ -17883,7 +17883,6 @@ barmy
 burse
 bursectomy
 burseed
-brachistocephalous
 burseeds
 bursera
 burseraceae
@@ -18247,6 +18246,7 @@ butterfishes
 butterfly
 butterflied
 butterflyer
+brachistocephalous
 butterflies
 butterflyfishes
 butterflying

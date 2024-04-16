@@ -860,7 +860,6 @@ gamb
 gamba
 gambade
 gambades
-garnice
 gambadoes
 gambados
 gambe
@@ -1208,6 +1207,7 @@ ganomalite
 ganophyllite
 ganoses
 ganosis
+garnice
 ganowanian
 growling
 gansa
