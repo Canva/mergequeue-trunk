@@ -8647,6 +8647,7 @@ changemaker
 changement
 changeover
 changeovers
+charpai
 changepocket
 changer
 columbic
@@ -9078,7 +9079,6 @@ clunisian
 charophyta
 charoses
 charoseth
-charpai
 charpais
 charpie
 charpit
