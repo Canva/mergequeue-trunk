@@ -150,6 +150,7 @@ dactylotheca
 dactylous
 dactylozooid
 doubletree
+dioptases
 dactyls
 dermatobia
 dactylus
@@ -10278,7 +10279,6 @@ discophore
 diopsidic
 diopsimeter
 dioptase
-dioptases
 diopter
 diopters
 dioptograph

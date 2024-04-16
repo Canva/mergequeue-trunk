@@ -20296,6 +20296,7 @@ commutable
 commutableness
 commutant
 commutate
+comprehense
 commutated
 commutation
 commutations
@@ -20841,7 +20842,6 @@ comprehender
 comprehendible
 comprehending
 comprehendingly
-comprehense
 comprehensibility
 comprehensible
 comprehensibleness
