@@ -883,7 +883,6 @@ calade
 caladium
 caladiums
 calahan
-calais
 calaite
 calalu
 calamagrostis
@@ -25097,6 +25096,7 @@ coreveler
 coreveller
 corevolve
 cryometer
+calais
 corf
 corfiote
 corflambo
