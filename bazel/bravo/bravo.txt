@@ -2367,7 +2367,6 @@ bandanas
 barbastelle
 barbate
 barbated
-barbatimao
 barbe
 barbeau
 barbecue
@@ -16655,6 +16654,7 @@ buckshees
 buckshot
 buckshots
 buckskin
+barbatimao
 buckskinned
 buckskins
 buckstay
