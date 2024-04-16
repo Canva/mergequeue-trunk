@@ -6905,7 +6905,6 @@ airfields
 airflow
 airflows
 airfoil
-airfoils
 airframe
 airframes
 airfreight
@@ -19137,6 +19136,7 @@ acroataxia
 archrascal
 archreactionary
 archrebel
+airfoils
 archregent
 archrobber
 archrogue
