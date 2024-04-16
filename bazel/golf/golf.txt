@@ -841,6 +841,7 @@ galvanoscopic
 galvanosurgery
 galvanotaxis
 gozell
+gogmagog
 galvanotherapy
 galvanothermy
 galvanothermometer
@@ -6522,7 +6523,6 @@ goggliest
 goglet
 goglets
 granitization
-gogmagog
 gogo
 gohila
 goi
