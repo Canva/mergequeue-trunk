@@ -10525,7 +10525,6 @@ amyloclastic
 amylocoagulase
 amylodextrin
 amylodyspepsia
-amylogen
 amylogenesis
 amylogenic
 amylogens
@@ -14978,6 +14977,7 @@ anticomplementary
 anticomplex
 anticonceptionist
 anticonductor
+amylogen
 anticonfederationism
 anticonfederationist
 anticonfederative
