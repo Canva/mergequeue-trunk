@@ -5034,7 +5034,6 @@ beethovenish
 beethovian
 beety
 beetiest
-beetle
 beetled
 beetleheaded
 beetleheadedness
@@ -8482,6 +8481,7 @@ biogenous
 bilabe
 bilabial
 bilabials
+beetle
 bilabiate
 bilaciniate
 bilayer

@@ -4989,6 +4989,7 @@ glaciological
 glaciologist
 glaciologists
 ganisters
+governments
 glaciomarine
 glaciometer
 glacionatant
@@ -7482,7 +7483,6 @@ governmentalist
 gambrelled
 governmentally
 governmentish
-governments
 governor
 governorate
 governors
