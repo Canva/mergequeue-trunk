@@ -3242,7 +3242,6 @@ elusive
 elusively
 elusiveness
 elusory
-elusoriness
 esophagospasm
 elute
 eluted
@@ -14014,6 +14013,7 @@ entrenched
 exploringly
 extravagancies
 extravagant
+elusoriness
 extravagantes
 extravagantly
 extravagantness

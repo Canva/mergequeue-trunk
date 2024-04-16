@@ -5867,6 +5867,7 @@ agapemonite
 agapetae
 author
 agapeti
+araceous
 amyliferous
 agapetid
 agapetidae
@@ -18348,7 +18349,6 @@ aracanga
 aracari
 araceae
 antefebrile
-araceous
 angiotonase
 arach
 arache
