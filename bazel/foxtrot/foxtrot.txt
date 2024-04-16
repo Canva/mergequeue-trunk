@@ -597,6 +597,7 @@ falseface
 falsehearted
 falseheartedly
 falseheartedness
+fubby
 falsehood
 falsehoods
 falsely
@@ -10801,7 +10802,6 @@ fuage
 fub
 fubbed
 fubbery
-fubby
 fubbing
 fubs
 fubsy
