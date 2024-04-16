@@ -4221,6 +4221,7 @@ bedlids
 beastlike
 beastlily
 beastliness
+bravoes
 beastling
 beastlings
 beastman
@@ -14658,7 +14659,6 @@ braving
 bravish
 bravissimo
 bravoed
-bravoes
 bravoing
 bravoite
 bravura
