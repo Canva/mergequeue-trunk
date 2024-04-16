@@ -3660,7 +3660,6 @@ embryectomy
 embryectomies
 embright
 embrighten
-embryo
 elihu
 embryocardia
 embryoctony
@@ -10189,6 +10188,7 @@ estuant
 erythrodextrin
 estuary
 estuarial
+embryo
 estuarian
 estudy
 entame
