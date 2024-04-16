@@ -2868,6 +2868,7 @@ barotaxis
 barothermograph
 barothermohygrogram
 barothermohygrograph
+bootblack
 baroto
 barotrauma
 barotraumas
@@ -12794,7 +12795,6 @@ boosts
 brachigerous
 boot
 bootable
-bootblack
 bootblacks
 bootboy
 bemeal

@@ -7501,7 +7501,6 @@ devarshi
 devas
 devast
 devastate
-devastates
 devastating
 devastatingly
 doigte
@@ -15735,6 +15734,7 @@ dorsalis
 duodecimomos
 dorsally
 dorsalmost
+devastates
 dorsals
 developmentalist
 dorsalward
