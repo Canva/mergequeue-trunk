@@ -2699,6 +2699,7 @@ acquent
 acquereur
 acquest
 acquests
+alaskans
 acquiesce
 acquiesced
 acquiescement
@@ -7344,7 +7345,6 @@ antipolo
 alaska
 alaskaite
 alaskan
-alaskans
 alaskas
 alaskite
 alastair
