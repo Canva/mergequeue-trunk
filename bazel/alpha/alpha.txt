@@ -16864,6 +16864,7 @@ aphony
 aphonia
 aphonias
 aphonic
+asteriscus
 aphonics
 aphonous
 aphorise
@@ -22028,7 +22029,6 @@ asterion
 advisers
 asterionella
 arabicize
-asteriscus
 asteriscuses
 asterisk
 asterisked
