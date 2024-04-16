@@ -3902,6 +3902,7 @@ finals
 finance
 financed
 financer
+flavorer
 finances
 financial
 fredricite
@@ -5251,7 +5252,6 @@ flavoprotein
 flavopurpurin
 flavor
 flavored
-flavorer
 flavorers
 flavorful
 flavorfully
