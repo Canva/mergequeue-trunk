@@ -5203,7 +5203,6 @@ gaumed
 gymnolaema
 gummites
 glassines
-glassiness
 glassing
 glasslike
 glasslikeness
@@ -8014,6 +8013,7 @@ grannie
 grannies
 grannyknot
 grano
+glassiness
 granodiorite
 granogabbro
 grape

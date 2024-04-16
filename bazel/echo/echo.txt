@@ -8404,6 +8404,7 @@ epithermal
 epithermally
 emmenia
 epithesis
+ectoprocta
 epithet
 epithetic
 epithetical
@@ -14054,7 +14055,6 @@ extremely
 extremeness
 extremer
 extremes
-ectoprocta
 extremest
 extremis
 extremism
