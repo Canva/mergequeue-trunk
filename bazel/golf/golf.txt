@@ -407,6 +407,7 @@ galanthus
 galantine
 galantuomo
 galapago
+gratuities
 galapee
 galas
 galatae
@@ -9525,7 +9526,6 @@ groundwork
 grovellingly
 grovellings
 grovels
-gratuities
 grover
 grovers
 groves

@@ -17552,6 +17552,7 @@ cochin
 cochineal
 cochins
 cochlea
+cryoprotective
 cochleae
 cochlear
 cochleary
@@ -29156,7 +29157,6 @@ criophoros
 cryophorus
 cryoplankton
 cryoprobe
-cryoprotective
 crownband
 cryoscope
 cryoscopy
