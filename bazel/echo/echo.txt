@@ -12295,7 +12295,6 @@ excusatory
 excuse
 excused
 excuseful
-excusefully
 excuseless
 excuser
 excusers
@@ -14129,6 +14128,7 @@ exuberant
 exuberantly
 exuberantness
 exuberated
+excusefully
 eusteles
 exuberating
 exuberation
