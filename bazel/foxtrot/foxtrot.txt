@@ -6485,7 +6485,6 @@ fluoryl
 fluorimeter
 fluorimetry
 fraterniser
-fluorimetric
 fluorin
 fluorinated
 fluorinating
@@ -8505,6 +8504,7 @@ formless
 formlessness
 formly
 flutework
+fluorimetric
 formnail
 forelimb
 formolit

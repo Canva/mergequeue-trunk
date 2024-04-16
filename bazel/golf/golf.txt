@@ -4796,7 +4796,6 @@ gobiiformes
 giron
 gyron
 gironde
-girondin
 girondism
 gentrice
 gironny
@@ -6347,6 +6346,7 @@ goalkeeper
 goalless
 goalmouth
 goals
+girondin
 goaltender
 goaltending
 goan
