@@ -542,7 +542,6 @@ egilops
 echinidan
 echinidea
 echiniform
-echinital
 echinite
 echinocactus
 echinocaris
@@ -11125,6 +11124,7 @@ eupyrene
 eupyrion
 eupittone
 eupittonic
+echinital
 euplastic
 extramural
 euplectella
