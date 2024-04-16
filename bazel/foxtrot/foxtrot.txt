@@ -8187,7 +8187,6 @@ forewritten
 forewrought
 forecloses
 forex
-forfairn
 forfalt
 flintlocks
 forfare
@@ -8475,6 +8474,7 @@ formicate
 formicated
 franchiser
 formicating
+forfairn
 formicicide
 formicid
 formicidae
