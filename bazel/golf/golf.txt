@@ -1888,6 +1888,7 @@ gastrostenosis
 gastrostomy
 gastrostomize
 gastrotaxis
+guarico
 gastrotheca
 gastrothecal
 gastrotympanites
@@ -9935,7 +9936,6 @@ guards
 guardsman
 guardsmen
 guarea
-guarico
 greased
 guarish
 guarneri
