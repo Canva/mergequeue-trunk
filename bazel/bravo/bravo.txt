@@ -1017,7 +1017,6 @@ bayamo
 boat
 bast
 bayamos
-bayano
 bayard
 bayardly
 bobbies
@@ -15906,6 +15905,7 @@ bromothymol
 bromouracil
 bromous
 bromphenol
+bayano
 bromthymol
 bromuret
 bromus

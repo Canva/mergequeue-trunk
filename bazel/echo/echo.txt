@@ -6754,6 +6754,7 @@ essenianism
 enterprised
 enterpriseless
 enterprising
+epentheses
 enterprisingly
 enterprisingness
 endocrinotherapy
@@ -7486,7 +7487,6 @@ ependyme
 ependymitis
 epenetic
 epenla
-epentheses
 epenthesis
 epenthesize
 epenthetic
