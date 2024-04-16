@@ -11639,7 +11639,6 @@ discourser
 discoursers
 discourses
 discoursing
-discoursive
 discoursively
 discoursiveness
 daydreamed
@@ -16197,6 +16196,7 @@ down
 downbear
 depurant
 downbeard
+discoursive
 downbeat
 downbeats
 downbend

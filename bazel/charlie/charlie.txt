@@ -8769,7 +8769,6 @@ chapellage
 chapellany
 chapelled
 chapelling
-chapelman
 chapelmaster
 chapelry
 chapelries
@@ -21001,6 +21000,7 @@ computerization
 computerize
 computerized
 computerizes
+chapelman
 computerizing
 computerlike
 computernik
