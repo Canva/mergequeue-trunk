@@ -9127,7 +9127,6 @@ almirah
 almistry
 almner
 areopagy
-almners
 almocrebe
 almogavar
 almohad
@@ -22264,6 +22263,7 @@ astrogony
 astrogonic
 astrograph
 astrographer
+almners
 astrography
 astrohatch
 astroid
