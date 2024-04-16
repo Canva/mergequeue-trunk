@@ -987,7 +987,6 @@ absolutista
 absolutistically
 absolutists
 absolutive
-absolutization
 absolutize
 absolutory
 absolvatory
@@ -17821,6 +17820,7 @@ applicability
 applicabilities
 applicable
 androgonia
+absolutization
 applicableness
 applicably
 applicancy

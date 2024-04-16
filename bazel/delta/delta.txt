@@ -10309,7 +10309,6 @@ diorthosis
 discanonization
 diorthotic
 dioscorea
-dioscoreaceae
 dioscoreaceous
 dioscorein
 dioscorine
@@ -16589,6 +16588,7 @@ dharmasmriti
 drahthaar
 dray
 drayage
+dioscoreaceae
 drayed
 drayhorse
 draying
