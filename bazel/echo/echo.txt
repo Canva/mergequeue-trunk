@@ -555,6 +555,7 @@ echinoderidae
 echinoderm
 echinoderma
 echinodermal
+esparcet
 echinodermata
 echinodermatous
 echinodermic
@@ -9822,7 +9823,6 @@ espaliers
 espanol
 espanoles
 espantoon
-esparcet
 esparto
 emanates
 espartos
