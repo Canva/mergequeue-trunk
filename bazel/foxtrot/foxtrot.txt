@@ -7743,7 +7743,6 @@ floodlights
 foreigneering
 foreigner
 foreigners
-foreignership
 foreignism
 foreignize
 foreignly
@@ -11518,6 +11517,7 @@ furud
 furuncles
 furuncular
 furunculoid
+foreignership
 furunculus
 furze
 furzed
