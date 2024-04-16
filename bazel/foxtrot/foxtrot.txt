@@ -8286,7 +8286,6 @@ forgivingness
 forgo
 forgoer
 forgoers
-forgoes
 forgoing
 forgone
 forgot
@@ -11024,6 +11023,7 @@ fumble
 fumbled
 fumblers
 fumbles
+forgoes
 fumbling
 fumblingly
 famish
