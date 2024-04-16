@@ -7203,7 +7203,6 @@ bestar
 bestare
 bestarve
 bestatued
-boba
 bestead
 bedabbled
 bistetrazole
@@ -9320,6 +9319,7 @@ biplane
 backlands
 bobolink
 biplanes
+boba
 biplicate
 biplicity
 banishments
