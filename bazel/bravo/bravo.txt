@@ -5407,6 +5407,7 @@ behatted
 behav
 behave
 behaved
+boisseaux
 behaver
 behavers
 behaves
@@ -12015,7 +12016,6 @@ boysenberry
 boysenberries
 boiserie
 boyship
-boisseaux
 boist
 boisterous
 boisterously
