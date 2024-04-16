@@ -2541,6 +2541,7 @@ baraka
 barenesses
 barer
 bares
+bignoniaceous
 baresark
 baresarks
 baresma
@@ -8399,7 +8400,6 @@ brutage
 bignesses
 bignonia
 bignoniaceae
-bignoniaceous
 bignoniad
 bigot
 bignonias
