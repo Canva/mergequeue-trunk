@@ -11171,7 +11171,6 @@ euryalae
 euryale
 euryaleae
 euryalean
-euryalida
 euryalidan
 euryalus
 eurybathic
@@ -12771,6 +12770,7 @@ ensanguined
 exoneural
 exonian
 exonym
+euryalida
 exonuclease
 exopathic
 exophagy
