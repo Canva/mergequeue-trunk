@@ -1221,6 +1221,7 @@ gantleting
 gantlets
 gantline
 gantlines
+gleesomely
 gantlopes
 ganton
 gynandromorphic
@@ -5346,7 +5347,6 @@ gleemaiden
 gleeman
 gleen
 gleesome
-gleesomely
 gleet
 gleety
 gleetier
