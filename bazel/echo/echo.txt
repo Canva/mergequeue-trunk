@@ -5279,6 +5279,7 @@ endophragmal
 emmergoose
 eupneic
 endoplast
+etua
 euconjugatae
 endoplastron
 endoplastular
@@ -10677,7 +10678,6 @@ ettirone
 ettle
 ettled
 ettling
-etua
 economizer
 etui
 etuis
