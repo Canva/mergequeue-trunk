@@ -2934,6 +2934,7 @@ darking
 departmentalisation
 dedolomitize
 dedolomitized
+dressoir
 dedolomitizing
 deduce
 deduced
@@ -16987,7 +16988,6 @@ dressmakership
 disuses
 dressmaking
 daringness
-dressoir
 dressoirs
 drest
 dretch

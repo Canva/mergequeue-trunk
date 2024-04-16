@@ -87,7 +87,6 @@ gadaba
 gadabout
 guna
 gadabouts
-gadarene
 gadaria
 gadbee
 gadbush
@@ -8726,6 +8725,7 @@ greets
 greeve
 greffe
 gonostyle
+gadarene
 greffier
 greffotome
 greg
