@@ -8550,7 +8550,6 @@ diarize
 diarrhea
 diarrheal
 diarrheas
-diarrheic
 diarrhetic
 diarrhoea
 diarrhoeal
@@ -13223,6 +13222,7 @@ disputant
 disputants
 disputation
 disputations
+diarrheic
 disputatious
 disputatiously
 disputatiousness
