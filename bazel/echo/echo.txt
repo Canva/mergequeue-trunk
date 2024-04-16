@@ -8301,6 +8301,7 @@ ensignment
 epistolic
 epistolical
 epistolise
+extraspectral
 epistolised
 epistolising
 epistolist
@@ -13971,7 +13972,6 @@ extrasystole
 extrasocial
 extrasolar
 extrasomatic
-extraspectral
 extraspherical
 extraspinal
 extrastapedial

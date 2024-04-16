@@ -1708,6 +1708,7 @@ gastraneuria
 gastrasthenia
 gastratrophia
 gastrea
+gnosis
 gastreas
 gastrectasia
 ghostcraft
@@ -6305,7 +6306,6 @@ germanious
 gnomons
 gnosiology
 gnosiological
-gnosis
 gnostic
 gnostical
 gnostically
