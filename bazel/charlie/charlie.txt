@@ -7028,7 +7028,6 @@ centigrado
 centigram
 centigramme
 campshot
-confluences
 centigrams
 centile
 centiles
@@ -21909,6 +21908,7 @@ confider
 confiders
 confides
 confiding
+confluences
 confidingly
 confidingness
 configurable
