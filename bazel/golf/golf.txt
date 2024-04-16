@@ -6278,7 +6278,6 @@ gnawer
 gnawing
 gnawings
 gnawn
-gnaws
 gneiss
 gneisses
 gneissy
@@ -7557,6 +7556,7 @@ grabbling
 graben
 grabens
 grabhook
+gnaws
 gimp
 grabman
 grabouche
