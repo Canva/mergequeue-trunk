@@ -5200,7 +5200,6 @@ befuddler
 befuddlers
 befuddles
 bromite
-befuddling
 befume
 bk
 befur
@@ -5417,6 +5416,7 @@ behaviored
 behaviorist
 behavioristically
 behaviorists
+befuddling
 behaviors
 behaviour
 behavioural
