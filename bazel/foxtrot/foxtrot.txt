@@ -641,6 +641,7 @@ falterers
 faltering
 falteringly
 flaggingly
+ferrymen
 falters
 falun
 faradising
@@ -5363,7 +5364,6 @@ fleckiness
 fumiferous
 flecking
 fleckled
-ferrymen
 fleckless
 flecklessly
 flecks
