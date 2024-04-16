@@ -3051,7 +3051,6 @@ acrotisms
 acrotreta
 acrotretidae
 acrotrophic
-acrotrophoneurosis
 acrux
 acta
 appealability
@@ -11945,6 +11944,7 @@ anarchic
 anarchically
 anarchies
 amortize
+acrotrophoneurosis
 anarchism
 anarchist
 anarchistic
