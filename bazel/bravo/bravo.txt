@@ -3960,7 +3960,6 @@ bdellidae
 bdellium
 bdelliums
 bdelloid
-bdelloida
 bdellometer
 bdellostoma
 bdellostomatidae
@@ -11331,6 +11330,7 @@ blueing
 blueings
 blueys
 bluejack
+bdelloida
 bluejacket
 bluejackets
 bluejacks
