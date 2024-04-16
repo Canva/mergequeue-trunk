@@ -19423,7 +19423,6 @@ argemone
 apotropous
 argemony
 argenol
-argent
 argental
 amphistome
 agammaglobulinemia
@@ -23229,6 +23228,7 @@ aubergine
 aubergiste
 aubergistes
 aubin
+argent
 aubrey
 aubretia
 aubretias
