@@ -12473,6 +12473,7 @@ bonification
 bonyfish
 boniform
 bromeikon
+bunkload
 bonilass
 boniness
 boninesses
@@ -17451,7 +17452,6 @@ breccia
 bunkers
 bunkhouse
 bunkie
-bunkload
 bunkmate
 bunkmates
 bunko

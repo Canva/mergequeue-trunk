@@ -10233,6 +10233,7 @@ frivolist
 frivolity
 frivolities
 frivolize
+flocs
 frivolized
 frivolizing
 frivolled
@@ -10284,7 +10285,6 @@ ferryage
 fringillid
 frock
 frocked
-flocs
 frockless
 frocklike
 frocks
