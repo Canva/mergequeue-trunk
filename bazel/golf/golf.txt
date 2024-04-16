@@ -1294,6 +1294,7 @@ garapata
 garrick
 garapato
 galavants
+guglets
 garava
 garavance
 garawi
@@ -10117,7 +10118,6 @@ glossarially
 gugglet
 guggling
 guglet
-guglets
 guglia
 guglio
 guhayna

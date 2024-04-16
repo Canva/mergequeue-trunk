@@ -4987,7 +4987,6 @@ aeroelastics
 aeroembolism
 aeroenterectasia
 aerofoil
-aerofoils
 aerogel
 aerogels
 aerogen
@@ -17004,6 +17003,7 @@ apio
 apioceridae
 apiocrinite
 apioid
+aerofoils
 apioidal
 alectrion
 apiol
