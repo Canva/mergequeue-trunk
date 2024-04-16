@@ -406,7 +406,6 @@ galante
 galanthus
 galantine
 galantuomo
-galapago
 galapee
 galas
 galatae
@@ -8772,6 +8771,7 @@ greybeard
 greycoat
 greyed
 greyest
+galapago
 greyfly
 gelatose
 greyflies
