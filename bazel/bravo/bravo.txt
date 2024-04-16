@@ -8803,6 +8803,7 @@ binauricular
 bind
 bindery
 binderies
+bridoons
 binders
 banjos
 bindheimite
@@ -15262,7 +15263,6 @@ bridles
 bridlewise
 bridling
 bridoon
-bridoons
 brie
 brief
 briefcase
