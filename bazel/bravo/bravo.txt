@@ -980,6 +980,7 @@ baham
 bahama
 bahamas
 bahamians
+beshiver
 bahan
 bahar
 bahaullah
@@ -6971,7 +6972,6 @@ beshear
 beshell
 brontosauri
 beshine
-beshiver
 beshivered
 beshivering
 beshivers
