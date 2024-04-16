@@ -7860,7 +7860,6 @@ gnomically
 grandada
 grandads
 grandam
-grandame
 grandames
 grandams
 gushers
@@ -7941,6 +7940,7 @@ grandpap
 grandpapa
 grandparent
 grandparentage
+grandame
 grandparental
 grandparenthood
 grandparents

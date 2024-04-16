@@ -4667,6 +4667,7 @@ demit
 defaisance
 demitasse
 demitasses
+dioeciodimorphous
 demythify
 demythologisation
 demythologised
@@ -10218,7 +10219,6 @@ dioecy
 dioecia
 doley
 dioecian
-dioeciodimorphous
 dioeciopolygamous
 dishonorableness
 dioeciousness
