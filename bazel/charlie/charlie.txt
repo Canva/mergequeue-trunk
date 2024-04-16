@@ -10874,6 +10874,7 @@ chiquero
 chiquest
 chiquitan
 chiquito
+cycling
 chiragra
 chiragrical
 chirayta
@@ -13259,7 +13260,6 @@ cyclicity
 cyclicly
 cyclide
 cyclindroid
-cycling
 cyclings
 cyclism
 cyclist
