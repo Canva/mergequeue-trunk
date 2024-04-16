@@ -10376,7 +10376,6 @@ amic
 amicability
 amicabilities
 amicable
-amicableness
 amicably
 amical
 amice
@@ -23855,6 +23854,7 @@ authotype
 autism
 autisms
 autist
+amicableness
 autistic
 abbasid
 auto
