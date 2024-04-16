@@ -2557,7 +2557,6 @@ gemote
 gappiest
 gemots
 granulated
-gems
 genouillere
 gigi
 gemsbok
@@ -10472,6 +10471,7 @@ gunfought
 gearless
 gung
 gunge
+gems
 gunhouse
 gunyah
 gunyeh
