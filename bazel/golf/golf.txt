@@ -8619,6 +8619,7 @@ greencloth
 greencoat
 germanized
 gooks
+grigris
 greened
 greeney
 greener
@@ -8945,7 +8946,6 @@ galactan
 griggles
 grignet
 grigri
-grigris
 grihastha
 grihyasutra
 grike
