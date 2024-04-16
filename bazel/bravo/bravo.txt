@@ -303,6 +303,7 @@ backbencher
 backbenchers
 backberand
 bakeware
+bioacoustics
 backberend
 backbit
 broughtas
@@ -8903,7 +8904,6 @@ binukau
 binzuru
 bio
 bioaccumulation
-bioacoustics
 bioactivity
 bioactivities
 bioassay

@@ -9497,7 +9497,6 @@ eruptions
 eruptive
 estrous
 eruptively
-eruptiveness
 enterolithiasis
 eruptivity
 erupts
@@ -11621,6 +11620,7 @@ evidencing
 evidencive
 evident
 evidential
+eruptiveness
 evidentially
 evidentiary
 evidently
