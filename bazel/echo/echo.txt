@@ -2904,6 +2904,7 @@ elfenfolk
 elfhood
 epinard
 elfic
+extincting
 educative
 elfins
 elfinwood
@@ -13680,7 +13681,6 @@ extima
 extimulate
 extinct
 extincted
-extincting
 expt
 encephalomeningitis
 extinctionist
