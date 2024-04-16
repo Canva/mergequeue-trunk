@@ -6504,6 +6504,7 @@ fluoroborate
 fluorocarbon
 fluorochrome
 fluoroform
+foretokening
 fibrinoalbuminous
 fluoroformol
 fluorogen
@@ -8124,7 +8125,6 @@ foretime
 foretimes
 foretype
 foretoken
-foretokening
 foretokens
 fretless
 foretold
