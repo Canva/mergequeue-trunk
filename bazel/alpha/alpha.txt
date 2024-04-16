@@ -9198,6 +9198,7 @@ alnein
 alnico
 alnicoes
 alnilam
+asteriated
 alniresinol
 alnitak
 alnitham
@@ -22022,7 +22023,6 @@ astereognosis
 asteria
 asterial
 asterias
-asteriated
 asteriidae
 asterikos
 asterin
