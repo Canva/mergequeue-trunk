@@ -12280,7 +12280,6 @@ andante
 arightly
 andantes
 andantini
-andantino
 andaquian
 andarko
 andaste
@@ -13712,6 +13711,7 @@ anogenital
 anogra
 anoia
 anoil
+andantino
 anoine
 anoint
 anointed
