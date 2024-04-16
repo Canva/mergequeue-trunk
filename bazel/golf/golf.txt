@@ -4466,7 +4466,6 @@ glissade
 gadi
 gingivalgia
 gingivectomy
-gingivitis
 gingivoglossitis
 gingivolabial
 gingko
@@ -6397,6 +6396,7 @@ granulitic
 goatsucker
 gaum
 goatweed
+gingivitis
 goave
 goaves
 gob
