@@ -6008,7 +6008,6 @@ enjoiner
 enjoiners
 enjoining
 enjoinment
-enjoins
 enjoys
 enkennel
 enkernel
@@ -9307,6 +9306,7 @@ erminites
 ermitophobia
 exhibitive
 erne
+enjoins
 ernes
 ernest
 ernestine
