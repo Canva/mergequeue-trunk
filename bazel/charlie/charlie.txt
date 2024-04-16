@@ -9408,7 +9408,6 @@ crooken
 causativity
 cartsale
 chazzanut
-chazzen
 chazzenim
 chazzens
 che
@@ -30219,6 +30218,7 @@ crumminess
 crumming
 crummock
 crumper
+chazzen
 conductors
 crumpet
 crumpets
