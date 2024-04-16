@@ -5939,6 +5939,7 @@ agaz
 agaze
 agazed
 agba
+archiplasmic
 agcy
 agdistis
 age
@@ -18981,7 +18982,6 @@ archipelagos
 archiphoneme
 archipin
 archiplasm
-archiplasmic
 archiplata
 archiprelatical
 archipresbyter
