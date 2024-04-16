@@ -832,7 +832,6 @@ galvanoplastics
 galvanopsychic
 galvanopuncture
 goatherd
-galvanoscope
 gibbers
 guerdon
 galvanoscopy
@@ -2419,6 +2418,7 @@ gelding
 geldings
 gelds
 gelechia
+galvanoscope
 gelechiid
 gelechiidae
 gelee
