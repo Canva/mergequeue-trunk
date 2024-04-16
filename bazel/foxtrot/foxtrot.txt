@@ -4551,6 +4551,7 @@ fistulatome
 fistule
 fistuliform
 fistulina
+flunker
 fistulization
 fistulized
 fernland
@@ -6407,7 +6408,6 @@ flunkeyhood
 flunkeyish
 flunkeyistic
 flunkeys
-flunker
 flunkers
 foetid
 flunky
