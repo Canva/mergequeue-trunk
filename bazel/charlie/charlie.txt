@@ -641,7 +641,6 @@ cafenet
 cafetal
 cafeteria
 cafeterias
-cafetiere
 cafetorium
 caff
 caffa
@@ -12619,6 +12618,7 @@ chronons
 chronopher
 chronophotograph
 chronophotography
+cafetiere
 chronophotographic
 chronos
 chronoscope
