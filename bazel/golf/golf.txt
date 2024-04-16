@@ -765,6 +765,7 @@ gals
 galt
 galtonia
 galtrap
+gravels
 galuchat
 galumph
 galumphed
@@ -8414,7 +8415,6 @@ gravelling
 gyroceras
 gravelous
 gravelroot
-gravels
 graveside
 gravelstone
 glossa
