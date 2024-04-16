@@ -15339,6 +15339,7 @@ antihydrophobic
 ambitionlessly
 antihydropin
 antihidrotic
+appending
 antihierarchal
 antihierarchy
 antihierarchic
@@ -17693,7 +17694,6 @@ appendicularia
 appendicularian
 appendiculariidae
 appendiculate
-appending
 appendix
 appendixed
 appendixes

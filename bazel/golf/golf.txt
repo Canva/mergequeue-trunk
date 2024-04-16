@@ -3254,6 +3254,7 @@ geosynclines
 gadfly
 geosphere
 glamourousness
+gruffiness
 geospiza
 geostatic
 geostationary
@@ -4510,7 +4511,6 @@ ginney
 ginnel
 ginner
 ginnery
-gruffiness
 ginneries
 gloriam
 ginners
