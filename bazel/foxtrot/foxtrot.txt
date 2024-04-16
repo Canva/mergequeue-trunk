@@ -2625,7 +2625,6 @@ ferrugineous
 ferruginous
 fatheads
 fincas
-ferrugo
 futilize
 ferrule
 fickly
@@ -6439,6 +6438,7 @@ foreswearing
 ferous
 fluohydric
 fluophosphate
+ferrugo
 futilities
 fluoran
 fluorane
