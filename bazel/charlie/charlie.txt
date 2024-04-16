@@ -7367,7 +7367,6 @@ cerago
 ceral
 ceramal
 ceramals
-cerambycid
 cerambycidae
 ceramiaceae
 ceramiaceous
@@ -30637,6 +30636,7 @@ cuds
 cudweed
 cudweeds
 cudwort
+cerambycid
 cue
 cueball
 cueca
