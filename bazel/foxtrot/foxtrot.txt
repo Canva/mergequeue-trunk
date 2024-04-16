@@ -1720,6 +1720,7 @@ featherdom
 feathered
 featheredge
 featheredged
+fiendlier
 featheredges
 farci
 featherer
@@ -3405,7 +3406,6 @@ fiendishly
 fiendishness
 fiendism
 fiendly
-fiendlier
 fiendliest
 fiendlike
 fiends
