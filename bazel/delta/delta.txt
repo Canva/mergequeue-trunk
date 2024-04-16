@@ -11717,7 +11717,6 @@ discretive
 discretively
 digitalizing
 discretiveness
-discriminability
 discriminably
 discriminal
 discriminant
@@ -16807,6 +16806,7 @@ drawspring
 drawstop
 dropforging
 dinoceratid
+discriminability
 drawstring
 drawstrings
 drawtongs

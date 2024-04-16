@@ -6099,6 +6099,7 @@ baumhauerite
 benchful
 benchy
 benching
+brims
 benchland
 benchless
 benchlet
@@ -15384,7 +15385,6 @@ brimmering
 brimmers
 brimmimg
 brimmingly
-brims
 brimse
 brimstone
 brimstonewort
