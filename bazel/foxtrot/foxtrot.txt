@@ -7203,7 +7203,6 @@ filths
 foothill
 foothold
 footholds
-foothot
 flippantness
 footy
 footie
@@ -10805,6 +10804,7 @@ fubs
 fubsy
 fubsiest
 fucaceae
+foothot
 fucales
 ferntickle
 fucate
