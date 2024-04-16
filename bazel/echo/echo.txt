@@ -8880,7 +8880,6 @@ equus
 er
 exsurgent
 era
-erade
 eradiate
 eradiated
 exhedra
@@ -13424,6 +13423,7 @@ expungement
 expunger
 expungers
 expunges
+erade
 expunging
 ergatocrat
 expurgate
