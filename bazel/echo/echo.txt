@@ -73,7 +73,6 @@ earless
 earlet
 early
 estuarine
-earlier
 earliest
 earlyish
 earlike
@@ -14182,6 +14181,7 @@ exuviability
 exuviable
 exuviae
 exuvial
+earlier
 exuviate
 euphorbiaceae
 exuviated
