@@ -4165,7 +4165,6 @@ firebombed
 ferroalloy
 firebombing
 firebombs
-flophouse
 frailly
 fringent
 fireboot
@@ -9909,6 +9908,7 @@ formularism
 fretten
 fretters
 frettier
+flophouse
 frettiest
 fretting
 frettingly
