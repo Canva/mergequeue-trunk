@@ -5969,7 +5969,6 @@ glout
 glouted
 glouts
 gigamaree
-gloved
 glovey
 gloveless
 grain
@@ -9262,6 +9261,7 @@ groma
 gromatic
 gullishly
 gromatical
+gloved
 gromatics
 gromia
 gromil
