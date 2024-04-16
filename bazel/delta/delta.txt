@@ -2403,7 +2403,6 @@ decimetre
 decimolar
 daysman
 dangering
-daker
 decimole
 decimosexto
 decimus
@@ -3633,6 +3632,7 @@ degradand
 degradation
 degradational
 degradations
+daker
 degradative
 degrade
 degraded

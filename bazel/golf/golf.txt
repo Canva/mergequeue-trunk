@@ -1724,6 +1724,7 @@ grognard
 gastriloquism
 gastrimargy
 gonadic
+glottologist
 gastritic
 gastritis
 gastroadenitis
@@ -5952,7 +5953,6 @@ gulfs
 glottology
 glottological
 glottologies
-glottologist
 glotum
 gloucester
 glout
