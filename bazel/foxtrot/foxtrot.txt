@@ -8831,7 +8831,6 @@ fossane
 fossate
 fosse
 fossed
-fosses
 frayn
 fibromyomatous
 fosset
@@ -10799,6 +10798,7 @@ fu
 fuage
 fub
 fubbed
+fosses
 fubbery
 fubbing
 fubs

@@ -4206,6 +4206,7 @@ emplacements
 emplane
 emplaned
 emplanement
+excecate
 emplanes
 emplaning
 emplaster
@@ -11950,7 +11951,6 @@ excavatory
 excavatorial
 excavators
 excave
-excecate
 excecation
 excedent
 exceed
