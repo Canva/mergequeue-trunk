@@ -3297,6 +3297,7 @@ equisurface
 emanational
 emanationism
 emanationist
+epicycles
 emanations
 eyrir
 emanatism
@@ -7673,7 +7674,6 @@ epichoric
 epichorion
 epichoristic
 epicycle
-epicycles
 epicyclic
 epicyclical
 epicycloid
