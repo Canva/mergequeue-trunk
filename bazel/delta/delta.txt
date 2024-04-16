@@ -4381,7 +4381,6 @@ demaree
 demargarinate
 demark
 demarkation
-demarked
 decollation
 demarking
 demarks
@@ -15288,6 +15287,7 @@ dominative
 dominator
 dominators
 domine
+demarked
 dominee
 domineer
 dislevelment
