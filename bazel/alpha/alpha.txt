@@ -1725,6 +1725,7 @@ accouterment
 acemetic
 accouters
 accoutre
+aspectant
 accoutrement
 accoutrements
 accoutres
@@ -21363,7 +21364,6 @@ aspatia
 aspca
 aspect
 aspectable
-aspectant
 aspection
 aspects
 atuami
