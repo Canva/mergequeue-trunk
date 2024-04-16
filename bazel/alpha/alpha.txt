@@ -9808,7 +9808,6 @@ amaranthoid
 amaranths
 amaranthus
 amarantine
-amarantite
 amarantus
 amarelle
 amarelles
@@ -22793,6 +22792,7 @@ atonics
 atonies
 atoning
 atoningly
+amarantite
 atop
 atopen
 atophan
