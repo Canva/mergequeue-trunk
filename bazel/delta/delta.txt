@@ -11101,6 +11101,7 @@ disastrously
 disastrousness
 decemberish
 disattaint
+doser
 disattire
 disattune
 disaugment
@@ -15827,7 +15828,6 @@ dosages
 dosain
 dicot
 dosed
-doser
 dativogerundial
 dosimeter
 dosimeters
