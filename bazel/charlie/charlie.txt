@@ -18999,7 +18999,6 @@ collie
 collied
 collielike
 collier
-colliery
 collieries
 cuber
 colliers
@@ -21984,6 +21983,7 @@ confixing
 conflab
 conflagrant
 conflagrate
+colliery
 conflagrated
 conflagrating
 clavus
