@@ -4708,6 +4708,7 @@ fjorded
 fjords
 fjorgyn
 fl
+flagellaria
 flab
 fusionless
 flabbella
@@ -4758,7 +4759,6 @@ flagella
 flagellant
 flammiferous
 flagellantism
-flagellaria
 flagellariaceous
 flagellata
 flagellatae
