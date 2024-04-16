@@ -4069,6 +4069,7 @@ deliciae
 deliciate
 delicious
 deliciouses
+desegregate
 deliciousness
 delict
 delicti
@@ -6516,7 +6517,6 @@ desegmentation
 didactical
 desegmented
 disordination
-desegregate
 desegregated
 decontamination
 desegregates
