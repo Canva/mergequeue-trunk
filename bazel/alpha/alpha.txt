@@ -15227,7 +15227,6 @@ antiferromagnetic
 antiferromagnetism
 antifertility
 antifertilizer
-alveolation
 anakinesis
 antifeudal
 antifeudalism
@@ -23899,6 +23898,7 @@ autobiographically
 autobiographist
 autobiology
 autoblast
+alveolation
 autoboat
 autoboating
 autobolide

@@ -6684,7 +6684,6 @@ celite
 cell
 cella
 cellae
-cellager
 cellar
 casaque
 coremium
@@ -9822,6 +9821,7 @@ cheminee
 chemins
 chemiotactic
 chemiotaxic
+cellager
 chemiotaxis
 chemiotropic
 chemiphotic
