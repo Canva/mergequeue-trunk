@@ -14055,7 +14055,6 @@ brachium
 brachyura
 brachyural
 brachyuran
-brachyuranic
 brachyure
 brachyurous
 brachyurus
@@ -16471,6 +16470,7 @@ bub
 bubales
 bubalis
 bituminise
+brachyuranic
 bubalises
 bubals
 bubas

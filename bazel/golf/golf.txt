@@ -4341,7 +4341,6 @@ gynaecologist
 goalkeepers
 gynaecomastia
 gynaecomorphous
-gynaeconitis
 gynaeocracy
 gloating
 gynaeolater
@@ -8605,6 +8604,7 @@ greenalite
 gaolbird
 greenbackism
 greenbacks
+gynaeconitis
 greenbark
 greenbelt
 greenboard
