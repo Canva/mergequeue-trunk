@@ -20951,6 +20951,7 @@ compulsorily
 compulsoriness
 compunct
 compunction
+coryphaenid
 consolidate
 compunctionary
 compunctionless
@@ -25177,7 +25178,6 @@ coryph
 corypha
 coryphaei
 coryphaena
-coryphaenid
 coryphaenidae
 coryphaenoid
 coryphaenoididae
