@@ -4290,7 +4290,6 @@ adopting
 adoption
 adoptional
 adoptionist
-adoptious
 adoptive
 anticonvention
 adoptively
@@ -24520,6 +24519,7 @@ antacids
 auxiliar
 auxiliary
 auxiliaries
+adoptious
 auxiliarly
 auxiliate
 auxiliation

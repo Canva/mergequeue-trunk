@@ -9346,7 +9346,6 @@ biquadrate
 biquartz
 biquintile
 biracial
-biracialism
 bawdry
 bushes
 bourignonist
@@ -16431,6 +16430,7 @@ brutely
 brutelike
 bruteness
 brutify
+biracialism
 brutification
 brutified
 burners
