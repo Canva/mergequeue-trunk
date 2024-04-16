@@ -1186,6 +1186,7 @@ edriophthalmian
 edriophthalmic
 eds
 educ
+exurbanite
 educabilia
 educability
 educable
@@ -14171,7 +14172,6 @@ exungulate
 exuperable
 exurb
 exurban
-exurbanite
 exurbanites
 exurbia
 erpetologist
