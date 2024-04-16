@@ -9218,7 +9218,6 @@ chastise
 chastised
 chastiser
 chastisers
-composture
 chastises
 chastising
 chastity
@@ -25934,6 +25933,7 @@ corv
 corve
 corved
 corvee
+composture
 corvees
 corven
 corver
