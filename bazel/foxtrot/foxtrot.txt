@@ -2945,7 +2945,6 @@ flexo
 feus
 feuter
 fever
-forgetting
 feverberry
 feverberries
 feverbush
@@ -2980,6 +2979,7 @@ fewmand
 fewmets
 fogle
 frogland
+forgetting
 fewnes
 fewneses
 fewness

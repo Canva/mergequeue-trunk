@@ -5889,7 +5889,6 @@ agaricic
 agariciform
 agaricin
 agaricine
-agaricinic
 agaricoid
 agarics
 agaricus
@@ -9549,6 +9548,7 @@ altiscope
 altisonant
 altitonant
 altitude
+agaricinic
 altitudes
 altitudinarian
 abrastol
