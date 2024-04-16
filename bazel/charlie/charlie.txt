@@ -18337,7 +18337,6 @@ cogue
 cogway
 cogways
 cogweel
-cogweels
 cogwheel
 cogwheels
 cogwood
@@ -22346,6 +22345,7 @@ conidiospore
 conidium
 conies
 conifer
+cogweels
 coniferae
 coniferin
 coniferophyte
