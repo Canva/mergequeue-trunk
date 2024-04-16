@@ -769,7 +769,6 @@ baddy
 baddie
 baddies
 baddish
-baddishly
 baddishness
 baddock
 bade
@@ -8271,6 +8270,7 @@ biflorate
 biflorous
 bifluorid
 bifluoride
+baddishly
 bifocal
 bifocals
 barricaded

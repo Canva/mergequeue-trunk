@@ -5921,7 +5921,6 @@ cathud
 catydid
 catilinarian
 catiline
-cating
 cation
 cationic
 cationically
@@ -30839,6 +30838,7 @@ cultists
 cultivability
 cultivable
 cultivably
+cating
 cultivar
 cultivars
 cultivatability
