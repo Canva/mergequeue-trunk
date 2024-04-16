@@ -2249,7 +2249,6 @@ baptise
 baptised
 baptises
 baptisia
-baptisias
 baptisin
 baptising
 baptism
@@ -13887,6 +13886,7 @@ bp
 bpi
 bps
 br
+baptisias
 bra
 braata
 brab
