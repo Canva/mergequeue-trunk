@@ -6975,7 +6975,6 @@ entophyte
 evea
 entophytic
 entophytically
-entophytous
 entopic
 entoplasm
 entoplastral
@@ -9964,6 +9963,7 @@ essonites
 explorate
 est
 estab
+entophytous
 estable
 establish
 establishable
