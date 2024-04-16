@@ -1671,7 +1671,6 @@ exiler
 egret
 egrets
 egrid
-exsiccative
 egrimony
 egritude
 egromancy
@@ -6658,6 +6657,7 @@ enterocoela
 enterocoele
 enterocoelic
 enterocoelous
+exsiccative
 enterocolitis
 enterocolostomy
 embeggar
