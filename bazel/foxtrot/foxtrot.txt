@@ -4236,6 +4236,7 @@ fragmentize
 firepinks
 fireplace
 fireplaces
+furbelow
 fireplough
 fraunch
 fireplow
@@ -11327,7 +11328,6 @@ furans
 furazan
 furazolidone
 furbearer
-furbelow
 furbelowed
 furbelowing
 furbelows
