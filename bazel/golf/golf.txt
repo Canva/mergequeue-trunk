@@ -1350,6 +1350,7 @@ gardenful
 gardenhood
 gardeny
 gardenia
+grammatist
 gardenin
 gardening
 gunboat
@@ -4516,7 +4517,6 @@ ginks
 ginmill
 gaonic
 gorce
-grammatist
 ginned
 ginney
 ginnel
