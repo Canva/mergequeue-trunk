@@ -3181,6 +3181,7 @@ geophagism
 geophagist
 geophila
 geophilid
+gamekeepers
 geophilidae
 gonif
 geophilous
@@ -4760,7 +4761,6 @@ gathering
 girns
 giro
 gyro
-gamekeepers
 gyrocar
 gyroceran
 goodwills
