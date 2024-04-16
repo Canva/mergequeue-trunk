@@ -1134,7 +1134,6 @@ fascias
 fasciate
 fasciated
 fasciation
-fascicled
 fascicles
 fascicular
 fascicularly
@@ -1342,6 +1341,7 @@ fungian
 fathmur
 forswore
 fathom
+fascicled
 fathomable
 fathomableness
 fathomage
