@@ -1765,7 +1765,6 @@ eyeground
 epornitically
 eyehole
 emits
-estheria
 eyeholes
 eyehooks
 eyey
@@ -10298,6 +10297,7 @@ ethanedial
 ethanediol
 expurgatorial
 ethanedithiol
+estheria
 ethanes
 ethanethial
 ethanethiol
