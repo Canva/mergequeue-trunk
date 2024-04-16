@@ -276,7 +276,6 @@ easternizing
 episcopalian
 easternly
 easternmost
-easters
 eastertide
 easting
 eastings
@@ -3971,6 +3970,7 @@ emissaria
 emissaries
 emissaryship
 emissarium
+easters
 emissi
 emissile
 eudialyte
