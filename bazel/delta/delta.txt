@@ -2799,7 +2799,6 @@ decretorial
 decretorily
 decretum
 decrew
-decry
 decrials
 decried
 decrier
@@ -9340,6 +9339,7 @@ diffractive
 diffractively
 diffractiveness
 diffractometer
+decry
 diffracts
 diffranchise
 diffrangible

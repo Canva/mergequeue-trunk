@@ -549,6 +549,7 @@ fallacia
 feltlike
 fallacious
 fallaciously
+fatteners
 flyability
 faceoff
 fallage
@@ -1419,7 +1420,6 @@ fattenable
 fattened
 forbearances
 fattener
-fatteners
 fattening
 fattens
 fatter
