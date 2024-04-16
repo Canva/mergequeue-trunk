@@ -7726,6 +7726,7 @@ aldehyde
 aldehydes
 aldehydic
 aldehydine
+argentry
 aldehydrol
 aldehol
 aldeia
@@ -19472,7 +19473,6 @@ argenton
 argentoproteinum
 argentose
 argentous
-argentry
 argents
 argentum
 argentums
