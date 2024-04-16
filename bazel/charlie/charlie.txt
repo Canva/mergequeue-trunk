@@ -6281,7 +6281,6 @@ cautivo
 cav
 cava
 cavae
-cavaedia
 cavaedium
 cavayard
 caval
@@ -25509,6 +25508,7 @@ coronofrontal
 coronograph
 coronographic
 coronoid
+cavaedia
 coronopus
 coronule
 coroparelcysis
