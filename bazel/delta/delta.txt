@@ -2005,6 +2005,7 @@ decalescence
 decalescent
 decalin
 decaliter
+demicircular
 decaliters
 decalitre
 decalobate
@@ -4506,7 +4507,6 @@ demicaponier
 demichamfron
 demicylinder
 demicylindrical
-demicircular
 demicivilized
 demicolumn
 demicoronal
