@@ -2275,7 +2275,6 @@ decentres
 decentring
 decephalization
 decephalize
-deceptibility
 deceptible
 deceptional
 deceptions
@@ -9557,6 +9556,7 @@ dihely
 dihelios
 dihelium
 dihexagonal
+deceptibility
 dihexahedral
 dihexahedron
 dihybrid
