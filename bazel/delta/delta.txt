@@ -1677,6 +1677,7 @@ deas
 deashed
 deashes
 deashing
+dispensingly
 deasil
 deaspirate
 decostate
@@ -12930,7 +12931,6 @@ dispenses
 diabolarch
 dispensible
 dispensing
-dispensingly
 dispensive
 dispeople
 dispeopled
