@@ -7959,7 +7959,6 @@ dholes
 dhoney
 dhoni
 dhooley
-dhooly
 dhoon
 deuterostomata
 dhoora
@@ -18515,6 +18514,7 @@ dush
 dusio
 dusk
 dusked
+dhooly
 dusken
 dusky
 delubrum
