@@ -17,6 +17,7 @@ eagle
 eagled
 eagles
 eagless
+episporium
 eaglestone
 eaglet
 eaglets
@@ -8257,7 +8258,6 @@ episplenitis
 episporangium
 epispore
 ectodermic
-episporium
 epist
 empaestic
 epistapedial

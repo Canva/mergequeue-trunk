@@ -9461,7 +9461,6 @@ altercative
 altered
 alteregoism
 alteregoistic
-alterer
 alterers
 altering
 acupunctuate
@@ -22981,6 +22980,7 @@ attargul
 attars
 attask
 attaste
+alterer
 attatched
 attatches
 atte
