@@ -164,6 +164,7 @@ factice
 facticide
 facticity
 faction
+fougasse
 factional
 furnacite
 factionalism
@@ -8917,7 +8918,6 @@ forum
 fouettee
 fouettes
 fougade
-fougasse
 foughty
 fougue
 foujdar

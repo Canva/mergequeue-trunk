@@ -8836,6 +8836,7 @@ equivalenced
 equivalences
 equivalency
 entocondyle
+euphuistical
 equivalencies
 equivalencing
 equivalent
@@ -11115,7 +11116,6 @@ euphuism
 euphuisms
 euphuist
 euphuistic
-euphuistical
 euphuistically
 euphuize
 euphuized
