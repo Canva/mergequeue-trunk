@@ -208,7 +208,6 @@ bacchanalization
 bacchanals
 bacchant
 bacchante
-bacchantes
 bacchantic
 bacchants
 bacchar
@@ -3202,6 +3201,7 @@ basibranchiate
 basibregmatic
 browner
 basically
+bacchantes
 basicerite
 basichromatic
 basichromatin
