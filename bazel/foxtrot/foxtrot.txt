@@ -2193,6 +2193,7 @@ femalize
 femcee
 feme
 femereil
+farfet
 femic
 feminacy
 feminacies
@@ -3121,7 +3122,6 @@ fibroenchondroma
 fibroglioma
 fibrohemorrhagic
 fluked
-farfet
 fibroid
 fibroids
 fibroin
