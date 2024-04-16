@@ -1800,6 +1800,7 @@ febris
 febronian
 febronianism
 february
+firehall
 factualist
 februarius
 fec
@@ -4201,7 +4202,6 @@ fingerroot
 ferroelectrically
 fireflirt
 frizzlers
-firehall
 facsimiles
 factabling
 firehalls
