@@ -615,7 +615,6 @@ dambonitol
 dambose
 derived
 dambrod
-dame
 damenization
 damewort
 dameworts
@@ -13553,6 +13552,7 @@ dissympathy
 dissympathize
 dissimulate
 dissimulates
+dame
 dissimulating
 dissimulation
 dissimulations
