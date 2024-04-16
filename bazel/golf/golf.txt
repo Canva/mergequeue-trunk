@@ -9239,6 +9239,7 @@ grogger
 groggery
 groggeries
 groggy
+gromyl
 groggier
 geophagous
 gatling
@@ -9267,7 +9268,6 @@ gloved
 gromatics
 gromia
 gromil
-gromyl
 grommet
 gravidae
 grommets
