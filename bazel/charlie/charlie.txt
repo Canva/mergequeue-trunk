@@ -28137,6 +28137,7 @@ craniopuncture
 craniorhachischisis
 craniosacral
 cranioschisis
+cripes
 conforbably
 cranioscopy
 cranioscopical
@@ -30320,7 +30321,6 @@ crustalogical
 crustalogist
 crustate
 crustated
-cripes
 crustation
 crusted
 crustedly
