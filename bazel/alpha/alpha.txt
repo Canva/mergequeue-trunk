@@ -5616,6 +5616,7 @@ aftercomer
 aftercoming
 aftercooler
 aftercost
+arenarious
 aftercourse
 aftercrop
 aftercure
@@ -20308,7 +20309,6 @@ arroyuelo
 arrondi
 arrondissement
 arrondissements
-arenarious
 arrope
 arrosion
 arrosive

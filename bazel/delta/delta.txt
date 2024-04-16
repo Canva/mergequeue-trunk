@@ -14674,7 +14674,6 @@ diaphoresis
 documentable
 documental
 documentalist
-delimer
 documentary
 documentarian
 documentarily
@@ -17052,6 +17051,7 @@ driftage
 driftages
 driftbolt
 drifted
+delimer
 drifter
 drifters
 driftfish
