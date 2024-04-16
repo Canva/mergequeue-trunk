@@ -8936,7 +8936,6 @@ dicolic
 dicolon
 dicondylian
 dicophane
-dicot
 dicotyl
 dicotyledon
 dicotyledonary
@@ -15829,6 +15828,7 @@ dosadh
 dosage
 dosages
 dosain
+dicot
 dosed
 doser
 dativogerundial
