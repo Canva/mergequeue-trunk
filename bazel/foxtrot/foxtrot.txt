@@ -7580,6 +7580,7 @@ forecited
 foreclaw
 foreclosable
 foreclose
+flavous
 foreclosed
 foreclosing
 foreclosure
@@ -10969,7 +10970,6 @@ fulmination
 fiascoes
 fulminations
 fulminator
-flavous
 fulminatory
 fulmined
 fulminic
