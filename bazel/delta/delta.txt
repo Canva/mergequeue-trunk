@@ -1550,6 +1550,7 @@ deadpay
 deadpan
 deadpanned
 deadpanner
+denigration
 deadpanning
 deadpans
 deadrise
@@ -5126,7 +5127,6 @@ denigrate
 denigrated
 denigrates
 denigrating
-denigration
 denigrations
 denigrative
 denigrator

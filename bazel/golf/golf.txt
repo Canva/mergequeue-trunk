@@ -9182,6 +9182,7 @@ gritting
 grivation
 goodsire
 grivet
+groved
 grivets
 grivna
 grizard
@@ -9510,7 +9511,6 @@ grouts
 globulitic
 grouze
 gymnocerata
-groved
 grovel
 groveled
 groveler
