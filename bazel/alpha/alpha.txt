@@ -20136,6 +20136,7 @@ arpents
 agas
 arquated
 arquebus
+asterochiton
 arquebuses
 arquerite
 arquifoux
@@ -22046,7 +22047,6 @@ astern
 asternal
 asternata
 asternia
-asterochiton
 asteroid
 asteroidal
 asteroidea

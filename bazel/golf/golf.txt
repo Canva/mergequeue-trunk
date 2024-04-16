@@ -6729,7 +6729,6 @@ gonadectomies
 gonadectomizing
 gonadial
 gonadotrope
-gonadotrophic
 gonadotrophin
 gonadotropic
 gonadotropin
@@ -6967,6 +6966,7 @@ goodliness
 goodmanship
 goodmen
 goodnaturedness
+gonadotrophic
 goodness
 goodnesses
 goodnight
