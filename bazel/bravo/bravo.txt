@@ -7102,6 +7102,7 @@ besour
 besouth
 bespake
 bespangles
+biflagelate
 bespangling
 bespate
 bespatter
@@ -8260,7 +8261,6 @@ bifidly
 bifilarly
 bifistular
 biflabellate
-biflagelate
 biflagellate
 biflecnode
 biflected

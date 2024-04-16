@@ -15974,6 +15974,7 @@ antiprudential
 antipruritic
 antipsalmist
 acidimeter
+auryl
 antipsychotic
 antipsoric
 antiptosis
@@ -23594,7 +23595,6 @@ aurigerous
 aurignacian
 aurigo
 aurigraphy
-auryl
 aurilave
 aurin
 aurinasal
