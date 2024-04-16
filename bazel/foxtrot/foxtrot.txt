@@ -5428,7 +5428,6 @@ fleetwing
 flegm
 fley
 fleyed
-fleyedly
 fleyedness
 fleying
 fleyland
@@ -8495,6 +8494,7 @@ formylating
 formylation
 formyls
 formin
+fleyedly
 fourbagger
 forminate
 forming
