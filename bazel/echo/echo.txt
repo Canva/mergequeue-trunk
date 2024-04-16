@@ -11423,6 +11423,7 @@ evanished
 expirable
 evanishes
 evanishing
+excogitator
 evans
 evansite
 evap
@@ -12150,7 +12151,6 @@ excogitates
 excogitating
 excogitation
 excogitative
-excogitator
 excommenge
 excommune
 excommunicant
