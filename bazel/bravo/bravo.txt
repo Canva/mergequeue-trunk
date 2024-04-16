@@ -586,7 +586,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 backward
 backwardation
@@ -11713,6 +11712,7 @@ bockey
 bockerel
 bockeret
 bocking
+backway
 bocks
 bocoy
 bocstaff
