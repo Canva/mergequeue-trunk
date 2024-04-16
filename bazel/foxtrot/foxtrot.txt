@@ -4427,7 +4427,6 @@ fishlike
 fishline
 fishlines
 fishling
-fishman
 fishmeal
 fishmeals
 fishmonger
@@ -10923,6 +10922,7 @@ fulldo
 fulled
 fuller
 fullerboard
+fishman
 fixate
 fullered
 fullery
