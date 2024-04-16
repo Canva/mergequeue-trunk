@@ -5976,7 +5976,6 @@ catostomus
 catouse
 catpiece
 catpipe
-catproof
 catrigged
 cats
 catskill
@@ -25939,6 +25938,7 @@ corvee
 corvees
 corven
 corver
+catproof
 corves
 corvet
 corvets

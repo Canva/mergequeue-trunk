@@ -14217,7 +14217,6 @@ anteporticos
 anteposition
 anteposthumous
 anteprandial
-antepredicament
 antepreterit
 anteprohibition
 anteprostate
@@ -16749,6 +16748,7 @@ apesthesia
 apesthetic
 apesthetize
 apetalae
+antepredicament
 apetaly
 apetalies
 apetaloid
