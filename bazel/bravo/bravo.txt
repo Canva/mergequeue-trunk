@@ -7791,7 +7791,6 @@ biacetyl
 biacetyls
 biacid
 biacromial
-biacuminate
 biacuru
 biajaiba
 bialate
@@ -8888,6 +8887,7 @@ breviary
 binormal
 binotic
 binotonous
+biacuminate
 binous
 binoxide
 bins
