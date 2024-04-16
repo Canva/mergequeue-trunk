@@ -16962,6 +16962,7 @@ coachers
 coaches
 coachfellow
 coachful
+craunch
 coachy
 coaching
 coachlet
@@ -28296,7 +28297,6 @@ cratometric
 craton
 cratons
 cratsmanship
-craunch
 craunches
 craunching
 craunchingly
