@@ -1744,7 +1744,6 @@ eyeblink
 eyebree
 eyebridled
 eyebright
-eyebrow
 eyebrows
 eyecup
 experimently
@@ -4324,6 +4323,7 @@ emulatively
 electropercussive
 emulator
 edificant
+eyebrow
 emulatory
 emulators
 emulatress

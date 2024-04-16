@@ -8414,6 +8414,7 @@ formamido
 formamidoxime
 formanilide
 formant
+formula
 formants
 format
 firedogs
@@ -8516,7 +8517,6 @@ formosity
 formous
 formoxime
 forms
-formula
 formulable
 formulae
 formulaic
