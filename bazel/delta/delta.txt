@@ -3507,6 +3507,7 @@ defraudation
 deraigns
 defrauded
 defrauder
+dwelling
 defrauders
 defrauding
 defraudment
@@ -18655,7 +18656,6 @@ dwell
 dwelled
 dweller
 dwellers
-dwelling
 dwellings
 dwells
 dwelt
