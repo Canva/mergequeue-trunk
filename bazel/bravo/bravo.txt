@@ -11744,7 +11744,6 @@ bakshis
 bodybuilder
 bodybuilders
 bodybuilding
-bodice
 bodiced
 bodicemaker
 bodicemaking
@@ -17069,6 +17068,7 @@ bullbird
 bullboat
 bullcart
 bullcomber
+bodice
 bulldog
 bulldogged
 bulldoggedness
