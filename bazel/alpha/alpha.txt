@@ -19733,7 +19733,6 @@ ariser
 arises
 arish
 arising
-arisings
 arist
 alum
 arista
@@ -22899,6 +22898,7 @@ atropinization
 atropins
 atropisms
 atropos
+arisings
 atropous
 advances
 atrorubent
