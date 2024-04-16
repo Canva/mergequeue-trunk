@@ -5419,6 +5419,7 @@ glycerogel
 glycerolate
 glycerole
 glycerolyses
+grossularia
 glycerolysis
 glycerols
 glycerophosphate
@@ -9358,7 +9359,6 @@ grosso
 gruelling
 grossulaceous
 grossular
-grossularia
 grossularite
 grosz
 groszy
