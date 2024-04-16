@@ -4724,6 +4724,7 @@ footwarmers
 flabbily
 flabbiness
 flabel
+forestalling
 flabella
 flabellate
 forefelt
@@ -8040,7 +8041,6 @@ forestal
 forestall
 forestalled
 forestaller
-forestalling
 forestallment
 forestalls
 forestalment
