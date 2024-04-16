@@ -1812,7 +1812,6 @@ grassquit
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
-gowning
 gastrolavage
 gastrolienal
 gastrolysis
@@ -1866,6 +1865,7 @@ gastroplication
 gastropneumonic
 gastropod
 gastropoda
+gowning
 gastropodan
 gastropore
 gastroptosia

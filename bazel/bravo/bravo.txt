@@ -1876,6 +1876,7 @@ bandaged
 bandager
 bandaging
 brakes
+box
 bandagist
 bandaid
 bakestone
@@ -13834,7 +13835,6 @@ bowtie
 bowwood
 bowwow
 bowwows
-box
 boxball
 boxberry
 boxberries
