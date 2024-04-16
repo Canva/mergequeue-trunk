@@ -8599,7 +8599,6 @@ bilkers
 belle
 bilking
 bilkis
-bilks
 bill
 brissotine
 brattish
@@ -15855,6 +15854,7 @@ bulimus
 bromlite
 bromo
 bromoacetone
+bilks
 bromoaurate
 bromoaurates
 bromoauric
