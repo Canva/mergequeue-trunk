@@ -10986,6 +10986,7 @@ chirping
 chirpingly
 chirps
 chirr
+clumproot
 chirre
 chirred
 chirring
@@ -16848,7 +16849,6 @@ clumping
 clumpish
 clumpishness
 clumplike
-clumproot
 clumps
 clumpst
 clumse
