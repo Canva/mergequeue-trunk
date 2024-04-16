@@ -2633,7 +2633,6 @@ cannonism
 cannonproof
 cannonry
 cannonries
-cannons
 cannophori
 cannot
 cannstatt
@@ -19571,6 +19570,7 @@ columnize
 columnized
 columnizes
 columnizing
+cannons
 columns
 columnwise
 colunar

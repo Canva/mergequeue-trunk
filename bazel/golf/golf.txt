@@ -3496,7 +3496,6 @@ gerontomorphosis
 gerontophilia
 gerontotherapy
 geropiga
-grandsirs
 gerousia
 gerres
 gerrhosaurid
@@ -8594,6 +8593,7 @@ greekish
 greekism
 greekist
 greekless
+grandsirs
 greekling
 geranials
 greeks
