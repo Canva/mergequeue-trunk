@@ -10768,6 +10768,7 @@ directiveness
 directives
 directivity
 directly
+dumosity
 directness
 dasycladaceae
 directoire
@@ -18091,7 +18092,6 @@ dumontiaceae
 dumontite
 durban
 dumose
-dumosity
 dumous
 dump
 dumpage
