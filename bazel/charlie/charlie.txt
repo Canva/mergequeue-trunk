@@ -8009,6 +8009,7 @@ chaconnes
 chacra
 chacun
 chad
+consciencewise
 chadacryst
 chadar
 chadarim
@@ -22691,7 +22692,6 @@ conscienceless
 consciencelessly
 consciencelessness
 consciences
-consciencewise
 conscient
 conscientious
 conscientiously
