@@ -21,7 +21,6 @@ aaronic
 aaronical
 aaronite
 aaronitic
-aarrghh
 aaru
 aas
 aasvogel
@@ -521,6 +520,7 @@ abjure
 abjured
 abjurement
 abjurer
+aarrghh
 abjurers
 abjures
 abjuring
