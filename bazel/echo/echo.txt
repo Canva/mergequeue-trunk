@@ -8125,7 +8125,6 @@ epiphloedic
 epiphloeum
 epiphonema
 epiphonemae
-expellee
 epiphonemas
 epiphora
 epiphragm
@@ -8215,6 +8214,7 @@ episedia
 episematic
 episememe
 episepalous
+expellee
 episyllogism
 episynaloephe
 episynthetic
