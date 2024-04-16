@@ -5836,7 +5836,6 @@ bellying
 bellyland
 bellylike
 bellyman
-berger
 bellypiece
 bellypinch
 bellipotent
@@ -10310,6 +10309,7 @@ blandishingly
 blandishment
 blandishments
 blandly
+berger
 blandness
 blank
 blankard

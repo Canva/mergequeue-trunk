@@ -15491,7 +15491,6 @@ claritude
 clark
 clarke
 clarkeite
-clarkia
 cognizers
 clarkias
 clarksville
@@ -17076,6 +17075,7 @@ coagulants
 coagulate
 coagulated
 coagulates
+clarkia
 coagulating
 coagulation
 coagulations
