@@ -6125,7 +6125,6 @@ frowzier
 flosh
 floss
 falloffs
-faculative
 footbath
 flossa
 flossed
@@ -11243,6 +11242,7 @@ fungused
 funguses
 funguslike
 funic
+faculative
 funicle
 funicles
 funicular
