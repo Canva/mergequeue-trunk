@@ -1055,7 +1055,6 @@ bayhead
 baying
 bayish
 bitterbush
-baikalite
 baikerinite
 baikerite
 baikie
@@ -1276,6 +1275,7 @@ balayeuse
 balak
 balaklava
 benzothiazole
+baikalite
 balalaika
 balalaikas
 balan
