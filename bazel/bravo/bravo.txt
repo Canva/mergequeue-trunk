@@ -13446,7 +13446,6 @@ boucl
 boucle
 boucles
 bouderie
-boudin
 boudoir
 boudoiresque
 boudoirs
@@ -16634,6 +16633,7 @@ buckjumper
 buckland
 bucklandite
 buckle
+boudin
 buckled
 buckleya
 buckleless
