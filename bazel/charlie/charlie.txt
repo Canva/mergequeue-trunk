@@ -16073,7 +16073,6 @@ cliffed
 comenic
 cliffhang
 cliffhanger
-cliffhangers
 cliffhanging
 cliffy
 cliffier
@@ -26091,6 +26090,7 @@ cosmogonist
 cosmogonists
 cosmogonize
 cosmographer
+cliffhangers
 cosmography
 cosmographic
 cosmographical
