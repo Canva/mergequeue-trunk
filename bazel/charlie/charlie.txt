@@ -16706,6 +16706,7 @@ cloudward
 cloudwards
 clouee
 culpon
+connives
 clough
 cloughs
 clour
@@ -22567,7 +22568,6 @@ connivently
 conniver
 connivery
 connivers
-connives
 conniving
 connivingly
 connixation
