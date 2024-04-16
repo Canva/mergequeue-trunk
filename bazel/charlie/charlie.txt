@@ -4532,6 +4532,7 @@ carousingly
 carp
 carpaine
 carpal
+califate
 congrid
 carpale
 carpalia
@@ -11370,7 +11371,6 @@ chlorosilicate
 chlorosis
 chlorospinel
 chlorosulphonic
-califate
 chlorotic
 chlorotically
 chlorotrifluoroethylene
