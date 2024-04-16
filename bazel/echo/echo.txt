@@ -9149,6 +9149,7 @@ eriometer
 eryon
 erionite
 eriophyes
+etherolate
 eriophyid
 eriophyidae
 eriophyllous
@@ -10375,7 +10376,6 @@ etherizing
 etherlike
 ethernet
 etherol
-etherolate
 excruciation
 etherous
 ethers
