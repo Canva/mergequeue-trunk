@@ -5003,7 +5003,6 @@ euchrone
 ethanal
 endears
 endeavored
-endeavorer
 endeavoring
 endeavors
 endeavour
@@ -14070,6 +14069,7 @@ electrobiology
 extrications
 extrinsic
 extrinsical
+endeavorer
 elegantly
 extrinsicality
 emulge
