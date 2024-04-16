@@ -6842,6 +6842,7 @@ enticingly
 enties
 entify
 entifical
+emblematic
 entyloma
 entire
 entirely
@@ -12813,7 +12814,6 @@ endoplasm
 exorcisers
 exorcises
 exorcism
-emblematic
 exorcisms
 exorcisory
 exorcist
