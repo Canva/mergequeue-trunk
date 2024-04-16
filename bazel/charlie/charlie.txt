@@ -17474,7 +17474,6 @@ coccidology
 circumflexion
 coccids
 cocciferous
-cocciform
 coccygalgia
 coccygeal
 coccygean
@@ -28117,6 +28116,7 @@ craniomalacia
 cremains
 craniomaxillary
 craniometer
+cocciform
 craniometry
 craniometric
 craniometrical
