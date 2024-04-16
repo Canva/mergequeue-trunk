@@ -4910,6 +4910,7 @@ encrypting
 encryption
 encrypts
 encrisp
+epipactis
 encroach
 encroached
 encroacher
@@ -8063,7 +8064,6 @@ epionychia
 epionychium
 epiopticon
 epiotic
-epipactis
 eriophorum
 epipaleolithic
 epipanies
