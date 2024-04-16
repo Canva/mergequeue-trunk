@@ -5778,7 +5778,6 @@ gloomier
 gelid
 gloominess
 gardeen
-glooming
 gloomingly
 gloomings
 gloomless
@@ -9804,6 +9803,7 @@ guajira
 guajiras
 guaka
 gualaca
+glooming
 guama
 gris
 glyptodon

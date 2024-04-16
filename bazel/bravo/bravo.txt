@@ -8800,7 +8800,6 @@ bination
 binational
 binaural
 binauricular
-binbashi
 bind
 bindery
 binderies
@@ -16103,6 +16102,7 @@ broomwort
 broos
 broose
 broozled
+binbashi
 bookdom
 broquery
 begreen
