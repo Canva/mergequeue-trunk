@@ -5673,7 +5673,6 @@ globed
 globefish
 globefishes
 globeflower
-globelet
 globelike
 globes
 globetrotters
@@ -7416,6 +7415,7 @@ gourding
 gourdlike
 gourds
 granuliferous
+globelet
 grabbier
 gourdworm
 girasols
