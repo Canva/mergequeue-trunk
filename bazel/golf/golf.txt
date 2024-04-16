@@ -5005,7 +5005,6 @@ glades
 gulinular
 gladful
 gladfulness
-gladhearted
 glady
 gladiate
 gladiator
@@ -8493,6 +8492,7 @@ grazer
 grazers
 gimbaljawed
 grazes
+gladhearted
 gallimatia
 grazie
 grazier
