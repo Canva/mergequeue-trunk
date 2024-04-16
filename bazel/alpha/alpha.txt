@@ -2001,6 +2001,7 @@ acetanion
 acetaniside
 acetanisidide
 acetanisidine
+alluviate
 acetannin
 audacities
 acetary
@@ -9057,7 +9058,6 @@ allusory
 alluvia
 alluvial
 alluvials
-alluviate
 alluviation
 alluvio
 alluvion

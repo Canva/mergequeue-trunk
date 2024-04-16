@@ -6527,7 +6527,6 @@ cedrin
 cedrine
 cedriret
 cedrium
-cedrol
 cedron
 centibar
 cedrus
@@ -29661,6 +29660,7 @@ crombec
 crome
 chlorids
 cromer
+cedrol
 cromerian
 cromfordite
 cromlech
