@@ -4920,7 +4920,6 @@ flames
 ferneries
 flamethrower
 futureness
-flamethrowers
 frankpledge
 flamy
 flamiest
@@ -9605,6 +9604,7 @@ freckleproof
 freckles
 freckly
 frecklier
+flamethrowers
 freckliest
 freckliness
 flighting
