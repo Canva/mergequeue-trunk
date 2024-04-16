@@ -8788,6 +8788,7 @@ allocating
 allocation
 allocations
 allocator
+aspirants
 allocators
 allocatur
 allocheiria
@@ -21500,7 +21501,6 @@ aspidomancy
 aspidospermine
 aspiquee
 aspirant
-aspirants
 aspirata
 aspiratae
 aspirate

@@ -1408,7 +1408,6 @@ baldrick
 baldricked
 baldricks
 baldrics
-baldricwise
 balds
 balducta
 balductum
@@ -15485,6 +15484,7 @@ brisance
 bilbos
 basilar
 brisances
+baldricwise
 brisant
 brisbane
 briscola
