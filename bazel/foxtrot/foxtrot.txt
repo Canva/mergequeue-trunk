@@ -201,7 +201,6 @@ factorial
 factorially
 frizer
 factorials
-factories
 factorylike
 factoring
 factoryship
@@ -5810,6 +5809,7 @@ flyweight
 flyweights
 forthon
 flywheel
+factories
 flywinch
 flywire
 flywort

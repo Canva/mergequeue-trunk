@@ -13471,7 +13471,6 @@ annam
 annamese
 annamitic
 annapurna
-annard
 annary
 annas
 annat
@@ -20104,6 +20103,7 @@ arosaguntacook
 arose
 around
 arousable
+annard
 arousal
 arousals
 arouse
