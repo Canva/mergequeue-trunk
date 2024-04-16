@@ -5340,7 +5340,6 @@ begrain
 begrave
 begrease
 begrett
-begrim
 begrime
 begrimed
 begrimer
@@ -14404,6 +14403,7 @@ branchellion
 brancher
 branchery
 branches
+begrim
 branchful
 bilimbi
 branchy
