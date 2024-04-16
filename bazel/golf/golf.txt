@@ -8905,7 +8905,6 @@ grieko
 grieshoch
 grieshuckle
 grievable
-grievance
 grievances
 grafting
 grievant
@@ -10694,6 +10693,7 @@ gustable
 gustables
 gustard
 gustation
+grievance
 gustative
 guergal
 gustativeness
