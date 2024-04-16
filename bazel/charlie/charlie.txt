@@ -19933,7 +19933,6 @@ commemorable
 commemorate
 commemorated
 commemorates
-commemorating
 commemoration
 commemorational
 commemorations
@@ -23428,6 +23427,7 @@ conterminal
 conterminant
 conterminate
 contermine
+commemorating
 conterminous
 conterminously
 conterminousness
