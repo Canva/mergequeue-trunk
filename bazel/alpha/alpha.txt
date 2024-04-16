@@ -1919,6 +1919,7 @@ acequias
 anisostaminous
 acer
 aceraceous
+arraignment
 acerae
 acerate
 acerated
@@ -20161,7 +20162,6 @@ arioi
 arraigner
 aerosats
 arraigning
-arraignment
 arraignments
 arraigns
 ametabole
