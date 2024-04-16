@@ -2366,6 +2366,7 @@ candylike
 candymaker
 candymaking
 candiot
+ceroon
 candiru
 candys
 candystick
@@ -7681,7 +7682,6 @@ ceroid
 cerolite
 ceromancy
 ceromez
-ceroon
 cerophilous
 ceroplast
 charkhas
