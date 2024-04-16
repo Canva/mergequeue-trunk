@@ -7302,6 +7302,7 @@ detoxify
 detoxification
 detoxified
 detoxifier
+duc
 detoxifies
 detoxifying
 detract
@@ -17716,7 +17717,6 @@ duboisine
 dubonnet
 dubonnets
 dubs
-duc
 ducal
 ducally
 ducamara
