@@ -3517,7 +3517,6 @@ grandsir
 gerrymanders
 generalate
 gers
-gersdorffite
 gershon
 genes
 gershonite
@@ -3844,6 +3843,7 @@ gibber
 gibbered
 gibberella
 gibberellin
+gersdorffite
 gibbergunyah
 gossypols
 gibbering
