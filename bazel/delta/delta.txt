@@ -4737,7 +4737,6 @@ disscepter
 democratifiable
 democratisation
 democratise
-dewaterer
 democratised
 democratising
 democratism
@@ -15588,6 +15587,7 @@ dop
 dopa
 dopamelanin
 dopaminergic
+dewaterer
 dopamines
 dopants
 dopaoxidase
