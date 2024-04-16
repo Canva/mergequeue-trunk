@@ -2342,6 +2342,7 @@ barbariousness
 barbarisation
 barbarise
 barbarised
+blooped
 barbarising
 barbarism
 barbarisms
@@ -11128,7 +11129,6 @@ bloomkin
 blooms
 bloomsbury
 bloop
-blooped
 baronethood
 byes
 biennale
