@@ -2813,7 +2813,6 @@ barometz
 baromotor
 baronage
 bespangled
-baronages
 baronduki
 baroness
 baronesses
@@ -16875,6 +16874,7 @@ buginese
 buginvillaea
 bugle
 bugled
+baronages
 buglers
 burthensome
 buglet
