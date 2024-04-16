@@ -10954,6 +10954,7 @@ fullterm
 fulltime
 fullwords
 fulmar
+furnishness
 fulmars
 fulmen
 fulmicotton
@@ -11445,7 +11446,6 @@ furnishings
 fudges
 furnishment
 filaceous
-furnishness
 furnit
 furniture
 furnitures

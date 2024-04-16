@@ -77,7 +77,6 @@ gabriel
 gabriella
 gabrielrache
 grumph
-gabs
 gabunese
 gachupin
 gad
@@ -4385,6 +4384,7 @@ gynecocrat
 gynecocratic
 gracefullest
 gunned
+gabs
 gynecocratical
 gynecoid
 geognosis
