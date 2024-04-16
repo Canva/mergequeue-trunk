@@ -1084,7 +1084,6 @@ farreation
 farrel
 farrier
 fastback
-farriery
 farrieries
 frighteningly
 farrierlike
@@ -10111,6 +10110,7 @@ frillier
 frilliest
 fasinite
 fibromyxoma
+farriery
 frillily
 frilliness
 frilling
