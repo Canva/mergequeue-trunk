@@ -9938,6 +9938,7 @@ essenism
 essenize
 essentialism
 essentialist
+esthete
 essentiality
 essentialities
 essentialization
@@ -10064,7 +10065,6 @@ esthesiometry
 esthesioneurosis
 esthesiophysiology
 esthesis
-esthete
 esthetes
 esthetic
 esthetical
