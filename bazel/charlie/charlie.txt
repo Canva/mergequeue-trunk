@@ -15040,6 +15040,7 @@ cyul
 civ
 carbonado
 cive
+correality
 civetlike
 civetone
 civets
@@ -25624,7 +25625,6 @@ corrasion
 corrasive
 correa
 correal
-correality
 correct
 correctable
 correctant
