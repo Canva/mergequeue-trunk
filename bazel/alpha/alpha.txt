@@ -6609,6 +6609,7 @@ aguinaldo
 aguinaldos
 agrypnode
 aguirage
+astrophotometry
 aguise
 aguish
 aguishly
@@ -7348,7 +7349,6 @@ alaruming
 alarums
 alas
 alasas
-astrophotometry
 alascan
 antipolo
 alaska
