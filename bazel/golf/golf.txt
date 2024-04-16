@@ -650,7 +650,6 @@ gallinae
 gallinaginous
 gallinago
 gallinazo
-galline
 gator
 galliney
 galling
@@ -10590,6 +10589,7 @@ guppy
 guileless
 guppies
 guptavidya
+galline
 greedy
 gur
 guran
