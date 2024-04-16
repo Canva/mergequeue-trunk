@@ -1294,7 +1294,6 @@ fatagaga
 fatal
 fatale
 fatales
-fatalism
 flambeing
 fatalisms
 fatalist
@@ -3500,6 +3499,7 @@ fighter
 fighteress
 futurisms
 fighters
+fatalism
 fighting
 fightingly
 fightings
