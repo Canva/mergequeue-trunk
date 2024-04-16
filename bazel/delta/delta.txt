@@ -5585,7 +5585,6 @@ dependence
 dependency
 dependencies
 dependently
-dependents
 depender
 depending
 dependingly
@@ -6711,6 +6710,7 @@ desize
 desk
 deskbound
 deskill
+dependents
 desklike
 deskman
 deskmen
