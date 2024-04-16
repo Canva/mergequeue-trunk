@@ -6139,7 +6139,6 @@ glutinant
 glutinate
 glutination
 gowaned
-gos
 glutinative
 gustatorily
 glutinize
@@ -6347,6 +6346,7 @@ girondin
 goaltender
 goaltending
 goan
+gos
 groused
 goanese
 goanna
