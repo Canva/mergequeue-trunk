@@ -6336,7 +6336,6 @@ agonal
 agony
 agonia
 agoniada
-agoniadin
 agoniatite
 agoniatites
 agonic
@@ -24994,6 +24993,7 @@ awelessness
 awellimiden
 awes
 awesome
+agoniadin
 awesomely
 awesomeness
 awest
