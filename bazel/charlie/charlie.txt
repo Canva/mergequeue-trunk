@@ -2062,7 +2062,6 @@ cordages
 camphoronic
 camphorphorone
 camphors
-camphorweed
 camphorwood
 campi
 campy
@@ -21615,6 +21614,7 @@ condylopodous
 condylos
 condylotomy
 condylura
+camphorweed
 condylure
 condiment
 condimental
