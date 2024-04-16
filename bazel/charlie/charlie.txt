@@ -1909,7 +1909,6 @@ cosmolabe
 camla
 camlet
 camleted
-camleteen
 camletine
 camleting
 camlets
@@ -18431,6 +18430,7 @@ coiffe
 coiffed
 coiffes
 coiffeur
+camleteen
 coiffeurs
 coiffeuses
 coiffing
