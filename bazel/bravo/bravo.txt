@@ -17272,6 +17272,7 @@ bumboats
 bumboatwoman
 bumclock
 bumelia
+busheling
 bumfeg
 bumfs
 bumfuzzle
@@ -17956,7 +17957,6 @@ bushelers
 bushelful
 bushelfuls
 beseeched
-busheling
 bushelled
 busheller
 bushelling
