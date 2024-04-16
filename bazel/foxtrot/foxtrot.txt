@@ -1960,7 +1960,6 @@ feeless
 feely
 feelies
 feeling
-feelingful
 feelingless
 feelinglessly
 flambeed
@@ -10520,6 +10519,7 @@ frother
 frothi
 frothy
 forebodings
+feelingful
 frothier
 frothily
 frothless
