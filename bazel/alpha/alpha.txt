@@ -10956,7 +10956,6 @@ amoskeag
 amotion
 amotus
 amouli
-amount
 amounted
 amounter
 amounters
@@ -20316,6 +20315,7 @@ arrope
 arrosion
 arrosive
 arround
+amount
 arrow
 arrowbush
 arrowhead
