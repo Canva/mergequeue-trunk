@@ -2088,7 +2088,6 @@ buckra
 baniwa
 banjara
 bioinstrumentation
-banjo
 banjoes
 banjoist
 banjoists
@@ -3057,6 +3056,7 @@ bartholinitis
 bartholomean
 bartholomew
 bartholomewtide
+banjo
 bartholomite
 bartisan
 bartisans
