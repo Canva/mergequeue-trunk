@@ -5088,7 +5088,6 @@ dendrophagous
 dendrophil
 dendrophile
 darnels
-dendrophilous
 dendropogon
 deneb
 denebola
@@ -17304,6 +17303,7 @@ dronish
 duellistic
 dronishly
 dronishness
+dendrophilous
 dronkelew
 dronkgrass
 dronte

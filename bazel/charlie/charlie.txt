@@ -2683,7 +2683,6 @@ canonised
 canoniser
 canonises
 canonising
-canonist
 canonistic
 canonistical
 canonists
@@ -8148,6 +8147,7 @@ chainsmith
 chainwale
 chainwork
 chayota
+canonist
 chayote
 chayotes
 chair
