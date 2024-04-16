@@ -20111,6 +20111,7 @@ commissions
 commissionship
 commissive
 commissively
+crescentiform
 cacodontia
 commissoria
 commissural
@@ -28758,7 +28759,6 @@ crescentader
 crescented
 crescentia
 crescentic
-crescentiform
 crescenting
 crescentlike
 crescentoid
