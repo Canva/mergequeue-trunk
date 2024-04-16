@@ -4387,7 +4387,6 @@ bebouldered
 bebrave
 bebreech
 bebrine
-bebrother
 bebrush
 bidactyle
 bebump
@@ -4818,6 +4817,7 @@ bedrock
 bedrocks
 bedroll
 bedrolls
+bebrother
 bedroom
 bedrooms
 bisymmetrically
