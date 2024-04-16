@@ -20737,6 +20737,7 @@ complots
 complotted
 complotter
 complotting
+coze
 complutensian
 coeducate
 compluvia
@@ -27761,7 +27762,6 @@ coxwain
 coxwaining
 coxwains
 coz
-coze
 cozed
 cozey
 cozeier

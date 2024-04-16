@@ -697,7 +697,6 @@ faming
 famished
 famishes
 famishing
-famishment
 famous
 famously
 famousness
@@ -6516,6 +6515,7 @@ focuser
 fluoroscopic
 fluoroscopies
 fluoroscoping
+famishment
 fluoroscopist
 fluoroscopists
 fluorosis
