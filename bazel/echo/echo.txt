@@ -12913,7 +12913,6 @@ expanded
 escropulo
 expandedly
 expandedness
-expanders
 expandible
 expanding
 expandingly
@@ -13461,6 +13460,7 @@ exsanguinous
 expose
 exsanguious
 exscind
+expanders
 exscinded
 exscinding
 exscinds
