@@ -338,6 +338,7 @@ dayakker
 dayal
 dayan
 dayanim
+dodecaphonist
 daybeacon
 daybeam
 daybed
@@ -13222,7 +13223,6 @@ disputants
 disputation
 disputations
 disputatious
-dodecaphonist
 disputatiously
 disputatiousness
 disputative
