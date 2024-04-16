@@ -7787,7 +7787,6 @@ enthelmintha
 epidermatic
 epidermatoid
 epidermatous
-extracanonical
 effront
 epidermic
 endosarc
@@ -10181,6 +10180,7 @@ estrum
 estrums
 estruses
 estuant
+extracanonical
 erythrodextrin
 estuary
 estuarial

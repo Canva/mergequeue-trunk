@@ -791,7 +791,6 @@ abranchialism
 abranchian
 abranchiata
 abranchious
-abrasax
 abrase
 abraser
 aswail
@@ -19115,6 +19114,7 @@ archpoet
 archpolitician
 archpontiff
 archpractice
+abrasax
 archprelate
 archprelatic
 archprelatical
