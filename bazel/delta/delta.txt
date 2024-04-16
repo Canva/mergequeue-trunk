@@ -8710,6 +8710,7 @@ diazotic
 debasing
 diazotype
 diazotizability
+disappearance
 diazotizable
 diazotization
 diazotize
@@ -11006,7 +11007,6 @@ disapostle
 disapparel
 daisycutter
 disappear
-disappearance
 decrepitly
 disappearances
 disappeared
