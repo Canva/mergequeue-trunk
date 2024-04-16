@@ -3786,7 +3786,6 @@ beatus
 battler
 battlers
 battles
-battleship
 battlesome
 battlestead
 battlewagon
@@ -8960,6 +8959,7 @@ biocoenose
 biocoenoses
 biocoenosis
 biocoenotic
+battleship
 biocontrol
 biod
 biodegradability

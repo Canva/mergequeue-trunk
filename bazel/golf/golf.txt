@@ -433,7 +433,6 @@ galbraithian
 gamy
 galbula
 galbulae
-galbulidae
 galbulinae
 galbulus
 galcha
@@ -2425,6 +2424,7 @@ gelee
 gelees
 gelidity
 gelidities
+galbulidae
 gashouses
 gelidium
 gemmuliferous
