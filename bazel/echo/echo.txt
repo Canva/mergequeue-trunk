@@ -946,6 +946,7 @@ ectrodactylous
 ectrogeny
 ectrogenic
 ectromelia
+excitements
 ectromelian
 exculpatory
 ectromelic
@@ -12089,7 +12090,6 @@ excited
 excitedly
 excitedness
 excitement
-excitements
 exciters
 excites
 exciting

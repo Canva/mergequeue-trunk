@@ -4548,7 +4548,6 @@ demihague
 demihake
 demihaque
 deavely
-demihearse
 demiheavenly
 demihigh
 demihogshead
@@ -6821,6 +6820,7 @@ desoxyribonuclease
 desoxyribonucleic
 depertible
 desoxyribonucleoprotein
+demihearse
 desoxyribose
 despair
 despaired
