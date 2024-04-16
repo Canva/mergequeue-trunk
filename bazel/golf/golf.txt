@@ -7994,6 +7994,7 @@ graniteware
 gingersnap
 granitic
 granitical
+gastrostomus
 granitiferous
 granitification
 granitite
@@ -9825,7 +9826,6 @@ guanajuatite
 guanamine
 guanare
 guanase
-gastrostomus
 guanases
 guanche
 guaneide
