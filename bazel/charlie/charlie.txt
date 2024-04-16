@@ -5402,6 +5402,7 @@ catakinomeric
 catalanganes
 catalanist
 catalase
+crenotherapy
 catalases
 catalatic
 catalaunian
@@ -28670,7 +28671,6 @@ crengle
 crenic
 crenitic
 crenology
-crenotherapy
 crenothrix
 crenula
 crenulate
