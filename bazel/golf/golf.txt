@@ -6583,7 +6583,6 @@ goldenknop
 gradualism
 goldenly
 gent
-guary
 goldenlocks
 goldenmouthed
 goldenness
@@ -8779,6 +8778,7 @@ greige
 gamily
 glyoxilin
 greiges
+guary
 greyhens
 greyhound
 greyhounds

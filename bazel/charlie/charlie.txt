@@ -2455,6 +2455,7 @@ canephoroe
 canephoroi
 canephoros
 canephors
+coenesthesia
 canephorus
 canephroi
 canepin
@@ -17974,7 +17975,6 @@ coenenchymal
 coenenchymata
 coenenchymatous
 coenenchyme
-coenesthesia
 coenesthesis
 coenflame
 coengage
