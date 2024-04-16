@@ -174,6 +174,7 @@ factioneer
 factionism
 faradopalpation
 factionist
+fluavil
 factionistism
 factions
 forecatharping
@@ -4163,7 +4164,6 @@ fireboot
 firebote
 firebox
 frogflower
-fluavil
 foreby
 fireboxes
 firebrand

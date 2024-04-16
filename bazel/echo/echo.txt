@@ -9481,7 +9481,6 @@ eruditional
 eruditionist
 erugate
 erugation
-eruginous
 erugo
 erugos
 erump
@@ -11303,6 +11302,7 @@ euthenist
 eutherian
 euthermic
 euthycomi
+eruginous
 euthycomic
 euthyneurous
 euthyroid
