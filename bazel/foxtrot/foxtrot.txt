@@ -536,7 +536,6 @@ fondon
 falern
 falernian
 falerno
-falisci
 falk
 faut
 featlier
@@ -6098,6 +6097,7 @@ floriscope
 floristic
 floristically
 floristics
+falisci
 floristry
 florisugent
 florivorous
