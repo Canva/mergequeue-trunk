@@ -13656,7 +13656,6 @@ cimiciform
 cimicifuga
 cryptonym
 cimicifugin
-cimicoid
 cimier
 chuckram
 cymiferous
@@ -29320,6 +29319,7 @@ cryptophyte
 cryptophytic
 cryptophthalmos
 cryptopyic
+cimicoid
 cryptopin
 cryptopine
 cryptopyrrole
