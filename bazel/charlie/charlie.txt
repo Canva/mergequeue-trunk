@@ -16142,6 +16142,7 @@ climes
 climograph
 clin
 clinah
+collie
 clinal
 clinally
 conspirer
@@ -18991,7 +18992,6 @@ collides
 collidin
 collidine
 colliding
-collie
 collied
 collielike
 collier
