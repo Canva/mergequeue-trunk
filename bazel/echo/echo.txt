@@ -1242,6 +1242,7 @@ edwina
 echoizing
 ee
 eebree
+exhalants
 eegrass
 eeyuch
 eeyuck
@@ -12476,7 +12477,6 @@ exfoliative
 exfoliatory
 ethnocentrically
 exhalable
-exhalants
 exhalation
 exhalations
 exhalatory
