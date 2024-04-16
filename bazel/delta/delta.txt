@@ -4734,6 +4734,7 @@ democratian
 democratic
 democratically
 disscepter
+discouragement
 democratifiable
 democratisation
 democratise
@@ -11625,7 +11626,6 @@ discourage
 discourageable
 discouraged
 discouragedly
-discouragement
 discouragements
 discourager
 discourages

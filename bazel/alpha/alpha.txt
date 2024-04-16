@@ -7111,6 +7111,7 @@ akan
 aliamenta
 albumoses
 athrob
+alamosite
 akanekunik
 akania
 akaniaceae
@@ -7283,7 +7284,6 @@ alamodes
 aneroid
 alamonti
 alamort
-alamosite
 alan
 alands
 alang
