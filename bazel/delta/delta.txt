@@ -2157,6 +2157,7 @@ dawed
 decate
 decathlon
 decathlons
+deformed
 decatholicize
 dinos
 decatyl
@@ -3479,7 +3480,6 @@ deformation
 deformational
 deformations
 deformative
-deformed
 deformedly
 deformedness
 deformer

@@ -4154,6 +4154,7 @@ carfour
 carfuffle
 carfuffling
 carful
+clips
 carfuls
 carga
 cargador
@@ -16295,7 +16296,6 @@ clipping
 clipeus
 clippingly
 clippings
-clips
 clipse
 clipsheet
 clipsheets
