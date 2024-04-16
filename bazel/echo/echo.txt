@@ -5383,6 +5383,7 @@ endostylar
 endostyle
 endostylic
 excarnate
+ensear
 endostitis
 endostoma
 endostomata
@@ -9707,7 +9708,6 @@ esebrias
 esemplastic
 elding
 eseptate
-ensear
 esere
 eserin
 eserine
