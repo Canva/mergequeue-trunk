@@ -3210,7 +3210,6 @@ elucid
 exchangeably
 elucidate
 elucidated
-elucidates
 elucidating
 elucidations
 elucidative
@@ -6622,6 +6621,7 @@ entered
 enterer
 enterers
 enterfeat
+elucidates
 entergogenic
 enteria
 enteric

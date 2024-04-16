@@ -5729,7 +5729,6 @@ aftershock
 aftershocks
 aftersong
 aftersound
-afterspeech
 afterspring
 afterstain
 afterstate
@@ -17459,6 +17458,7 @@ apostolically
 apostolici
 apostolicism
 apostolicity
+afterspeech
 apostolize
 apostolos
 apostrophal
