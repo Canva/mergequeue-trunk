@@ -5237,6 +5237,7 @@ begaze
 begazes
 begem
 begemmed
+borh
 begemming
 beget
 begettal
@@ -13002,7 +13003,6 @@ borghalpenny
 borghese
 borghi
 branles
-borh
 bori
 boric
 borid
