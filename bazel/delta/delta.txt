@@ -8869,6 +8869,7 @@ dichotriaene
 dichroic
 dichroiscopic
 dichroism
+disburser
 dichroite
 dichroitic
 dichromasy
@@ -11210,7 +11211,6 @@ disbursals
 disburse
 disbursed
 disbursements
-disburser
 disburses
 disbursing
 disburthen
