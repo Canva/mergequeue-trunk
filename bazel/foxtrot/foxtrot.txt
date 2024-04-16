@@ -6440,7 +6440,6 @@ ferous
 fluohydric
 fluophosphate
 futilities
-fluor
 fluoran
 fluorane
 fluoranthene
@@ -11019,6 +11018,7 @@ fumaroles
 fumarolic
 fumatory
 fumatoria
+fluor
 fumatorium
 fumatoriums
 fumble
