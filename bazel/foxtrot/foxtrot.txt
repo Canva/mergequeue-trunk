@@ -6703,6 +6703,7 @@ focalized
 focalizes
 focalizing
 focally
+foremost
 focaloid
 foci
 fetcher
@@ -7819,7 +7820,6 @@ foremilks
 foremind
 foremisgiving
 foremistress
-foremost
 foremostly
 flushermen
 foremother
