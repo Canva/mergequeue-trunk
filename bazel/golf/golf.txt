@@ -2709,7 +2709,6 @@ generis
 graylags
 goings
 generosity
-generosities
 goutiness
 generous
 glial
@@ -3756,6 +3755,7 @@ ghoom
 ghorkhar
 ghost
 ghostdom
+generosities
 ghosted
 gnathostomatous
 ghostess

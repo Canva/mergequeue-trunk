@@ -780,6 +780,7 @@ baddock
 bade
 badenite
 badge
+belling
 badged
 badgeless
 berrendo
@@ -5832,7 +5833,6 @@ bellying
 bellyland
 bellylike
 bellyman
-belling
 berger
 bellypiece
 bellypinch
