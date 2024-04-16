@@ -8465,6 +8465,7 @@ gravimeters
 gravimetry
 gravimetric
 gravimetrical
+gravitational
 gravimetrically
 gravipause
 gravisphere
@@ -8475,7 +8476,6 @@ gravitates
 gravitating
 gravitation
 gumbotils
-gravitational
 gravitationally
 gravitations
 gravity

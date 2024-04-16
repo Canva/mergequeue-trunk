@@ -2374,6 +2374,7 @@ electrocuted
 electrocutes
 electrocuting
 epopees
+etherealness
 electrocution
 electrocutional
 eimer
@@ -10341,7 +10342,6 @@ ethereality
 etherealization
 etherealizing
 ethereally
-etherealness
 escherichia
 etherean
 ethered
