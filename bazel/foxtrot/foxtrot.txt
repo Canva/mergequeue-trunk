@@ -454,7 +454,6 @@ fructiferousness
 faitor
 faitour
 faitours
-faits
 fayumic
 fake
 faked
@@ -7601,6 +7600,7 @@ forecourt
 forecourts
 forecover
 fers
+faits
 forecovert
 foreday
 foredays

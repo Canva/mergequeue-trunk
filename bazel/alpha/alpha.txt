@@ -16760,6 +16760,7 @@ aph
 antilogical
 aphacia
 aphacial
+aquamanile
 aphacic
 aphaeresis
 aphagia
@@ -18177,7 +18178,6 @@ aquake
 aqualung
 aqualunger
 aquamanalia
-aquamanile
 aquamaniles
 aquamanilia
 aquamarine
