@@ -4176,6 +4176,7 @@ gurdfish
 gimballing
 gimbals
 gothamite
+gismo
 groining
 gimbawawed
 gimberjawed
@@ -4866,7 +4867,6 @@ gyse
 gisement
 gish
 gisler
-gismo
 gismondine
 gismondite
 gismos
