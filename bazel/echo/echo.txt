@@ -6186,6 +6186,7 @@ enolize
 enolized
 enolizing
 enology
+entozoologist
 escoba
 einkorns
 enological
@@ -7012,7 +7013,6 @@ enounces
 entozoological
 entozoologically
 ensnaring
-entozoologist
 entozoon
 entr
 entracte
