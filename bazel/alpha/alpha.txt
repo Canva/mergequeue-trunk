@@ -18906,7 +18906,6 @@ archical
 archicantor
 archicarp
 archicerebra
-archicerebrum
 archichlamydeae
 archichlamydeous
 archicyte
@@ -19298,6 +19297,7 @@ arear
 areason
 areasoner
 areaway
+archicerebrum
 areaways
 areawide
 areca
