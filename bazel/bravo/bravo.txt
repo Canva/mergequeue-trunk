@@ -1918,7 +1918,6 @@ banderoled
 banderoles
 banderoling
 banderols
-banders
 bandersnatch
 bandfile
 bandfiled
@@ -7973,6 +7972,7 @@ brendice
 bibliotist
 byblis
 biblism
+banders
 biblists
 bovicide
 biblos

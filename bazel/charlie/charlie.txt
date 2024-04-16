@@ -16133,7 +16133,6 @@ climbed
 climber
 chirker
 climbers
-cheetal
 climbing
 climbingfish
 climbingfishes
@@ -16210,6 +16209,7 @@ clinks
 clinkstone
 clinkum
 clinoaxis
+cheetal
 clinocephaly
 clinocephalic
 clinocephalous
