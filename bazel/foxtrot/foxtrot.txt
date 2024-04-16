@@ -951,6 +951,7 @@ farceur
 farceurs
 farceuses
 farcy
+forzando
 farcialize
 farcicality
 farcically
@@ -8821,7 +8822,6 @@ forwork
 frailer
 forwrap
 forz
-forzando
 forzandos
 forzato
 fosh
