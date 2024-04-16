@@ -10383,6 +10383,7 @@ frondose
 frondosely
 frondous
 frons
+furmities
 front
 frontad
 frontage
@@ -11427,7 +11428,6 @@ furmenties
 furmeties
 furmint
 furmity
-furmities
 furnace
 furnacelike
 febrifuges

@@ -1893,7 +1893,6 @@ gastrotympanites
 gastrotome
 gastrotomy
 gastrotomic
-gastrotomies
 gastrotrich
 gastrotricha
 gastrotubotomy
@@ -10495,6 +10494,7 @@ gunline
 grievous
 gunlock
 gunlocks
+gastrotomies
 gunmaking
 guelphic
 gunmanship
