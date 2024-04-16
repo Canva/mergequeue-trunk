@@ -6800,6 +6800,7 @@ gonging
 gonglike
 gongman
 gongorism
+greekize
 gongorist
 gongoristic
 gongs
@@ -8599,7 +8600,6 @@ greekess
 greekish
 greekism
 greekist
-greekize
 greekless
 greekling
 geranials
