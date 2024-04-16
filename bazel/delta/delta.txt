@@ -6534,7 +6534,6 @@ deselecting
 deselects
 datums
 desemer
-dichotomised
 decretory
 dragsawing
 domestications
@@ -10258,6 +10257,7 @@ dione
 dionym
 dionymal
 duer
+dichotomised
 dionise
 dionysia
 dionysiac

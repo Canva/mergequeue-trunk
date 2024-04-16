@@ -7887,7 +7887,6 @@ alerion
 alerse
 alert
 alerta
-anorak
 alerted
 alerter
 arrivederci
@@ -24335,6 +24334,7 @@ autopsying
 autopsist
 autoptic
 autoptically
+anorak
 autopticity
 anchylosed
 autoput
