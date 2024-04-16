@@ -6275,7 +6275,6 @@ gnaw
 gigantize
 gnawable
 genitives
-gaslike
 gnawed
 gnawer
 gnawing
@@ -7013,6 +7012,7 @@ guttered
 goodwillit
 goodwives
 gooey
+gaslike
 goof
 goofah
 goofball
