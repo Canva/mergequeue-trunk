@@ -12402,6 +12402,7 @@ exemplifiers
 exemplifies
 exemplifying
 erythrophilous
+extusion
 exempt
 exempted
 egipto
@@ -14123,7 +14124,6 @@ extuberant
 extuberate
 extumescence
 exturb
-extusion
 exuberance
 exuberant
 exuberantly
