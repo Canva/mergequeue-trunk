@@ -4584,6 +4584,7 @@ fitful
 fitfully
 fitfulness
 fitified
+flimsiest
 fitment
 fitness
 fitnesses
@@ -5646,7 +5647,6 @@ flimsy
 flimsier
 freshment
 flimsies
-flimsiest
 flimsily
 florist
 fellowshiped
