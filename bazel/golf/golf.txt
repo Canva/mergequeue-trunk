@@ -4228,6 +4228,7 @@ gymnadeniopsis
 gymnanthes
 gymnanthous
 gymnarchidae
+goaltenders
 globin
 gymnasia
 germanity
@@ -6361,7 +6362,6 @@ goalless
 goalmouth
 goals
 goaltender
-goaltenders
 goaltending
 goan
 groused
