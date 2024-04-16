@@ -7388,7 +7388,6 @@ albata
 albatas
 albation
 agrostographic
-albatros
 albatross
 africander
 axlike
@@ -19925,6 +19924,7 @@ avidins
 armiger
 armigeral
 armigeri
+albatros
 armigero
 armigeros
 antizoea
