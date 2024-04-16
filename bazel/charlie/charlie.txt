@@ -109,7 +109,6 @@ cabinetmaker
 cabinetmaking
 cabinetry
 cabinets
-cabinetted
 clitelline
 cabinetwork
 cabinetworker
@@ -14764,6 +14763,7 @@ citharista
 coprophiliac
 citharoedi
 citharoedic
+cabinetted
 cither
 cythera
 cytherea
