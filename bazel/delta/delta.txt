@@ -1326,7 +1326,6 @@ daunt
 daunted
 daunters
 demissive
-daunting
 dauntingly
 dauntingness
 dauntless
@@ -2141,6 +2140,7 @@ decaspermal
 decaspermous
 decast
 decastellate
+daunting
 decastere
 decastylar
 decastyle

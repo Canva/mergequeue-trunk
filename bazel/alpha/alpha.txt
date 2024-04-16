@@ -5495,7 +5495,6 @@ afghanets
 afghani
 afghanis
 afghanistan
-afghans
 afgod
 afibrinogenemia
 aficionada
@@ -24988,6 +24987,7 @@ awee
 aweek
 aweel
 aweigh
+afghans
 aweing
 aweless
 awelessness
