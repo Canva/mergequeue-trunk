@@ -6254,7 +6254,6 @@ benight
 bipartient
 benighted
 benightedly
-benightedness
 benighten
 benighter
 benighting
@@ -6575,6 +6574,7 @@ bepurple
 bepuzzle
 bepuzzlement
 bequalm
+benightedness
 bequeath
 bequeathable
 bequeathed
