@@ -1116,7 +1116,6 @@ farthermore
 farthermost
 farthest
 farthing
-fleabitten
 farthingale
 farads
 farthingales
@@ -10613,6 +10612,7 @@ fructidor
 fructiferous
 fructiferously
 fructify
+fleabitten
 fructification
 fructificative
 fructified

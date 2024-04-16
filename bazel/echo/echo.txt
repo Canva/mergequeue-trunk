@@ -6156,6 +6156,7 @@ ennobled
 ennoblement
 ennoblements
 ennobler
+eulogized
 embowers
 ennoblers
 ennobles
@@ -10945,7 +10946,6 @@ eulogium
 eulogiums
 eulogization
 embarkation
-eulogized
 eulogizer
 eulogizers
 eulogizes
