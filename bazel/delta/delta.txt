@@ -132,7 +132,6 @@ dactylographic
 dactyloid
 dactylology
 dactylomegaly
-dactylonomy
 dactylopatagium
 dactylopore
 dactylopteridae
@@ -18297,6 +18296,7 @@ duodenoscopy
 duodenostomy
 duodenotomy
 duodenum
+dactylonomy
 duodenums
 duodial
 duodynatron
