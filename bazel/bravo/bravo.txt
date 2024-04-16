@@ -5705,7 +5705,6 @@ bely
 belial
 belialic
 belialist
-belibel
 belibeled
 belick
 bunchberry
@@ -13680,6 +13679,7 @@ bovidae
 bovids
 boviform
 bovine
+belibel
 bovinely
 bronchotetany
 bovines
