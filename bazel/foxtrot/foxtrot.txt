@@ -143,6 +143,7 @@ fackeltanz
 fackins
 facks
 faconde
+fourrier
 faconne
 facsim
 febrifugal
@@ -9042,7 +9043,6 @@ fourquine
 fourragere
 fourrageres
 fourre
-fourrier
 fours
 flagellates
 fourscore
