@@ -5255,7 +5255,6 @@ beggarweed
 beggarwise
 beggarwoman
 begger
-beggiatoa
 beggiatoaceae
 beggiatoaceous
 begging
@@ -16781,6 +16780,7 @@ buffability
 buffable
 buffalo
 buffaloback
+beggiatoa
 birkenia
 blasty
 buffalofish
