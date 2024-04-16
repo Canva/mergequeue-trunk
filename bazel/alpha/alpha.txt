@@ -8554,7 +8554,6 @@ allantoinuria
 allantois
 acetoxim
 allantoxaidin
-allanturic
 allargando
 allasch
 allassotonic
@@ -20927,6 +20926,7 @@ ascescent
 asceses
 ascesis
 ascetic
+allanturic
 ascetically
 aught
 asceticism
