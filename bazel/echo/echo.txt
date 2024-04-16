@@ -8155,6 +8155,7 @@ epipolism
 epiprecoracoid
 encomiologic
 exagitation
+exotheca
 epipteric
 epipterygoid
 epipterous
@@ -12879,7 +12880,6 @@ exoterically
 exotericism
 embossmen
 exoterics
-exotheca
 exothecal
 exothecate
 exothecium

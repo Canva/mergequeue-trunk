@@ -214,7 +214,6 @@ gagster
 gagsters
 gagtooth
 gagwriter
-gahnite
 gahnites
 gahrwali
 ganguela
@@ -3607,6 +3606,7 @@ gallimaufries
 gangwaymen
 gesture
 gestured
+gahnite
 gestureless
 gesturer
 gesturers
