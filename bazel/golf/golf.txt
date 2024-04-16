@@ -4218,7 +4218,6 @@ gimlets
 gimmal
 gymmal
 gimmaled
-gephyrean
 gimmer
 germanhood
 gimmeringly
@@ -5021,6 +5020,7 @@ glady
 gladiate
 gladiator
 gladiatorial
+gephyrean
 gladiatorism
 gladiators
 gladiatorship
