@@ -6636,7 +6636,6 @@ berchta
 berdache
 berdaches
 berdash
-birotation
 bere
 berean
 bereareft
@@ -7374,6 +7373,7 @@ bethylid
 bethylidae
 bethink
 barquentine
+birotation
 bethinks
 bethlehem
 bethorn
