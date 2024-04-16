@@ -4152,7 +4152,6 @@ fraternally
 fireback
 favourably
 fireball
-fireballs
 firebase
 firebed
 firebird
@@ -8337,6 +8336,7 @@ forking
 forkless
 fayed
 forklift
+fireballs
 forklifts
 forklike
 forkman
