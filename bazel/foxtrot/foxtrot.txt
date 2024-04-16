@@ -908,7 +908,6 @@ faon
 fapesmo
 faq
 faqir
-faquir
 far
 farad
 faraday
@@ -10749,6 +10748,7 @@ frustrater
 frustrates
 frustrating
 frustratingly
+faquir
 felicity
 foretokened
 frustration
