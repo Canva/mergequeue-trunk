@@ -6052,6 +6052,7 @@ furcellate
 floriation
 floribunda
 florican
+flume
 floricin
 floricomous
 floriculturally
@@ -6380,7 +6381,6 @@ flukiness
 fenagling
 fluking
 flumdiddle
-flume
 flumes
 fluming
 fluminous
