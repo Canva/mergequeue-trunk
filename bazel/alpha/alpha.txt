@@ -8631,6 +8631,7 @@ allele
 alleles
 alleleu
 allelic
+almous
 allelism
 allelisms
 allelocatalytic
@@ -9159,7 +9160,6 @@ almoravides
 almose
 almost
 accentuality
-almous
 alms
 almsdeed
 almsfolk

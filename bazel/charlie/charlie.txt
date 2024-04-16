@@ -1048,6 +1048,7 @@ calcigerous
 calcimeter
 calcimine
 calcimined
+charadrine
 calciminer
 calcimines
 calcimining
@@ -8905,7 +8906,6 @@ charadrii
 charadriidae
 charadriiform
 charadriiformes
-charadrine
 charadrioid
 charadriomorphae
 charadrius
