@@ -210,6 +210,7 @@ earthworks
 earthworm
 ecdysones
 earthworms
+electromyogram
 earwax
 encephalography
 earwaxes
@@ -2516,7 +2517,6 @@ enage
 electrometric
 electrometrical
 electrometrically
-electromyogram
 electromyograph
 electromyography
 electromyographic
