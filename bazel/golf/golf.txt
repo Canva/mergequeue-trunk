@@ -5960,7 +5960,6 @@ glottogonic
 glottogonist
 gulfs
 glottology
-glottologic
 glottological
 glottologies
 glottologist
@@ -9865,6 +9864,7 @@ guapena
 guapilla
 guapinol
 guaque
+glottologic
 guara
 guarabu
 gallinules
