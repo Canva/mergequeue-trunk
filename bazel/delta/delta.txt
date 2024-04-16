@@ -3998,7 +3998,6 @@ delegare
 discodactyl
 delegate
 delegated
-delegates
 delegateship
 delegati
 delegating
@@ -12960,6 +12959,7 @@ dispermic
 dispermous
 disperple
 dispersal
+delegates
 dendrodus
 dispersals
 dispersant

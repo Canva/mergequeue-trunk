@@ -10890,7 +10890,6 @@ amomales
 amomis
 amomum
 amongst
-amontillado
 amontillados
 amor
 amora
@@ -17455,6 +17454,7 @@ apostrophes
 apostrophi
 apostrophic
 apostrophied
+amontillado
 aculeate
 apostrophise
 apostrophised
