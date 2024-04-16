@@ -8633,7 +8633,6 @@ equestrian
 equestrianism
 equestrianize
 equestrians
-equestrianship
 equestrienne
 entoretina
 equianchorate
@@ -12561,6 +12560,7 @@ exhorts
 endoblast
 exhumating
 exhumation
+equestrianship
 exhumations
 exhumator
 executrices
