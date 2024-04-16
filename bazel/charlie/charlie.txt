@@ -862,6 +862,7 @@ collagist
 cakra
 cakravartin
 cal
+cretics
 calaba
 calabar
 calabari
@@ -28829,7 +28830,6 @@ cretefaction
 callisection
 cretic
 creticism
-cretics
 cretify
 cretification
 cheet
