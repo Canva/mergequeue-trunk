@@ -17704,6 +17704,7 @@ codebtors
 codec
 codeclination
 codecs
+crang
 coded
 codefendant
 cardinalist
@@ -24754,7 +24755,6 @@ copular
 copularium
 copulas
 copulate
-crang
 copulates
 copulating
 copulation
