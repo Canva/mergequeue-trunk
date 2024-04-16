@@ -283,7 +283,6 @@ eastlake
 eastlander
 eastlin
 eastling
-eastlings
 eastlins
 eastman
 embalming
@@ -527,6 +526,7 @@ echidna
 echidnae
 echidnas
 echidnidae
+eastlings
 evocate
 echimys
 echinacea
