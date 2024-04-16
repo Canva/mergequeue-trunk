@@ -3129,7 +3129,6 @@ actinography
 actinographic
 actinoid
 actinoida
-actinoidea
 actinoids
 actinolite
 actinolitic
@@ -18457,6 +18456,7 @@ araneoidea
 araneologist
 araneous
 aranga
+actinoidea
 arango
 arangoes
 aranyaka
