@@ -1842,7 +1842,6 @@ gastronosus
 gastropancreatic
 gastroparalysis
 gastroparesis
-gastroparietal
 gastropathy
 gastropathic
 gangrenescent
@@ -5593,6 +5592,7 @@ glyptograph
 glyptographer
 glyptography
 gonake
+gastroparietal
 guestimated
 glyptographic
 glyptolith
