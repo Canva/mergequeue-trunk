@@ -71,7 +71,6 @@ dacryocele
 dacryocyst
 doray
 dacryocystitis
-dacryocystoblennorrhea
 dacryocystocele
 defailance
 dacryocystoptosis
@@ -7444,6 +7443,7 @@ deuterovitellose
 deuterozooid
 disembrace
 didynamies
+dacryocystoblennorrhea
 deutobromide
 deutocarbonate
 deutochloride
