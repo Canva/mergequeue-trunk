@@ -4711,7 +4711,6 @@ demivolts
 demivotary
 demiwivern
 demiwolf
-demiworld
 demnition
 demo
 demob
@@ -10272,6 +10271,7 @@ dyophysitism
 dyophone
 diopsidae
 diopside
+demiworld
 diopsides
 discophore
 diopsidic
