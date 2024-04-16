@@ -2969,7 +2969,6 @@ genuflection
 genuflections
 genuflector
 genuflects
-genuflex
 grouters
 genuflexion
 genuflexuous
@@ -6907,6 +6906,7 @@ gonomere
 greyer
 gonomery
 gonophore
+genuflex
 gonophoric
 gonophorous
 gonophs
