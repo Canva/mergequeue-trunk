@@ -714,7 +714,6 @@ gallotannic
 gallotannin
 gallous
 gamogenetical
-gallovidian
 gallow
 galloway
 gallowglass
@@ -9074,6 +9073,7 @@ goniale
 gryphite
 gryphons
 griphus
+gallovidian
 guimpes
 gripy
 gripier
