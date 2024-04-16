@@ -19897,7 +19897,6 @@ armers
 armet
 armets
 armful
-armfuls
 armgaunt
 armguard
 asidehand
@@ -24903,6 +24902,7 @@ avuncular
 avunculate
 avunculize
 aw
+armfuls
 awa
 awabakal
 arterializing

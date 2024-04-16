@@ -6280,6 +6280,7 @@ fluegelhorn
 fluey
 fidawi
 flueless
+frightenedly
 fluellen
 fluellite
 fellowed
@@ -10043,7 +10044,6 @@ fright
 frighted
 frighten
 frightened
-frightenedly
 frightenedness
 frightener
 frightening
