@@ -221,6 +221,7 @@ gahrwali
 ganguela
 gay
 gaia
+geodynamic
 gradefinder
 gayals
 gaiassa
@@ -3038,7 +3039,6 @@ geodetician
 geodetics
 geodiatropism
 geodiferous
-geodynamic
 geodynamical
 geodynamicist
 geodynamics
