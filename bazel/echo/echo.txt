@@ -2093,7 +2093,6 @@ elaphine
 elaphodus
 elaphomyces
 elaphomycetaceae
-elaphrium
 elaphure
 elaphurine
 elaphurus
@@ -7362,6 +7361,7 @@ esterases
 eom
 eomecon
 eon
+elaphrium
 eonian
 eonism
 eonisms
