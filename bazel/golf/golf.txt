@@ -5339,6 +5339,7 @@ gallused
 goodhearted
 gleeful
 gleefully
+germifuge
 gleefulness
 gleek
 glaucomatous
@@ -6918,7 +6919,6 @@ gymsia
 gonothecal
 gonotyl
 gonotype
-germifuge
 gonotocont
 gonotokont
 gonotome

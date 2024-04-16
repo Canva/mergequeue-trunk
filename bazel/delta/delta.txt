@@ -5613,7 +5613,6 @@ depersonalizing
 depersonize
 depetalize
 depetticoat
-dephase
 dephased
 dephasing
 dephycercal
@@ -18318,6 +18317,7 @@ duopolies
 duopolist
 duopolistic
 duopsony
+dephase
 deception
 duopsonies
 duopsonistic
