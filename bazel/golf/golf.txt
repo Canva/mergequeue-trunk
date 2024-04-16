@@ -1641,6 +1641,7 @@ gasparillo
 gasped
 gasper
 granulomata
+gastness
 galvayned
 gaspereau
 gaspereaus
@@ -1691,7 +1692,6 @@ gasthauser
 gastightness
 gasting
 gastly
-gastness
 gastnesses
 griffaun
 gastornithidae
