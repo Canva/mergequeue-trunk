@@ -1913,6 +1913,7 @@ acrocephalic
 acepots
 argonautic
 acequia
+actinodromous
 acequiador
 acequias
 anisostaminous
@@ -3120,7 +3121,6 @@ actinocutitis
 actinodermatitis
 actinodielectric
 actinodrome
-actinodromous
 actinoelectric
 actinoelectrically
 actinoelectricity
