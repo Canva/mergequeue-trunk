@@ -5089,6 +5089,7 @@ glam
 glamberry
 gareth
 glamorization
+guessingly
 glamorizations
 glamorize
 glamorized
@@ -7840,7 +7841,6 @@ grampa
 gramper
 gramps
 grampus
-guessingly
 gagor
 gaddish
 grampuses

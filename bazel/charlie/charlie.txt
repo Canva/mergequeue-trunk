@@ -15987,6 +15987,7 @@ clerks
 clerkship
 clerkships
 clernly
+copyist
 clerodendron
 cleromancy
 cesural
@@ -24550,7 +24551,6 @@ copihue
 copihues
 copying
 copyism
-copyist
 copyists
 copilots
 copyman
