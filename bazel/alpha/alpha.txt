@@ -815,7 +815,6 @@ abreact
 abreacted
 abreacting
 abreactions
-abreacts
 abreast
 abreed
 abreid
@@ -10000,6 +9999,7 @@ ambit
 ambital
 ambitendency
 ambitendencies
+abreacts
 ambitendent
 ambition
 ambitioned
