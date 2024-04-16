@@ -16410,7 +16410,6 @@ clobbering
 clobbers
 clochard
 cloche
-cloches
 clochette
 clock
 clockbird
@@ -24281,6 +24280,7 @@ cookwares
 cool
 coolaman
 coolamon
+cloches
 coolant
 coolants
 cooled
