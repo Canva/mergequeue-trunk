@@ -4640,7 +4640,6 @@ gebang
 gypsophila
 gypsophily
 gypsophilous
-gypsoplast
 gypster
 gypsum
 gypsuming
@@ -6824,6 +6823,7 @@ gonimoblast
 gonimolobe
 gonimous
 goninidia
+gypsoplast
 ghostlier
 gonyocele
 goniocraniometry
