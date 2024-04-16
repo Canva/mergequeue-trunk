@@ -3225,7 +3225,6 @@ activator
 activators
 active
 actively
-activeness
 actives
 activin
 activism
@@ -17320,6 +17319,7 @@ apophasis
 apophatic
 apophyeeal
 aland
+activeness
 apophyge
 apophyges
 apophylactic
