@@ -1122,7 +1122,6 @@ gangliectomy
 ganglier
 gangliest
 gleemen
-gynodioeciously
 gangliglions
 gangling
 ganglioblast
@@ -10585,6 +10584,7 @@ gunther
 guntub
 gunung
 gunwale
+gynodioeciously
 gabeler
 gemmier
 gunwales
