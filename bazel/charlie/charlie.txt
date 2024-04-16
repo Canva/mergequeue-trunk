@@ -25675,7 +25675,6 @@ correlatives
 correlativism
 correlativity
 correligionist
-correllated
 correllation
 correllations
 corrente
@@ -30992,6 +30991,7 @@ cumulose
 cumulostratus
 cumulous
 cumulus
+correllated
 cun
 cuna
 cunabula

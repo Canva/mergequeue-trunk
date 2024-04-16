@@ -2793,6 +2793,7 @@ fibrinate
 frontosquamosal
 filanders
 fetchers
+fezzy
 fetches
 fetching
 fetchingly
@@ -2990,7 +2991,6 @@ fezes
 fezzan
 fezzed
 fezzes
-fezzy
 fezziwig
 ffa
 fgrid
