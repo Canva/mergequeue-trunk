@@ -2027,7 +2027,6 @@ geophysically
 gaultherin
 gaultherine
 gavelmen
-gaumed
 gaumy
 gauming
 gaumish
@@ -5207,6 +5206,7 @@ gateaux
 glassies
 glassily
 glassin
+gaumed
 gymnolaema
 gummites
 glassines

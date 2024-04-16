@@ -3734,6 +3734,7 @@ embrocado
 exulting
 embrocate
 embrocated
+exhort
 emphlysis
 embrocates
 embrocating
@@ -12544,7 +12545,6 @@ exhilarating
 exhilaratingly
 exhilarator
 exhilaratory
-exhort
 exhortations
 exhortative
 exhortator
