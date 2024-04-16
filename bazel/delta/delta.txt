@@ -10971,6 +10971,7 @@ disally
 disalliege
 disallow
 disallowable
+downriver
 disallowableness
 disallowance
 disallowances
@@ -16290,7 +16291,6 @@ downpours
 downright
 downrightly
 downrightness
-downriver
 downrush
 downrushing
 downset

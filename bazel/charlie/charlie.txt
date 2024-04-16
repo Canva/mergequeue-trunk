@@ -16069,6 +16069,7 @@ cliffed
 comenic
 cliffhang
 cliffhanger
+consulating
 cliffhanging
 cliffy
 cliffier
@@ -23178,7 +23179,6 @@ consularity
 consulate
 consulated
 consulates
-consulating
 collections
 consuls
 consulship
