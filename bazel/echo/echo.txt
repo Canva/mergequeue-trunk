@@ -1578,7 +1578,6 @@ eggs
 eupeptically
 eggshell
 eggshells
-eggwhisk
 egypt
 egyptian
 egyptianism
@@ -5057,6 +5056,7 @@ eyer
 endiaper
 endict
 endyma
+eggwhisk
 endymal
 endimanche
 epiparodos
