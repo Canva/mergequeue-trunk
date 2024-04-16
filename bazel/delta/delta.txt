@@ -12548,7 +12548,6 @@ disleaving
 dyslectic
 dislegitimate
 deckhouses
-dislevelment
 dyslexia
 dyslexias
 dyslexic
@@ -15292,6 +15291,7 @@ dominators
 domine
 dominee
 domineer
+dislevelment
 domineered
 domineerer
 domineering

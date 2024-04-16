@@ -6771,6 +6771,7 @@ aylesbury
 aporetical
 ayless
 aylet
+arthromere
 ailette
 ailing
 aillt
@@ -20592,7 +20593,6 @@ arthrolith
 arthrolithiasis
 arthrology
 arthromeningitis
-arthromere
 arthromeric
 arthrometer
 arthrometry
