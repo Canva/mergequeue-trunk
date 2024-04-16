@@ -777,7 +777,6 @@ gerenuk
 galuth
 galv
 galvayne
-galvayned
 galvayning
 galvanic
 galvanical
@@ -1645,6 +1644,7 @@ gasparillo
 gasped
 gasper
 granulomata
+galvayned
 gaspereau
 gaspereaus
 grecizes
