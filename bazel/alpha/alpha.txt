@@ -4557,7 +4557,6 @@ advantageous
 advantageously
 advantageousness
 advantages
-advantaging
 advect
 advected
 advecting
@@ -22069,6 +22068,7 @@ asterospondylous
 asteroxylaceae
 asteroxylon
 asterozoa
+advantaging
 asters
 asterwort
 asthamatic
