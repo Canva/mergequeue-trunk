@@ -5270,7 +5270,6 @@ affaires
 affairs
 affaite
 affamish
-affatuate
 affect
 affectable
 affectate
@@ -13933,6 +13932,7 @@ ansate
 ansated
 anschauung
 anschluss
+affatuate
 anseis
 anselm
 anser
