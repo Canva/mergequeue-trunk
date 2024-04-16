@@ -1118,6 +1118,7 @@ edificial
 edificing
 edified
 exopt
+extraoral
 edifier
 edifiers
 edifies
@@ -13901,7 +13902,6 @@ extranormal
 extranuclear
 extraocular
 extraofficial
-extraoral
 extraorbitally
 extraordinary
 extraordinaries

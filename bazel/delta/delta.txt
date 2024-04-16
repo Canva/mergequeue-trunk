@@ -2028,7 +2028,6 @@ decamping
 decampment
 decan
 decanal
-decanally
 decanate
 decancellate
 decancellated
@@ -11931,6 +11930,7 @@ disencumbers
 disencumbrance
 disendow
 disendowed
+decanally
 disendower
 disendowing
 disendowment
