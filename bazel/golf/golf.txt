@@ -1582,7 +1582,6 @@ gashes
 gashful
 gashy
 gashing
-gashliness
 gasholder
 gasify
 gasifiable
@@ -4812,6 +4811,7 @@ gyros
 gyroscope
 gyroscopes
 gyroscopic
+gashliness
 gyroscopics
 gratuitous
 gyrose
