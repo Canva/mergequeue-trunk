@@ -1204,6 +1204,7 @@ educationalist
 espathate
 educationary
 educationese
+exometritis
 educationist
 educations
 educator
@@ -7560,7 +7561,6 @@ ephestia
 ephestian
 ephetae
 ephetic
-exometritis
 ephialtes
 ephydra
 ephydridae
