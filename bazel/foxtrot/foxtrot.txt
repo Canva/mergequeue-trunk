@@ -6082,6 +6082,7 @@ florigens
 florikan
 floriken
 florilage
+fondled
 florilegia
 florilegium
 florimania
@@ -7864,7 +7865,6 @@ fordable
 forepaws
 forepeak
 forepeaks
-fondled
 foreperiod
 foreplace
 foreplay
