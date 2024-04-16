@@ -2270,7 +2270,6 @@ baptizer
 baptizers
 baptizes
 baptizing
-baptornis
 bar
 barabara
 barabbas
@@ -9238,6 +9237,7 @@ byous
 byously
 biovulate
 bioxalate
+baptornis
 bioxide
 biozone
 byp
