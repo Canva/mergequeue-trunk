@@ -4896,6 +4896,7 @@ flamboyancy
 fatherhood
 flamboyantism
 fractonimbus
+foxbane
 flamboyantize
 flamboyantly
 flamboyer
@@ -9106,7 +9107,6 @@ frescoers
 fowlpoxes
 fallaciousness
 fox
-foxbane
 foxberry
 foxberries
 foxer
