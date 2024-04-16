@@ -1985,7 +1985,6 @@ bandos
 bandpass
 bandrol
 bands
-bandsaw
 bandsawed
 bandsawing
 bandsawn
@@ -5361,6 +5360,7 @@ begruntle
 begrutten
 begs
 begster
+bandsaw
 beguard
 beguess
 beguile
