@@ -7083,6 +7083,7 @@ entrelac
 entremess
 entremets
 entrenches
+excreta
 entrenching
 entrenchment
 entrenchments
@@ -12212,7 +12213,6 @@ excrescential
 excrescently
 excresence
 excression
-excreta
 enflowered
 excretal
 excrete
