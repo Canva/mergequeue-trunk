@@ -9541,6 +9541,7 @@ anthema
 altimetry
 altimetrical
 altimetrically
+antirestoration
 altimettrically
 altingiaceae
 altingiaceous
@@ -16100,7 +16101,6 @@ antirepublicanism
 antireservationist
 antiresonance
 antiresonator
-antirestoration
 antireticular
 antirevisionist
 antirevolution
