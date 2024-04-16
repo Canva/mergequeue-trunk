@@ -19612,6 +19612,7 @@ comanches
 comandante
 comandantes
 comandanti
+cornucopia
 comandra
 comanic
 comarca
@@ -25412,7 +25413,6 @@ cornuate
 cornuated
 cornubianite
 circumambulating
-cornucopia
 cornucopian
 cataian
 cornucopias
