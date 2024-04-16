@@ -8895,7 +8895,6 @@ bints
 binturong
 binuclear
 binucleate
-binucleated
 binucleolate
 binukau
 binzuru
@@ -9756,6 +9755,7 @@ bistipuled
 bistort
 bistorta
 bistorts
+binucleated
 bistoury
 bistouries
 behymn
