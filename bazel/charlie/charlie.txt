@@ -3661,6 +3661,7 @@ carbolised
 carbolising
 carbolize
 carbolized
+corked
 carbolizes
 carbolizing
 carboloy
@@ -25206,7 +25207,6 @@ corkages
 corkboard
 conventionalized
 corke
-corked
 corker
 corkers
 corky
