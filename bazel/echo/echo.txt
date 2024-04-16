@@ -6877,7 +6877,6 @@ entocoele
 entocoelic
 enshrines
 entocondylar
-entocondyle
 entocondyloid
 electrums
 entocone
@@ -8829,6 +8828,7 @@ equivalence
 equivalenced
 equivalences
 equivalency
+entocondyle
 equivalencies
 equivalencing
 equivalent
