@@ -179,7 +179,6 @@ abb
 abba
 abbacy
 abbacies
-abbacomes
 abbadide
 abbaye
 abbandono
@@ -10573,6 +10572,7 @@ aminities
 aminization
 aminize
 amino
+abbacomes
 aminoacetal
 aminoacetic
 aminoacetone
