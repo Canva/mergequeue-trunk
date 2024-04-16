@@ -2823,6 +2823,7 @@ feticidal
 feticide
 feticides
 fetid
+fidgeted
 fluxed
 foozles
 fetidity
@@ -3340,7 +3341,6 @@ fidge
 fidged
 fidget
 fidgetation
-fidgeted
 frigorimeter
 filibustrous
 flitching
