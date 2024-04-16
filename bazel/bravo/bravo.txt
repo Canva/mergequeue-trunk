@@ -1499,7 +1499,6 @@ balladeers
 ballader
 ballades
 borstal
-biramose
 balladic
 balladical
 balladier
@@ -5438,6 +5437,7 @@ behear
 behears
 behearse
 behedge
+biramose
 beheld
 behemoth
 behemothic
