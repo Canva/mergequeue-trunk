@@ -3235,7 +3235,6 @@ defensively
 defensiveness
 defensor
 defensory
-defensorship
 defer
 deference
 deferent
@@ -4248,6 +4247,7 @@ delphinia
 delphinic
 delphinid
 delphinidae
+defensorship
 delphinin
 delphinine
 delphinite
