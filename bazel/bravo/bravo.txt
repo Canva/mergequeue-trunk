@@ -14864,7 +14864,6 @@ breastrope
 breasts
 breaststroke
 breaststroker
-breaststrokes
 breastsummer
 breastweed
 breastwise
@@ -17622,6 +17621,7 @@ burgeoning
 burgeons
 burger
 burgers
+breaststrokes
 burgess
 brigands
 burgessdom
