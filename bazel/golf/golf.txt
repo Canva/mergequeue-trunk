@@ -1082,6 +1082,7 @@ ganevs
 guillotinade
 gang
 ganga
+gingerol
 gangamopteris
 gangan
 gangava
@@ -4441,7 +4442,6 @@ gingerline
 gingerliness
 gingerness
 gingernut
-gingerol
 gingerous
 gingers
 gradation

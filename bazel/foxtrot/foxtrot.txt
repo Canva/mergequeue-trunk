@@ -2294,7 +2294,6 @@ fenderless
 fenders
 fendillation
 fending
-fends
 fenerate
 feneration
 fizzes
@@ -4821,6 +4820,7 @@ fasciolaria
 frontspiece
 flagpole
 flagrancy
+fends
 flagrant
 flagrante
 flagrantly
