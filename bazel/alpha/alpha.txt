@@ -10732,6 +10732,7 @@ ammochryse
 ammocoete
 ammocoetes
 ammocoetid
+apargia
 ammocoetidae
 ammodyte
 ammodytes
@@ -16663,7 +16664,6 @@ apar
 aparavidya
 apardon
 aparejos
-apargia
 aparithmesis
 apart
 actinologue
