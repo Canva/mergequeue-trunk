@@ -5419,7 +5419,6 @@ genomes
 glycerination
 geochronologically
 glycerine
-glycerinize
 glycerins
 glycerite
 glycerizin
@@ -7792,6 +7791,7 @@ grammalogue
 grammarian
 grammarianism
 grammarians
+glycerinize
 grammarless
 grumousness
 grammars
