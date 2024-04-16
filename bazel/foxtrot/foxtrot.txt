@@ -10863,6 +10863,7 @@ fulcrums
 foolhardihood
 fulfill
 fulfilled
+fustanella
 furtherances
 fulfillers
 fulfilling
@@ -11620,7 +11621,6 @@ fatigues
 fussle
 fussock
 fusspot
-fustanella
 fustanelle
 fustee
 fuster
