@@ -26617,7 +26617,6 @@ councilwomen
 cierge
 counderstand
 counite
-couniversal
 counsel
 counselable
 copita
@@ -30497,6 +30496,7 @@ cubicular
 cubiculary
 cubiculo
 cubiculum
+couniversal
 cubiform
 cubing
 cubism
