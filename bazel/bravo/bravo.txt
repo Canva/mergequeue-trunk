@@ -951,7 +951,6 @@ baguet
 baguets
 baguette
 beydom
-baguettes
 baguio
 barkinji
 baguios
@@ -8326,6 +8325,7 @@ bigamously
 bygane
 byganging
 bigarade
+baguettes
 bigarades
 bigaroon
 briefless

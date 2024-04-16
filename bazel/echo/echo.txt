@@ -4394,7 +4394,6 @@ enaliosaurian
 esplanades
 enalite
 enallachrome
-enallage
 echinochloa
 enaluron
 enam
@@ -5966,6 +5965,7 @@ enigmatic
 enigmatical
 enigmatically
 enigmaticalness
+enallage
 enigmatist
 enigmatization
 enigmatize
