@@ -6119,7 +6119,6 @@ benchmarks
 benchmen
 benchwarmer
 bencite
-bend
 bendable
 benday
 bendayed
@@ -12278,6 +12277,7 @@ bombers
 bombes
 bombesin
 bombesins
+bend
 bombiccite
 bombycid
 bombycidae
