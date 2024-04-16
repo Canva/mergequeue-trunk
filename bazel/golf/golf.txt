@@ -1886,7 +1886,6 @@ gastrostegal
 gastrostege
 gastrostenosis
 gastrostomy
-gastrostomies
 gastrostomize
 gastrotaxis
 gastrotheca
@@ -4179,6 +4178,7 @@ gimbals
 gothamite
 gismo
 groining
+gastrostomies
 gimbawawed
 gimberjawed
 glycosaemia
