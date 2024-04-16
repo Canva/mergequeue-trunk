@@ -4047,7 +4047,6 @@ gigglingly
 glitzy
 gigglish
 gygis
-giglet
 gigliato
 giglio
 gimmicked
@@ -10449,6 +10448,7 @@ gun
 gunarchy
 gunate
 gunated
+giglet
 gunating
 gunation
 gunbuilder
