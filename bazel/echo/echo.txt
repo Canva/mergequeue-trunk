@@ -4368,6 +4368,7 @@ en
 enable
 expertising
 enabled
+exobiologists
 enablement
 enablers
 enables
@@ -12666,7 +12667,6 @@ exobasidiaceae
 exclaim
 exobasidium
 exobiologist
-exobiologists
 exocannibalism
 exocardia
 exocardiac
