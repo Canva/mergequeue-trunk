@@ -19548,6 +19548,7 @@ argolic
 antisymmetric
 argolid
 argols
+autonomously
 argon
 argonaut
 argonauta
@@ -24260,7 +24261,6 @@ autonomies
 autonomist
 autonomize
 autonomous
-autonomously
 autonomousness
 autooxidation
 autoparasitism
