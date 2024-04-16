@@ -765,6 +765,7 @@ gals
 galt
 galtonia
 galtrap
+geason
 galuchat
 galumph
 galumphed
@@ -2222,7 +2223,6 @@ gearwheel
 gearwheels
 glistening
 gastrular
-geason
 geast
 geaster
 geat
