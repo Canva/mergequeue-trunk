@@ -1147,7 +1147,6 @@ abune
 abura
 aburban
 aburst
-aburton
 abusable
 abusage
 abuse
@@ -16277,6 +16276,7 @@ antistatist
 antisteapsin
 antisterility
 antistes
+aburton
 antistimulant
 antistimulation
 antistock

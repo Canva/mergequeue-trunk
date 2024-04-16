@@ -2219,6 +2219,7 @@ decempennate
 decemplex
 decemplicate
 decempunctate
+dunne
 decemstriate
 decemuiri
 decemvii
@@ -18224,7 +18225,6 @@ dunnage
 dunnages
 dunnaging
 dunnakin
-dunne
 dunned
 dunner
 dunness
