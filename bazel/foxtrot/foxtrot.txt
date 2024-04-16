@@ -1791,7 +1791,6 @@ feaze
 feazed
 feazing
 feazings
-febres
 febricant
 febricitant
 febricitation
@@ -11002,6 +11001,7 @@ fumarase
 flagellar
 finally
 fumarases
+febres
 fumarate
 fumarates
 fumaria
