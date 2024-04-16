@@ -4258,6 +4258,7 @@ fireshine
 firesider
 firesideship
 firespout
+foveoles
 firestone
 firestop
 firestopping
@@ -9076,7 +9077,6 @@ falconry
 foveolate
 foveolated
 foveole
-foveoles
 foveolet
 foveolets
 fovilla
