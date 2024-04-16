@@ -12311,6 +12311,7 @@ dishorner
 dishorse
 dishouse
 dishpan
+disputer
 dishpanful
 dishpans
 dishrags
@@ -13233,7 +13234,6 @@ dispute
 disputed
 disputeful
 disputeless
-disputer
 disputers
 disputes
 disputing
