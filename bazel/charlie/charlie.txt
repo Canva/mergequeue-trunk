@@ -1222,7 +1222,6 @@ calfskin
 calfskins
 calgary
 calgon
-caliber
 calibers
 calybite
 cunas
@@ -18873,6 +18872,7 @@ collator
 collators
 collatress
 collaudation
+caliber
 colleague
 colleagued
 colleagues
