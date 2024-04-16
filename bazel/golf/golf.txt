@@ -3142,6 +3142,7 @@ geometrising
 geometrize
 gluconokinase
 geometrized
+gerip
 gelseminine
 geometrizing
 geometroid
@@ -3363,7 +3364,6 @@ geryon
 geryonia
 geryonid
 geryoniidae
-gerip
 goidelic
 gerkin
 gonagia
