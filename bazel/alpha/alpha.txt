@@ -2182,6 +2182,7 @@ achaetous
 achafe
 achage
 achagua
+anoestrus
 achakzai
 achalasia
 achamoth
@@ -13719,7 +13720,6 @@ anoegenetic
 anoesia
 anoesis
 anoestrous
-anoestrus
 anoetic
 anogenic
 anogenital
