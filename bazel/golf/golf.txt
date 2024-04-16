@@ -783,6 +783,7 @@ galvayned
 galvayning
 galvanic
 galvanical
+gargles
 galvanically
 galvanisation
 galvanise
@@ -7589,7 +7590,6 @@ graciosity
 gracioso
 graciosos
 gracious
-gargles
 graciously
 graciousness
 grackle
