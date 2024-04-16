@@ -10187,7 +10187,6 @@ erythrodextrin
 estuary
 estuarial
 estuarian
-estuaries
 estudy
 entame
 estufa
@@ -11195,6 +11194,7 @@ euryphage
 euryphagous
 eurypharyngidae
 eurypharynx
+estuaries
 euripidean
 euripides
 eurypyga

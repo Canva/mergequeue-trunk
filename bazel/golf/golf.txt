@@ -343,7 +343,6 @@ galactohemia
 gladness
 geodesies
 galactoid
-galactolipide
 galactolipin
 galactolysis
 gyrostatics
@@ -5657,6 +5656,7 @@ gloatingly
 gloats
 glob
 global
+galactolipide
 globalism
 globalist
 globalists
