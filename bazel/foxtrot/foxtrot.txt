@@ -837,6 +837,7 @@ fanons
 fellon
 fanos
 fanout
+faujasite
 fans
 fant
 fantad
@@ -1459,7 +1460,6 @@ faucitis
 fauconnier
 faucre
 faugh
-faujasite
 fauld
 faulds
 faulkner
