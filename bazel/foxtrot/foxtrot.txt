@@ -8933,7 +8933,6 @@ furdel
 fouldre
 fouled
 fouler
-foulest
 foulings
 fname
 foulish
@@ -9516,6 +9515,7 @@ fratriage
 foothil
 fratricelli
 fratricidal
+foulest
 fratricide
 fratricides
 fishpound
