@@ -7559,6 +7559,7 @@ ephestia
 ephestian
 ephetae
 ephetic
+exometritis
 ephialtes
 ephydra
 ephydridae
@@ -12743,7 +12744,6 @@ exolete
 epitomizes
 exolution
 exolve
-exometritis
 exomis
 exomologesis
 exomorphic
