@@ -10813,7 +10813,6 @@ amnic
 agyria
 allamoth
 amnigenia
-amninia
 amnioallantoic
 amniocentesis
 amniochorial
@@ -13154,6 +13153,7 @@ animalcules
 animalculine
 animalculism
 animalculous
+amninia
 animalculum
 animalhood
 animalia
