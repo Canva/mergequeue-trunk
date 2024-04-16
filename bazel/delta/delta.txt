@@ -2797,7 +2797,6 @@ decretist
 decretive
 decretively
 decretorial
-decretorian
 decretorily
 decretum
 decrew
@@ -7322,6 +7321,7 @@ detrained
 determiners
 decoymen
 detraining
+decretorian
 detrainment
 detraque
 detrect
