@@ -7033,7 +7033,6 @@ entrains
 entrammel
 emotionalising
 entranced
-entrancedly
 entrancements
 entrancer
 entrances
@@ -8741,6 +8740,7 @@ equiomnipotent
 engineered
 equip
 equipaga
+entrancedly
 equipage
 equipages
 equiparable
