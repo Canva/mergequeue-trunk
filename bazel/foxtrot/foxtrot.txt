@@ -6552,6 +6552,7 @@ flurrying
 fillers
 flurriment
 flurt
+frises
 flus
 flush
 flushable
@@ -10174,7 +10175,6 @@ friscal
 frisch
 frisco
 frise
-frises
 frisesomorum
 frisette
 flatteners

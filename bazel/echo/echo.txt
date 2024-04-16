@@ -8619,7 +8619,6 @@ equationally
 equationist
 equations
 essentia
-equative
 equator
 etherial
 equatoreal
@@ -9886,6 +9885,7 @@ esquimau
 esquire
 esquirearchy
 esquired
+equative
 esquiredom
 esquires
 esquiring
