@@ -493,6 +493,7 @@ backslider
 blaspheming
 backsliders
 backslides
+bald
 backsliding
 babesias
 backslidingness
@@ -1365,7 +1366,6 @@ balconette
 balcony
 balconied
 balconies
-bald
 baldacchini
 baldacchino
 baldachin
