@@ -6597,7 +6597,6 @@ filagreeing
 flutey
 flutelike
 fluter
-feramorz
 fluters
 fibroglia
 foolisher
@@ -9090,6 +9089,7 @@ foveolet
 foveolets
 fovilla
 fow
+feramorz
 frangibleness
 fowage
 feminists

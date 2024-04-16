@@ -1254,7 +1254,6 @@ datism
 dative
 datively
 datives
-dativogerundial
 dato
 datolite
 datolitic
@@ -15830,6 +15829,7 @@ dosages
 dosain
 dosed
 doser
+dativogerundial
 dosimeter
 dosimeters
 dosimetry
