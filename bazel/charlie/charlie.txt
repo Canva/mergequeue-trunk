@@ -14311,7 +14311,6 @@ circummeridional
 circummigrate
 cassoni
 circummigration
-circummundane
 circummure
 circummured
 circummuring
@@ -20722,6 +20721,7 @@ complimenter
 complimenters
 complimenting
 complimentingly
+circummundane
 compliments
 complin
 compline
