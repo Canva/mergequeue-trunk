@@ -5293,6 +5293,7 @@ beglad
 begladding
 beglads
 beglamour
+bookling
 beglare
 beglerbeg
 beglerbeglic
@@ -12657,7 +12658,6 @@ booklet
 broomy
 booklift
 booklike
-bookling
 booklore
 booklores
 biconjugate
