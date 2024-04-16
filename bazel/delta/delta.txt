@@ -9726,6 +9726,7 @@ daubers
 duinhewassel
 diastasis
 downfield
+drosograph
 dermatocyst
 dillesk
 dilli
@@ -17387,7 +17388,6 @@ droseras
 droshkies
 drosky
 droskies
-drosograph
 drosometer
 drosophila
 drosophilae
