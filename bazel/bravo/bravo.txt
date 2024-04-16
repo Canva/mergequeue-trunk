@@ -6662,7 +6662,6 @@ berengena
 berenice
 browed
 bereshith
-beresite
 beret
 berets
 beretta
@@ -17959,6 +17958,7 @@ bushelful
 bushelfuls
 beseeched
 bushelled
+beresite
 busheller
 bushelling
 bushelman
