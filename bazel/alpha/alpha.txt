@@ -13100,6 +13100,7 @@ anilic
 anilide
 anilidic
 anilidoxime
+attirer
 aniliid
 anticovenanter
 anilin
@@ -23102,7 +23103,6 @@ attirail
 attire
 attired
 attirement
-attirer
 attires
 attiring
 attitude
