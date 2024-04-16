@@ -5247,6 +5247,7 @@ aevum
 af
 anemometry
 aface
+androlepsia
 afaced
 afacing
 afaint
@@ -12409,7 +12410,6 @@ androl
 androlepsy
 arthrotomies
 acrotomous
-androlepsia
 andromache
 andromania
 andromaque

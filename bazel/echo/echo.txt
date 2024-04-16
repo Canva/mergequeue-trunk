@@ -9916,6 +9916,7 @@ essed
 epicoelar
 essede
 essee
+elasmosaur
 esselen
 eisoptrophobia
 esselenian
@@ -14027,7 +14028,6 @@ eluates
 extravasate
 extravasated
 extravasating
-elasmosaur
 extravasation
 extravehicular
 extravenate
