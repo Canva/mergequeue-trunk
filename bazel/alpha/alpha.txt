@@ -536,6 +536,7 @@ ablactation
 ablare
 ablastemic
 ablastous
+acquaintedness
 ablate
 ablates
 ablating
@@ -2693,7 +2694,6 @@ acquaintanceships
 acquaintancy
 acquaintant
 acquainted
-acquaintedness
 acquainting
 acquent
 acquereur
