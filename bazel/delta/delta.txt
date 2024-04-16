@@ -655,6 +655,7 @@ damnableness
 diddles
 damnably
 damnation
+desyl
 damnatory
 desterilizing
 damndest
@@ -6641,7 +6642,6 @@ designingly
 designless
 designlessly
 designment
-desyl
 desilicate
 desilicated
 desilicating
