@@ -4061,6 +4061,7 @@ ectodermoidal
 emotiveness
 emotivism
 emotivity
+equiprobability
 emove
 exorability
 eponymize
@@ -8784,7 +8785,6 @@ equipped
 equipping
 equiprobabilist
 eddy
-equiprobability
 equiprobable
 equiprobably
 equiproportional
