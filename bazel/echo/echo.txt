@@ -5096,7 +5096,6 @@ endoblastic
 endobronchial
 enharbor
 empathizing
-enunciation
 ethmoturbinate
 endobronchially
 endobronchitis
@@ -12138,6 +12137,7 @@ exclude
 excludes
 excludible
 endpoint
+enunciation
 excludingly
 exclusion
 exclusionary
