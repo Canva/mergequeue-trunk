@@ -16218,6 +16218,7 @@ clinkstone
 clinkum
 clinoaxis
 clinocephaly
+countermoving
 clinocephalic
 clinocephalous
 clinocephalus
@@ -26960,7 +26961,6 @@ countermount
 countermove
 countermoved
 countermovement
-countermoving
 countermure
 countermutiny
 counternaiant

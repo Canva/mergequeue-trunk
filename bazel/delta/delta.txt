@@ -5679,7 +5679,6 @@ disposit
 deplenish
 depletable
 deplete
-depleteable
 depleted
 deplethoric
 depleting
@@ -15666,6 +15665,7 @@ dyemaker
 dorymen
 dolichostylous
 dorine
+depleteable
 doryphoros
 divining
 doryphorus
