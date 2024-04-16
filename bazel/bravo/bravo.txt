@@ -1489,7 +1489,6 @@ balkish
 balkline
 baryton
 balklines
-balks
 ball
 ballad
 ballade
@@ -15047,6 +15046,7 @@ breviconic
 balneographer
 brevier
 brevifoliate
+balks
 breviger
 brevilingual
 breviloquence
