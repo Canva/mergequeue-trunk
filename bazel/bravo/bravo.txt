@@ -16665,7 +16665,6 @@ bucktails
 buckthorn
 bucktooth
 bucktoothed
-bucku
 ballooning
 buckwagon
 buckwash
@@ -17482,6 +17481,7 @@ bunter
 bunters
 bunty
 buntine
+bucku
 bunting
 buntings
 buntline
