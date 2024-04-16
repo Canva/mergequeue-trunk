@@ -7976,6 +7976,7 @@ ghess
 grange
 granger
 grangerisation
+growth
 grangerise
 grangerised
 grangeriser
@@ -9561,7 +9562,6 @@ grows
 gempylid
 growse
 growsome
-growth
 growthful
 growthy
 gorevan

@@ -10102,7 +10102,6 @@ estivation
 exterminations
 estivator
 estive
-emgalla
 estmark
 estoc
 elephants
@@ -11908,6 +11907,7 @@ entericoid
 exasperatingly
 exasperation
 exaspidean
+emgalla
 exauctorate
 exclusory
 exaudi
