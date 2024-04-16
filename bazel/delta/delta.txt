@@ -4939,6 +4939,7 @@ dempsters
 demulce
 demulceate
 demulcent
+disaccredit
 demulcents
 demulsibility
 demulsify
@@ -10874,7 +10875,6 @@ disaccomodate
 disaccord
 disaccordance
 disaccordant
-disaccredit
 disaccustom
 disaccustomedness
 disacidify
