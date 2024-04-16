@@ -10066,7 +10066,6 @@ frigidaire
 frigidaria
 frigidarium
 frigiddaria
-frigidity
 frigidities
 frigidly
 flemished
@@ -11214,6 +11213,7 @@ fungicidally
 fungicide
 fungicides
 fungicolous
+frigidity
 fungiferous
 fungify
 fungiform
