@@ -1924,6 +1924,7 @@ debutante
 downcastly
 debutantes
 dragbar
+diplacuses
 debutants
 debuted
 debuting
@@ -10463,7 +10464,6 @@ dipyridyl
 dipl
 diplacanthidae
 diplacanthus
-diplacuses
 diplacusis
 dipladenia
 diplanar
