@@ -4170,7 +4170,6 @@ empires
 empyreum
 empyreuma
 elodeaceae
-empyreumata
 empyreumatic
 extradict
 empyreumatical
@@ -5130,6 +5129,7 @@ endochorionic
 endocycle
 epanalepsis
 endocyclic
+empyreumata
 endocyemate
 endocyst
 endocystitis
