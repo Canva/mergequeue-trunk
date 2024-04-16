@@ -3642,6 +3642,7 @@ getspa
 getspace
 getsul
 gnawingly
+gratefullest
 guidons
 gettableness
 getter
@@ -8305,7 +8306,6 @@ grata
 gratae
 grate
 grateful
-gratefullest
 gratefully
 gratefulness
 groupie
