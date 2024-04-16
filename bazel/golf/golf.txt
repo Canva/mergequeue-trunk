@@ -2781,7 +2781,6 @@ genioglossal
 globoids
 genioglossi
 genioglossus
-geniohyoglossal
 geniohyoglossus
 geniohyoid
 geniolatry
@@ -9444,6 +9443,7 @@ gentleship
 groundout
 groundplot
 gnaeus
+geniohyoglossal
 grounds
 gros
 glim
