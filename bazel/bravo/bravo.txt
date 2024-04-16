@@ -1975,6 +1975,7 @@ bandoleros
 bandolier
 bandoliered
 bandoline
+bashmuric
 bandonion
 bandor
 bandora
@@ -3183,7 +3184,6 @@ bashlik
 bashlyk
 bashlyks
 bashment
-bashmuric
 basial
 basialveolar
 brawly
