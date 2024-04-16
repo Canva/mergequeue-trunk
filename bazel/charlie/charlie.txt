@@ -11226,7 +11226,6 @@ cheaters
 chloridic
 chloridize
 chloridized
-chlorids
 compaternity
 chloryl
 chlorimeter
@@ -29665,6 +29664,7 @@ crokinole
 crom
 crombec
 crome
+chlorids
 cromer
 cromerian
 cromfordite
