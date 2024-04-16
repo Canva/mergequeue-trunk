@@ -6438,7 +6438,6 @@ ensilages
 ensilaging
 ensilate
 ensilation
-ensile
 ensiled
 ensiles
 expiate
@@ -13938,6 +13937,7 @@ extrapolations
 extrapolative
 extrapolator
 extrapolatory
+ensile
 extrapopular
 extraposition
 extraprofessional

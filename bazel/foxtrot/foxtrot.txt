@@ -801,6 +801,7 @@ fanglomerate
 frizado
 fango
 fangotherapy
+flatfootedly
 fangs
 fanhouse
 faniente
@@ -5116,7 +5117,6 @@ flatfish
 flatfishes
 flatfoot
 flatfooted
-flatfootedly
 flatfootedness
 flatfooting
 flatfoots
