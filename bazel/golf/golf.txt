@@ -4034,7 +4034,6 @@ giggledom
 gigglement
 giggler
 gigglesome
-gaggled
 giggly
 gigglier
 gluttonizing
@@ -5198,6 +5197,7 @@ glassfish
 glassful
 glassfuls
 glasshouse
+gaggled
 glasshouses
 glassy
 glassie

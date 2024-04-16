@@ -4549,7 +4549,6 @@ becrippled
 bedsheet
 becrippling
 becroak
-becross
 becrowd
 becrowded
 becrowding
@@ -15052,6 +15051,7 @@ brevilingual
 breviloquence
 beholding
 bestirring
+becross
 breviloquent
 breviped
 brevipen
