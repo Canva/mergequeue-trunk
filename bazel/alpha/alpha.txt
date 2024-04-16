@@ -690,7 +690,6 @@ abominably
 abominate
 adulates
 abominated
-abominates
 abominating
 abomination
 abominations
@@ -23655,6 +23654,7 @@ auscultates
 auscultating
 auscultation
 auscultations
+abominates
 auscultative
 auscultatory
 auscultoscope
