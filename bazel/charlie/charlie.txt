@@ -402,7 +402,6 @@ cacotype
 cacotopia
 cacotrophia
 cacotrophic
-cacoxene
 cacoxenite
 cacozeal
 cacozealous
@@ -26079,6 +26078,7 @@ cosmocratic
 cosmogenesis
 cosmogenetic
 cosmogeny
+cacoxene
 cosmogenic
 cosmognosis
 cosmogonal
