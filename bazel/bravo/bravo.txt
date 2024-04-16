@@ -589,6 +589,7 @@ backway
 backwall
 backward
 backwardation
+beluga
 backwardly
 backwardness
 backwards
@@ -5956,7 +5957,6 @@ beltwise
 beluchi
 belucki
 belue
-beluga
 belugas
 belugite
 belute
