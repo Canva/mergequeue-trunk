@@ -6401,6 +6401,7 @@ benzdioxtriazine
 benzedrine
 benzein
 benzene
+blepharophthalmia
 benzeneazobenzene
 benzenediazonium
 benzenes
@@ -9280,7 +9281,6 @@ bipedality
 bipedism
 bipeds
 bipeltate
-blepharophthalmia
 bipennate
 built
 bipennated
