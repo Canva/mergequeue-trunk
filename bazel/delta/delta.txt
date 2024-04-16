@@ -2389,6 +2389,7 @@ decimalization
 decimalize
 decimalizes
 decimalizing
+disseats
 decimally
 decimals
 decimate
@@ -13401,7 +13402,6 @@ disseason
 disseat
 disseated
 disseating
-disseats
 dissect
 dissected
 dissectible
