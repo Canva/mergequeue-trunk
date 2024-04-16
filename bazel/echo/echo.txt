@@ -3202,7 +3202,6 @@ elsholtzia
 elsin
 elt
 eltime
-eluant
 enterophthisis
 eluants
 eluate
@@ -5708,6 +5707,7 @@ engallant
 epistles
 engaol
 engarb
+eluant
 engarble
 eremophyte
 engarland

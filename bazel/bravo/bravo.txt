@@ -1751,6 +1751,7 @@ balsaming
 balsamitic
 balsamiticness
 balsamo
+burro
 balsamodendron
 balsamorrhiza
 brahmic
@@ -17845,7 +17846,6 @@ burrish
 burrito
 burritos
 burrknot
-burro
 burrobrush
 burrock
 burros
