@@ -14600,6 +14600,7 @@ brassidic
 blighter
 brassie
 brassier
+buffaloing
 brassiere
 blaver
 brassieres
@@ -16787,7 +16788,6 @@ blasty
 buffalofish
 buffalofishes
 botheration
-buffaloing
 buffalos
 buffball
 buffcoat

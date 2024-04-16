@@ -6898,6 +6898,7 @@ entodermal
 entodermic
 entoderms
 entogastric
+evokes
 entogenous
 enstyle
 entoglossal
@@ -11697,7 +11698,6 @@ evoked
 evoker
 evokers
 ecdemic
-evokes
 evoking
 evolate
 evolute
