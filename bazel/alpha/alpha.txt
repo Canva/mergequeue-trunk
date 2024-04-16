@@ -8876,6 +8876,7 @@ allolalic
 allomerism
 allomerization
 allomerize
+archaeologically
 allomerized
 allomerizing
 allomerous
@@ -18678,7 +18679,6 @@ archaeology
 archaeologian
 archaeologic
 archaeological
-archaeologically
 archaeologists
 archaeomagnetism
 archaeopithecus
