@@ -9813,7 +9813,6 @@ bitheism
 bunton
 bityite
 bytime
-biting
 bitingly
 brumal
 bitingness
@@ -14034,6 +14033,7 @@ brachysclereid
 brachyskelic
 brachysm
 brachystaphylic
+biting
 brachystegia
 brachistocephali
 brachistocephaly

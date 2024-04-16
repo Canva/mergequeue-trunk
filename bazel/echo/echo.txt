@@ -10065,7 +10065,6 @@ esthesiology
 esthesiometer
 excerption
 esthesiometry
-esthesiometric
 esthesioneurosis
 esthesiophysiology
 esthesis
@@ -11117,6 +11116,7 @@ euphuist
 euphuistic
 euphuistical
 euphuistically
+esthesiometric
 euphuize
 euphuized
 euphuizing
