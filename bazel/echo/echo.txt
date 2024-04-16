@@ -3844,6 +3844,7 @@ emergences
 emergencies
 emergent
 emergently
+exposited
 emergentness
 emergents
 emergers
@@ -13311,7 +13312,6 @@ exposers
 exposes
 exposing
 exposit
-exposited
 expositing
 exposition
 expositional
