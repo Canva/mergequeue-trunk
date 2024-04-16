@@ -3467,6 +3467,7 @@ deforceor
 deforcer
 deforces
 deforciant
+dinkies
 deforest
 deforestation
 deforested
@@ -10136,7 +10137,6 @@ dinkey
 dinkeys
 dinky
 dinkier
-dinkies
 dinkiest
 dinking
 dinkly
