@@ -15257,6 +15257,7 @@ anthropomorphite
 antifouling
 abject
 apicilar
+arbuscule
 antifowl
 antifreeze
 antifreezes
@@ -18590,7 +18591,6 @@ arbuscle
 arbuscles
 arbuscula
 arbuscular
-arbuscule
 arbust
 arbusta
 arbusterol
