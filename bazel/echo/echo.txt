@@ -9319,6 +9319,7 @@ erode
 eroded
 erodent
 erodes
+explorate
 eroding
 erodium
 erogate
@@ -9960,7 +9961,6 @@ essoinment
 essoins
 essonite
 essonites
-explorate
 est
 estab
 estable
