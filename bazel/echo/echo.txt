@@ -678,6 +678,7 @@ ecliptically
 ecliptics
 eclogic
 eclogite
+endorsable
 eclogites
 eclogue
 eclogues
@@ -5304,7 +5305,6 @@ endoral
 endore
 endorhinitis
 endorphin
-endorsable
 endorsation
 endorse
 endorsed
