@@ -6183,6 +6183,7 @@ gnaphalium
 gnapweed
 gnar
 gnarl
+gobbin
 gnarled
 gnarly
 goutte
@@ -6399,7 +6400,6 @@ gobbed
 gobber
 gobbet
 gobby
-gobbin
 gobble
 granulomatosis
 gobbled
