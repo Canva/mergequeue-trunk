@@ -1432,6 +1432,7 @@ garlicwort
 garlion
 garlopa
 garmented
+geminative
 gunyang
 greenier
 garmenting
@@ -2495,7 +2496,6 @@ geminating
 gemination
 grudge
 geminations
-geminative
 gemini
 geminid
 geminiflorous
