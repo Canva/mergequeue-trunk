@@ -7266,7 +7266,6 @@ dethroning
 detick
 deticked
 deticker
-dilatement
 detickers
 deticking
 deticks
@@ -12991,6 +12990,7 @@ dispetal
 dysphagia
 dysphasia
 dispositive
+dilatement
 dysphasic
 dysphemia
 dysphemism
