@@ -4426,7 +4426,6 @@ enamines
 enamorado
 enamorate
 enamorato
-enamored
 enamoredness
 ended
 enamoring
@@ -8758,6 +8757,7 @@ eternalising
 equipments
 equipoise
 equipoised
+enamored
 equipoising
 equipollence
 equipollency

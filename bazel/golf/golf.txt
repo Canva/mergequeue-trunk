@@ -17,7 +17,6 @@ gabbed
 gabber
 gabbers
 gabby
-gabbier
 gabbiest
 gabbing
 gabble
@@ -8707,6 +8706,7 @@ greenwich
 greenwing
 greenwithe
 greenwood
+gabbier
 greenwoods
 greenwort
 grees
