@@ -2458,7 +2458,6 @@ gelsemine
 gethsemane
 gelseminic
 gelsemium
-grander
 gelsemiumia
 gelsemiums
 gelt
@@ -4625,6 +4624,7 @@ gypsyry
 gypsite
 gipsyweed
 gasolines
+grander
 gypsyweed
 gypsywise
 gipsywort
