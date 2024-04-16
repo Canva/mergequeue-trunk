@@ -9637,6 +9637,7 @@ eschewals
 eschewance
 eschewed
 eschewer
+eveless
 eschewers
 eschewing
 eschews
@@ -11479,7 +11480,6 @@ evections
 evector
 evehood
 evejar
-eveless
 evelight
 eveline
 evelong
