@@ -895,6 +895,7 @@ dansk
 dansker
 danta
 dungol
+defers
 debunk
 dante
 dantean
@@ -3259,7 +3260,6 @@ dismissible
 deferrize
 deferrized
 deferrizing
-defers
 defervesce
 depravers
 dressiness
