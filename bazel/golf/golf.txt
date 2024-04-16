@@ -4772,7 +4772,6 @@ girns
 giro
 gyro
 gyrocar
-gelid
 gyroceran
 goodwills
 guildsman
@@ -5783,6 +5782,7 @@ gloomful
 gloomfully
 gloomy
 gloomier
+gelid
 gloomily
 gloominess
 gardeen
