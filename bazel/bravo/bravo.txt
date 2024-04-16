@@ -2831,6 +2831,7 @@ baronetizing
 bronchoscopic
 baronets
 baronetship
+boltlike
 barong
 baronga
 barongs
@@ -12203,7 +12204,6 @@ boltin
 bolting
 boltings
 boltless
-boltlike
 boltmaker
 boltmaking
 boltonia

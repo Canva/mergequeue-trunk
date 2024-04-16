@@ -4575,6 +4575,7 @@ fitchets
 fruitgrowing
 fitchew
 fitchews
+fjord
 fieldwards
 fitful
 fitfully
@@ -4699,7 +4700,6 @@ fjeld
 fjelds
 fjerding
 fadeaway
-fjord
 fluorocarbons
 fjorded
 fjords
