@@ -370,7 +370,6 @@ fainty
 fainting
 fumago
 faintingly
-faintise
 faintish
 faintishness
 faintly
@@ -4551,6 +4550,7 @@ fernland
 fistulose
 fistulous
 fistwise
+faintise
 fit
 fitch
 fitche
