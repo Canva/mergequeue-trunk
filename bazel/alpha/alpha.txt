@@ -6301,6 +6301,7 @@ agnoite
 agnoites
 agnomen
 agnomens
+anostraca
 agnomical
 agnomina
 aliener
@@ -13890,7 +13891,6 @@ anospinal
 avidya
 arrythmical
 anostosis
-anostraca
 anoterite
 another
 anotherguess
