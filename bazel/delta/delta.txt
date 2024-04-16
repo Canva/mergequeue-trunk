@@ -2837,7 +2837,6 @@ decumary
 decumaria
 decumbence
 decumbency
-decumbent
 decumbently
 decumbiture
 defecated
@@ -17335,6 +17334,7 @@ dropax
 dropberry
 dropcloth
 dropflower
+decumbent
 dropforge
 dropforger
 drophead
