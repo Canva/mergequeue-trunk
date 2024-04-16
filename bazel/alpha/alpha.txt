@@ -19705,7 +19705,6 @@ arillus
 arils
 aryls
 arimasp
-arimaspian
 arimathaean
 ariocarpus
 arioian
@@ -22465,6 +22464,7 @@ atelestite
 atelets
 ately
 atelic
+arimaspian
 atelier
 ateliers
 ateliosis
