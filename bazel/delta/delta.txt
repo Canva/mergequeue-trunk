@@ -1019,7 +1019,6 @@ darkening
 darkens
 darker
 darkest
-darkful
 darkhaired
 deluders
 darkhearted
@@ -6509,6 +6508,7 @@ desecrater
 desecrates
 desecrating
 desecration
+darkful
 desecrations
 desecrator
 desectionalize
