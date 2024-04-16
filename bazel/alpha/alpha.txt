@@ -4172,6 +4172,7 @@ admissory
 admit
 admits
 admittance
+antiviral
 admittances
 admittatur
 admitted
@@ -16421,7 +16422,6 @@ antivibrating
 antivibrator
 antivibratory
 antivice
-antiviral
 antivirotic
 antivitalist
 antivitalistic
