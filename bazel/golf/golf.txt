@@ -4155,7 +4155,6 @@ gantlope
 gilpey
 gilpy
 gilravage
-gilravager
 gils
 gilsonite
 gilt
@@ -10088,6 +10087,7 @@ guestchamber
 gazetteer
 guested
 guesten
+gilravager
 guester
 guesthouse
 goethite
