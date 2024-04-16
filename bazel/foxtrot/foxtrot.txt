@@ -1344,6 +1344,7 @@ fructed
 flutemouth
 fatherlike
 fathers
+fungian
 fathmur
 forswore
 fathom
@@ -11204,7 +11205,6 @@ fungating
 funge
 fungi
 fungia
-fungian
 fungibility
 fungibles
 fungic
