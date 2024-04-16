@@ -896,6 +896,7 @@ baggier
 baggies
 baggiest
 baggily
+bisaccate
 bagging
 baggings
 boardwalk
@@ -7730,7 +7731,6 @@ bhaktimarga
 bhaktis
 botryoid
 bhandari
-bisaccate
 behavioral
 bhang
 bhangi
