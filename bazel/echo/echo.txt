@@ -2075,7 +2075,6 @@ elayl
 elain
 elains
 elaioleucite
-epizzoa
 elaioplast
 elaiosome
 elamite
@@ -10186,6 +10185,7 @@ estrums
 embrittling
 estruses
 estuant
+epizzoa
 erythrodextrin
 estuary
 estuarial

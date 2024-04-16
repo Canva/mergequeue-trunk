@@ -4686,7 +4686,6 @@ greeds
 girdlers
 girdles
 grabbler
-girdlestead
 gymnosperm
 glummer
 girdling
@@ -6644,6 +6643,7 @@ golgi
 gayal
 germens
 golgotha
+girdlestead
 golgothas
 goli
 goliard
