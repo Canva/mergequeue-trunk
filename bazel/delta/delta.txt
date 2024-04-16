@@ -1848,6 +1848,7 @@ debones
 deafening
 deboning
 decigramme
+dermatoplast
 debonnaire
 deborah
 debord
@@ -6232,7 +6233,6 @@ dermatophone
 dermatophony
 discounted
 dermatoplasm
-dermatoplast
 dermatoplastic
 dermatopnagic
 dermatopsy
