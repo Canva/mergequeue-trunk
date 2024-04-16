@@ -2543,6 +2543,7 @@ electron
 electronarcosis
 etiotropically
 electronegative
+embden
 electronegativity
 electronervous
 electroneutral
@@ -3424,7 +3425,6 @@ embattled
 embattlement
 emphractic
 embattles
-embden
 embeam
 extinction
 embed
