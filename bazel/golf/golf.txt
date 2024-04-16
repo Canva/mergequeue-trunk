@@ -2826,6 +2826,7 @@ genitures
 genius
 geniuses
 genizah
+gnathophorous
 genizero
 genl
 genny
@@ -6224,7 +6225,6 @@ gnathonically
 gnathonism
 gnathonize
 guising
-gnathophorous
 gumhar
 gnathoplasty
 gnathopoda
