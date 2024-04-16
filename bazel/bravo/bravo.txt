@@ -3288,6 +3288,7 @@ basinasial
 basined
 besoul
 basinerved
+beehive
 basinet
 basinets
 berakes
@@ -4954,7 +4955,6 @@ beehead
 beeheaded
 beeherd
 bouncing
-beehive
 beehives
 beehouse
 beeyard

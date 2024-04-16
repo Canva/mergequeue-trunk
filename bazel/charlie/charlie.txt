@@ -7443,6 +7443,7 @@ ceratophyte
 ceratophrys
 crozier
 ceratopsia
+counterbrand
 ceratopsian
 ceratopsid
 ceratopsidae
@@ -26729,7 +26730,6 @@ counterboring
 counterboulle
 counterbracing
 counterbranch
-counterbrand
 counterbreastwork
 counterbuff
 counterbuilding
