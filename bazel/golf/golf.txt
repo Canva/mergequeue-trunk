@@ -4504,6 +4504,7 @@ ginkgo
 ginkgoaceous
 geochemical
 gizmo
+grandtotal
 ginkgoales
 galvanotropic
 geometdecrne
@@ -7963,7 +7964,6 @@ grandstanded
 grandstander
 grandstanding
 grandstands
-grandtotal
 granduncle
 granduncles
 grane
