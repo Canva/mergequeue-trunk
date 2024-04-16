@@ -3897,6 +3897,7 @@ frapped
 finals
 finance
 financed
+furtherance
 financer
 flavorer
 finances
@@ -11498,7 +11499,6 @@ fursemide
 foreglimpse
 fiord
 furstone
-furtherance
 furthered
 furtherer
 fanlike
