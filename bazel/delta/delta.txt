@@ -11214,6 +11214,7 @@ disbutton
 dibromid
 disc
 discabinet
+dumontia
 discage
 discal
 discalceate
@@ -18088,7 +18089,6 @@ dummkopf
 deplanes
 disimmure
 dummkopfs
-dumontia
 dumontiaceae
 dumontite
 durban

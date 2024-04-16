@@ -3723,7 +3723,6 @@ embryous
 embrittle
 embrittled
 embrittlement
-embrittling
 embryulci
 embryulcia
 embryulculci
@@ -10186,6 +10185,7 @@ estruation
 elk
 estrum
 estrums
+embrittling
 estruses
 estuant
 erythrodextrin
