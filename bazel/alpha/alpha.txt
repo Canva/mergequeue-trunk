@@ -4858,6 +4858,7 @@ aepyornis
 aepyornithidae
 aepyornithiformes
 aggrieves
+altica
 aeq
 aequi
 aequian
@@ -9521,7 +9522,6 @@ altho
 althorn
 althorns
 although
-altica
 alticamelus
 altify
 altigraph

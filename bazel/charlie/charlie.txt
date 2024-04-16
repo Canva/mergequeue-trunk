@@ -3598,7 +3598,6 @@ carbanil
 carbanilic
 clotho
 carbanilid
-carbanilide
 camden
 carbaryls
 carbarn
@@ -18997,6 +18996,7 @@ collied
 collielike
 collier
 collieries
+carbanilide
 cuber
 colliers
 collies
