@@ -8320,6 +8320,7 @@ forkable
 forkbeard
 forked
 forkedly
+formalizer
 forkedness
 forker
 forkers
@@ -8396,7 +8397,6 @@ formalization
 formalizations
 formalize
 formalized
-formalizer
 formalizes
 formalizing
 formally

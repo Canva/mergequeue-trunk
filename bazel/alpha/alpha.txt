@@ -10547,7 +10547,6 @@ amylophosphoric
 amyloplast
 accorders
 amyloplastic
-amyloplastid
 amylopsase
 amylopsin
 amylose
@@ -25018,6 +25017,7 @@ awhirl
 awide
 awiggle
 awikiwiki
+amyloplastid
 awin
 awing
 awingly
