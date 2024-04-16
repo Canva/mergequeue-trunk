@@ -1145,6 +1145,7 @@ edith
 editing
 epacts
 ectosarcs
+eupatorium
 embassy
 elephantine
 edition
@@ -11013,7 +11014,6 @@ endarteria
 eupatory
 eupatorin
 eupatorine
-eupatorium
 eupatrid
 eupatridae
 eupatrids

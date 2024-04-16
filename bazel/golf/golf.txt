@@ -4144,6 +4144,7 @@ gillygaupus
 gillying
 gilling
 gillion
+grandtotal
 gilliver
 gillnets
 gillnetted
@@ -4497,7 +4498,6 @@ ginkgo
 ginkgoaceous
 geochemical
 gizmo
-grandtotal
 ginkgoales
 galvanotropic
 geometdecrne
