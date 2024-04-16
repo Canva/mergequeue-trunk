@@ -3599,6 +3599,7 @@ adduction
 antistate
 adductor
 adductors
+alcor
 adducts
 addulce
 adead
@@ -7705,7 +7706,6 @@ alcoholuria
 alconde
 agnathic
 alcoothionic
-alcor
 alcoran
 alcoranic
 alcoranist
