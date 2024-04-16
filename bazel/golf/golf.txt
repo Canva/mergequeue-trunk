@@ -10057,6 +10057,7 @@ guerre
 guerrila
 guerrilla
 guerrillas
+guiro
 guerrillaship
 guesdism
 gpss
@@ -10250,7 +10251,6 @@ guyots
 guipure
 guipures
 guirlande
-guiro
 guys
 guisard
 guisarme
