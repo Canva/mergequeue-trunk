@@ -4322,7 +4322,6 @@ delver
 declivent
 delvers
 delves
-dorsointestinal
 delving
 dem
 drawbar
@@ -12037,6 +12036,7 @@ dysesthesia
 dysesthetic
 disestimation
 diseur
+dorsointestinal
 diseurs
 diseuse
 diseuses
