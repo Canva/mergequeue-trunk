@@ -3262,7 +3262,6 @@ elongative
 eluviates
 eluviation
 eluvies
-eluviums
 eluvivia
 eluxate
 elvan
@@ -8842,6 +8841,7 @@ equivaliant
 equivalue
 equivaluer
 equivalve
+eluviums
 equivalved
 equivalvular
 equivelocity
