@@ -974,7 +974,6 @@ calaththi
 calathus
 calatrava
 calavance
-calaverite
 calbroben
 calc
 calcaire
@@ -7279,6 +7278,7 @@ cephalochorda
 cephalochordal
 cephalochordata
 cephalochordate
+calaverite
 cephalocyst
 cephaloclasia
 cephaloclast
