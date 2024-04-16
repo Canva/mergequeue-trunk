@@ -2113,6 +2113,7 @@ bankrider
 bankroll
 bankrolled
 bankroller
+byland
 bankrolling
 bankrolls
 bankrupcy
@@ -8490,7 +8491,6 @@ bilaminar
 bilaminate
 bilaminated
 biland
-byland
 bilander
 bilanders
 bilateral

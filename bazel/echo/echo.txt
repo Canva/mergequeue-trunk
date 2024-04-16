@@ -7909,7 +7909,6 @@ epigramme
 epigrams
 epigraph
 epigrapher
-eftest
 epigraphy
 egyptianization
 epigraphic
@@ -12069,6 +12068,7 @@ excysted
 excystment
 excitability
 excitabilities
+eftest
 excitable
 excitableness
 excitably
