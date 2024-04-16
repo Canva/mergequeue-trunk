@@ -3704,6 +3704,7 @@ ghazis
 ghazism
 ghaznevid
 gheber
+gypsumed
 ghebeta
 ghee
 ghees
@@ -5648,7 +5649,6 @@ gloaming
 gloamings
 gloams
 gloat
-gypsumed
 gloated
 gloater
 gloaters
