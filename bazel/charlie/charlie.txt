@@ -7775,6 +7775,7 @@ ceruses
 cerusite
 cerusites
 cerussite
+chloramin
 cervalet
 cervantes
 cervantic
@@ -11181,7 +11182,6 @@ chlorals
 chloralum
 chlorambucil
 chloramide
-chloramin
 chloramine
 chloramphenicol
 chloranaemia

@@ -12546,6 +12546,7 @@ bontebok
 bonteboks
 bontebuck
 bontebucks
+burritos
 breadboxes
 bontequagga
 bontok
@@ -17844,7 +17845,6 @@ burriest
 burring
 burrish
 burrito
-burritos
 burrknot
 burrobrush
 burrock
