@@ -3124,6 +3124,7 @@ capitulant
 creeling
 capitular
 capitulary
+countercolored
 centrists
 capitularies
 clankingness
@@ -26752,7 +26753,6 @@ counterclaims
 counterclassification
 counterclassifications
 counterclockwise
-countercolored
 countercommand
 countercompany
 countercompetition
