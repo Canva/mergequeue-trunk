@@ -11586,7 +11586,6 @@ discopodous
 dejerate
 dendrograph
 discord
-discordance
 discordancy
 discordancies
 discordant
@@ -15026,6 +15025,7 @@ dolcian
 dolciano
 dolcino
 doldrum
+discordance
 doldrums
 dole
 doleance

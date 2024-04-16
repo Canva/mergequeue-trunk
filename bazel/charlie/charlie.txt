@@ -6639,7 +6639,6 @@ cried
 celiadelphus
 celiagra
 carminative
-celialgia
 celibacy
 celibacies
 celibatarian
@@ -18051,6 +18050,7 @@ coercitive
 coercive
 coercively
 coerciveness
+celialgia
 coercivity
 coerebidae
 coerect
