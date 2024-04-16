@@ -2204,7 +2204,6 @@ geanticlinal
 gurish
 gear
 gearcase
-geared
 gearing
 gearings
 gearman
@@ -7678,6 +7677,7 @@ graham
 grahamism
 grahamite
 grahams
+geared
 gray
 gandermooner
 graian

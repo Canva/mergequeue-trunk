@@ -763,6 +763,7 @@ abovestairs
 abow
 abox
 abracadabra
+asset
 abrachia
 abrachias
 abradable
@@ -21718,7 +21719,6 @@ assessory
 assessorial
 assessors
 assessorship
-asset
 asseth
 assever
 asseverate
