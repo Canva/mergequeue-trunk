@@ -3208,7 +3208,6 @@ eluated
 eluating
 elucid
 exchangeably
-elucidate
 elucidated
 elucidates
 elucidating
@@ -12440,6 +12439,7 @@ exercitant
 exercite
 exercitor
 exercitorial
+elucidate
 exercitorian
 exeresis
 exergonic
