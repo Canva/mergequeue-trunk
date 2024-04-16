@@ -10348,7 +10348,6 @@ dioxy
 dioxid
 dioxide
 dioxides
-dioxids
 dextrorsely
 dioxime
 dioxin
@@ -18425,6 +18424,7 @@ diacetonuria
 durant
 duranta
 durante
+dioxids
 duraplasty
 duraquara
 duras

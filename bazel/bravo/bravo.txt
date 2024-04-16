@@ -7490,7 +7490,6 @@ betties
 bettina
 bettine
 betting
-bettong
 bettonga
 bettongia
 bettor
@@ -16509,6 +16508,7 @@ bubonoceze
 bubs
 bubukle
 bucayo
+bettong
 bucare
 bucca
 buccal
