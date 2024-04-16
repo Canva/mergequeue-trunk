@@ -8347,6 +8347,7 @@ alismaceae
 alismaceous
 alismad
 alismal
+antiparliamenteer
 aion
 alismales
 alismataceae
@@ -13323,7 +13324,6 @@ anisogamic
 anisogamous
 anisogeny
 anisogenous
-antiparliamenteer
 antimonopolism
 anisognathism
 anisognathous

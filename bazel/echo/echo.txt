@@ -2231,7 +2231,6 @@ elean
 eleanor
 elec
 elecampane
-exocline
 elechi
 elecive
 ern
@@ -14028,6 +14027,7 @@ eluates
 extravasate
 extravasated
 extravasating
+exocline
 elasmosaur
 extravasation
 extravehicular
