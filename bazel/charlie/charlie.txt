@@ -1897,6 +1897,7 @@ camisado
 camisadoes
 camisados
 camisard
+catastaltic
 camisas
 camiscia
 camise
@@ -5554,7 +5555,6 @@ catasarka
 catasetum
 cataspilite
 catasta
-catastaltic
 catastases
 catastasis
 catastate
