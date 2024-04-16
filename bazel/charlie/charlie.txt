@@ -2978,6 +2978,7 @@ capelan
 capelans
 capelet
 capelin
+cinchonamine
 capeline
 capella
 capellane
@@ -13731,7 +13732,6 @@ cinchona
 cinchonaceae
 cinchonaceous
 cinchonamin
-cinchonamine
 chapati
 cinchonas
 cinchonate
