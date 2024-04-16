@@ -5524,7 +5524,6 @@ glider
 gliderport
 gliders
 grando
-glides
 glidingly
 gynecol
 gliff
@@ -7029,6 +7028,7 @@ gooiest
 greenflies
 gooky
 gool
+glides
 goolah
 goolde
 gools

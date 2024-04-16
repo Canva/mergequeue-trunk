@@ -12999,7 +12999,6 @@ boresight
 belimousined
 biface
 boresomely
-boreus
 borg
 borgh
 borghalpenny
@@ -17335,6 +17334,7 @@ bopyrus
 brasset
 buncal
 bidet
+boreus
 bunce
 bunch
 bunchberries
