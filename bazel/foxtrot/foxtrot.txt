@@ -257,7 +257,6 @@ filibuster
 firm
 faddism
 faddisms
-faddist
 faddists
 faddle
 fade
@@ -1609,6 +1608,7 @@ fritz
 fawny
 flameflower
 fawnier
+faddist
 fawniest
 fawning
 fawningly
