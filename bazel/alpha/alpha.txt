@@ -5848,7 +5848,6 @@ agamogony
 agamoid
 ashine
 agamont
-agamospore
 agamous
 aganglionic
 aganice
@@ -11804,6 +11803,7 @@ anamnia
 anamniata
 anamnionata
 antiglare
+agamospore
 anamnionic
 anamniota
 anamniote
