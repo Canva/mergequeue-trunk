@@ -390,6 +390,7 @@ ebulliently
 ebulliometer
 ebulliometry
 ebullioscope
+euryzygous
 ebullioscopy
 ebullioscopic
 ebullitions
@@ -4542,7 +4543,6 @@ encarpus
 encarpuspi
 encased
 encases
-euryzygous
 encash
 electrodynamometer
 encashable
