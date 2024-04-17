@@ -25241,6 +25241,7 @@ cormorants
 cormous
 corms
 cormus
+cosmogony
 corn
 cornaceae
 cornaceous
@@ -26069,7 +26070,6 @@ cosmogenic
 cosmognosis
 cosmogonal
 cosmogoner
-cosmogony
 cosmogonic
 cosmogonical
 cosmogonies
