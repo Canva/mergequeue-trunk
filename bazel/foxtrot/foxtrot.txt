@@ -5056,6 +5056,7 @@ fishiest
 flashet
 flashforward
 flashgun
+frogmen
 flashguns
 flashy
 farruca
@@ -6168,7 +6169,6 @@ flounce
 flounced
 flounces
 feracity
-frogmen
 flouncy
 flouncier
 flounciest
