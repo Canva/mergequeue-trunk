@@ -3980,6 +3980,7 @@ epitheliliums
 emissive
 emissivity
 emissory
+egoistic
 emittance
 emitted
 emittent
@@ -8265,7 +8266,6 @@ epistatic
 epistaxis
 episteme
 epistemic
-egoistic
 epistemically
 epistemolog
 epistemologically
