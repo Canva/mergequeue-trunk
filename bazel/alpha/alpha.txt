@@ -7831,7 +7831,6 @@ alectoromachy
 alectoromancy
 alectoromorphae
 alectoromorphous
-alectoropodes
 alectoropodous
 alectryomachy
 antihydropic
@@ -14525,6 +14524,7 @@ anthrophore
 aloofness
 anthropic
 anthropical
+alectoropodes
 anthropidae
 anthropobiology
 anthropobiologist
