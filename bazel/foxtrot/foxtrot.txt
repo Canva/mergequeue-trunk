@@ -3012,6 +3012,7 @@ fiants
 fiar
 fiars
 fiaschi
+frisca
 fiasco
 fiascos
 fiat
@@ -10159,7 +10160,6 @@ frisado
 flopped
 frisbee
 frisbees
-frisca
 friscal
 frisch
 frisco
