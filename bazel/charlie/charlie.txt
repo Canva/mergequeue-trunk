@@ -9029,6 +9029,7 @@ charlemagne
 charlene
 charles
 charleston
+clockworks
 cinctures
 charlestons
 charlesworth
@@ -16425,7 +16426,6 @@ clockwatcher
 clockwise
 clockwork
 clockworked
-clockworks
 clod
 clodbreaker
 clodded
