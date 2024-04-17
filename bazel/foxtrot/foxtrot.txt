@@ -2440,6 +2440,7 @@ fermentation
 fermentative
 fermentatively
 fermentativeness
+futuristic
 fermented
 floatplane
 fraughted
@@ -8358,7 +8359,6 @@ forlane
 forleave
 forleaving
 forleit
-futuristic
 forlese
 forst
 forlet
