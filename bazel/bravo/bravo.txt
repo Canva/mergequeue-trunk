@@ -1404,7 +1404,6 @@ baldricked
 baldricks
 baldrics
 balds
-balducta
 balductum
 baldwin
 bale
@@ -15536,6 +15535,7 @@ bristling
 bristol
 bristols
 brisure
+balducta
 brit
 britain
 buzzardlike
