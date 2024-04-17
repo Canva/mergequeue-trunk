@@ -4044,6 +4044,7 @@ abdal
 adjustage
 adjustation
 adjusted
+antihemolysin
 adjusters
 adjusting
 adjustment
@@ -15327,7 +15328,6 @@ antihelixes
 antihelminthic
 antihemagglutinin
 antihemisphere
-antihemolysin
 antihemolytic
 antihemophilic
 antihemorrhagic
