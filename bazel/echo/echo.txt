@@ -2244,6 +2244,7 @@ electary
 elected
 electee
 enthraldom
+extreme
 electees
 electic
 electicism
@@ -2352,7 +2353,6 @@ electrochemist
 electrochemistry
 electrochronograph
 electrochronographic
-extreme
 electrochronometer
 electrochronometric
 electrocystoscope
