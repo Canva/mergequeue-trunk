@@ -4902,6 +4902,7 @@ fill
 flamed
 flamefishes
 flameless
+fortifiable
 flamelike
 flamen
 factionary
@@ -5951,7 +5952,6 @@ floodmark
 floodplain
 floodproof
 floods
-fortifiable
 floodway
 feute
 floodwall
