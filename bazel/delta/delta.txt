@@ -7005,6 +7005,7 @@ destour
 doctrinable
 destrer
 destress
+dipeptid
 destressed
 destry
 destrier
@@ -10367,7 +10368,6 @@ dipchick
 dipcoat
 dipentene
 dipentine
-dipeptid
 dipeptidase
 dipeptide
 dipetalous

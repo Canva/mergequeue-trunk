@@ -3354,6 +3354,7 @@ gerent
 gerenuks
 gerhardtite
 gery
+grin
 geriatric
 geriatrician
 geriatrics
@@ -9012,7 +9013,6 @@ grimoire
 grimp
 grimsir
 grimsire
-grin
 grinch
 grincome
 grind
