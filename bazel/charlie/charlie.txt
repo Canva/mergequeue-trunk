@@ -12887,7 +12887,6 @@ churrigueresco
 churrigueresque
 churring
 churrip
-churro
 churrs
 churruck
 churrus
@@ -16857,6 +16856,7 @@ clupea
 clupeid
 clupeidae
 clupeids
+churro
 clupeiform
 clupein
 clupeine

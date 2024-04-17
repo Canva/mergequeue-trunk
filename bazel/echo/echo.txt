@@ -2261,7 +2261,6 @@ ephemerons
 electivism
 electivity
 electo
-elector
 electoral
 electorally
 electorate
@@ -4921,6 +4920,7 @@ encrustant
 encrustation
 encrusted
 encrusting
+elector
 encrusts
 enculturate
 enculturation
