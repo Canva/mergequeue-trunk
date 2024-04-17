@@ -16941,6 +16941,7 @@ coacervated
 coacervating
 coacervation
 coach
+coma
 coachability
 coachbuilder
 coachbuilding
@@ -26736,7 +26737,6 @@ counterchange
 counterchanged
 counterchanging
 countercharge
-coma
 countercharged
 countercharging
 countercharm

@@ -2752,7 +2752,6 @@ fedelini
 festino
 festival
 festivalgoer
-festivally
 festivals
 festiveness
 festivity
@@ -3003,6 +3002,7 @@ fianced
 fiancee
 flexing
 fiancees
+festivally
 fiances
 fianchetti
 fianchetto
