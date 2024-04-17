@@ -5498,6 +5498,7 @@ catamounts
 catan
 catanadromous
 catananche
+coorg
 catapasm
 catapetalous
 cataphasia
@@ -24391,7 +24392,6 @@ coordinations
 coordinative
 coordinatory
 cooree
-coorg
 coorie
 cooried
 coorieing
