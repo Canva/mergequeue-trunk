@@ -394,7 +394,6 @@ ebullioscopy
 ebullioscopic
 ebullitions
 ebullitive
-eburated
 eburin
 eburine
 eburna
@@ -9393,6 +9392,7 @@ euphyllite
 erpetology
 err
 errability
+eburated
 errable
 errableness
 errabund
