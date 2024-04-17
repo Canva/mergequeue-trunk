@@ -6567,6 +6567,7 @@ bepraiser
 beprank
 bepranked
 bepress
+boordly
 bepretty
 beprose
 bepuddle
@@ -12777,7 +12778,6 @@ boophilus
 boopis
 boor
 bimetallistic
-boordly
 boorga
 bacciform
 boorish
