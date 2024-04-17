@@ -3369,7 +3369,6 @@ deflated
 deflater
 deflates
 deflating
-deflation
 dedecoration
 deflationary
 deflationist
@@ -14131,6 +14130,7 @@ dittanies
 ditted
 ditty
 dittied
+deflation
 ditties
 decrial
 dittying
