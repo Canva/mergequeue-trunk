@@ -8225,7 +8225,6 @@ forfoughen
 frivolers
 forfoughten
 forgab
-fiorded
 forgat
 forgather
 forgathered
@@ -11144,6 +11143,7 @@ functionlessness
 functionnaire
 functions
 functor
+fiorded
 functors
 functus
 fund

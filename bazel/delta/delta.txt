@@ -9659,7 +9659,6 @@ dilatations
 dolt
 dilatative
 dilatator
-dilatatory
 dilate
 dilated
 dilatedly
@@ -11936,6 +11935,7 @@ disendowment
 disendows
 disenfranchise
 disenfranchised
+dilatatory
 disenfranchisement
 disenfranchisements
 disenfranchises
