@@ -13592,7 +13592,6 @@ annotater
 annotates
 annotating
 annotation
-annotations
 apyrotype
 annotative
 annotativeness
@@ -17562,6 +17561,7 @@ audiogenic
 appanagist
 appar
 apparail
+annotations
 apparance
 apparat
 apparatchik
