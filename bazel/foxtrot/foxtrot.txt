@@ -4455,6 +4455,7 @@ fissidactyl
 fissidentaceae
 fissidentaceous
 fissile
+flyboat
 fissilingual
 fissilinguia
 fissility
@@ -5563,7 +5564,6 @@ fluctisonous
 flyblow
 flyblowing
 flyblows
-flyboat
 flyboats
 flybrush
 flic

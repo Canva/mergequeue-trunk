@@ -298,7 +298,6 @@ backbear
 backbearing
 backbeat
 backbeats
-biotechnologies
 backbencher
 backbenchers
 backberand
@@ -11900,6 +11899,7 @@ bogsucker
 bogtrot
 bogtrotter
 bogtrotting
+biotechnologies
 bogue
 bogued
 boguing
