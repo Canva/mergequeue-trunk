@@ -2561,6 +2561,7 @@ cannabises
 cannabism
 consular
 cannaceae
+congregating
 chrysolite
 cannaceous
 cannach
@@ -22255,7 +22256,6 @@ congregant
 congregate
 congregated
 congregates
-congregating
 congregation
 congregational
 congregationalism

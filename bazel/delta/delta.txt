@@ -69,7 +69,6 @@ dacryoadenitis
 dacryoblenorrhea
 dacryocele
 dacryocyst
-doray
 dacryocystitis
 dacryocystocele
 defailance
@@ -2411,6 +2410,7 @@ decimus
 decine
 decinormal
 decipher
+doray
 dispenser
 decipherability
 decipherable
