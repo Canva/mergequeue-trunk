@@ -23806,7 +23806,6 @@ contributorship
 contrist
 contrite
 contritely
-contriteness
 contriturate
 contrivable
 contrivances
@@ -31061,6 +31060,7 @@ cunonia
 cunoniaceae
 cunoniaceous
 cunt
+contriteness
 cunts
 cunza
 cunzie
