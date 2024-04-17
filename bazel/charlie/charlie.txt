@@ -4002,7 +4002,6 @@ cardiologist
 cardiologists
 cardiomalacia
 camacey
-cardiomegaly
 cardiomelanosis
 cardiometer
 cardiometric
@@ -25320,6 +25319,7 @@ craning
 cornetti
 cornettino
 cornetto
+cardiomegaly
 corneule
 corneum
 cornfactor
