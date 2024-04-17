@@ -9010,6 +9010,7 @@ biogeographer
 biogeography
 biogeographic
 buckplate
+butlerdom
 biogeographical
 biogeographically
 biographee
@@ -18197,7 +18198,6 @@ butle
 butled
 butler
 butlerage
-butlerdom
 butleress
 butlery
 butleries
