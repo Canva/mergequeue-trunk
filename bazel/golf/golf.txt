@@ -4132,7 +4132,6 @@ grinderies
 gilliflower
 gillyflower
 gillygaupus
-gillying
 gilling
 gillion
 grandtotal
@@ -9261,6 +9260,7 @@ groma
 gromatic
 gullishly
 gromatical
+gillying
 gloved
 gromatics
 gromia

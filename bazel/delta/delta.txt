@@ -230,6 +230,7 @@ daff
 daffadilly
 daffadillies
 daffadowndilly
+descensories
 daffed
 daffery
 daffy
@@ -6454,7 +6455,6 @@ descension
 descensionist
 descensive
 descensory
-descensories
 descent
 descents
 deschampsia
