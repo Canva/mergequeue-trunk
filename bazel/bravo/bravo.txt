@@ -6191,7 +6191,6 @@ beneficience
 beneficient
 beneficing
 beneficium
-benefited
 benefiter
 burglarise
 bothros
@@ -12745,6 +12744,7 @@ boomslang
 boomslange
 birkies
 boomster
+benefited
 boomtown
 boomtowns
 boon
