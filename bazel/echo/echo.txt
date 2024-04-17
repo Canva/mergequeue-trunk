@@ -519,7 +519,6 @@ evincibly
 echeneidid
 echeneididae
 echeneidoid
-echevaria
 echevin
 echidna
 echidnae
@@ -9311,6 +9310,7 @@ ermitophobia
 exhibitive
 erne
 enjoins
+echevaria
 ernes
 ernest
 ernestine

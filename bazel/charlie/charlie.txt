@@ -423,6 +423,7 @@ cacumination
 cacuminous
 cacur
 cad
+carone
 cadalene
 cadamba
 cadaster
@@ -4487,7 +4488,6 @@ caromed
 caromel
 caroming
 caroms
-carone
 caronic
 caroome
 caroon
