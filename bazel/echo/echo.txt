@@ -2399,6 +2399,7 @@ electrodialyses
 excerptible
 electrodialysis
 electrodialitic
+epencephala
 electrodialytic
 electrodialitically
 electrodialyze
@@ -7471,7 +7472,6 @@ epeirogenically
 epeisodia
 epeisodion
 epembryonic
-epencephala
 embittering
 epencephalic
 epencephalon
