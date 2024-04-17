@@ -1837,7 +1837,6 @@ eyestrain
 eyestring
 ethics
 eyestrings
-eyeteeth
 eyetooth
 eyewaiter
 eyewash
@@ -8712,6 +8711,7 @@ equilocation
 equilucent
 equimodal
 equimolal
+eyeteeth
 equimolar
 equimomental
 equimultiple
