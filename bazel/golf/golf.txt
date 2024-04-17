@@ -4146,6 +4146,7 @@ gillstoup
 gilour
 gantlope
 gilpey
+glyceridic
 gilpy
 gilravage
 gils
@@ -5393,7 +5394,6 @@ glycerate
 glyceria
 glyceric
 glyceride
-glyceridic
 ghauts
 grimace
 glyceryl
