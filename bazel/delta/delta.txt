@@ -3447,6 +3447,7 @@ defogger
 defoggers
 defogging
 defogs
+driveways
 defoil
 dawish
 defoliage
@@ -17199,7 +17200,6 @@ drives
 dredgings
 drivescrew
 driveway
-driveways
 drivewell
 delictual
 driving
