@@ -13397,7 +13397,6 @@ bottling
 borstall
 bottomchrome
 bottomed
-bottomer
 bottomers
 bottoming
 bottomland
@@ -16494,6 +16493,7 @@ bubblement
 bubbler
 bubblers
 bubbles
+bottomer
 bubbletop
 bubbletops
 bubbly
