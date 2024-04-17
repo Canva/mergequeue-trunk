@@ -2449,6 +2449,7 @@ fermentitious
 fermentive
 fermentology
 fermentor
+funnels
 ferments
 fermentum
 fermerer
@@ -11292,7 +11293,6 @@ funnellike
 fruitless
 funnelling
 flubdubs
-funnels
 funny
 funnier
 funnies
