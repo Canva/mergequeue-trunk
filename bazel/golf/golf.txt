@@ -1877,7 +1877,6 @@ gastroschisis
 gastroscope
 gastroscopy
 gastroscopic
-gastroscopies
 gastroscopist
 gastrosoph
 gastrosopher
@@ -5303,6 +5302,7 @@ gleaming
 gleamingly
 gleamless
 gleams
+gastroscopies
 glean
 gleanable
 gleaned

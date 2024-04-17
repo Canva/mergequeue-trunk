@@ -4678,7 +4678,6 @@ fixures
 fiz
 fontful
 fizelyite
-fizgig
 fauxbourdon
 fizgigs
 fidelities
@@ -10278,6 +10277,7 @@ frizzled
 frizzles
 frizzly
 frizzlier
+fizgig
 frizzliest
 frizzling
 fro
