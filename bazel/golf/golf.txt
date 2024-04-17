@@ -177,6 +177,7 @@ gaffsman
 gag
 gaga
 greyhen
+gamdia
 gagaku
 gagate
 gage
@@ -343,6 +344,7 @@ galactolysis
 gyrostatics
 galactoma
 galactometer
+glycose
 galactometry
 galactopathy
 galactophagist
@@ -440,7 +442,6 @@ galeass
 galeate
 galeated
 galeche
-galee
 gardenable
 galeeny
 galega
@@ -481,7 +482,6 @@ galera
 galere
 galeres
 galericulate
-galerie
 galerite
 galerum
 galerus
@@ -752,7 +752,6 @@ galoshes
 galp
 galravage
 galravitch
-gals
 galt
 galtonia
 galtrap
@@ -914,7 +913,6 @@ gambs
 gambusias
 gamdeboo
 gasteropod
-gamdia
 gamebag
 gameball
 gauby
@@ -1056,6 +1054,7 @@ ganda
 gander
 gandered
 ganderess
+groundberry
 gandergoose
 grecizes
 gandering
@@ -1315,6 +1314,7 @@ garbing
 garble
 garbleable
 garbled
+gunneress
 garbler
 garblers
 garbles
@@ -1340,7 +1340,6 @@ gardebras
 garden
 gardened
 gardener
-gardeners
 gardenership
 gardenesque
 gardenful
@@ -1439,6 +1438,7 @@ geminative
 greenier
 garmenting
 garmentless
+grattoir
 garmentmaker
 garments
 glycollide
@@ -1755,6 +1755,7 @@ gastrocoel
 gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
+goniatite
 gastrocolpotomy
 gastrodermal
 gaonic
@@ -1876,7 +1877,6 @@ gastroschisis
 gastroscope
 gastroscopy
 gastroscopic
-gastroscopies
 gastroscopist
 gastrosoph
 gastrosopher
@@ -2248,6 +2248,7 @@ gedact
 gedanite
 gedd
 gedder
+guestimate
 gederathite
 gederite
 gedrite
@@ -2523,6 +2524,7 @@ gemmel
 gemmeous
 gemmer
 gladstonian
+gastrulas
 gemmery
 gemmy
 gaywing
@@ -2925,6 +2927,7 @@ gentlemanlikeness
 gentlemanliness
 gentlemanship
 gentlemen
+glucogene
 gladfully
 gentlemens
 gentlemouthed
@@ -3722,7 +3725,6 @@ ghibelline
 ghibellinism
 ghibli
 ghiblis
-gastrulas
 ghyll
 ghillie
 ghillies
@@ -4068,6 +4070,7 @@ gigues
 giher
 gildings
 giinwale
+galee
 gil
 goldenmouth
 gasogenes
@@ -4337,6 +4340,7 @@ gynaecology
 gynaecologic
 gynaecological
 gynaecologist
+glutens
 goalkeepers
 gynaecomastia
 gynaecomorphous
@@ -4477,6 +4481,7 @@ ginglymostoma
 greengrocer
 ginglymostomoid
 gastropodous
+galerie
 ginglymus
 ginglyni
 ginglmi
@@ -4694,6 +4699,7 @@ girds
 gire
 gawked
 gyre
+graded
 gelandejump
 gyrectomies
 gyred
@@ -4972,7 +4978,6 @@ glacify
 glacification
 glacioaqueous
 glaciolacustrine
-glaciology
 glaciologic
 glaciological
 glaciologist
@@ -4985,6 +4990,7 @@ glacionatant
 glacious
 glacises
 glack
+glimmerous
 gladatorial
 gladded
 gladden
@@ -5209,7 +5215,6 @@ glassmen
 glassophone
 glassrope
 glassteel
-gitaligenin
 glassware
 gnathic
 glasswork
@@ -5300,6 +5305,7 @@ gleaming
 gleamingly
 gleamless
 gleams
+gastroscopies
 glean
 gleanable
 gleaned
@@ -5308,6 +5314,7 @@ gleaners
 gleaning
 gleanings
 gleary
+gitaligenin
 growl
 gleave
 gleba
@@ -5485,7 +5492,6 @@ glyconics
 glycopexia
 glycopexis
 glads
-glycose
 glycosemia
 glycosidase
 glycoside
@@ -5534,7 +5540,6 @@ glimmery
 glimmering
 glimmeringly
 glimmerings
-glimmerous
 glimmers
 glimpsed
 geoffroyin
@@ -5709,6 +5714,7 @@ globuliform
 globulimeter
 globulin
 grabbled
+gardeners
 globulins
 globulinuria
 globulite
@@ -6015,7 +6021,6 @@ gluck
 glucocorticoid
 glucocorticord
 glucofrangulin
-glucogene
 glucogenesis
 glucokinase
 gasterophilus
@@ -6131,7 +6136,6 @@ glutelin
 glutelins
 glutenin
 glutenous
-glutens
 gluteofemoral
 gluteoinguinal
 glutethimide
@@ -6235,6 +6239,7 @@ gnathopodous
 gnathostegite
 gnathostoma
 gnathostomata
+grothite
 gnathostome
 gnathostomi
 gnathotheca
@@ -6791,7 +6796,6 @@ gingerin
 gonial
 gonyalgia
 goniaster
-goniatite
 goniatites
 goniatitic
 goniatitid
@@ -7582,7 +7586,6 @@ gradatively
 gradatory
 guaka
 graddan
-graded
 gradeless
 gradely
 grademark
@@ -7621,6 +7624,7 @@ gradualness
 graduand
 graduands
 graduate
+gals
 graduated
 glucase
 graduates
@@ -7724,6 +7728,7 @@ grainsmen
 grainways
 grayout
 grayouts
+glaciology
 glimpse
 graip
 grays
@@ -8257,7 +8262,6 @@ giardiasis
 grassiness
 gobos
 grassing
-gunneress
 gravitate
 grassland
 gedds
@@ -8341,7 +8345,6 @@ grattage
 gratten
 gracilaria
 gratters
-grattoir
 grattoirs
 gratton
 gratuitant
@@ -9365,7 +9368,6 @@ grotesquerie
 grotesqueries
 grotesques
 grothine
-grothite
 grotianism
 gratefuller
 grots
@@ -9395,7 +9397,6 @@ ground
 groundable
 groundably
 groundage
-groundberry
 groundbird
 gallies
 groundbreaker
@@ -10087,7 +10088,6 @@ guester
 guesthouse
 goethite
 guesthouses
-guestimate
 guesting
 guestive
 guestling

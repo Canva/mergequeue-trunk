@@ -786,6 +786,7 @@ abrahamitic
 abray
 abraid
 aposporic
+ataxiagraph
 abram
 abramis
 abranchial
@@ -1962,7 +1963,6 @@ acervative
 acervose
 acervuli
 acervuline
-acervulus
 aces
 acescence
 acescency
@@ -2186,6 +2186,7 @@ achage
 achagua
 anoestrus
 achakzai
+apophlegmatic
 achalasia
 achamoth
 achape
@@ -3452,6 +3453,7 @@ adaption
 adaptional
 anchoic
 adaptionism
+anesthesiometer
 adaptions
 adaptitude
 adaptive
@@ -3963,6 +3965,7 @@ aditio
 adyton
 agastroneuria
 adits
+acervulus
 adytta
 adytum
 aditus
@@ -4402,7 +4405,6 @@ adrenomedullary
 adrenosterone
 adrenotrophin
 adrenotropic
-adrent
 adret
 adry
 adrian
@@ -4937,7 +4939,6 @@ aerobe
 aerobee
 aerobes
 aerobia
-alaihi
 aerobian
 aerobic
 aerobically
@@ -5085,7 +5086,6 @@ amplification
 aerophane
 aerophilately
 aerophilatelic
-aerophilatelist
 aerophile
 aerophilia
 aerophilous
@@ -5596,6 +5596,7 @@ absorbs
 astrogation
 afterbeat
 afterbirth
+allentiacan
 afterblow
 afterbody
 afterbodies
@@ -7021,6 +7022,7 @@ airward
 airwards
 airwash
 airwave
+aerophilatelist
 airwaves
 airwise
 abstruseness
@@ -7391,7 +7393,6 @@ archlecher
 albarco
 albardine
 albarelli
-albarello
 albarellos
 albarium
 aposematically
@@ -7514,7 +7515,6 @@ albumeniser
 albumenising
 albumenization
 antilogism
-albumenize
 albumenized
 albumenizer
 albumenizing
@@ -7565,6 +7565,7 @@ alburnous
 alburnum
 alburnums
 albus
+albarello
 albutannin
 alc
 alca
@@ -8106,6 +8107,7 @@ alginic
 algins
 alginuresis
 alinement
+asswaging
 algiomuscular
 algist
 algivorous
@@ -8654,7 +8656,6 @@ alleniate
 allentando
 allentato
 allentiac
-allentiacan
 aller
 allergen
 allergenic
@@ -9332,6 +9333,7 @@ alphabetism
 alphabetist
 alphabetization
 alphabetize
+assaulting
 alphabetized
 alphabetizer
 alphabetizers
@@ -9452,7 +9454,6 @@ autoimmunized
 alteration
 alterations
 aristolochin
-alterative
 alteratively
 altercated
 altercating
@@ -10310,6 +10311,7 @@ americaward
 americawards
 americium
 americomania
+ateuchus
 americophobe
 amerimnon
 amerind
@@ -11875,6 +11877,7 @@ anaphylactogen
 anaphylactogenic
 anaphylactoid
 anaphylatoxin
+adrent
 anaphylaxis
 anaphyte
 anaphoral
@@ -12416,6 +12419,7 @@ andromorphous
 andronitis
 andropetalar
 andropetalous
+alaihi
 androphagous
 androphyll
 anthropomorphising
@@ -12564,7 +12568,6 @@ anesthesiologies
 alumstone
 anesthesiologist
 anesthesiologists
-anesthesiometer
 anesthesis
 allergens
 anesthetic
@@ -13447,7 +13450,6 @@ ankoli
 ankou
 ankus
 ankuses
-ankusha
 ankushes
 anlace
 anlaces
@@ -13592,7 +13594,7 @@ annotater
 annotates
 annotating
 annotation
-annotations
+apyrotype
 annotative
 annotativeness
 annotator
@@ -13860,6 +13862,7 @@ anorexia
 anorexiant
 anorexias
 anorexic
+autotropism
 anorexics
 anorexies
 anorexigenic
@@ -16282,6 +16285,7 @@ antispiritualist
 antistrophon
 antistrumatic
 antisubmarine
+albumenize
 antisubstance
 antisudoral
 antisudorific
@@ -16393,7 +16397,6 @@ antiurease
 antiusurious
 antiutilitarian
 antivaccination
-antivaccinationist
 antivaccinator
 antivaccinist
 antivariolous
@@ -17021,7 +17024,6 @@ apyretic
 apyrexy
 apyrexia
 apyrexial
-apyrotype
 apyrous
 articulating
 apis
@@ -17341,7 +17343,6 @@ apophysial
 apophysis
 apophysitis
 apophlegm
-apophlegmatic
 apophlegmatism
 apophony
 apophonia
@@ -17562,6 +17563,7 @@ audiogenic
 appanagist
 appar
 apparail
+annotations
 apparance
 apparat
 apparatchik
@@ -21262,6 +21264,7 @@ asinego
 asinegoes
 asynergy
 asynergia
+ankusha
 asyngamy
 asyngamic
 asinine
@@ -21607,7 +21610,6 @@ assaulted
 assaulter
 assaulters
 attainably
-assaulting
 assaultive
 assaults
 assausive
@@ -21976,7 +21978,6 @@ aggressing
 asswage
 asswaged
 asswages
-asswaging
 ast
 asta
 astable
@@ -22211,6 +22212,7 @@ astricts
 antal
 astrid
 astride
+antivaccinationist
 astrier
 astriferous
 astrild
@@ -22434,7 +22436,6 @@ atavus
 ataxy
 ataxia
 ataxiagram
-ataxiagraph
 ataxiameter
 ataxiaphasia
 ataxias
@@ -22495,7 +22496,6 @@ aterian
 ates
 atestine
 ateuchi
-ateuchus
 atfalati
 avitaminotic
 athabasca
@@ -23285,6 +23285,7 @@ alpenhorn
 audiences
 audiencia
 audiencier
+alterative
 aortoptosia
 audient
 audients
@@ -24476,7 +24477,6 @@ autotrophic
 autotrophically
 autotropic
 autotropically
-autotropism
 autotruck
 autotuberculin
 als

@@ -501,7 +501,6 @@ dakoity
 dakoits
 dakotan
 dakotans
-dakotas
 daks
 daktylon
 doggish
@@ -861,7 +860,6 @@ danism
 danite
 danization
 danize
-dichromaticism
 duralumin
 dank
 dankali
@@ -1094,6 +1092,7 @@ dartlike
 dartling
 dissecting
 dartman
+discouragingly
 deucedly
 dartmoor
 dartoic
@@ -1129,6 +1128,7 @@ deadlock
 dashedly
 dashee
 dasheen
+drabbed
 dasheens
 dashel
 dasher
@@ -1241,6 +1241,7 @@ dater
 daterman
 daters
 dates
+demoniast
 datil
 dating
 dation
@@ -1504,6 +1505,7 @@ deaden
 deadened
 deadener
 deadeners
+dressiest
 deadening
 deadeningly
 deadest
@@ -2041,7 +2043,6 @@ decandria
 decandrous
 decane
 decanery
-decanes
 decani
 decanically
 decannulation
@@ -2366,6 +2367,7 @@ decyl
 decylene
 decylenic
 deciles
+downbeard
 decylic
 deciliter
 deciliters
@@ -3369,7 +3371,6 @@ deflated
 deflater
 deflates
 deflating
-deflation
 dedecoration
 deflationary
 deflationist
@@ -3801,7 +3802,6 @@ deicing
 deictical
 deictically
 deidealize
-diuturnal
 deidesheimer
 deify
 deific
@@ -4813,7 +4813,6 @@ demoniacs
 demonial
 demonian
 demonianism
-demoniast
 divisionism
 demonical
 demonically
@@ -4831,6 +4830,7 @@ demonist
 demonists
 demonize
 demonized
+diuturnal
 deprotestantize
 demonizes
 demonizing
@@ -5068,6 +5068,7 @@ dendroctonus
 dendrodic
 dendrodont
 dendrodra
+dromornis
 dendroeca
 dendrogaea
 dendrohyrax
@@ -6148,6 +6149,7 @@ derivedness
 deriver
 demagogically
 derivers
+dakotas
 derives
 deriving
 derk
@@ -6562,6 +6564,7 @@ desertism
 desertlessly
 desertlike
 desertness
+decanes
 desertress
 dematerialising
 desertrice
@@ -7680,6 +7683,7 @@ devocate
 devocation
 devoice
 devoiced
+disparation
 devoices
 disentangles
 devoicing
@@ -8412,6 +8416,7 @@ diamondize
 diamondized
 diamondizing
 diamondlike
+disembroilment
 dunites
 diamonds
 diamondwork
@@ -8888,7 +8893,6 @@ dichromatic
 dichromatism
 debonairty
 dichromic
-dichromism
 dichronous
 dichrooscope
 detersively
@@ -9088,7 +9092,6 @@ didym
 didymate
 didymia
 didymis
-didymitis
 didymium
 didymiums
 didymoid
@@ -9128,6 +9131,7 @@ diduction
 diductively
 diductor
 didunculidae
+disimitation
 didunculinae
 dentellated
 didunculus
@@ -9657,7 +9661,6 @@ dilatations
 dolt
 dilatative
 dilatator
-dilatatory
 dilate
 dilated
 dilatedly
@@ -9851,7 +9854,6 @@ dimethylamino
 dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
-dimethyldiketone
 dimethylhydrazine
 dimethylketol
 dimethylketone
@@ -11144,6 +11146,7 @@ disbarments
 disbarred
 disbarring
 disbars
+dimethyldiketone
 disbase
 disbelief
 disbeliefs
@@ -11883,7 +11886,6 @@ disembowels
 disembower
 disembrangle
 disembroil
-disembroilment
 disemburden
 disemic
 disemplane
@@ -11935,6 +11937,7 @@ disendowment
 disendows
 disenfranchise
 disenfranchised
+dilatatory
 disenfranchisement
 disenfranchisements
 disenfranchises
@@ -12118,7 +12121,6 @@ disgeneric
 dysgenesic
 dysgenesis
 disgenic
-discouragingly
 dysgenic
 dysgenical
 dysgenics
@@ -12365,7 +12367,6 @@ disillusive
 disimagine
 disimitate
 dalesman
-disimitation
 disimpark
 disimpassioned
 disimprisonment
@@ -12390,6 +12391,7 @@ disincrustion
 disindividualize
 disinfect
 disinfectant
+dichromism
 disinfectants
 disinfected
 disinfecter
@@ -12608,6 +12610,7 @@ disloign
 deictic
 dislove
 diagonals
+dragontail
 disluster
 dislustered
 dislustering
@@ -12840,7 +12843,6 @@ disparages
 disparaging
 disparagingly
 disparately
-disparation
 disparatum
 dyspareunia
 disparison
@@ -13792,6 +13794,7 @@ distinguishableness
 disprizing
 distinguished
 distinguishedly
+domesticated
 distinguisher
 distinguishes
 distinguishing
@@ -14128,6 +14131,7 @@ dittanies
 ditted
 ditty
 dittied
+deflation
 ditties
 decrial
 dittying
@@ -14369,6 +14373,7 @@ divisions
 divisive
 divisively
 divisiveness
+dichromaticism
 divisor
 divisory
 divisorial
@@ -15236,7 +15241,6 @@ domesticable
 domesticality
 domestically
 domesticate
-domesticated
 domesticates
 domesticating
 daystars
@@ -16199,7 +16203,6 @@ dowment
 down
 downbear
 depurant
-downbeard
 discoursive
 downbeat
 downbeats
@@ -16424,7 +16427,6 @@ drab
 draba
 drabant
 discounsel
-drabbed
 drabber
 drabbest
 drabbet
@@ -16575,7 +16577,6 @@ dragonlike
 dragonnade
 dragonroot
 dragons
-dragontail
 dragonwort
 dragoon
 dragoonable
@@ -16981,7 +16982,6 @@ dressership
 dresses
 dressy
 dressier
-dressiest
 decil
 dressily
 dressing
@@ -17286,7 +17286,6 @@ dromon
 dromond
 dromonds
 dromophobia
-dromornis
 dromos
 diurnalness
 dromotropic
@@ -17373,6 +17372,7 @@ dropshot
 dropsy
 dropsical
 dropsically
+didymitis
 dropsicalness
 dropsied
 dropsies
