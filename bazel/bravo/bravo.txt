@@ -8063,7 +8063,6 @@ bicker
 bickered
 bickerer
 bickerers
-bickering
 baseburner
 bickers
 bickiron
@@ -16322,6 +16321,7 @@ brunella
 brunelliaceae
 brunelliaceous
 brunet
+bickering
 brunetness
 brunets
 brunfelsia
