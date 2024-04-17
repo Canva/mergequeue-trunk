@@ -2514,7 +2514,6 @@ ferrate
 ferrated
 ferrateen
 ferrates
-ferratin
 ferrean
 foulmouth
 ferredoxin
@@ -3531,6 +3530,7 @@ figureless
 figurer
 figures
 figuresome
+ferratin
 figury
 figurial
 figurine

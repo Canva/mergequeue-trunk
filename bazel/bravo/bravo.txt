@@ -2246,6 +2246,7 @@ baptism
 baptismal
 bulldozers
 baptismally
+bayoneting
 baptisms
 baptist
 baptistery
@@ -17856,7 +17857,6 @@ burrknot
 burrobrush
 burrock
 burros
-bayoneting
 burroughs
 burrow
 burrowed
