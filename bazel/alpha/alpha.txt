@@ -7173,7 +7173,6 @@ akim
 akimbo
 akin
 akindle
-akinesia
 approbating
 akinesic
 akinesis
@@ -18377,6 +18376,7 @@ arachnids
 arachnism
 arachnitis
 arachnoid
+akinesia
 arachnoidal
 arachnoidea
 arachnoidean
