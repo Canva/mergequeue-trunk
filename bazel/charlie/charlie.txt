@@ -24662,7 +24662,6 @@ copra
 copraemia
 copraemic
 coprah
-coprahs
 copras
 caneva
 coprecipitate
@@ -31111,6 +31110,7 @@ cupolaing
 cupolaman
 cupolar
 cupolas
+coprahs
 cotman
 cupolated
 cuppa
