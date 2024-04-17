@@ -6675,6 +6675,7 @@ foam
 foambow
 foamed
 furbishing
+foredesign
 fluotitanate
 foamer
 foamflower
@@ -7622,7 +7623,6 @@ foredefine
 foredenounce
 foredescribe
 foredeserved
-foredesign
 foredesignment
 foredesk
 foredestine
