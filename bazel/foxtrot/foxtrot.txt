@@ -910,7 +910,6 @@ faradise
 faradised
 faradiser
 faradises
-fissionable
 faradisms
 faradization
 faradize
@@ -8479,6 +8478,7 @@ formicate
 formicated
 franchiser
 formicating
+fissionable
 forfairn
 formicicide
 formicid
