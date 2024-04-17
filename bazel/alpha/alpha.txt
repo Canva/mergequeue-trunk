@@ -17498,7 +17498,6 @@ apotheose
 apotheoses
 apotheosis
 apotheosise
-apotheosised
 apotheosising
 apotheosize
 apotheosized
@@ -19372,6 +19371,7 @@ areology
 areologic
 areological
 areologically
+apotheosised
 areologies
 antimeson
 areologist

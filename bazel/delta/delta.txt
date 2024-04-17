@@ -2259,6 +2259,7 @@ decently
 decentness
 decentralisation
 decentralise
+demineralize
 decentralised
 decentralising
 decentralism
@@ -8001,7 +8002,6 @@ diabetics
 diabetogenic
 diabetogenous
 diabetometer
-demineralize
 diabetophobia
 diable
 diablene
