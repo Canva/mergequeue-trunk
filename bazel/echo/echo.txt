@@ -3776,7 +3776,6 @@ embruing
 embruted
 embrutes
 embruting
-embubble
 embuia
 embolomerism
 embulk
@@ -7962,6 +7961,7 @@ epilimnetic
 epilimnia
 epilimnial
 epilimnion
+embubble
 epilimnionia
 epilithic
 echards

@@ -2318,7 +2318,6 @@ cancroid
 cancroids
 cancrophagous
 cancrum
-cancrums
 cand
 candace
 candelabra
@@ -6670,6 +6669,7 @@ celiorrhea
 cundurango
 celiosalpingotomy
 celioschisis
+cancrums
 celioscope
 celioscopy
 celiotomy
