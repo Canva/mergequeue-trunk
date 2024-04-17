@@ -9089,6 +9089,7 @@ charquis
 charr
 charras
 charre
+cabezons
 charred
 charrette
 charry
@@ -23981,7 +23982,6 @@ convented
 conventical
 cylinderlike
 conventically
-cabezons
 conventicle
 conventicles
 conventicular

@@ -6842,6 +6842,7 @@ foiled
 foiling
 futteret
 foils
+funambulism
 foilsmen
 foin
 foined
@@ -11109,7 +11110,6 @@ funambulatory
 funambule
 frontality
 funambulic
-funambulism
 funambulo
 funambuloes
 funaria
