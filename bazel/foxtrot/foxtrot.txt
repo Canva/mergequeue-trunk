@@ -230,7 +230,6 @@ factures
 facula
 flatway
 faculae
-facular
 faculous
 femerell
 facultate
@@ -2500,6 +2499,7 @@ feroher
 feronia
 ferox
 ferr
+facular
 ferrament
 ferrandin
 ferrara
