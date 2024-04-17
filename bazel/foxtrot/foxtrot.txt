@@ -7327,7 +7327,6 @@ foragers
 forages
 foraging
 foray
-formable
 forayed
 fodientia
 forayer
@@ -8559,6 +8558,7 @@ formuliser
 formulising
 formably
 flinchers
+formable
 formulism
 formulist
 formulistic
