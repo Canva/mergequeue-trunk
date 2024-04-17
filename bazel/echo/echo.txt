@@ -657,7 +657,6 @@ eclectics
 eclectism
 eclectist
 eclegm
-eclegma
 eclegme
 eclipsareon
 eclipsation
@@ -6906,6 +6905,7 @@ entoglossal
 epithelilia
 entohyal
 eucalypti
+eclegma
 exploitations
 embonpoint
 entoil
