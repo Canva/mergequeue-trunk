@@ -2260,7 +2260,6 @@ electioneers
 elections
 elective
 ephemerons
-electives
 electivism
 electivity
 electo
@@ -10923,6 +10922,7 @@ eelblenny
 eulogiae
 eulogias
 eulogic
+electives
 eulogical
 eulogically
 effluve
