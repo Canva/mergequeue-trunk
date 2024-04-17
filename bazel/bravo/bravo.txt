@@ -729,6 +729,7 @@ becoiffed
 bacteroides
 bactetiophage
 bactrian
+bivalencies
 bechained
 bactris
 bodeful
@@ -9925,7 +9926,6 @@ biurea
 biuret
 bivalence
 bivalency
-bivalencies
 bivalent
 bivalve
 bivalved
