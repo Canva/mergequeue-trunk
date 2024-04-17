@@ -13602,6 +13602,7 @@ extenuation
 extenuations
 extenuative
 extenuator
+externalising
 extenuatory
 equatorward
 exter
@@ -13642,7 +13643,6 @@ external
 externalisation
 externalise
 externalised
-externalising
 externalism
 externalist
 externalistic

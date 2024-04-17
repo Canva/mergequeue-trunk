@@ -20953,7 +20953,6 @@ consolidate
 compunctionary
 compunctionless
 compunctions
-compunctious
 compunctiously
 compunctive
 compupil
@@ -21429,6 +21428,7 @@ concorporate
 concorporated
 concorporating
 concorporation
+compunctious
 concorrezanes
 concours
 concourse
