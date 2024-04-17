@@ -3230,6 +3230,7 @@ basidiospore
 basidiosporous
 basidorsal
 basifacial
+buttonbur
 basify
 baccate
 basification
@@ -4340,7 +4341,6 @@ bebar
 bebaron
 bebaste
 bebat
-buttonbur
 bebathe
 bebatter
 bebeast
