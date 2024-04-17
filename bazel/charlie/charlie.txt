@@ -20176,6 +20176,7 @@ crucifixion
 commonplacely
 commonplaceness
 commonplacer
+conjecturing
 commonplaces
 corrodingly
 commons
@@ -22389,7 +22390,6 @@ conjecture
 conjectured
 conjecturer
 conjectures
-conjecturing
 conjee
 conjegates
 conjobble

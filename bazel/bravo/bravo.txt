@@ -7727,7 +7727,6 @@ bhagavat
 bhagavata
 bhaiachara
 bhaiyachara
-bhajan
 bhakti
 bhaktimarga
 bhaktis
@@ -7924,6 +7923,7 @@ bibliomaniacal
 bota
 bibliomanian
 bibliomanianism
+bhajan
 bibliomanism
 bibliomanist
 bibliopegy
