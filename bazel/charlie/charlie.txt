@@ -5518,7 +5518,6 @@ cataphracta
 cataphracted
 cataphracti
 cataphractic
-cataphrenia
 codbank
 cataphrenic
 cataphrygian
@@ -31039,6 +31038,7 @@ cunyie
 cunila
 cunili
 cunit
+cataphrenia
 chimopeelagic
 cunjah
 cunjer
