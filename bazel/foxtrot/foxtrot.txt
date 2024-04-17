@@ -7339,7 +7339,6 @@ foralite
 foram
 foramen
 filtrable
-foramens
 furiosa
 foraminal
 foraminate
@@ -9438,6 +9437,7 @@ fraser
 frija
 franklinization
 franklins
+foramens
 frankmarriage
 frankness
 franseria
