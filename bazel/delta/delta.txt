@@ -9166,7 +9166,6 @@ dogmatizing
 disponing
 dyeline
 dielytra
-diem
 diemaker
 diemakers
 dyemaking
@@ -10437,6 +10436,7 @@ diphthongic
 diphthonging
 diphthongisation
 diphthongise
+diem
 diphthongising
 diphthongization
 diphthongize

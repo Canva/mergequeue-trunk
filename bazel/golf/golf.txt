@@ -1671,6 +1671,7 @@ gaster
 gasteralgia
 graphology
 gasteria
+goggler
 gasterolichenes
 gasteromycete
 gasteromycetes
@@ -8459,7 +8460,6 @@ gravigrada
 gravigrade
 gravilea
 gravimeter
-goggler
 gravimeters
 gravimetry
 gravimetric
