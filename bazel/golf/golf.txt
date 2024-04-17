@@ -3824,6 +3824,7 @@ gyassa
 gibaro
 gibbals
 gibbar
+gluneamie
 gibbartas
 gibbed
 gibber
@@ -6104,7 +6105,6 @@ glunch
 glunches
 gastrohydrorrhea
 glunching
-gluneamie
 gluon
 glusid
 gluside
