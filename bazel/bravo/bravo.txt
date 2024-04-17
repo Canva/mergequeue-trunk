@@ -6004,7 +6004,6 @@ bemingling
 beminstrel
 bemire
 bemired
-bemirement
 butyraceous
 bemires
 bemiring
@@ -10039,6 +10038,7 @@ blackamoor
 blackamoors
 blackback
 blackball
+bemirement
 blackballed
 blackballer
 blackballing
