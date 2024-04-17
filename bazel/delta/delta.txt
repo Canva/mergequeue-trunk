@@ -3386,7 +3386,6 @@ deflected
 deflecting
 deflectional
 deflectionization
-deflectionize
 deflections
 deflective
 deflectometer
@@ -9724,6 +9723,7 @@ dilker
 dill
 dillenia
 dilleniaceous
+deflectionize
 dilleniad
 daubers
 duinhewassel

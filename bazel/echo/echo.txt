@@ -4727,7 +4727,6 @@ encyclopedia
 encyclopediac
 encyclopediacal
 encyclopedial
-encyclopedian
 encyclopedias
 encyclopediast
 encyclopedic
@@ -8188,6 +8187,7 @@ episcopalianize
 episcopalians
 episcopalism
 episcopality
+encyclopedian
 episcopally
 episcopant
 episcopate
