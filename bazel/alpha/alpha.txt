@@ -13447,7 +13447,6 @@ ankoli
 ankou
 ankus
 ankuses
-ankusha
 ankushes
 anlace
 anlaces
@@ -21262,6 +21261,7 @@ asinego
 asinegoes
 asynergy
 asynergia
+ankusha
 asyngamy
 asyngamic
 asinine

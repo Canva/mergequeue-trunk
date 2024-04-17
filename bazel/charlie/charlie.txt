@@ -15327,7 +15327,6 @@ clams
 clamshell
 clamshells
 clamworm
-clamworms
 clan
 clancular
 clancularly
@@ -20378,6 +20377,7 @@ companied
 companies
 companying
 companion
+clamworms
 companionability
 companionable
 companionableness
