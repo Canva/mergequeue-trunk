@@ -1805,6 +1805,7 @@ cambrics
 cambridge
 catostomidae
 cambuca
+campanulatae
 cambuscan
 came
 cameist
@@ -1995,7 +1996,6 @@ campanularia
 campanulariae
 campanularian
 campanularidae
-campanulatae
 campanulate
 campanulated
 campanulous

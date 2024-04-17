@@ -9906,7 +9906,6 @@ diminutive
 disgarrison
 dimiss
 deindustrialization
-dimissaries
 dimission
 dimit
 dimity
@@ -10519,6 +10518,7 @@ diploes
 diploetic
 dependable
 diplogangliate
+dimissaries
 diplogenesis
 doxographical
 diplogenetic
