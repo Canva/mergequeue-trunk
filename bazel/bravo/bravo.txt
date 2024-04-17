@@ -13972,7 +13972,6 @@ brachydactylism
 brachydactylous
 brachydiagonal
 brachydodrome
-brachydodromous
 brails
 brachydomal
 brachydomatic
@@ -15862,6 +15861,7 @@ bromoaurates
 bromoauric
 bromobenzene
 bromobenzyl
+brachydodromous
 bromochloromethane
 bromochlorophenol
 bromocyanid
