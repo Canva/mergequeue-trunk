@@ -9275,7 +9275,6 @@ furled
 fragor
 fits
 fragrance
-fragrances
 fermentations
 framboise
 fragrancy
@@ -11583,6 +11582,7 @@ frondescence
 fusilier
 fusiliers
 feu
+fragrances
 fusilladed
 fusillades
 fusillading
