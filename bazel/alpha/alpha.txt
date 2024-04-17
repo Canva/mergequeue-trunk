@@ -1323,6 +1323,7 @@ acapnias
 acappella
 acapsular
 acapu
+analogice
 acara
 acarapis
 acarari
@@ -11763,7 +11764,6 @@ analogical
 analogically
 anserated
 analogicalness
-analogice
 analogies
 analogion
 analogions

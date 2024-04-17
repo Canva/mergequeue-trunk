@@ -3368,6 +3368,7 @@ embalmer
 embalmers
 embalmment
 embank
+encephalous
 embanked
 embanking
 embankment
@@ -4630,7 +4631,6 @@ encephalotomy
 encephalotomies
 exothermicity
 earths
-encephalous
 endoplasma
 enchafe
 enchain
