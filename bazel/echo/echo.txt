@@ -435,6 +435,7 @@ eccentrically
 eccentricity
 eccentrics
 eccentring
+ecttypal
 ecch
 ecchymoma
 ecchymose
@@ -959,7 +960,6 @@ ectropium
 ectropometer
 ectrosyndactyly
 ectrotic
-ecttypal
 ecu
 ecuador
 ecuadoran
