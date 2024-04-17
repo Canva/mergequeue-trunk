@@ -11863,6 +11863,7 @@ anaphalantiasis
 anaphalis
 anaphase
 anaphases
+apricate
 anaphasic
 anaphe
 anaphia
@@ -18071,7 +18072,6 @@ apraxic
 apreynte
 aprendiz
 apres
-apricate
 aprication
 aprickle
 apricot
