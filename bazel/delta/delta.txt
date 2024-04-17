@@ -778,7 +778,6 @@ dandering
 danders
 dandy
 dandiacally
-dandydom
 dandie
 dandier
 detachs
@@ -8041,6 +8040,7 @@ diabolized
 diabolizing
 diabolo
 diabological
+dandydom
 diabolology
 diabolonian
 diabolos
