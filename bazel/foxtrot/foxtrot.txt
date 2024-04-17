@@ -6331,6 +6331,7 @@ fluidification
 fissicostate
 fluidified
 fluidifier
+flabbiest
 fogramite
 fluidifying
 fluidimeter
@@ -8167,7 +8168,6 @@ forewing
 forewings
 forewinning
 forewisdom
-flabbiest
 fluorindine
 forewish
 forewit
