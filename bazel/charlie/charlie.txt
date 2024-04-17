@@ -24660,7 +24660,6 @@ copra
 copraemia
 copraemic
 coprah
-coprahs
 copras
 clutterer
 caneva
@@ -31110,6 +31109,7 @@ cupolaing
 cupolaman
 cupolar
 cupolas
+coprahs
 cotman
 cupolated
 cuppa

@@ -1436,7 +1436,6 @@ garlion
 garlopa
 garmented
 geminative
-gunyang
 greenier
 garmenting
 garmentless
@@ -3406,6 +3405,7 @@ germanomania
 germanomaniac
 germanophile
 germanophilist
+gunyang
 germanophobia
 germanophobic
 germanophobist
