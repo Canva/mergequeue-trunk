@@ -786,6 +786,7 @@ abrahamitic
 abray
 abraid
 aposporic
+ataxiagraph
 abram
 abramis
 abranchial
@@ -22433,7 +22434,6 @@ atavus
 ataxy
 ataxia
 ataxiagram
-ataxiagraph
 ataxiameter
 ataxiaphasia
 ataxias
