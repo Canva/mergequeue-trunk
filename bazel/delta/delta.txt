@@ -6279,7 +6279,6 @@ dermoblast
 dermobranchia
 dermobranchiata
 dermobranchiate
-dermochelys
 dermococcus
 dermogastric
 dermography
@@ -13447,6 +13446,7 @@ deuteroglobulose
 dissent
 dissentaneous
 dissentaneousness
+dermochelys
 dissentation
 dissented
 dissenter
