@@ -13478,7 +13478,6 @@ bougie
 bougies
 bouillabaisse
 bouilli
-bouillon
 bouillone
 bouillons
 bouk
@@ -14786,6 +14785,7 @@ breakages
 breakaway
 breakax
 breakaxe
+bouillon
 breakback
 breakbones
 breakdown

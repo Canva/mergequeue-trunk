@@ -5377,6 +5377,7 @@ endosteomas
 endosteomata
 endosternum
 endosteum
+engraining
 endostylar
 endostyle
 endostylic
@@ -5848,7 +5849,6 @@ engrails
 engrained
 engrainer
 eucalyptus
-engraining
 engrains
 engram
 engrammatic
