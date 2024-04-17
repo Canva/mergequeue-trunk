@@ -1094,6 +1094,7 @@ dartlike
 dartling
 dissecting
 dartman
+discouragingly
 deucedly
 dartmoor
 dartoic
@@ -12118,7 +12119,6 @@ disgeneric
 dysgenesic
 dysgenesis
 disgenic
-discouragingly
 dysgenic
 dysgenical
 dysgenics
