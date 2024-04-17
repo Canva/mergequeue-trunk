@@ -7875,7 +7875,6 @@ grandeeship
 grandesque
 grandest
 grandeur
-grandeurs
 grandeval
 grandevity
 grandeza
@@ -9592,6 +9591,7 @@ grubstaker
 grubstakes
 grubstaking
 grubstreet
+grandeurs
 grubworm
 grubworms
 grucche

@@ -9546,7 +9546,6 @@ escalloped
 equiponderation
 escalloping
 escalop
-escalope
 escaloping
 escalops
 escambron
@@ -9794,6 +9793,7 @@ esophagotomy
 esophagus
 esophoria
 esophoric
+escalope
 esopus
 erectilities
 esotery
