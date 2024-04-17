@@ -6631,6 +6631,7 @@ celestify
 celestina
 celestinian
 celestite
+chromates
 celestitude
 celeusma
 celia
@@ -12329,7 +12330,6 @@ chromas
 coffeeweed
 chromascope
 chromate
-chromates
 chromatic
 chromatical
 chromatically
