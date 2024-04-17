@@ -1343,6 +1343,7 @@ balatong
 balatron
 balatronic
 balatte
+blacklight
 balau
 balausta
 balaustine
@@ -10141,7 +10142,6 @@ blacklegism
 blacklegs
 blackly
 babooism
-blacklight
 blacklist
 blacklisted
 bystanders

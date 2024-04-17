@@ -7099,7 +7099,6 @@ effatum
 entreprenant
 entrepreneur
 entrepreneurship
-entrepreneuse
 entrept
 entrer
 entresalle
@@ -7886,6 +7885,7 @@ egriot
 epigonichthyidae
 epigonichthys
 epigonism
+entrepreneuse
 epigonium
 epigonos
 epigonous
