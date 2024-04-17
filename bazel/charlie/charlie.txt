@@ -18457,7 +18457,6 @@ coimplicant
 coimplicate
 coimplore
 coin
-coyn
 coinable
 coinage
 coinages
@@ -27969,6 +27968,7 @@ crayfish
 crayfishes
 crayfishing
 craig
+coyn
 craighle
 craigmontite
 craik

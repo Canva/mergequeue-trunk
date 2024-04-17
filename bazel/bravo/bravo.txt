@@ -2330,7 +2330,6 @@ barbarianize
 barbarianized
 barbarianizing
 barbarians
-barbaric
 barbarical
 bevesselled
 barbarically
@@ -2436,6 +2435,7 @@ biracial
 barbone
 barbouillage
 barbra
+barbaric
 barbre
 barbs
 barbu
