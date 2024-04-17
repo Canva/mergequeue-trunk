@@ -1289,6 +1289,7 @@ balaneutics
 balangay
 balanic
 balanid
+batteau
 balaniferous
 broderie
 balanism
@@ -3717,7 +3718,6 @@ battalions
 brutalities
 battarism
 battarismus
-batteau
 batted
 battel
 bonnering
