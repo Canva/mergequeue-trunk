@@ -32,7 +32,6 @@ fabricant
 fabricated
 fabricates
 fabricating
-fabrication
 fabricational
 fabrications
 fabricative
@@ -8380,6 +8379,7 @@ formaldehydesulphoxylate
 formaldehydesulphoxylic
 formaldoxime
 formalesque
+fabrication
 formalin
 fatlike
 formalins
