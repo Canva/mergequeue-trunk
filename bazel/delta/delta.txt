@@ -2366,6 +2366,7 @@ decyl
 decylene
 decylenic
 deciles
+downbeard
 decylic
 deciliter
 deciliters
@@ -16199,7 +16200,6 @@ dowment
 down
 downbear
 depurant
-downbeard
 discoursive
 downbeat
 downbeats
