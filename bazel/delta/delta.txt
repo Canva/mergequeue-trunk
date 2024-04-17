@@ -6895,7 +6895,6 @@ despoil
 decreement
 despoiler
 despoilers
-dogfaces
 devorative
 despoilments
 despoils
@@ -16379,6 +16378,7 @@ doxa
 doxastic
 doxasticon
 doxy
+dogfaces
 doxycycline
 doxie
 doxographer
