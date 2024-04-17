@@ -7716,7 +7716,6 @@ forehatch
 fenouillette
 forehatchway
 forehead
-foreheaded
 foreheads
 forehear
 forehearth
@@ -7837,6 +7836,7 @@ forenotion
 flattens
 forensic
 forensical
+foreheaded
 forensicality
 forwardal
 forensically

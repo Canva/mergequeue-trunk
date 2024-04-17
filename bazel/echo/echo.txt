@@ -6800,6 +6800,7 @@ enthralled
 enthralling
 enthrallingly
 enthrallment
+euboic
 enthrallments
 enthralls
 enthralment
@@ -9187,7 +9188,6 @@ erratically
 erythemas
 erythematous
 erythemic
-euboic
 erythorbate
 eutheria
 erythraea
