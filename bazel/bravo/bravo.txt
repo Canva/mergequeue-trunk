@@ -3535,7 +3535,6 @@ batell
 bateman
 bouchal
 bannered
-batement
 bater
 bates
 batete
@@ -5150,6 +5149,7 @@ beforetime
 beforetimes
 befortune
 befoul
+batement
 befouled
 befouler
 befoulers
