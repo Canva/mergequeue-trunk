@@ -2664,6 +2664,7 @@ acotyledonous
 acouasm
 acouchi
 acouchy
+aristo
 acoumeter
 acoumetry
 acounter
@@ -19738,7 +19739,6 @@ aristeia
 aristida
 aristides
 aristippus
-aristo
 aristocracy
 aristocracies
 aristocrat
