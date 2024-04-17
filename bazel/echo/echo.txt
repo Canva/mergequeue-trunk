@@ -9345,7 +9345,6 @@ erosiveness
 erosivity
 erostrate
 electrophoresed
-erotema
 entier
 eroteme
 erotesis
@@ -13111,6 +13110,7 @@ experimented
 experimentee
 empressement
 experimenter
+erotema
 experimenting
 ejectee
 experimentist
