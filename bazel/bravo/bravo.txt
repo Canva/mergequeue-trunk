@@ -927,6 +927,7 @@ bagnet
 bagnio
 bagnios
 bagnut
+bastinades
 bago
 bagobo
 bagonet
@@ -3462,7 +3463,6 @@ biggah
 bastiment
 bastinade
 bastinaded
-bastinades
 baroi
 bastinading
 bieennia
