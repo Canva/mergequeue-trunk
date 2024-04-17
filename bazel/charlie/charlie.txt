@@ -23035,6 +23035,7 @@ croqueted
 constantly
 constantness
 constat
+corkscrewy
 constatation
 constatations
 constate
@@ -25218,7 +25219,6 @@ corkmaking
 corks
 corkscrew
 corkscrewed
-corkscrewy
 corkscrewing
 corkscrews
 corkwing

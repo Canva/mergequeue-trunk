@@ -4664,7 +4664,6 @@ fixing
 forborn
 fixings
 fixion
-feazes
 falter
 fixity
 fixities
@@ -9117,6 +9116,7 @@ foxfish
 foxfishes
 foxglove
 foxgloves
+feazes
 foxhole
 foxholes
 foxhound
