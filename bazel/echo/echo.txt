@@ -3227,7 +3227,6 @@ elucubrate
 elucubration
 elude
 eluded
-eluder
 eludes
 epilegomenon
 eludible
@@ -5246,6 +5245,7 @@ endomitosis
 endomorph
 endomorphy
 endomorphic
+eluder
 endomorphism
 endoneurial
 endoneurium
