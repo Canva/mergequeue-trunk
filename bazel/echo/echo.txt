@@ -2801,6 +2801,7 @@ elemong
 elench
 elenchi
 elenchic
+embow
 elenchical
 elenchically
 elves
@@ -3596,7 +3597,6 @@ embouchment
 embouchure
 embound
 embourgeoisement
-embow
 embowed
 embowel
 emboweler
