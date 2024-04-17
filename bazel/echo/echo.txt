@@ -10887,6 +10887,7 @@ euhemerise
 euhemerised
 euhemerising
 euhemerism
+excysted
 euhemerist
 euhemeristic
 euhemeristically
@@ -12067,7 +12068,6 @@ excision
 excisions
 excyst
 excystation
-excysted
 excystment
 excitability
 excitabilities
