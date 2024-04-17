@@ -574,6 +574,7 @@ echinorhynchus
 echinorhinidae
 echinorhinus
 echinospermum
+email
 echinosphaeritidae
 emmove
 echinostoma
@@ -3288,7 +3289,6 @@ emaciating
 emaciation
 emaculate
 emagram
-email
 emailed
 emamelware
 emanant
