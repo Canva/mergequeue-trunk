@@ -13485,6 +13485,7 @@ dissertator
 disserted
 disserting
 disserts
+durabilities
 disserve
 disserved
 disserves
@@ -18405,7 +18406,6 @@ dupping
 dups
 dur
 dura
-durabilities
 durable
 disinterestedness
 durableness
