@@ -1737,7 +1737,6 @@ balsamitic
 balsamiticness
 balsamo
 burro
-balsamodendron
 balsamorrhiza
 balsamous
 balsamroot
@@ -6849,6 +6848,7 @@ bertie
 bertillonage
 bertin
 bertram
+balsamodendron
 bertrum
 beruffed
 beruffled

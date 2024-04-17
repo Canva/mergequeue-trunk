@@ -9089,7 +9089,6 @@ didym
 didymate
 didymia
 didymis
-didymitis
 didymium
 didymiums
 didymoid
@@ -17373,6 +17372,7 @@ dropshot
 dropsy
 dropsical
 dropsically
+didymitis
 dropsicalness
 dropsied
 dropsies
