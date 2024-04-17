@@ -885,6 +885,7 @@ fantoms
 fanum
 fanums
 fanwe
+founder
 fetch
 fairishness
 fanweed
@@ -8958,7 +8959,6 @@ fussiest
 foundationlessness
 foundations
 founded
-founder
 foundered
 foundery
 foundering
