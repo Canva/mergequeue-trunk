@@ -169,7 +169,6 @@ factionalism
 factionalist
 factionaries
 fielded
-factionate
 fluxionary
 factioneer
 factionism
@@ -8715,6 +8714,7 @@ fortier
 fluellin
 forties
 fortieth
+factionate
 fortieths
 fortification
 fortifications
