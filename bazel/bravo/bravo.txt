@@ -182,7 +182,6 @@ baccae
 baccalaurean
 baccalaureat
 baccalaureate
-baccalaureates
 baccalaureus
 belomancy
 baccar
@@ -9312,6 +9311,7 @@ biplane
 backlands
 bobolink
 biplanes
+baccalaureates
 boba
 biplicate
 biplicity
