@@ -4219,6 +4219,7 @@ gymnadeniopsis
 gymnanthes
 gymnanthous
 gymnarchidae
+glyceryl
 goaltenders
 globin
 gymnasia
@@ -5398,7 +5399,6 @@ glyceric
 glyceride
 ghauts
 grimace
-glyceryl
 glyceryls
 glycerin
 glycerinate
