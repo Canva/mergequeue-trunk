@@ -4173,6 +4173,7 @@ empires
 empyreum
 empyreuma
 elodeaceae
+enfeeblements
 empyreumatic
 extradict
 empyreumatical
@@ -5578,7 +5579,6 @@ enfeeble
 episcopy
 enfeebled
 enfeeblement
-enfeeblements
 enfeebler
 eucarpous
 espiritual
