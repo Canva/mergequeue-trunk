@@ -5793,7 +5793,6 @@ frappeed
 fardo
 flitters
 flitty
-flittiness
 flitting
 flittingly
 flitwite
@@ -9144,6 +9143,7 @@ fraghan
 foxship
 foxskin
 foxskins
+flittiness
 foolery
 foxtail
 foxtailed
