@@ -2905,7 +2905,6 @@ canvasado
 canvasback
 canvased
 canvaser
-canvasers
 canvases
 canvasing
 canvaslike
@@ -6122,6 +6121,7 @@ caulicle
 clerestory
 caulicles
 caulicole
+canvasers
 caulicolous
 cauliculi
 cauliculus

@@ -3085,6 +3085,7 @@ ellerian
 ergatocracy
 ellfish
 ellice
+exclaims
 ellick
 elling
 ellinge
@@ -12117,7 +12118,6 @@ exclaimer
 exclaimers
 exclaiming
 exclaimingly
-exclaims
 exclam
 exclamation
 earthmaking
