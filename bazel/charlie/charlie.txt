@@ -1785,7 +1785,6 @@ cambist
 containers
 cambistry
 cambists
-cambium
 caliculus
 cambiums
 cambyuskan
@@ -30204,6 +30203,7 @@ crummy
 crummier
 crummies
 clapper
+cambium
 crummiest
 crumminess
 crumming

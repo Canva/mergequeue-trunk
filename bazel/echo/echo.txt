@@ -4803,7 +4803,6 @@ enclothe
 encloud
 encoach
 encode
-encoded
 encoder
 encoders
 encoding
@@ -10785,6 +10784,7 @@ eucrite
 essency
 eucrites
 electrotherapies
+encoded
 eucritic
 entamebic
 euctical
