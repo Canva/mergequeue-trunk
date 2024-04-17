@@ -6152,7 +6152,6 @@ caulomer
 caulomic
 caulophylline
 caulophyllum
-caulopteris
 caulosarc
 caulotaxy
 caulotaxis
@@ -22344,6 +22343,7 @@ conifers
 conification
 coniform
 conyger
+caulopteris
 coniine
 coniines
 conylene
