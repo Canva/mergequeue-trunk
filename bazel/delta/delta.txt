@@ -9743,7 +9743,6 @@ dillymen
 dilling
 dillis
 dillisk
-dorsoventrally
 dills
 dillseed
 dillue
@@ -15461,6 +15460,7 @@ donzels
 doo
 demurrages
 doob
+dorsoventrally
 doocot
 doodab
 doodad

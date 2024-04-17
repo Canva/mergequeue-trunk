@@ -1902,6 +1902,7 @@ feds
 fee
 feeable
 flavin
+fewterer
 feeb
 fadelessly
 feeble
@@ -2982,7 +2983,6 @@ fewness
 fewnesses
 fewsome
 fewter
-fewterer
 fez
 fezes
 fezzan
