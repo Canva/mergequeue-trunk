@@ -12766,6 +12766,7 @@ angioid
 angiokeratoma
 angiokinesis
 anthocerotales
+arbalists
 angioleucitis
 angiolymphitis
 angiolymphoma
@@ -18504,7 +18505,6 @@ arbalestrier
 arbalests
 arbalist
 arbalister
-arbalists
 arbalo
 arbalos
 appleringy
