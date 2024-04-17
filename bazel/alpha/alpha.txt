@@ -3238,6 +3238,7 @@ activists
 activital
 activity
 activities
+arborized
 activize
 activized
 activizing
@@ -23172,7 +23173,6 @@ attribution
 attributional
 attributions
 attributive
-arborized
 attributively
 attributor
 attrist
