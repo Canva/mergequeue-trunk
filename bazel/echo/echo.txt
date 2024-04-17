@@ -915,7 +915,6 @@ excavated
 ectosarcous
 ectoskeleton
 eggcupful
-ectosomal
 ectosome
 ectosphenoid
 ectosphenotic
@@ -5252,6 +5251,7 @@ endoneurium
 endonuclear
 endonuclease
 endonucleolus
+ectosomal
 endoparasitic
 endoparasitica
 exhilaration
