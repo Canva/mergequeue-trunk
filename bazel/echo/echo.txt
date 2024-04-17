@@ -8740,6 +8740,7 @@ engineered
 equip
 equipaga
 entrancedly
+euphuize
 equipage
 equipages
 equiparable
@@ -11112,7 +11113,6 @@ euphuistic
 euphuistically
 esthesiometric
 endeign
-euphuize
 euphuized
 euphuizing
 eupion

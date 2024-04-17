@@ -9758,7 +9758,6 @@ binucleated
 bistoury
 bistouries
 behymn
-bistournage
 bistratal
 bistratose
 bistre
@@ -13461,6 +13460,7 @@ bouffon
 bougainvillaea
 brushlessness
 bougainvillaeas
+bistournage
 bougainvillia
 bougainvilliidae
 bouge
