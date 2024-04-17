@@ -8600,7 +8600,6 @@ equals
 equangular
 equanimity
 equanimously
-equanimousness
 encoffinment
 equant
 equatability
@@ -11544,6 +11543,7 @@ eventuations
 eutropic
 evenwise
 evenworthy
+equanimousness
 ebriate
 eveque
 everard

@@ -16393,7 +16393,6 @@ antiurease
 antiusurious
 antiutilitarian
 antivaccination
-antivaccinationist
 antivaccinator
 antivaccinist
 antivariolous
@@ -22211,6 +22210,7 @@ astricts
 antal
 astrid
 astride
+antivaccinationist
 astrier
 astriferous
 astrild
