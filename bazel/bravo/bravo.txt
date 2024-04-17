@@ -9479,6 +9479,7 @@ byrling
 birlings
 birlinn
 birls
+boilable
 birma
 birmingham
 birminghamize
@@ -11973,7 +11974,6 @@ boyism
 boiko
 boil
 boyla
-boilable
 boylas
 boildown
 boiled
