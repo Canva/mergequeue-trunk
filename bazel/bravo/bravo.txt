@@ -3942,7 +3942,6 @@ bazooka
 bazookamen
 bazookas
 bazzite
-bb
 bbl
 bbs
 bcd
@@ -18315,6 +18314,7 @@ buttoners
 buttonhold
 buttonholder
 buttonhole
+bb
 buttonholed
 buttonholer
 bennis
