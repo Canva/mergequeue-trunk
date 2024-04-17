@@ -3186,7 +3186,6 @@ explait
 eloquent
 eloquential
 elpasolite
-elrage
 elritch
 epineolithic
 elroquite
@@ -9630,6 +9629,7 @@ eschel
 eschele
 escheve
 embroaden
+elrage
 eschevin
 eschew
 eschewal

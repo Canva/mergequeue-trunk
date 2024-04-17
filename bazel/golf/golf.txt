@@ -794,6 +794,7 @@ galvanocautery
 galvanocauteries
 galvanocauterization
 galvanocontractility
+gulix
 glycuronide
 galvanofaradization
 galvanoglyph
@@ -10704,7 +10705,6 @@ gustavus
 gusted
 gustful
 gustfully
-gulix
 gustfulness
 gusty
 gustier
