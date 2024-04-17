@@ -5650,6 +5650,7 @@ catechetic
 congenator
 catechetical
 catechetically
+choriambs
 certy
 catechin
 catechins
@@ -11918,7 +11919,6 @@ choriamb
 choriambi
 choriambic
 choriambize
-choriambs
 choriambus
 choriambuses
 choribi
