@@ -5232,7 +5232,6 @@ aetites
 areolas
 aetobatidae
 aetobatus
-aetolian
 aetomorphae
 aetosaur
 aetosaurian
@@ -7057,6 +7056,7 @@ aitis
 aitkenite
 aits
 aitutakian
+aetolian
 aphorizer
 ayu
 ayubite
