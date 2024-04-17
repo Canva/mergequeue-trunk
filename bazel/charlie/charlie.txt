@@ -237,6 +237,7 @@ cachaemic
 cachalot
 cachalote
 cachalots
+carbohydrate
 cachaza
 cache
 cachectic
@@ -3640,7 +3641,6 @@ carbodiimide
 carbodynamite
 carbohemoglobin
 carbohydrase
-carbohydrate
 carbohydrates
 carbohydraturia
 carbohydrazide
