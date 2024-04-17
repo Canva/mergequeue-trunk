@@ -12950,6 +12950,7 @@ expatiater
 expatiates
 expatiating
 expatiatingly
+extractor
 expatiations
 expatiative
 expatiator
@@ -13815,7 +13816,6 @@ extraction
 extractions
 extractive
 extractively
-extractor
 egotizing
 extractors
 extractorship
