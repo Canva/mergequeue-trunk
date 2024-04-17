@@ -888,7 +888,6 @@ baggagemaster
 baggager
 baggages
 baggala
-bagganet
 baggara
 bagged
 bagger
@@ -13245,6 +13244,7 @@ botanomancy
 botanophile
 brickwise
 botryomyces
+bagganet
 botanophilist
 botargo
 botargos
