@@ -2349,6 +2349,7 @@ barbarizing
 barbarous
 bradford
 barbarously
+basenji
 barbarousness
 barbas
 barbasco
@@ -3152,7 +3153,6 @@ basename
 behove
 baseness
 basenesses
-basenji
 basenjis
 baseplate
 bonnetmen
