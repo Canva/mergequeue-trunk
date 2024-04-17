@@ -3903,7 +3903,6 @@ cardiacal
 cardiacea
 cardiacean
 cardiacle
-cardiacs
 cardiae
 cardiagra
 cardiagram
@@ -7158,6 +7157,7 @@ centrode
 centrodesmose
 centrodesmus
 centrodorsal
+cardiacs
 centrodorsally
 centroid
 centroidal
