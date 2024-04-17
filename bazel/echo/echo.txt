@@ -4689,6 +4689,7 @@ enchiridion
 enchiridions
 enchiriridia
 enchytraeid
+ephods
 enchytraeidae
 enchytraeus
 enchodontid
@@ -7575,7 +7576,6 @@ ephyra
 ephyrula
 effluency
 ephod
-ephods
 ephoi
 ephor
 ephoral
