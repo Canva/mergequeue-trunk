@@ -4457,6 +4457,7 @@ demerge
 deterrable
 demerit
 demerited
+demotes
 demeriting
 demeritorious
 demeritoriously
@@ -4917,7 +4918,6 @@ demosthenic
 demot
 demote
 demoted
-demotes
 demothball
 demotic
 demoting

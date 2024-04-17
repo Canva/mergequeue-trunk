@@ -7951,6 +7951,7 @@ cevitamic
 cezannesque
 cf
 cfd
+corresponds
 cfh
 cfi
 castrum
@@ -25698,7 +25699,6 @@ correspondentship
 corresponder
 corresponding
 correspondingly
-corresponds
 corresponsion
 corresponsive
 corresponsively
