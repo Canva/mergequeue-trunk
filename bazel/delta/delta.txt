@@ -501,7 +501,6 @@ dakoity
 dakoits
 dakotan
 dakotans
-dakotas
 daks
 daktylon
 doggish
@@ -6149,6 +6148,7 @@ derivedness
 deriver
 demagogically
 derivers
+dakotas
 derives
 deriving
 derk
