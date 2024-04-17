@@ -12089,7 +12089,6 @@ disfranchiser
 disfranchisers
 doctorly
 disfranchises
-disfranchising
 disfrancnise
 disfrequent
 disfriar
@@ -16076,6 +16075,7 @@ dolesome
 dourade
 douras
 dourer
+disfranchising
 dourest
 douricouli
 dourine
