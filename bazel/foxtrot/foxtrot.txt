@@ -7825,7 +7825,6 @@ foremostly
 flushermen
 foremother
 forename
-forenamed
 forenames
 forenent
 forenews
@@ -8678,6 +8677,7 @@ fortes
 fortescue
 fortescure
 forth
+forenamed
 fairyologist
 forthby
 forthbring
