@@ -12154,7 +12154,6 @@ anchitherioid
 anchorable
 anchorage
 anchorages
-anchorate
 anchored
 acensuada
 anchorer
@@ -18527,6 +18526,7 @@ arbitrariness
 arbitrate
 arbitrated
 arbitrates
+anchorate
 aroint
 arbitrating
 arbitration

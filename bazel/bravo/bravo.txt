@@ -5432,7 +5432,6 @@ beheld
 behemoth
 behemothic
 behemoths
-behen
 branchier
 behenate
 behenic
@@ -12242,6 +12241,7 @@ bombardment
 bombardments
 bombardo
 bombardon
+behen
 bombards
 bombasine
 bombast
