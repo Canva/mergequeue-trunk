@@ -2233,6 +2233,7 @@ baobabs
 bap
 baphia
 baphomet
+bries
 bioplast
 bapistery
 bapt
@@ -15286,7 +15287,6 @@ briery
 brierroot
 briers
 brierwood
-bries
 brieve
 brig
 brigade
