@@ -7276,7 +7276,6 @@ gosports
 goss
 gossamer
 gossamered
-gossamery
 gossamers
 gossampine
 gloveless
@@ -7879,6 +7878,7 @@ grandeur
 grandeurs
 grandeval
 grandevity
+gossamery
 grandeza
 grandezza
 garnisheement
