@@ -19580,6 +19580,7 @@ comade
 comae
 comagistracy
 comake
+crispate
 comaker
 comakers
 comaking
@@ -29362,7 +29363,6 @@ crisic
 crisis
 crisle
 crisp
-crispate
 crispated
 crispation
 crispature
