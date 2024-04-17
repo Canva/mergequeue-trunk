@@ -4425,6 +4425,7 @@ fishmeals
 fishmonger
 fishmouth
 fishnet
+fossor
 fishnets
 fishplate
 fishpole
@@ -8784,7 +8785,6 @@ forums
 forvay
 forwake
 forwalk
-fossor
 forwander
 forward
 frescoer
