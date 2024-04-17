@@ -5595,6 +5595,7 @@ absorbs
 astrogation
 afterbeat
 afterbirth
+allentiacan
 afterblow
 afterbody
 afterbodies
@@ -8654,7 +8655,6 @@ alleniate
 allentando
 allentato
 allentiac
-allentiacan
 aller
 allergen
 allergenic
