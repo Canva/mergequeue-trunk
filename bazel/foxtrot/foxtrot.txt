@@ -2302,6 +2302,7 @@ furnisher
 fenestrae
 fenestral
 fenestrate
+forbad
 fenestrated
 fenestration
 fenestrule
@@ -7365,7 +7366,6 @@ foraramina
 facilitator
 forasmuch
 forastero
-forbad
 forbade
 forbare
 forbarred
