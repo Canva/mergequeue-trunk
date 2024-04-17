@@ -7548,6 +7548,7 @@ bevillain
 bigeye
 bashaws
 bidarkees
+breamed
 bevilled
 bevined
 bevoiled
@@ -14827,7 +14828,6 @@ breakwater
 breakweather
 breakwind
 bream
-breamed
 boraginaceous
 breaming
 breams
