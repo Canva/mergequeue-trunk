@@ -4539,7 +4539,6 @@ fistulae
 fistulana
 fistular
 fistularia
-fistulate
 fistulated
 fistulatome
 fistule
@@ -9927,6 +9926,7 @@ freudians
 freudist
 fungible
 fry
+fistulate
 friable
 friand
 fructiparous
