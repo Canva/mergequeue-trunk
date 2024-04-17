@@ -6745,7 +6745,6 @@ gonangiums
 gonapod
 gonapophysis
 gonarthritis
-goncalo
 gond
 grossularious
 gondi
@@ -9100,6 +9099,7 @@ goniometrically
 grippiest
 gongoresque
 grippiness
+goncalo
 gripping
 grippingness
 grippit

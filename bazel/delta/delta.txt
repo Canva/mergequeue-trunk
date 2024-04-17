@@ -1616,7 +1616,6 @@ deambulate
 deambulatory
 deambulatories
 deamidase
-deamidate
 deamidization
 deamidize
 deaminase
@@ -17753,6 +17752,7 @@ duckery
 duckers
 duckfoot
 duckfooted
+deamidate
 duckhearted
 duckhood
 duckhouse
