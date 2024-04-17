@@ -547,7 +547,6 @@ fallacia
 feltlike
 fallacious
 fallaciously
-fatteners
 flyability
 faceoff
 fallage
@@ -9490,6 +9489,7 @@ fraternation
 fraternisation
 fraternise
 fraternised
+fatteners
 fraternising
 fraternism
 fraternity
