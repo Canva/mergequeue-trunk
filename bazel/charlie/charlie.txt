@@ -2417,7 +2417,6 @@ candlewicks
 candlewright
 campier
 candling
-candock
 candollea
 candolleaceae
 candolleaceous
@@ -23696,6 +23695,7 @@ contraposaune
 contrapose
 contraposed
 contraposing
+candock
 contraposit
 contraposita
 contraposition
