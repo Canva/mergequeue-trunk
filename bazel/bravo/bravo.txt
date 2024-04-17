@@ -9,7 +9,6 @@ baalisms
 baalist
 baalitical
 barkpeel
-baals
 baalshem
 baar
 baas
@@ -17581,6 +17580,7 @@ bureau
 bureaucracy
 bureaucracies
 bureaucrat
+baals
 bureaucratese
 bureaucratic
 bureaucratical

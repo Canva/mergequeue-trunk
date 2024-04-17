@@ -12632,6 +12632,7 @@ chs
 chteau
 chthonian
 chthonic
+cubti
 chthonophagy
 chuana
 chub
@@ -30530,7 +30531,6 @@ cubomedusan
 cubometatarsal
 cubonavicular
 cubs
-cubti
 careens
 cuca
 cucaracha
