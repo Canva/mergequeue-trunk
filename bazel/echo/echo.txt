@@ -795,6 +795,7 @@ ecstasis
 ecstasize
 ecstatic
 ecstatica
+extemporise
 ecstatical
 ecstatically
 ecstaticize
@@ -13548,7 +13549,6 @@ extemporariness
 emcumbering
 extempore
 extemporisation
-extemporise
 extemporised
 eigh
 extemporiser
