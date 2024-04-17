@@ -323,7 +323,6 @@ evenings
 enunciate
 eaver
 eaves
-eavesdrop
 eavesdropped
 eavesdropper
 enmass
@@ -7082,6 +7081,7 @@ entrees
 excisor
 entrefer
 entrelac
+eavesdrop
 entremess
 entremets
 entrenches
