@@ -2103,6 +2103,7 @@ elapine
 elapoid
 elapse
 exteriorate
+endeavoured
 extirpateo
 elapsed
 elapses
@@ -5008,7 +5009,6 @@ endeavored
 endeavoring
 endeavors
 endeavour
-endeavoured
 endeavourer
 endeavouring
 endebt
