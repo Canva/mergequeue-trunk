@@ -10886,6 +10886,7 @@ euhemerising
 euhemerism
 excysted
 euhemerist
+extrafocal
 euhemeristic
 euhemeristically
 euhemerize
@@ -12276,7 +12277,6 @@ excursions
 englished
 excursive
 excursively
-extrafocal
 excursiveness
 excursus
 excursuses
