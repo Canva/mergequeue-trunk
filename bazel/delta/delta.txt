@@ -403,7 +403,6 @@ daymare
 daymares
 daymark
 daimen
-daymen
 doupion
 datedly
 daimiel
@@ -574,6 +573,7 @@ dama
 damage
 damageability
 damageable
+dk
 damageableness
 damageably
 damaged
@@ -690,6 +690,7 @@ divined
 damoisel
 damolic
 damon
+duction
 damone
 damonico
 damosel
@@ -776,7 +777,6 @@ dandering
 danders
 dandy
 dandiacally
-dandydom
 dandie
 dandier
 detachs
@@ -1648,6 +1648,7 @@ dear
 dearborn
 deare
 dearer
+donnered
 dearest
 deary
 derides
@@ -1848,7 +1849,6 @@ debones
 deafening
 deboning
 decigramme
-dermatoplast
 debonnaire
 deborah
 debord
@@ -3386,7 +3386,6 @@ deflected
 deflecting
 deflectional
 deflectionization
-deflectionize
 deflections
 deflective
 deflectometer
@@ -3447,6 +3446,7 @@ defogger
 defoggers
 defogging
 defogs
+driveways
 defoil
 dawish
 defoliage
@@ -4191,7 +4191,6 @@ deliriums
 delirous
 delis
 delisk
-delist
 delisted
 delisting
 delists
@@ -6279,7 +6278,6 @@ dermoblast
 dermobranchia
 dermobranchiata
 dermobranchiate
-dermochelys
 dermococcus
 dermogastric
 dermography
@@ -6861,7 +6859,6 @@ desperadoism
 desperados
 desperance
 descrying
-desperate
 durzee
 desperately
 desperateness
@@ -7054,6 +7051,7 @@ desugaring
 desugarize
 desugars
 desulfovibrio
+dregs
 desulfur
 dudeen
 desulfurate
@@ -7177,6 +7175,7 @@ detergent
 detergents
 deterger
 detergers
+discretional
 deterges
 detergible
 deterging
@@ -7701,7 +7700,6 @@ devolution
 devolutionary
 devolutionist
 devolutive
-devolve
 devolved
 devolvement
 devolvements
@@ -7927,6 +7925,7 @@ dhaks
 dhal
 dhaman
 dhamnoo
+dipygi
 dhan
 dhangar
 dhanuk
@@ -8040,6 +8039,7 @@ diabolized
 diabolizing
 diabolo
 diabological
+dandydom
 diabolology
 diabolonian
 diabolos
@@ -8187,7 +8187,6 @@ diagonalization
 diagonalize
 disinteresting
 diagonally
-diagonals
 diagonalwise
 dedans
 dicatalexis
@@ -8340,7 +8339,6 @@ dialogist
 dialogistic
 dipsos
 dialogistical
-dialogistically
 dialogite
 dialogize
 decouple
@@ -8369,7 +8367,6 @@ diamante
 dimorphite
 diamantiferous
 ditrochee
-diamantoid
 diamat
 diamber
 diambic
@@ -8462,6 +8459,7 @@ diapedetic
 diapensia
 diplomatized
 diapensiaceae
+dissertator
 diapensiaceous
 diapente
 diaper
@@ -8923,7 +8921,6 @@ dicyemata
 dicyemid
 dicyemida
 dicyemidae
-dicier
 diciest
 dicing
 dicynodont
@@ -8955,6 +8952,7 @@ dicotyls
 dicots
 dicoumarin
 dicoumarol
+delist
 dicranaceae
 dicranaceous
 dicranoid
@@ -9724,6 +9722,7 @@ dilker
 dill
 dillenia
 dilleniaceous
+deflectionize
 dilleniad
 daubers
 duinhewassel
@@ -10223,6 +10222,7 @@ doley
 dioecian
 dioeciopolygamous
 dishonorableness
+distanceless
 dioeciousness
 dioecism
 dioecisms
@@ -10406,6 +10406,7 @@ diphyodont
 diphyozooid
 diphysite
 diphysitism
+drip
 diphyzooid
 dizzard
 dyphone
@@ -10454,7 +10455,6 @@ dipicrate
 downfalling
 dipicrylamin
 dipicrylamine
-dipygi
 dipygus
 dipylon
 dipyramidal
@@ -10915,6 +10915,7 @@ disadvising
 dysaesthesia
 dysaesthetic
 disaffect
+daymen
 disaffectation
 disaffected
 disaffectedness
@@ -11000,6 +11001,7 @@ disannex
 disannexation
 disannul
 disannulled
+dicier
 disannuller
 disannulling
 disannulment
@@ -11451,6 +11453,7 @@ discomycetous
 discommend
 discommendable
 discommendableness
+draftproof
 discommendably
 discommendation
 discommender
@@ -11714,7 +11717,6 @@ discrete
 discretely
 discreteness
 discretion
-discretional
 discretionally
 discretionarily
 discretive
@@ -12366,7 +12368,6 @@ dalesman
 disimitation
 disimpark
 disimpassioned
-disimprison
 disimprisonment
 disimprove
 dyarchical
@@ -12606,6 +12607,7 @@ disloyalties
 disloign
 deictic
 dislove
+diagonals
 disluster
 dislustered
 dislustering
@@ -12833,7 +12835,6 @@ duvetyns
 dispar
 disparadise
 disparageable
-disparagement
 disparager
 disparages
 disparaging
@@ -13010,7 +13011,6 @@ dispicion
 dispirem
 dispireme
 dispirit
-dispirited
 dispiritedly
 dispiritedness
 dispiriting
@@ -13387,7 +13387,6 @@ dissavage
 dissaved
 dissaves
 dissaving
-demonic
 dissceptered
 dissceptre
 dissceptred
@@ -13447,6 +13446,7 @@ deuteroglobulose
 dissent
 dissentaneous
 dissentaneousness
+dermochelys
 dissentation
 dissented
 dissenter
@@ -13477,10 +13477,10 @@ dissertational
 dissertationist
 dissertations
 dissertative
-dissertator
 disserted
 disserting
 disserts
+durabilities
 disserve
 disserved
 disserves
@@ -13670,7 +13670,6 @@ distalia
 distalwards
 distance
 distanced
-distanceless
 desireable
 distancing
 distannic
@@ -13926,6 +13925,7 @@ distritbuted
 differentiating
 distritbutes
 distritbuting
+disimprison
 distrito
 distritos
 dystrophy
@@ -14209,6 +14209,7 @@ downstage
 diverberate
 diverge
 diverged
+dialogistically
 divergement
 divergence
 divergences
@@ -14374,6 +14375,7 @@ divisorial
 dimes
 divisural
 divorceable
+drizzly
 divorced
 divorcee
 divorcees
@@ -14495,7 +14497,6 @@ djinny
 djinns
 djins
 djuka
-dk
 dkg
 dkl
 dkm
@@ -14530,6 +14531,7 @@ dobbie
 dobbies
 dobbin
 dobbing
+demonic
 dobbins
 dobchick
 dobe
@@ -14557,6 +14559,7 @@ decalcomaniac
 dobule
 dobzhansky
 dodonean
+dispirited
 doc
 docent
 docents
@@ -14876,6 +14879,7 @@ defatigated
 doggereled
 doggerelism
 doggerelist
+dermatoplast
 doggerelizer
 doggerelizing
 doggerelled
@@ -14999,7 +15003,6 @@ doyly
 doylies
 doylt
 doina
-doing
 doings
 doit
 doited
@@ -15100,7 +15103,6 @@ doliolidae
 doliolum
 dolisie
 dolite
-dolittle
 dolium
 doll
 dollar
@@ -15117,6 +15119,7 @@ dimmable
 dolldom
 dolled
 dolley
+doing
 dollface
 dehull
 dollhood
@@ -15387,6 +15390,7 @@ dondia
 dondine
 done
 diaries
+devolve
 deduct
 donec
 donee
@@ -15430,7 +15434,6 @@ decnet
 donnee
 donnees
 donnerd
-donnered
 donnert
 donnybrook
 donnybrooks
@@ -15685,6 +15688,7 @@ dormers
 dormette
 dormeuse
 dormy
+dolittle
 dormice
 dogvane
 dormie
@@ -16166,6 +16170,7 @@ dowel
 doweled
 doweling
 dowelled
+diamantoid
 dowels
 dower
 doweral
@@ -16504,7 +16509,6 @@ draftings
 draftman
 dactylioglyphtic
 draftmanship
-draftproof
 drafts
 draftsman
 draftsmanship
@@ -16870,6 +16874,7 @@ dreamlore
 dreams
 dreamscape
 dreamsy
+disparagement
 dreamsily
 dreamsiness
 disoppilate
@@ -16920,7 +16925,6 @@ derotremate
 dreggily
 dregginess
 dregless
-dregs
 dreich
 dirtiest
 dreidel
@@ -17135,7 +17139,6 @@ dryopithecus
 dryops
 dryopteris
 dryopteroid
-drip
 dripless
 draughter
 drypoints
@@ -17198,7 +17201,6 @@ drives
 dredgings
 drivescrew
 driveway
-driveways
 drivewell
 delictual
 driving
@@ -17209,7 +17211,6 @@ dryworker
 drizzle
 drizzled
 drizzles
-drizzly
 drizzlier
 drizzliest
 drizzling
@@ -17798,7 +17799,6 @@ ductilize
 ductilized
 ductilizing
 ductings
-duction
 ductless
 ductor
 disimbitter
@@ -18174,6 +18174,7 @@ dungari
 dungas
 dungbeck
 dungbird
+desperate
 dungbred
 dunged
 dungeoner
@@ -18405,7 +18406,6 @@ dupping
 dups
 dur
 dura
-durabilities
 durable
 disinterestedness
 durableness

@@ -458,6 +458,7 @@ abioses
 abiosis
 abiotic
 abiotical
+archpastor
 anklebone
 abiotically
 abiotrophy
@@ -1324,6 +1325,7 @@ acapsular
 acapu
 analogice
 acara
+andorobo
 acarapis
 acarari
 acardia
@@ -1927,6 +1929,7 @@ aceratherium
 absolutists
 acerbas
 acerbate
+amblycephalidae
 acerbated
 acerbates
 acerbating
@@ -2966,6 +2969,7 @@ acronically
 acronycally
 acronych
 acronichal
+aphacial
 acronychal
 acronichally
 acronychally
@@ -3238,6 +3242,7 @@ activists
 activital
 activity
 activities
+arborized
 activize
 activized
 activizing
@@ -3660,7 +3665,6 @@ adenylic
 adenylpyrophosphate
 adenin
 adenine
-adenitis
 adenitises
 adenization
 adenoacanthoma
@@ -4656,7 +4660,6 @@ advertises
 advertising
 advertizable
 advertized
-advertizement
 advertizer
 advertizes
 advertizing
@@ -4862,7 +4865,6 @@ aepyceros
 aepyornis
 aepyornithidae
 aepyornithiformes
-aggrieves
 altica
 aeq
 aequi
@@ -5250,7 +5252,6 @@ aface
 androlepsia
 afaced
 afacing
-afaint
 afara
 afars
 afb
@@ -6919,6 +6920,7 @@ airheads
 airy
 airier
 airiferous
+aggrieves
 airify
 airified
 airily
@@ -7135,7 +7137,6 @@ akazgin
 akazgine
 akcheh
 ake
-alkamin
 akeake
 akebia
 actinia
@@ -7175,7 +7176,6 @@ akim
 akimbo
 akin
 akindle
-akinesia
 approbating
 akinesic
 akinesis
@@ -9559,6 +9559,7 @@ acronyx
 altogether
 altogetherness
 altoist
+antimythic
 altos
 altostratus
 altoun
@@ -10027,7 +10028,6 @@ amblers
 ambles
 amblyacousia
 amblyaphia
-amblycephalidae
 amblycephalus
 amblychromatic
 amblydactyla
@@ -10847,7 +10847,6 @@ amoeba
 amoebae
 amoebaea
 amoebaean
-amoebaeum
 amoebalike
 amoeban
 amoebas
@@ -10887,6 +10886,7 @@ amoles
 amolilla
 amolish
 amollish
+advertizement
 amomal
 amomales
 amomis
@@ -12106,7 +12106,6 @@ anatto
 anthrone
 anattos
 anatum
-anaudia
 anaudic
 anaunter
 anaunters
@@ -12223,6 +12222,7 @@ apathist
 ancylodactyla
 ancylopod
 ancylopoda
+alkamin
 ancylose
 avanyu
 ancylostoma
@@ -12315,7 +12315,6 @@ andoke
 andor
 andorite
 andoroba
-andorobo
 andorran
 andouille
 andouillet
@@ -13368,6 +13367,7 @@ anisotonic
 anisotropal
 anisotrope
 anisotropy
+apetalae
 anisotropically
 anencephalotrophia
 anisotropies
@@ -13377,6 +13377,7 @@ anisum
 anisuria
 anita
 anither
+announceable
 anything
 anythingarian
 anythingarianism
@@ -13615,6 +13616,7 @@ annually
 annuals
 annuary
 annuation
+antispirochetic
 annueler
 annueller
 annuent
@@ -15343,7 +15345,6 @@ antihero
 antiheroes
 antiheroic
 antiheroism
-azulejo
 antihydrophobic
 ambitionlessly
 antihydropin
@@ -15512,7 +15513,6 @@ antimechanism
 antimechanist
 antimechanistic
 antimechanistically
-antimechanization
 antimediaeval
 antimediaevalism
 antimediaevalist
@@ -15578,7 +15578,6 @@ antimystic
 antimystically
 antimysticalness
 antimysticism
-antimythic
 antimythical
 antimitotic
 antimixing
@@ -15804,6 +15803,7 @@ antipatriotic
 attractant
 astonishing
 antipatriotically
+adenitis
 antipatriotism
 antipedal
 antipedobaptist
@@ -15845,6 +15845,7 @@ antiphysical
 antiphysically
 antiphysicalness
 antiphysician
+adurent
 antiphlogistian
 antiphlogistic
 antiphlogistin
@@ -15853,7 +15854,6 @@ antiphona
 antiphonal
 antiphonally
 antiphonary
-adurent
 antiphonaries
 antiphonetic
 antiphony
@@ -16245,7 +16245,6 @@ antispiritualism
 adenia
 antispiritualistic
 antispiritually
-antispirochetic
 antisplasher
 antisplenetic
 antispreader
@@ -16368,6 +16367,7 @@ antitrypsin
 antitryptic
 antitrismus
 antitropal
+antimechanization
 antitrope
 antitropy
 antitropic
@@ -16754,7 +16754,6 @@ apes
 apesthesia
 apesthetic
 apesthetize
-apetalae
 antepredicament
 apetaly
 apetalies
@@ -16768,7 +16767,6 @@ apexing
 aph
 antilogical
 aphacia
-aphacial
 aquamanile
 aphacic
 aphaeresis
@@ -18243,7 +18241,6 @@ abampere
 aquatones
 aquavit
 aquavits
-aqueducts
 aqueity
 appetizingly
 aquench
@@ -18377,6 +18374,7 @@ arachnids
 arachnism
 arachnitis
 arachnoid
+akinesia
 arachnoidal
 arachnoidea
 arachnoidean
@@ -19086,7 +19084,6 @@ archostegnosis
 archostenosis
 archoverseer
 archpall
-archpastor
 archpatriarch
 archpatron
 anana
@@ -19840,6 +19837,7 @@ arkite
 amorphousness
 aceologic
 arkose
+anaudia
 arkoses
 arks
 arksutite
@@ -20066,6 +20064,7 @@ arointed
 aroynted
 arointing
 aroynting
+amoebaeum
 aroints
 aroynts
 arolia
@@ -20138,6 +20137,7 @@ arpens
 arpent
 arpenteur
 arpents
+axones
 agas
 arquated
 arquebus
@@ -20719,7 +20719,6 @@ artilleryship
 artillerist
 artillerists
 artiness
-artinesses
 artinite
 artinskian
 artiodactyl
@@ -22539,6 +22538,7 @@ athelings
 athematic
 athena
 athenaea
+attentat
 athenaeum
 athenaeums
 athenee
@@ -22760,6 +22760,7 @@ atomistically
 atomists
 atomity
 allomorphism
+afaint
 abrocoma
 atomization
 atomize
@@ -22969,6 +22970,7 @@ attainted
 annapolis
 attainting
 attaintment
+azures
 attaints
 attainture
 aguamas
@@ -23029,7 +23031,6 @@ attendress
 attends
 attensity
 attent
-attentat
 attentate
 attention
 attentional
@@ -23174,7 +23175,6 @@ attribution
 attributional
 attributions
 attributive
-arborized
 attributively
 attributor
 attrist
@@ -23835,7 +23835,6 @@ aspidiotus
 authoritatively
 authoritativeness
 authority
-announceable
 authorities
 authorization
 authorizations
@@ -23930,6 +23929,7 @@ autocatharsis
 autocatheterism
 autocephalia
 autocephalic
+artinesses
 autocephality
 autocephalous
 autoceptive
@@ -24603,6 +24603,7 @@ avaremotemo
 avarian
 avarices
 acroterium
+aqueducts
 avaricious
 avariciously
 avariciousness
@@ -25026,6 +25027,7 @@ awiwi
 awk
 awkly
 awkward
+azulejo
 awkwarder
 awkwardest
 awkwardish
@@ -25174,7 +25176,6 @@ axon
 aurantiaceous
 axonemal
 asynartetic
-axones
 axoneure
 axoneuron
 axonia
@@ -25392,7 +25393,6 @@ azurean
 azured
 azureness
 azureous
-azures
 azury
 azurine
 azurite

@@ -178,6 +178,7 @@ factionist
 fluavil
 factionistism
 factions
+famished
 forecatharping
 factious
 flirtatious
@@ -257,7 +258,6 @@ filibuster
 firm
 faddism
 faddisms
-faddist
 faddists
 faddle
 fade
@@ -481,7 +481,6 @@ falanaka
 falange
 falangism
 falangist
-falasha
 falbala
 falbalas
 falbelo
@@ -509,6 +508,7 @@ falconiformes
 ferlied
 falconinae
 falconlike
+fgrid
 frillies
 falconnoid
 folium
@@ -611,7 +611,6 @@ falsies
 falsify
 falsifiability
 falsifiable
-falsificate
 falsification
 falsifications
 falsificator
@@ -693,7 +692,6 @@ famille
 famine
 frostfishes
 faming
-famished
 famishes
 famishing
 famous
@@ -912,7 +910,6 @@ faradise
 faradised
 faradiser
 faradises
-fissionable
 faradisms
 faradization
 faradize
@@ -1148,6 +1145,7 @@ filtration
 fascinating
 fascinatingly
 fascination
+fiction
 fascinations
 fascinative
 fascinator
@@ -1537,7 +1535,6 @@ favellidia
 fortuities
 favellidium
 favellilidia
-favelloid
 faveolate
 faveoluli
 faveolus
@@ -1551,6 +1548,7 @@ flame
 favillous
 favism
 favissa
+formylate
 favissae
 favn
 favonian
@@ -1609,6 +1607,7 @@ fritz
 fawny
 flameflower
 fawnier
+faddist
 fawniest
 fawning
 fawningly
@@ -1913,6 +1912,7 @@ feebleheartedly
 feebleheartedness
 feebleminded
 feeblemindedness
+falasha
 feebleness
 feebler
 feebly
@@ -1979,6 +1979,7 @@ feezing
 feff
 fefnicute
 fegary
+frothier
 fegatella
 fegs
 familarity
@@ -2494,7 +2495,6 @@ fernticle
 fernwort
 feroce
 ferocious
-ferociously
 flatboat
 ferocity
 ferocities
@@ -2514,7 +2514,6 @@ ferrate
 ferrated
 ferrateen
 ferrates
-ferratin
 ferrean
 foulmouth
 ferredoxin
@@ -2750,7 +2749,6 @@ fedelini
 festino
 festival
 festivalgoer
-festivally
 festivals
 festiveness
 festivity
@@ -2782,7 +2780,6 @@ feta
 footpad
 fetal
 fetalism
-fetalization
 fetas
 fetation
 fetations
@@ -2991,7 +2988,6 @@ fezzed
 fezzes
 fezziwig
 ffa
-fgrid
 fy
 fiacres
 fiador
@@ -3002,6 +2998,7 @@ fianced
 fiancee
 flexing
 fiancees
+festivally
 fiances
 fianchetti
 fianchetto
@@ -3012,6 +3009,7 @@ fiants
 fiar
 fiars
 fiaschi
+frisca
 fiasco
 fiascos
 fiat
@@ -3105,6 +3103,7 @@ fibroblast
 fibroblastic
 fibrocalcareous
 fibrocarcinoma
+favelloid
 fibrocartilage
 fibrocartilaginous
 fibrocaseose
@@ -3222,7 +3221,6 @@ forepad
 fictility
 farsang
 fescues
-fiction
 fictional
 fictionalize
 fictionalized
@@ -3531,6 +3529,7 @@ figureless
 figurer
 figures
 figuresome
+ferratin
 figury
 figurial
 figurine
@@ -3784,6 +3783,7 @@ filmized
 filmizing
 filmland
 fringes
+finchery
 frostweed
 filmlands
 filmlike
@@ -3911,7 +3911,6 @@ finca
 forspeaking
 finchbacked
 finched
-finchery
 finches
 find
 findability
@@ -4053,6 +4052,7 @@ finish
 finishable
 finished
 finisher
+fortitudinous
 finishers
 finishes
 finishing
@@ -4332,6 +4332,7 @@ firsthand
 firstly
 fust
 firstling
+fleshliest
 firstlings
 firstness
 firsts
@@ -4538,7 +4539,6 @@ fistulae
 fistulana
 fistular
 fistularia
-fistulate
 fistulated
 fistulatome
 fistule
@@ -5476,7 +5476,6 @@ fleshings
 fleshless
 fleshlessness
 fleshlier
-fleshliest
 fleshlike
 fleshlily
 failingly
@@ -5668,7 +5667,6 @@ flinkite
 fator
 flint
 flinted
-flinter
 fossorial
 flinthead
 flinthearted
@@ -5795,7 +5793,6 @@ frappeed
 fardo
 flitters
 flitty
-flittiness
 flitting
 flittingly
 flitwite
@@ -6153,7 +6150,6 @@ flotas
 flotative
 flote
 flotilla
-flotillas
 flibbertigibbets
 flotsam
 flotsams
@@ -6438,6 +6434,7 @@ fluocerite
 fluochloride
 foreswearing
 ferous
+fetalization
 fluohydric
 fluophosphate
 ferrugo
@@ -6556,6 +6553,7 @@ flusher
 flusherman
 flushes
 flushest
+ferociously
 flushgate
 flushy
 fodge
@@ -6675,6 +6673,7 @@ foam
 foambow
 foamed
 furbishing
+foredesign
 fluotitanate
 foamer
 foamflower
@@ -7102,6 +7101,7 @@ fonts
 foo
 foochow
 food
+flinter
 foodful
 foody
 foodless
@@ -7621,7 +7621,6 @@ foredefine
 foredenounce
 foredescribe
 foredeserved
-foredesign
 foredesignment
 foredesk
 foredestine
@@ -7670,6 +7669,7 @@ faluns
 familiar
 forefield
 forefigure
+flotillas
 forefin
 forefinger
 forefingers
@@ -8477,6 +8477,7 @@ formicate
 formicated
 franchiser
 formicating
+fissionable
 forfairn
 formicicide
 formicid
@@ -8493,7 +8494,6 @@ formidably
 florissant
 formidolous
 formylal
-formylate
 feedable
 formylated
 formylating
@@ -8644,6 +8644,7 @@ forsooth
 forspeak
 forspend
 forspent
+familiarities
 farstepped
 ferally
 fogdog
@@ -8733,7 +8734,6 @@ fortis
 fortissimi
 fortissimo
 fortissimos
-fortitudinous
 fortlet
 fortnight
 fortnightly
@@ -9144,6 +9144,7 @@ fraghan
 foxship
 foxskin
 foxskins
+flittiness
 foolery
 foxtail
 foxtailed
@@ -9275,7 +9276,6 @@ furled
 fragor
 fits
 fragrance
-fragrances
 fermentations
 framboise
 fragrancy
@@ -9927,6 +9927,7 @@ freudians
 freudist
 fungible
 fry
+fistulate
 friable
 friand
 fructiparous
@@ -10159,7 +10160,6 @@ frisado
 flopped
 frisbee
 frisbees
-frisca
 friscal
 frisch
 frisco
@@ -10520,7 +10520,6 @@ frothi
 frothy
 forebodings
 feelingful
-frothier
 frothily
 frothless
 froths
@@ -10531,6 +10530,7 @@ frotted
 frotteur
 frotteurs
 frotting
+frousty
 frottola
 frottole
 frotton
@@ -10549,7 +10549,6 @@ frousiest
 fide
 froust
 foreglance
-frousty
 frouze
 frouzy
 frouziest
@@ -10640,7 +10639,6 @@ fructuous
 fructuously
 fructuousness
 fructure
-familiarities
 fructus
 frug
 frugal
@@ -11260,6 +11258,7 @@ funiculate
 funiculitis
 funiculus
 funiform
+falsificate
 funiliform
 funipendulous
 funis
@@ -11583,6 +11582,7 @@ frondescence
 fusilier
 fusiliers
 feu
+fragrances
 fusilladed
 fusillades
 fusillading
