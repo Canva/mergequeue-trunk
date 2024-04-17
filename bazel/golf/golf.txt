@@ -3815,6 +3815,7 @@ giaour
 giaours
 giardia
 gilders
+glamourization
 giarra
 giarre
 gyascutus
@@ -5091,7 +5092,6 @@ glamoured
 glamoury
 glamourie
 glamouring
-glamourization
 glamourize
 glassine
 glamourizer
