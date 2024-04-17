@@ -7529,7 +7529,6 @@ albuminiferous
 albuminiform
 albuminimeter
 albuminimetry
-albuminiparous
 albuminised
 albuminising
 albuminization
@@ -11639,6 +11638,7 @@ anaglypta
 anaglyptic
 anaglyptical
 anaglyptics
+albuminiparous
 anaglyptography
 anaglyptographic
 anaglypton
