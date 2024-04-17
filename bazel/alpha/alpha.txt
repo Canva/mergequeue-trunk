@@ -3452,6 +3452,7 @@ adaption
 adaptional
 anchoic
 adaptionism
+anesthesiometer
 adaptions
 adaptitude
 adaptive
@@ -12564,7 +12565,6 @@ anesthesiologies
 alumstone
 anesthesiologist
 anesthesiologists
-anesthesiometer
 anesthesis
 allergens
 anesthetic
