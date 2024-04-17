@@ -805,7 +805,6 @@ fanit
 fanjet
 fanjets
 fanleaf
-fanlight
 fanlights
 fanmaking
 fila
@@ -8576,6 +8575,7 @@ fornacic
 fornax
 fornaxid
 forncast
+fanlight
 fornenst
 fornent
 fornical
