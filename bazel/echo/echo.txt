@@ -3988,6 +3988,7 @@ emittent
 emitter
 emitting
 emlen
+enhancements
 emm
 emma
 emmanuel
@@ -5908,7 +5909,6 @@ echites
 enhanced
 exaggerativeness
 enhancement
-enhancements
 enhancer
 enhancers
 enhances
