@@ -6789,6 +6789,7 @@ celtic
 celtically
 celticist
 celticize
+championed
 celtidaceae
 celtiform
 celtillyrians
@@ -8511,7 +8512,6 @@ champignons
 champine
 champing
 champion
-championed
 championess
 championing
 championize
