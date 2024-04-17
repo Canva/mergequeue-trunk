@@ -1622,7 +1622,6 @@ embryonically
 egohood
 egoism
 egoisms
-egoist
 egoistical
 egoistically
 egoisticalness
@@ -6006,6 +6005,7 @@ enjoinder
 enjoinders
 enjoined
 enjoiner
+egoist
 enjoiners
 enjoining
 enjoinment
