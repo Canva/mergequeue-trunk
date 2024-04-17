@@ -886,6 +886,7 @@ caladium
 caladiums
 calahan
 calaite
+cystoscopic
 calalu
 calamagrostis
 calamanco
@@ -25516,7 +25517,6 @@ coroparelcysis
 coperception
 coroplast
 coroplasta
-cystoscopic
 coroplastae
 coroplasty
 coroplastic
