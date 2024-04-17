@@ -8384,6 +8384,7 @@ diamyl
 diamylene
 diamylose
 diamin
+dotterel
 diamine
 diamines
 diaminogen
@@ -15924,7 +15925,6 @@ dottedness
 dottel
 dottels
 dotter
-dotterel
 dotterels
 dotters
 dotty
