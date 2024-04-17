@@ -4063,7 +4063,6 @@ ectodermoidal
 emotiveness
 emotivism
 emotivity
-equiprobability
 emove
 exorability
 eponymize
@@ -6801,6 +6800,7 @@ enthrallment
 euboic
 enthrallments
 enthralls
+equiprobability
 enthralment
 enthrals
 enthrill

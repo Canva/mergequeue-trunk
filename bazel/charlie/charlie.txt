@@ -5518,7 +5518,6 @@ cataphora
 cataphoresis
 cataphoretic
 cataphoria
-cataphoric
 cataphract
 cataphracta
 cataphracted
@@ -14928,6 +14927,7 @@ cytophagy
 cytophagic
 cytophagous
 cytopharynges
+cataphoric
 cytopharynx
 cytopharynxes
 cytophil
