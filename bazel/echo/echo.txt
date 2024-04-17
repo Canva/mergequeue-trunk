@@ -2276,6 +2276,7 @@ electragist
 equips
 electral
 electre
+exceptive
 electrepeter
 electress
 electret
@@ -12004,7 +12005,6 @@ exceptionless
 exceptions
 exceptious
 exceptiousness
-exceptive
 exceptively
 exceptiveness
 exceptless
