@@ -9559,6 +9559,7 @@ acronyx
 altogether
 altogetherness
 altoist
+antimythic
 altos
 altostratus
 altoun
@@ -15578,7 +15579,6 @@ antimystic
 antimystically
 antimysticalness
 antimysticism
-antimythic
 antimythical
 antimitotic
 antimixing
