@@ -14001,7 +14001,6 @@ disunity
 disunities
 disuniting
 dysury
-dysuria
 dysuric
 disusage
 disusance
@@ -14384,6 +14383,7 @@ defiguration
 divorcers
 disinure
 divorceuse
+dysuria
 duckeries
 damourite
 divorcible

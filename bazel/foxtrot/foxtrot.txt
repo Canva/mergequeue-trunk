@@ -8028,6 +8028,7 @@ forespeaking
 forespecified
 forespeech
 forespencer
+filaceous
 forespent
 forespoke
 forespoken
@@ -11449,7 +11450,6 @@ furnishing
 furnishings
 fudges
 furnishment
-filaceous
 furnit
 furniture
 furnitures
