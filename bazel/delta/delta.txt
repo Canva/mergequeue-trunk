@@ -3095,6 +3095,7 @@ defalk
 defamation
 defamations
 defamatory
+dumbcow
 defame
 defamed
 defamer
@@ -18038,7 +18039,6 @@ dumba
 dumbbell
 dumbbeller
 dumbbells
-dumbcow
 dumbed
 dumber
 dumbest
