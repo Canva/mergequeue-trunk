@@ -6714,7 +6714,6 @@ enteroplegia
 enteropneust
 estampedero
 enteropneusta
-enteropneustan
 enteroptosis
 enteroptotic
 enterorrhagia
@@ -9835,6 +9834,7 @@ especially
 especialness
 espeire
 esperance
+enteropneustan
 esperantic
 esperantidist
 esperantido
