@@ -7800,6 +7800,7 @@ glazy
 grammatication
 grammaticism
 gabbais
+geohydrologic
 grammatics
 grammatistical
 grammatite
@@ -8215,7 +8216,6 @@ grapsus
 grapta
 gondolet
 graptolite
-geohydrologic
 glabrescent
 graptolithida
 graptolithina
