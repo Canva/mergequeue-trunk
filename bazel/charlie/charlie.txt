@@ -9251,7 +9251,6 @@ chati
 chatino
 chatoyance
 chatoyancy
-chatoyant
 chaton
 chatons
 chatot
@@ -22557,6 +22556,7 @@ connive
 connived
 connivence
 connivent
+chatoyant
 connivently
 conniver
 connivery
