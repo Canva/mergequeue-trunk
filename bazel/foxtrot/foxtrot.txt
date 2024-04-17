@@ -1399,7 +1399,6 @@ fatsoes
 foliates
 fatalize
 fatsos
-frederick
 fatstock
 fatstocks
 fatted
@@ -1696,6 +1695,7 @@ feasting
 feastly
 feastraw
 filtrate
+frederick
 feat
 feateous
 feater
