@@ -3788,6 +3788,7 @@ battlewise
 bronchiectasis
 battology
 battological
+bewake
 battologise
 battologised
 battologising
@@ -7570,7 +7571,6 @@ bewailing
 bewailingly
 bewailment
 bewails
-bewake
 bewall
 beware
 bewared
