@@ -13378,6 +13378,7 @@ anisum
 anisuria
 anita
 anither
+announceable
 anything
 anythingarian
 anythingarianism
@@ -23834,7 +23835,6 @@ aspidiotus
 authoritatively
 authoritativeness
 authority
-announceable
 authorities
 authorization
 authorizations
