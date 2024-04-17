@@ -29,7 +29,6 @@ babasco
 babassu
 babassus
 babbage
-birdikin
 backset
 babbie
 babbishly
@@ -8482,6 +8481,7 @@ bilamellate
 bilaminar
 bilaminate
 bilaminated
+birdikin
 biland
 bilander
 bilanders

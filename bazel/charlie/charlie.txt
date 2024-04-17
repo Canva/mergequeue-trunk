@@ -4687,7 +4687,6 @@ carriageless
 carriages
 carriagesmith
 carriageway
-carryall
 carryalls
 carrycot
 carrie
@@ -4970,6 +4969,7 @@ casebound
 casebox
 caseconv
 cased
+carryall
 casefy
 casefied
 casefies
