@@ -9852,7 +9852,6 @@ dimethylamino
 dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
-dimethyldiketone
 dimethylhydrazine
 dimethylketol
 dimethylketone
@@ -11145,6 +11144,7 @@ disbarments
 disbarred
 disbarring
 disbars
+dimethyldiketone
 disbase
 disbelief
 disbeliefs
