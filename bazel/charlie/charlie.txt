@@ -237,6 +237,7 @@ cachaemic
 cachalot
 cachalote
 cachalots
+carbohydrate
 cachaza
 cache
 cachectic
@@ -282,6 +283,7 @@ cachunde
 caci
 cacicus
 cacidrosis
+concatenated
 cacimbo
 cacimbos
 caciocavallo
@@ -314,7 +316,6 @@ characterised
 cacodaemoniac
 cacodaemonial
 cacodaemonic
-cacodemon
 cacodemonia
 cacodemoniac
 cacodemonial
@@ -423,6 +424,7 @@ cacumination
 cacuminous
 cacur
 cad
+carone
 cadalene
 cadamba
 cadaster
@@ -475,6 +477,7 @@ cade
 cadeau
 cadee
 cadelle
+cineangiocardiography
 cadelles
 cadence
 cadenced
@@ -1057,7 +1060,6 @@ calcination
 calcinator
 cindery
 calcinatory
-calcine
 calcined
 calciner
 calcines
@@ -1075,7 +1077,6 @@ calciphylactic
 calciphylaxis
 calciphile
 calciphilia
-calciphilic
 calciphilous
 calciphyre
 calciphobe
@@ -1222,7 +1223,6 @@ calfskin
 calfskins
 calgary
 calgon
-caliber
 calibers
 calybite
 cunas
@@ -1564,6 +1564,7 @@ calomel
 calomels
 calomorphic
 calonectria
+cosponsorship
 calonyction
 comedones
 calool
@@ -1625,6 +1626,7 @@ calottes
 calp
 calpac
 calpack
+cossetted
 calpacked
 calpacks
 calpacs
@@ -1804,6 +1806,7 @@ cambrics
 cambridge
 catostomidae
 cambuca
+campanulatae
 cambuscan
 came
 cameist
@@ -1896,6 +1899,7 @@ camisado
 camisadoes
 camisados
 camisard
+catastaltic
 camisas
 camiscia
 camise
@@ -1993,7 +1997,6 @@ campanularia
 campanulariae
 campanularian
 campanularidae
-campanulatae
 campanulate
 campanulated
 campanulous
@@ -2091,7 +2094,6 @@ chaetopoda
 campman
 campmaster
 campo
-campodea
 campodean
 campodeid
 campodeidae
@@ -2127,6 +2129,7 @@ campusses
 campward
 cams
 camshach
+cramped
 camshachle
 camshaft
 camshafts
@@ -2143,6 +2146,7 @@ camused
 camuses
 camwood
 can
+calciphilic
 cana
 canaan
 canaanite
@@ -2316,7 +2320,6 @@ cancroid
 cancroids
 cancrophagous
 cancrum
-cancrums
 cand
 candace
 candelabra
@@ -2559,6 +2562,7 @@ cannabises
 cannabism
 consular
 cannaceae
+congregating
 chrysolite
 cannaceous
 cannach
@@ -2604,7 +2608,6 @@ cannibally
 cannibals
 cannie
 cannier
-canniest
 cannikin
 cannily
 canniness
@@ -2738,6 +2741,7 @@ cantabrize
 cantador
 cantala
 cantalas
+coquettish
 cantalever
 cantalite
 cantaliver
@@ -3026,6 +3030,7 @@ caphite
 caphs
 caphtor
 caphtorim
+coenobiod
 cocorico
 capias
 capiases
@@ -3053,6 +3058,7 @@ capilli
 capilliculture
 capilliform
 capillitia
+causator
 capillitial
 capillitium
 capillose
@@ -3124,6 +3130,7 @@ capitulant
 creeling
 capitular
 capitulary
+countercolored
 centrists
 capitularies
 clankingness
@@ -3281,9 +3288,11 @@ capriola
 caprioled
 caprioles
 caprioling
+carphiophiops
 capriote
 capriped
 capripede
+coelastraceous
 capris
 caprizant
 caproate
@@ -3298,7 +3307,6 @@ caponiser
 caps
 capsa
 capsaicin
-capsella
 capsheaf
 capshore
 capsian
@@ -3365,7 +3373,6 @@ captainry
 captainries
 captainship
 captainships
-captan
 captance
 captandum
 captans
@@ -3596,7 +3603,6 @@ carbanil
 carbanilic
 clotho
 carbanilid
-carbanilide
 camden
 carbaryls
 carbarn
@@ -3636,7 +3642,6 @@ carbodiimide
 carbodynamite
 carbohemoglobin
 carbohydrase
-carbohydrate
 carbohydrates
 carbohydraturia
 carbohydrazide
@@ -3649,6 +3654,7 @@ carbolate
 carbolated
 carbolating
 carbolfuchsin
+culturologically
 carbolic
 carbolics
 carboline
@@ -3898,7 +3904,6 @@ cardiacal
 cardiacea
 cardiacean
 cardiacle
-cardiacs
 cardiae
 cardiagra
 cardiagram
@@ -4047,7 +4052,6 @@ cardiotoxic
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
-cardiovisceral
 cardipaludism
 cardipericarditis
 cardisophistical
@@ -4071,7 +4075,6 @@ cardophagus
 cardosanto
 cardplayer
 cardplaying
-cardroom
 cards
 cardshark
 cardsharp
@@ -4089,7 +4092,6 @@ careen
 careenage
 careener
 careeners
-careens
 career
 careered
 careerers
@@ -4271,6 +4273,7 @@ caryotins
 carious
 cariousness
 caripeta
+chausseemeile
 caripuna
 cariri
 caririan
@@ -4486,7 +4489,6 @@ caromed
 caromel
 caroming
 caroms
-carone
 caronic
 caroome
 caroon
@@ -4528,6 +4530,7 @@ chiropterygian
 carousingly
 carp
 carpaine
+conceptualised
 carpal
 califate
 congrid
@@ -5084,6 +5087,7 @@ casketing
 casketlike
 caskets
 casky
+chattable
 casking
 casklike
 casks
@@ -5257,6 +5261,7 @@ castled
 castlelike
 castlery
 circumambient
+causeuses
 castles
 castlet
 castleward
@@ -5426,7 +5431,6 @@ catalina
 contentful
 catalineta
 catalinite
-catalyse
 catalyses
 catalysis
 catalyst
@@ -5494,6 +5498,7 @@ catamounts
 catan
 catanadromous
 catananche
+coorg
 catapasm
 catapetalous
 cataphasia
@@ -5517,7 +5522,6 @@ cataphracta
 cataphracted
 cataphracti
 cataphractic
-cataphrenia
 codbank
 cataphrenic
 cataphrygian
@@ -5555,7 +5559,6 @@ catasarka
 catasetum
 cataspilite
 catasta
-catastaltic
 catastases
 catastasis
 catastate
@@ -5823,6 +5826,7 @@ cathedraled
 cathedralesque
 cathedralic
 cathedrallike
+crunching
 cathedrals
 cathedralwise
 cathedras
@@ -5856,6 +5860,7 @@ cathetus
 cathetusti
 cathexes
 cathexion
+chromites
 cathexis
 cathy
 cathin
@@ -5914,7 +5919,6 @@ cathop
 cathouse
 cathouses
 cathrin
-cathryn
 cathro
 cathud
 catydid
@@ -6008,7 +6012,6 @@ catti
 catty
 cattycorner
 cattycornered
-cattier
 catties
 cattiest
 cattily
@@ -6147,7 +6150,6 @@ caulomer
 caulomic
 caulophylline
 caulophyllum
-caulopteris
 caulosarc
 caulotaxy
 caulotaxis
@@ -6196,7 +6198,6 @@ causations
 causative
 causatively
 causativeness
-causator
 causatum
 cause
 caused
@@ -6210,7 +6211,6 @@ causers
 causes
 causeur
 causeuse
-causeuses
 causeway
 causewayed
 causewaying
@@ -6225,6 +6225,7 @@ caustic
 caustical
 caustically
 causticism
+captan
 causticity
 causticization
 causticize
@@ -6525,7 +6526,6 @@ cedrin
 cedrine
 cedriret
 cedrium
-cedrol
 cedron
 centibar
 cedrus
@@ -6638,7 +6638,6 @@ cried
 celiadelphus
 celiagra
 carminative
-celialgia
 celibacy
 celibacies
 celibatarian
@@ -6673,6 +6672,7 @@ celiorrhea
 cundurango
 celiosalpingotomy
 celioschisis
+cancrums
 celioscope
 celioscopy
 celiotomy
@@ -6681,7 +6681,6 @@ celite
 cell
 cella
 cellae
-cellager
 cellar
 casaque
 coremium
@@ -6792,6 +6791,7 @@ celtic
 celtically
 celticist
 celticize
+championed
 celtidaceae
 celtiform
 celtillyrians
@@ -7158,6 +7158,7 @@ centrode
 centrodesmose
 centrodesmus
 centrodorsal
+cardiacs
 centrodorsally
 centroid
 centroidal
@@ -7225,6 +7226,7 @@ ceorls
 cep
 cepa
 cepaceous
+checkage
 cepe
 cepes
 cephadia
@@ -7263,6 +7265,7 @@ cephalobranchiate
 cephalocathartic
 cephalocaudal
 cephalocele
+cloning
 cephalocentesis
 crivetz
 cephalocercal
@@ -7871,7 +7874,6 @@ cesspools
 cest
 cesta
 cestas
-ceste
 cestidae
 cestoda
 cestodaria
@@ -7929,6 +7931,7 @@ cetonia
 cetonian
 cetoniinae
 cetorhinid
+copulated
 cetorhinidae
 chickadee
 cetorhinoid
@@ -7953,6 +7956,7 @@ cevitamic
 cezannesque
 cf
 cfd
+corresponds
 cfh
 cfi
 castrum
@@ -8435,7 +8439,6 @@ chameleons
 chametz
 chamfer
 chamfered
-chamferer
 chamfering
 chamfers
 chamfrain
@@ -8513,7 +8516,6 @@ champignons
 champine
 champing
 champion
-championed
 championess
 championing
 championize
@@ -8777,7 +8779,6 @@ chaperno
 chaperon
 chaperonage
 chaperone
-chaperoned
 chaperonless
 chaperons
 chapes
@@ -8923,6 +8924,7 @@ capicha
 charca
 charcia
 crenelating
+chaperoned
 charcoal
 charcoaled
 charcoaly
@@ -8975,7 +8977,6 @@ coatracks
 chariot
 charioted
 chariotee
-charioteer
 charioteers
 charioting
 chariotlike
@@ -9033,6 +9034,7 @@ charlemagne
 charlene
 charles
 charleston
+clockworks
 cinctures
 charlestons
 charlesworth
@@ -9042,7 +9044,6 @@ charlock
 charlocks
 charlotte
 charlottesville
-charm
 charmed
 charmedly
 charmel
@@ -9088,6 +9089,7 @@ charquis
 charr
 charras
 charre
+cabezons
 charred
 charrette
 charry
@@ -9097,7 +9099,6 @@ charring
 charro
 charros
 charrs
-charruan
 charruas
 chars
 commune
@@ -9255,7 +9256,6 @@ chatot
 chats
 chatsome
 chatta
-chattable
 chattack
 chattah
 chattanooga
@@ -9343,7 +9343,6 @@ chauri
 chaus
 chausse
 chaussee
-chausseemeile
 chaussees
 chaussure
 chaussures
@@ -9455,7 +9454,6 @@ chechem
 chechen
 chechia
 checkable
-checkage
 checkback
 checkbird
 checkbit
@@ -9647,7 +9645,6 @@ cheesy
 cheesier
 cheesiest
 cheesiness
-cheesing
 cheetah
 cheetahs
 cheeter
@@ -9819,6 +9816,7 @@ cheminee
 chemins
 chemiotactic
 chemiotaxic
+cellager
 chemiotaxis
 chemiotropic
 chemiphotic
@@ -9884,6 +9882,7 @@ chemosorptive
 chemosphere
 chemospheric
 chemostat
+colosso
 chemosterilant
 chemosterilants
 chemosurgery
@@ -10182,7 +10181,9 @@ chewinks
 chews
 chewstick
 chez
+ceste
 chg
+coinsurable
 chhatri
 chi
 chia
@@ -10358,7 +10359,6 @@ chiefish
 chiefless
 cytisus
 chiefling
-chiefry
 chiefs
 chiefship
 chieftain
@@ -10391,6 +10391,7 @@ chiffonier
 chiffoniers
 chiffonnier
 chiffonnieres
+conable
 chiffonniers
 chiffons
 clavierist
@@ -10824,6 +10825,7 @@ chionodoxa
 chionophobia
 chiopin
 chiot
+chamferer
 chiotilla
 chip
 chipboard
@@ -11531,6 +11533,7 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystojejunostomy
+calcine
 cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy
@@ -12041,6 +12044,7 @@ choses
 chott
 chotts
 chou
+circumfuse
 chouan
 chouanize
 chouette
@@ -12116,7 +12120,6 @@ chrysalidal
 chrysalides
 chrysalidian
 chrysaline
-chrysalis
 chrysalises
 chrysaloid
 chrysamine
@@ -12337,6 +12340,7 @@ chromaticness
 chromatics
 chromatid
 chromatin
+cheesing
 cyclonoscope
 chromatinic
 chromatioideae
@@ -12387,6 +12391,7 @@ chromatrope
 chromaturia
 chromazurine
 chromdiagnosis
+commandless
 chrome
 chromed
 chromene
@@ -12418,7 +12423,6 @@ chroming
 chromiole
 chromism
 chromite
-chromites
 chromitite
 chromium
 chromiums
@@ -12664,6 +12668,7 @@ chucklehead
 chuckleheaded
 chuckleheadedness
 chuckler
+coaptation
 chucklers
 chuckles
 chucklesome
@@ -13331,7 +13336,6 @@ cyclopaedias
 cyclopaedic
 cyclopaedically
 cyclopaedist
-copulated
 cycloparaffin
 cyclope
 cyclopean
@@ -13509,12 +13513,12 @@ ciliferous
 ciliform
 ciliiferous
 ciliiform
+citywards
 ciliium
 cylinder
 constructing
 cylindered
 cylinderer
-cylindering
 cylinders
 cylindraceous
 cylindrarthrosis
@@ -13780,7 +13784,6 @@ cinders
 cindy
 cindie
 cine
-cineangiocardiography
 cineangiocardiographic
 cineangiography
 cineangiographic
@@ -14198,6 +14201,7 @@ circulus
 circumaction
 circumadjacent
 circumagitate
+configurationist
 circumambages
 circumambagious
 circumambience
@@ -14271,7 +14275,6 @@ circumfluent
 circumfluous
 circumforaneous
 circumfulgent
-circumfuse
 circumfused
 circumfusile
 circumfusing
@@ -14308,7 +14311,6 @@ circummeridional
 circummigrate
 cassoni
 circummigration
-circummundane
 circummure
 circummured
 circummuring
@@ -14640,7 +14642,6 @@ cystoadenoma
 cystocarcinoma
 cystocarp
 cystocarpic
-conceptualised
 cystocele
 cystocyte
 cystocolostomy
@@ -14809,7 +14810,6 @@ cytisine
 crinum
 cytitis
 cityward
-citywards
 citywide
 citizen
 citizendom
@@ -15042,6 +15042,7 @@ cyul
 civ
 carbonado
 cive
+correality
 civetlike
 civetone
 civets
@@ -15273,7 +15274,6 @@ clamatores
 clamatory
 clamatorial
 clamb
-clambake
 clambakes
 clamber
 clamberer
@@ -16142,6 +16142,7 @@ climes
 climograph
 clin
 clinah
+collie
 clinal
 clinally
 conspirer
@@ -16266,6 +16267,7 @@ clypeastridea
 clypeastrina
 clypeastroid
 clypeastroida
+charm
 clypeastroidea
 clypeate
 caraco
@@ -16312,7 +16314,6 @@ cliquish
 cliquishly
 cliquishness
 cliquism
-cliseometer
 clisere
 coffee
 clyses
@@ -16410,7 +16411,6 @@ clobbering
 clobbers
 clochard
 cloche
-cloches
 clochette
 clock
 clockbird
@@ -16434,7 +16434,6 @@ clockwatcher
 clockwise
 clockwork
 clockworked
-clockworks
 clod
 clodbreaker
 clodded
@@ -16520,7 +16519,6 @@ cloistral
 cloistress
 cloit
 catastrophes
-cloky
 clokies
 clomb
 clomben
@@ -16540,7 +16538,6 @@ clong
 clonic
 clonicity
 clonicotonic
-cloning
 clonism
 clonisms
 commutating
@@ -16693,7 +16690,6 @@ cloudlessly
 centimeter
 cloudlessness
 cloudlet
-cloudlets
 cloudlike
 cloudling
 cloudology
@@ -17184,10 +17180,9 @@ coappriser
 coapprover
 coapt
 coaptate
-carphiophiops
-coaptation
 coapted
 coapting
+campodea
 coapts
 conventicler
 coaration
@@ -17290,6 +17285,7 @@ coattestator
 coattested
 coattesting
 coattests
+cattier
 coaudience
 coauditor
 cobitidae
@@ -17762,7 +17758,6 @@ codified
 codifiers
 codifies
 codilla
-codille
 coding
 codings
 codiniac
@@ -17773,6 +17768,7 @@ codirectional
 codirector
 commonish
 codirectorship
+catalyse
 codirects
 codiscoverer
 codisjunct
@@ -17840,7 +17836,6 @@ coelanaglyphic
 coelar
 coelarium
 coelastraceae
-coelastraceous
 coelastrum
 coelata
 coelder
@@ -17978,7 +17973,6 @@ choirs
 coenobiar
 coenobic
 cissoid
-coenobiod
 coenobioid
 coenobite
 coenobitic
@@ -18050,6 +18044,7 @@ coercitive
 coercive
 coercively
 coerciveness
+celialgia
 coercivity
 coerebidae
 coerect
@@ -18521,7 +18516,6 @@ coinstantaneity
 coinstantaneous
 coinstantaneously
 coinstantaneousness
-coinsurable
 coinsurance
 coinsure
 coinsured
@@ -18873,6 +18867,7 @@ collator
 collators
 collatress
 collaudation
+caliber
 colleague
 colleagued
 colleagues
@@ -18941,6 +18936,7 @@ collegiately
 collegiation
 collegiugia
 collegium
+clayen
 classes
 collegiums
 colley
@@ -18991,11 +18987,11 @@ collides
 collidin
 collidine
 colliding
-collie
 collied
 collielike
 collier
 collieries
+carbanilide
 cuber
 colliers
 collies
@@ -19383,7 +19379,6 @@ colosseum
 colossi
 colossian
 colossians
-colosso
 colossochelys
 colossus
 colossuses
@@ -19500,6 +19495,7 @@ columbary
 columbaria
 columbaries
 columbarium
+coriin
 columbate
 columbeia
 columbeion
@@ -19527,6 +19523,7 @@ columbotitanate
 columbous
 columbus
 columel
+charruan
 columella
 columellae
 columellar
@@ -19536,6 +19533,7 @@ coolabah
 columelliaceae
 columelliform
 columels
+cathryn
 column
 columna
 columnal
@@ -19581,6 +19579,7 @@ comade
 comae
 comagistracy
 comake
+crispate
 comaker
 comakers
 comaking
@@ -19881,7 +19880,6 @@ commanding
 commandingly
 commandingness
 commandite
-commandless
 commandment
 cozzes
 commandments
@@ -20181,6 +20179,7 @@ crucifixion
 commonplacely
 commonplaceness
 commonplacer
+conjecturing
 commonplaces
 corrodingly
 commons
@@ -20295,6 +20294,7 @@ commutable
 commutableness
 commutant
 commutate
+comprehense
 commutated
 commutation
 commutations
@@ -20581,7 +20581,6 @@ complainable
 complainant
 complainants
 complained
-complainer
 complainers
 complaining
 complainingly
@@ -20652,7 +20651,6 @@ complexer
 complexes
 cebatha
 complexest
-complexify
 complexification
 complexing
 complexion
@@ -20678,7 +20676,6 @@ comply
 compliable
 compliableness
 compliance
-compliances
 compliancy
 compliancies
 compliant
@@ -20722,11 +20719,11 @@ complimenter
 complimenters
 complimenting
 complimentingly
+circummundane
 compliments
 complin
 compline
 complines
-complins
 complish
 complot
 complotment
@@ -20734,6 +20731,7 @@ complots
 complotted
 complotter
 complotting
+coze
 complutensian
 coeducate
 compluvia
@@ -20841,7 +20839,6 @@ comprehender
 comprehendible
 comprehending
 comprehendingly
-comprehense
 comprehensibility
 comprehensible
 comprehensibleness
@@ -21025,7 +21022,6 @@ comurmurer
 comvia
 con
 coseys
-conable
 conacaste
 conacre
 conal
@@ -21060,7 +21056,6 @@ concarnation
 concassation
 concatenary
 concatenate
-concatenated
 concatenates
 concatenating
 coequating
@@ -21347,6 +21342,7 @@ concipiency
 concipient
 concise
 concisely
+counterscalloped
 conciseness
 conciser
 concisest
@@ -21804,6 +21800,7 @@ confederal
 confederalist
 confederate
 confederated
+canniest
 confederater
 confederates
 confederating
@@ -21914,7 +21911,6 @@ configuration
 configurational
 configurationally
 configurationism
-configurationist
 configurations
 configurative
 configure
@@ -22258,7 +22254,6 @@ congregant
 congregate
 congregated
 congregates
-congregating
 congregation
 congregational
 congregationalism
@@ -22348,6 +22343,7 @@ conifers
 conification
 coniform
 conyger
+caulopteris
 coniine
 coniines
 conylene
@@ -22395,7 +22391,6 @@ conjecture
 conjectured
 conjecturer
 conjectures
-conjecturing
 conjee
 conjegates
 conjobble
@@ -23986,11 +23981,11 @@ convented
 conventical
 cylinderlike
 conventically
-cabezons
 conventicle
 conventicles
 conventicular
 conventing
+cotonam
 convention
 conventional
 conventionalisation
@@ -24145,6 +24140,7 @@ convives
 convivial
 convivialist
 convivialize
+chrysalis
 convivially
 convivio
 convocant
@@ -24196,6 +24192,7 @@ convolvuluses
 convulsant
 convulse
 convulsed
+cloudlets
 convulsedly
 convulses
 choky
@@ -24281,6 +24278,7 @@ cookwares
 cool
 coolaman
 coolamon
+cloches
 coolant
 coolants
 cooled
@@ -24392,7 +24390,6 @@ coordinations
 coordinative
 coordinatory
 cooree
-coorg
 coorie
 cooried
 coorieing
@@ -24774,7 +24771,6 @@ coquets
 coquette
 coquetted
 coquetting
-coquettish
 coquettishly
 coquettishness
 coquicken
@@ -25117,6 +25113,7 @@ corybantic
 corybantine
 corybantish
 corybulbin
+cylindering
 corybulbine
 corycavamine
 corycavidin
@@ -25477,6 +25474,7 @@ coronary
 coronaries
 coronas
 coronate
+complainer
 coronated
 coronation
 corrosible
@@ -25623,7 +25621,6 @@ corrasion
 corrasive
 correa
 correal
-correality
 correct
 correctable
 correctant
@@ -25675,7 +25672,6 @@ correlatives
 correlativism
 correlativity
 correligionist
-correllated
 correllation
 correllations
 corrente
@@ -25698,7 +25694,6 @@ correspondentship
 corresponder
 corresponding
 correspondingly
-corresponds
 corresponsion
 corresponsive
 corresponsively
@@ -25920,7 +25915,6 @@ corundophilite
 corundum
 corundums
 corupay
-clayen
 coruscant
 coruscate
 coruscates
@@ -26105,6 +26099,7 @@ cosmologically
 cosmologies
 cosmologygy
 cosmologist
+complins
 cosmologists
 cosmometry
 cosmonaut
@@ -26170,7 +26165,6 @@ cosponsored
 conidiophore
 cosponsoring
 cosponsors
-cosponsorship
 cosponsorships
 coss
 chatteration
@@ -26184,7 +26178,6 @@ cosseted
 cosseting
 cossets
 cossette
-cossetted
 cossetting
 cosshen
 cossic
@@ -26255,6 +26248,7 @@ costopleural
 costopneumopexy
 costopulmonary
 costoscapular
+codille
 costosternal
 costothoracic
 costotome
@@ -26397,6 +26391,7 @@ cotylophorous
 cotylopubic
 criminalist
 cotylosacral
+complexify
 cotylosaur
 cotylosauria
 cotylosaurian
@@ -26752,7 +26747,6 @@ counterclaims
 counterclassification
 counterclassifications
 counterclockwise
-countercolored
 countercommand
 countercompany
 countercompetition
@@ -27098,7 +27092,6 @@ counters
 countersalient
 countersank
 counterscale
-counterscalloped
 counterscarp
 counterscoff
 countersconce
@@ -27182,6 +27175,7 @@ countertheme
 counterthought
 counterthreat
 counterthwarting
+cryopathy
 countertierce
 countertime
 countertype
@@ -27761,7 +27755,6 @@ coxwain
 coxwaining
 coxwains
 coz
-coze
 cozed
 cozey
 cozeier
@@ -28028,7 +28021,6 @@ crotalus
 cramoisies
 cramp
 crampbit
-cramped
 crampedness
 cramper
 crampet
@@ -28101,6 +28093,7 @@ craniodidymus
 craniofacial
 craniognomy
 craniognomic
+crossrail
 craniognosy
 conusance
 craniograph
@@ -28218,6 +28211,7 @@ crapple
 craps
 crapshooter
 crapshooters
+charioteer
 crumlet
 crapshooting
 craquelures
@@ -28552,6 +28546,7 @@ creedalist
 creedbound
 creeded
 caddised
+cardiovisceral
 creedist
 creedite
 creedless
@@ -28923,6 +28918,7 @@ cribworks
 cricetid
 cricetidae
 cricetids
+cardroom
 cricetus
 crick
 cricke
@@ -29139,7 +29135,6 @@ cryological
 cryometry
 cryonic
 cryonics
-cryopathy
 cryophile
 cryophilic
 cryophyllite
@@ -29240,6 +29235,7 @@ cryptoclastic
 cryptocleidus
 cryptoclimate
 cryptoclimatology
+cloky
 cryptococcal
 cryptococci
 cryptococcic
@@ -29365,7 +29361,6 @@ crisic
 crisis
 crisle
 crisp
-crispate
 crispated
 crispation
 crispature
@@ -29613,7 +29608,6 @@ crocodiline
 crocodilite
 crocodility
 crocodiloid
-coriin
 crocodilus
 crocodylus
 crocoisite
@@ -29662,6 +29656,7 @@ crombec
 crome
 chlorids
 cromer
+cedrol
 cromerian
 cromfordite
 cromlech
@@ -29702,6 +29697,7 @@ crookbacked
 castral
 crooked
 crookedbacked
+cliseometer
 conelrads
 crookeder
 constants
@@ -29838,6 +29834,7 @@ crossflower
 crossfoot
 crossgrainedness
 crosshackle
+capsella
 crosshair
 chaldee
 crosshairs
@@ -29885,7 +29882,6 @@ crosspieces
 crosspoint
 crosspoints
 crosspost
-crossrail
 crossroad
 crossroading
 crossroads
@@ -30072,6 +30068,7 @@ crozer
 crozers
 crozes
 croziers
+clambake
 crozing
 crozle
 crozzle
@@ -30239,7 +30236,6 @@ crunchier
 crunchiest
 crunchily
 crunchiness
-crunching
 crunchingly
 crunchingness
 crunchweed
@@ -30296,6 +30292,7 @@ crusilee
 crusily
 crust
 conventionist
+cacodemon
 crusta
 crustacea
 crustaceal
@@ -30391,6 +30388,7 @@ ctenodont
 chantefable
 ctenodus
 ctenoid
+compliances
 ctenoidean
 ctenoidei
 ctenoidian
@@ -30484,6 +30482,7 @@ cubicle
 cubicles
 cubicone
 cubicontravariant
+chiefry
 cubicovariant
 cubics
 cubicula
@@ -30536,6 +30535,7 @@ cubometatarsal
 cubonavicular
 cubs
 cubti
+careens
 cuca
 cucaracha
 cuchan
@@ -30875,7 +30875,6 @@ culturization
 culturize
 culturology
 culturological
-culturologically
 cacatua
 culturologist
 cultus
@@ -30992,6 +30991,7 @@ cumulose
 cumulostratus
 cumulous
 cumulus
+correllated
 cun
 cuna
 cunabula
@@ -31038,6 +31038,7 @@ cunyie
 cunila
 cunili
 cunit
+cataphrenia
 chimopeelagic
 cunjah
 cunjer
@@ -31243,7 +31244,6 @@ curby
 curbing
 curbings
 curbless
-cotonam
 curblike
 crankbird
 curbline
