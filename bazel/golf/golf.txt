@@ -1610,6 +1610,7 @@ glyoxim
 gaslights
 gaslit
 gaslock
+gobelin
 gonorrheic
 gasmaker
 gasman
@@ -6409,7 +6410,6 @@ gobbler
 gobblers
 gobbles
 gobbling
-gobelin
 gobemouche
 gobernadora
 gobet
