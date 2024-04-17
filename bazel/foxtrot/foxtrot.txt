@@ -225,6 +225,7 @@ factualistic
 factuality
 factually
 factualness
+frithles
 factum
 facture
 factures
@@ -10205,7 +10206,6 @@ frithy
 feasance
 fallibilist
 forensal
-frithles
 friths
 frithsoken
 frithstool
