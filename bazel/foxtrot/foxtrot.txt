@@ -10518,7 +10518,6 @@ frother
 frothi
 frothy
 forebodings
-feelingful
 frothily
 frothless
 froths
@@ -10673,6 +10672,7 @@ fruiteress
 fruitery
 fruiteries
 fruiters
+feelingful
 fruitester
 flowered
 fruitfuller
