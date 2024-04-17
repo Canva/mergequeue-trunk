@@ -4402,7 +4402,6 @@ adrenomedullary
 adrenosterone
 adrenotrophin
 adrenotropic
-adrent
 adret
 adry
 adrian
@@ -11875,6 +11874,7 @@ anaphylactogen
 anaphylactogenic
 anaphylactoid
 anaphylatoxin
+adrent
 anaphylaxis
 anaphyte
 anaphoral
