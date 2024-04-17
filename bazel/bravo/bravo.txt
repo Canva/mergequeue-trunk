@@ -4591,6 +4591,7 @@ bedarkening
 bedarkens
 bedaub
 bedaubed
+bosniak
 bundeli
 bedaubing
 bedaubs
@@ -13140,7 +13141,6 @@ bosks
 blandiloquous
 blowoffs
 bosniac
-bosniak
 bosnian
 benzoyl
 bosnisch
