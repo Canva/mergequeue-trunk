@@ -4972,7 +4972,6 @@ glacify
 glacification
 glacioaqueous
 glaciolacustrine
-glaciology
 glaciologic
 glaciological
 glaciologist
@@ -7724,6 +7723,7 @@ grainsmen
 grainways
 grayout
 grayouts
+glaciology
 glimpse
 graip
 grays
