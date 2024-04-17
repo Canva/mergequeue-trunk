@@ -344,6 +344,7 @@ galactolysis
 gyrostatics
 galactoma
 galactometer
+glycose
 galactometry
 galactopathy
 galactophagist
@@ -5487,7 +5488,6 @@ glyconics
 glycopexia
 glycopexis
 glads
-glycose
 glycosemia
 glycosidase
 glycoside

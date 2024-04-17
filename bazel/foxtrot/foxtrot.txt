@@ -9075,6 +9075,7 @@ fovent
 foveolae
 foveolar
 foveolarious
+furiously
 falconry
 frolic
 foveolate
@@ -11405,7 +11406,6 @@ furiosity
 furioso
 furious
 furiouser
-furiously
 furiousness
 furison
 furivae
