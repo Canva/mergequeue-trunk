@@ -4192,7 +4192,6 @@ deliriums
 delirous
 delis
 delisk
-delist
 delisted
 delisting
 delists
@@ -8956,6 +8955,7 @@ dicotyls
 dicots
 dicoumarin
 dicoumarol
+delist
 dicranaceae
 dicranaceous
 dicranoid
