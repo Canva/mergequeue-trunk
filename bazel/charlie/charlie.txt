@@ -16515,7 +16515,6 @@ cloistral
 cloistress
 cloit
 catastrophes
-cloky
 clokies
 clomb
 clomben
@@ -29236,6 +29235,7 @@ cryptoclastic
 cryptocleidus
 cryptoclimate
 cryptoclimatology
+cloky
 cryptococcal
 cryptococci
 cryptococcic
