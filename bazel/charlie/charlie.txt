@@ -3054,6 +3054,7 @@ capilli
 capilliculture
 capilliform
 capillitia
+causator
 capillitial
 capillitium
 capillose
@@ -6196,7 +6197,6 @@ causations
 causative
 causatively
 causativeness
-causator
 causatum
 cause
 caused
