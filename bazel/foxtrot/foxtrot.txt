@@ -1537,7 +1537,6 @@ favellidia
 fortuities
 favellidium
 favellilidia
-favelloid
 faveolate
 faveoluli
 faveolus
@@ -3106,6 +3105,7 @@ fibroblast
 fibroblastic
 fibrocalcareous
 fibrocarcinoma
+favelloid
 fibrocartilage
 fibrocartilaginous
 fibrocaseose
