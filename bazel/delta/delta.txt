@@ -7177,6 +7177,7 @@ detergent
 detergents
 deterger
 detergers
+discretional
 deterges
 detergible
 deterging
@@ -11714,7 +11715,6 @@ discrete
 discretely
 discreteness
 discretion
-discretional
 discretionally
 discretionarily
 discretive
