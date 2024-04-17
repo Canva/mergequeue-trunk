@@ -441,7 +441,6 @@ galeass
 galeate
 galeated
 galeche
-galee
 gardenable
 galeeny
 galega
@@ -4069,6 +4068,7 @@ gigues
 giher
 gildings
 giinwale
+galee
 gil
 goldenmouth
 gasogenes
