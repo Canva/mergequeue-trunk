@@ -1650,6 +1650,7 @@ dear
 dearborn
 deare
 dearer
+donnered
 dearest
 deary
 derides
@@ -15434,7 +15435,6 @@ decnet
 donnee
 donnees
 donnerd
-donnered
 donnert
 donnybrook
 donnybrooks

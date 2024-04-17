@@ -948,6 +948,7 @@ bagroom
 bagsful
 bagtikan
 baguet
+burthens
 baguets
 baguette
 beydom
@@ -17916,7 +17917,6 @@ burt
 burthen
 burthened
 burthening
-burthens
 burton
 burtonization
 burtonize
