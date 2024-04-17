@@ -11773,7 +11773,6 @@ chondroxiphoid
 chondrule
 chondrules
 chondrus
-chonicrite
 chonk
 calfhood
 chonta
@@ -31404,6 +31403,7 @@ curney
 curneys
 curnie
 curnies
+chonicrite
 chromatophorous
 curns
 curpel

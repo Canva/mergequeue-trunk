@@ -8923,7 +8923,6 @@ dicyemata
 dicyemid
 dicyemida
 dicyemidae
-dicier
 diciest
 dicing
 dicynodont
@@ -11002,6 +11001,7 @@ disannex
 disannexation
 disannul
 disannulled
+dicier
 disannuller
 disannulling
 disannulment
