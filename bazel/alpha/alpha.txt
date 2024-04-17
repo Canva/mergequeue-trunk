@@ -2657,7 +2657,6 @@ acorus
 acosmic
 acosmism
 acosmist
-acosmistic
 administratorship
 acost
 acotyledon
@@ -6977,6 +6976,7 @@ airs
 airscape
 arsenium
 airscapes
+acosmistic
 airscrew
 airscrews
 airshed

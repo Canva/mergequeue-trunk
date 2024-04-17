@@ -2711,7 +2711,6 @@ decorated
 decorates
 decorating
 dont
-discounsel
 decoration
 decorationist
 decorations
@@ -16419,6 +16418,7 @@ dpt
 drab
 draba
 drabant
+discounsel
 drabbed
 drabber
 drabbest
