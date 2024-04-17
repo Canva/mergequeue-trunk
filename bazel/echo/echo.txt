@@ -2770,7 +2770,6 @@ elelments
 explorations
 eleme
 element
-elemental
 esdras
 elementalism
 elementalist
@@ -4793,6 +4792,7 @@ encloister
 enclosable
 enclose
 etymologize
+elemental
 experimentalists
 enclosed
 encloser
