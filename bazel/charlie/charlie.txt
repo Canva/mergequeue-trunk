@@ -14195,6 +14195,7 @@ circulus
 circumaction
 circumadjacent
 circumagitate
+configurationist
 circumambages
 circumambagious
 circumambience
@@ -21909,7 +21910,6 @@ configuration
 configurational
 configurationally
 configurationism
-configurationist
 configurations
 configurative
 configure
