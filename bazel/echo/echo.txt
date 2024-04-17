@@ -1738,7 +1738,6 @@ eyebath
 eyebeam
 eyebeams
 eyeberry
-ensheaths
 eyeblink
 eyebree
 eyebridled
@@ -7199,6 +7198,7 @@ envenomed
 envenoming
 envenomization
 envenomous
+ensheaths
 envenoms
 enventual
 enverdure
