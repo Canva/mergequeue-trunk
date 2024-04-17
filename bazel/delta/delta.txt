@@ -574,6 +574,7 @@ dama
 damage
 damageability
 damageable
+dk
 damageableness
 damageably
 damaged
@@ -14498,7 +14499,6 @@ djinny
 djinns
 djins
 djuka
-dk
 dkg
 dkl
 dkm
