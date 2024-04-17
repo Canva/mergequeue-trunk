@@ -6465,7 +6465,6 @@ espave
 enslaving
 enslumber
 ensmall
-ensnare
 ensnared
 ensnarement
 ensnarements
@@ -11308,6 +11307,7 @@ euthycomi
 eruginous
 euthycomic
 euthyneurous
+ensnare
 euthyroid
 euthytatic
 euthytropic

@@ -8462,6 +8462,7 @@ diapedetic
 diapensia
 diplomatized
 diapensiaceae
+dissertator
 diapensiaceous
 diapente
 diaper
@@ -13477,7 +13478,6 @@ dissertational
 dissertationist
 dissertations
 dissertative
-dissertator
 disserted
 disserting
 disserts
