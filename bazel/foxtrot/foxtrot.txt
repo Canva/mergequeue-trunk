@@ -3710,7 +3710,6 @@ filipinos
 filippi
 filippic
 filippo
-fortified
 filipuncture
 filister
 filisters
@@ -8257,6 +8256,7 @@ floretty
 forgetters
 forgettingly
 forgie
+fortified
 forgift
 forging
 forgings

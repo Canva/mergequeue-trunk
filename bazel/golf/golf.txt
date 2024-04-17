@@ -5702,6 +5702,7 @@ glaive
 globuliform
 globulimeter
 globulin
+grabbled
 globulins
 globulinuria
 globulite
@@ -7527,7 +7528,6 @@ grabby
 grabbiest
 grabbings
 grabble
-grabbled
 genicular
 grabblers
 grabbles
