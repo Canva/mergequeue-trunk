@@ -2312,6 +2312,7 @@ geikia
 geikielite
 geylies
 glunched
+geopositive
 gein
 geira
 geisa
@@ -3218,7 +3219,6 @@ geopony
 geoponic
 geoponics
 girlhoods
-geopositive
 golden
 geopotential
 geoprumnon
