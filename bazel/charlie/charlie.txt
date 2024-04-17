@@ -1938,6 +1938,7 @@ camorristi
 camote
 camoudie
 camouflage
+capacitate
 camouflageable
 camouflaged
 camouflager
@@ -2945,7 +2946,6 @@ cannibalic
 capaciousness
 capacitance
 capacitances
-capacitate
 capacitated
 capacitates
 capacitating
