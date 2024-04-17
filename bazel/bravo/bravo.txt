@@ -6031,7 +6031,6 @@ bemocking
 bemocks
 bemoil
 bemoisten
-bemol
 bemole
 bemolt
 bort
@@ -13669,6 +13668,7 @@ bovarist
 bovaristic
 bovate
 bove
+bemol
 bovey
 bovenland
 boviculture
