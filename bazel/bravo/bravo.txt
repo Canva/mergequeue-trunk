@@ -8413,6 +8413,7 @@ bigroot
 bigthatch
 biguanide
 biguttate
+blasia
 biguttulate
 bigwig
 bigwigged
@@ -10378,7 +10379,6 @@ blaseness
 buffaloes
 blash
 blashy
-blasia
 blason
 blaspheme
 blasphemed
