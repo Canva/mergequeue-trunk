@@ -4495,7 +4495,6 @@ bootee
 beclowned
 burlier
 beclowning
-beclowns
 becluster
 becollier
 becolor
@@ -13880,6 +13879,7 @@ boxtree
 boxwood
 boxwoods
 boza
+beclowns
 bozine
 bozze
 bp
