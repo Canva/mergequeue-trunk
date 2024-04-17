@@ -4271,7 +4271,6 @@ gymnonoti
 gymnopaedes
 gymnopaedic
 gundogs
-gymnophiona
 gymnophobia
 gymnoplast
 genealogy
@@ -9768,6 +9767,7 @@ guadua
 guageable
 guaguanche
 guahiban
+gymnophiona
 guahivo
 guayaba
 guayabera
