@@ -62,6 +62,7 @@ gableboard
 gabled
 gableended
 gablelike
+gymnostomina
 gabler
 gables
 gablet
@@ -4294,7 +4295,6 @@ gymnosporangium
 gymnospore
 gymnosporous
 gymnostomata
-gymnostomina
 gymnostomous
 gymnothorax
 gymnotid

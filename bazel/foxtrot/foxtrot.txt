@@ -3973,6 +3973,7 @@ finfoot
 finfoots
 fingal
 fingall
+foldage
 fingan
 fingent
 fluorescein
@@ -6878,7 +6879,6 @@ feak
 fold
 feudally
 fevers
-foldage
 foldaway
 foldboat
 farmings
