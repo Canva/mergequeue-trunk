@@ -5514,6 +5514,7 @@ cataphoresis
 cataphoretic
 cataphoria
 cataphract
+cismontane
 cataphracta
 cataphracted
 cataphracti
@@ -14545,7 +14546,6 @@ cisium
 cisjurane
 cisleithan
 cislunar
-cismontane
 cismontanism
 cisoceanic
 cispadane
