@@ -2494,7 +2494,6 @@ fernticle
 fernwort
 feroce
 ferocious
-ferociously
 flatboat
 ferocity
 ferocities
@@ -6553,6 +6552,7 @@ flusher
 flusherman
 flushes
 flushest
+ferociously
 flushgate
 flushy
 fodge
