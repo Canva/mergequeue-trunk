@@ -10070,7 +10070,6 @@ esthesis
 esthetes
 esthetic
 esthetical
-esthetically
 encydlopaedic
 esthetician
 estheticism
@@ -12696,6 +12695,7 @@ exocrine
 endokaryogamy
 exocrines
 ellagitannin
+esthetically
 exocrinology
 exoculate
 exoculating
