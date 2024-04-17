@@ -5088,7 +5088,6 @@ befingered
 befingering
 befingers
 befire
-befist
 braised
 befits
 befitted
@@ -11463,6 +11462,7 @@ blurringly
 blurt
 blurted
 blurter
+befist
 bakshish
 blurters
 blurts
