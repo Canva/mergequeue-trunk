@@ -1324,6 +1324,7 @@ acapsular
 acapu
 analogice
 acara
+andorobo
 acarapis
 acarari
 acardia
@@ -12314,7 +12315,6 @@ andoke
 andor
 andorite
 andoroba
-andorobo
 andorran
 andouille
 andouillet

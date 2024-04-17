@@ -1432,6 +1432,7 @@ garlics
 galloner
 gibier
 garlicwort
+gendered
 garlion
 garlopa
 garmented
@@ -2593,7 +2594,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-gendered
 genderer
 genderless
 genders
