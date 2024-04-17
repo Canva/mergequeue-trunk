@@ -482,7 +482,6 @@ galera
 galere
 galeres
 galericulate
-galerie
 galerite
 galerum
 galerus
@@ -4481,6 +4480,7 @@ ginglymostoma
 greengrocer
 ginglymostomoid
 gastropodous
+galerie
 ginglymus
 ginglyni
 ginglmi
