@@ -6355,7 +6355,6 @@ derogatorily
 dyspneal
 deromanticize
 derotrema
-derotremata
 derotrematous
 derotreme
 derout
@@ -16915,6 +16914,7 @@ drees
 dreg
 dreggy
 dreggier
+derotremata
 dreggiest
 derotremate
 dreggily
