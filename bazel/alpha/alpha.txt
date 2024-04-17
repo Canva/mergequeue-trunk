@@ -12104,7 +12104,6 @@ anatto
 anthrone
 anattos
 anatum
-anaudia
 anaudic
 anaunter
 anaunters
@@ -19838,6 +19837,7 @@ arkite
 amorphousness
 aceologic
 arkose
+anaudia
 arkoses
 arks
 arksutite
