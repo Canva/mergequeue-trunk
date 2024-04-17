@@ -4041,6 +4041,7 @@ finickin
 finickiness
 finicking
 finickingly
+foramina
 finickingness
 finify
 finiglacial
@@ -7340,7 +7341,6 @@ foram
 foramen
 filtrable
 foramens
-foramina
 furiosa
 foraminal
 foraminate
