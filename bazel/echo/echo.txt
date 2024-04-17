@@ -6475,7 +6475,6 @@ ensnares
 erminois
 ensnarl
 ensnarled
-ensnarling
 ensnarls
 ensnow
 ensober
@@ -7843,6 +7842,7 @@ epigastrical
 epigastriocele
 epigastrocele
 epigeal
+ensnarling
 epigean
 epigee
 epigeic
