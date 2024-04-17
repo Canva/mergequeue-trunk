@@ -5919,7 +5919,6 @@ cathop
 cathouse
 cathouses
 cathrin
-cathryn
 cathro
 cathud
 catydid
@@ -19534,6 +19533,7 @@ coolabah
 columelliaceae
 columelliform
 columels
+cathryn
 column
 columna
 columnal

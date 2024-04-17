@@ -8561,7 +8561,6 @@ diarrhoetic
 diarsenide
 diarthric
 diarthrodial
-diarthroses
 diarthrosis
 diarticular
 dias
@@ -12406,6 +12405,7 @@ disinflate
 disinflated
 disinflating
 disinflationary
+diarthroses
 disinformation
 disingenious
 disingenuity
