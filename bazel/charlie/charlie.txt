@@ -3283,6 +3283,7 @@ capriola
 caprioled
 caprioles
 caprioling
+carphiophiops
 capriote
 capriped
 capripede
@@ -17177,7 +17178,6 @@ coappriser
 coapprover
 coapt
 coaptate
-carphiophiops
 coapted
 coapting
 campodea

@@ -15743,7 +15743,6 @@ antipapist
 antipapistic
 antipapistical
 antiparabema
-antiparabemata
 antiparagraphe
 antiparagraphic
 antiparalytic
@@ -17439,6 +17438,7 @@ apostoile
 apostolate
 apostoless
 apostoli
+antiparabemata
 apostolian
 apostolical
 apostolici
