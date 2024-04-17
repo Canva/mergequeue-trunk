@@ -378,7 +378,6 @@ faintling
 faintness
 faints
 faipule
-fair
 flows
 fairbanks
 flunkeyize
@@ -8092,6 +8091,7 @@ foretackle
 foretake
 foretalk
 foretalking
+fair
 foretaste
 foretasted
 foretaster
