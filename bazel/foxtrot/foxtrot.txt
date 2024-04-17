@@ -1813,6 +1813,7 @@ feces
 fizzer
 fermion
 fechnerian
+faits
 fecial
 fecials
 fecifork
@@ -7602,7 +7603,6 @@ forecourt
 forecourts
 forecover
 fers
-faits
 forecovert
 foreday
 foredays
