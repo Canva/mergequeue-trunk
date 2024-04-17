@@ -4700,7 +4700,6 @@ bedizening
 bedight
 bedighted
 bedights
-bedikah
 bedim
 bedimmed
 bitters
@@ -10745,6 +10744,7 @@ blephillia
 blere
 blesbok
 blesboks
+bedikah
 blesbuck
 blesbucks
 blesmol

@@ -4308,6 +4308,7 @@ empurpling
 empusa
 empuzzle
 emrode
+extipulate
 ems
 emu
 emulable
@@ -13703,7 +13704,6 @@ extinguishes
 extinguishing
 extinguishment
 extypal
-extipulate
 ecdemite
 extirp
 extirpated
