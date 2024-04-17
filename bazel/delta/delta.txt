@@ -14062,7 +14062,6 @@ dite
 downplaying
 diter
 diterpene
-ditertiary
 dites
 ditetragonal
 ditetrahedral
@@ -15431,6 +15430,7 @@ donnee
 donnees
 donnerd
 donnered
+ditertiary
 donnert
 donnybrook
 donnybrooks

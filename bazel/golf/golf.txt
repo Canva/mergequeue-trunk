@@ -4521,6 +4521,7 @@ genros
 gynocardic
 gaults
 gynocracy
+gueridon
 gynocratic
 gunzian
 gynoecia
@@ -10037,7 +10038,6 @@ guereba
 guidecraft
 guereza
 guerickian
-gueridon
 gueridons
 givens
 guerilla
