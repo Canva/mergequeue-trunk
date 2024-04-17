@@ -81,6 +81,7 @@ earlish
 enfacing
 earlywood
 earlobe
+eminence
 earlock
 earlocks
 earls
@@ -3945,7 +3946,6 @@ emil
 emily
 emilia
 emim
-eminence
 eminences
 eminency
 extraboldface
