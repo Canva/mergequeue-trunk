@@ -1472,6 +1472,7 @@ effulged
 effulgence
 effulgences
 effulgent
+eleutherophobia
 effulgently
 effulges
 effulging
@@ -2873,7 +2874,6 @@ eleutheromaniac
 eleutheromorph
 eleutheropetalous
 eleutherophyllous
-eleutherophobia
 eleutherozoa
 eleutherozoan
 elev
