@@ -7697,7 +7697,6 @@ bezazzes
 bezel
 bezels
 bezesteen
-bezetta
 bezette
 bezil
 bivoltine
@@ -11939,6 +11938,7 @@ blamingly
 boyardom
 boyards
 boyarism
+bezetta
 boyarisms
 boyars
 boyau
