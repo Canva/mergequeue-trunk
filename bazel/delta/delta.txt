@@ -8187,7 +8187,6 @@ diagonalization
 diagonalize
 disinteresting
 diagonally
-diagonals
 diagonalwise
 dedans
 dicatalexis
@@ -12608,6 +12607,7 @@ disloyalties
 disloign
 deictic
 dislove
+diagonals
 disluster
 dislustered
 dislustering

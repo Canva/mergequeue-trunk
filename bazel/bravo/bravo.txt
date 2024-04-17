@@ -1818,6 +1818,7 @@ beshrewing
 boronic
 bamboula
 bambuba
+borderers
 bambuco
 bambuk
 bambusa
@@ -12941,7 +12942,6 @@ bordereau
 bordereaux
 bordered
 borderer
-borderers
 borderies
 bordering
 borderings
