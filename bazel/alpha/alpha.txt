@@ -2783,6 +2783,7 @@ acremen
 acres
 acrestaff
 acrid
+apostasies
 acridane
 acrider
 acridest
@@ -17405,7 +17406,6 @@ apostacy
 apostacies
 apostacize
 apostasy
-apostasies
 apostasis
 apostate
 apostates
