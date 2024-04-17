@@ -1209,7 +1209,6 @@ educationese
 exometritis
 educationist
 educations
-educator
 educatory
 educators
 endbrain
@@ -3333,6 +3332,7 @@ emanent
 emanium
 emarcid
 emarginate
+educator
 emplastra
 emarginated
 emarginating
