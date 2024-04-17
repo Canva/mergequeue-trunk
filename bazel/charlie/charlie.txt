@@ -7927,6 +7927,7 @@ cetonia
 cetonian
 cetoniinae
 cetorhinid
+copulated
 cetorhinidae
 chickadee
 cetorhinoid
@@ -13331,7 +13332,6 @@ cyclopaedias
 cyclopaedic
 cyclopaedically
 cyclopaedist
-copulated
 cycloparaffin
 cyclope
 cyclopean
