@@ -3028,6 +3028,7 @@ caphite
 caphs
 caphtor
 caphtorim
+coenobiod
 cocorico
 capias
 capiases
@@ -17970,7 +17971,6 @@ choirs
 coenobiar
 coenobic
 cissoid
-coenobiod
 coenobioid
 coenobite
 coenobitic
