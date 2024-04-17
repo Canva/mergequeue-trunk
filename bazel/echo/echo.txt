@@ -5570,7 +5570,6 @@ enfants
 extracosmic
 enfarce
 enfasten
-enfatico
 enfavor
 essentialize
 enfeeble
@@ -10256,6 +10255,7 @@ eteocreton
 eteostic
 eterminable
 eternal
+enfatico
 eternalise
 eternalism
 eternalist
