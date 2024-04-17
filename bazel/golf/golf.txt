@@ -1216,7 +1216,6 @@ gunnels
 gant
 ganta
 gantangs
-gantelope
 gantlet
 gantleted
 gantleting
@@ -10470,6 +10469,7 @@ gunfire
 gunfought
 gearless
 gung
+gantelope
 gunge
 gems
 gunhouse
