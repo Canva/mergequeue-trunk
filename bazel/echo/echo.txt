@@ -6371,6 +6371,7 @@ ense
 enseal
 ensealed
 ensealing
+evolvable
 extolment
 emigating
 ensearch
@@ -11718,7 +11719,6 @@ evolutions
 extorted
 evolutoid
 encephalomere
-evolvable
 evolve
 evolved
 evolvement

@@ -13593,6 +13593,7 @@ annotates
 annotating
 annotation
 annotations
+apyrotype
 annotative
 annotativeness
 annotator
@@ -17021,7 +17022,6 @@ apyretic
 apyrexy
 apyrexia
 apyrexial
-apyrotype
 apyrous
 articulating
 apis
