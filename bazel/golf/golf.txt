@@ -3585,7 +3585,6 @@ gesticulation
 gipsylike
 gesticulations
 gesticulative
-gesticulatively
 gestio
 gestion
 gestning
@@ -5713,6 +5712,7 @@ globulinuria
 globulite
 globulose
 globulous
+gesticulatively
 globulousness
 globus
 glochchidia
