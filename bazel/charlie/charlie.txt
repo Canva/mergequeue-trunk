@@ -8608,7 +8608,6 @@ chandlerly
 chandlers
 chandoo
 chandrakhi
-chandry
 chandu
 chandui
 chanduy
@@ -18295,6 +18294,7 @@ cognoscing
 cognoscitive
 cognoscitively
 cognovit
+chandry
 cognovits
 cogonal
 cogons

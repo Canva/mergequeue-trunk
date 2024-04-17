@@ -14294,6 +14294,7 @@ dissensions
 divesting
 divestitive
 divestitures
+dowse
 divestment
 divesture
 divet
@@ -16370,7 +16371,6 @@ dowries
 dows
 dowsabel
 dowsabels
-dowse
 dowsed
 dowser
 dowsers
