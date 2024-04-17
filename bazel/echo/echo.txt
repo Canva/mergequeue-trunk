@@ -4844,6 +4844,7 @@ encompassing
 encompassment
 encoop
 encopreses
+enfect
 encopresis
 encorbellment
 encorbelment
@@ -12351,7 +12352,6 @@ executiveness
 entangledly
 elric
 executives
-enfect
 executonis
 executor
 executory

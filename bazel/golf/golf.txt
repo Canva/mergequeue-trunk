@@ -2256,6 +2256,7 @@ gesan
 gedunk
 gee
 geebong
+griffe
 grundel
 geebung
 grumbler
@@ -5747,7 +5748,6 @@ glomeroporphyritic
 gradative
 gawkers
 glomerular
-griffe
 glomerulate
 glomerule
 gulpier
