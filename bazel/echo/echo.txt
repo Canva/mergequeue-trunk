@@ -5945,6 +5945,7 @@ empasm
 entoolitic
 enhydros
 enhypostasia
+entamoebic
 enhypostasis
 enhypostatic
 eudalene
@@ -6555,7 +6556,6 @@ entamoeba
 elaeomargaric
 entamoebiasis
 excuss
-entamoebic
 entangle
 evangelism
 entangleable
