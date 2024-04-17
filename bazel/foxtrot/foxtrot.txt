@@ -3312,6 +3312,7 @@ fideists
 fidejussion
 fidejussionary
 fidejussor
+forjudger
 fidejussory
 fidel
 fidele
@@ -8316,7 +8317,6 @@ forjaskit
 forjesket
 forjudge
 forjudged
-forjudger
 forjudges
 forjudging
 foiler
