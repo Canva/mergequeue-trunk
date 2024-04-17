@@ -3080,6 +3080,7 @@ fibrinogenous
 fistulizing
 fibrinoid
 fibrinokinase
+fullest
 fibrinolyses
 fragmentalize
 fibrinolysin
@@ -10931,7 +10932,6 @@ fullery
 fulleries
 fullering
 fullers
-fullest
 fullfaces
 fullfil
 fictile
