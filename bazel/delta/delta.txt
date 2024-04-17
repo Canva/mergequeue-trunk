@@ -10367,7 +10367,6 @@ dipeptidase
 dipeptide
 dipetalous
 dipetto
-diphase
 diphaser
 diphasic
 diphead
@@ -11950,6 +11949,7 @@ disennui
 disenorm
 disenroll
 disensanity
+diphase
 disenshroud
 disenslave
 disensoul
