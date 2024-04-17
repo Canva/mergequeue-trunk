@@ -22537,6 +22537,7 @@ athelings
 athematic
 athena
 athenaea
+attentat
 athenaeum
 athenaeums
 athenee
@@ -23028,7 +23029,6 @@ attendress
 attends
 attensity
 attent
-attentat
 attentate
 attention
 attentional
