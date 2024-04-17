@@ -4960,6 +4960,7 @@ demurer
 demurest
 demurrage
 demurral
+deplore
 demurrals
 demurrant
 demurrer
@@ -5698,7 +5699,6 @@ deplorableness
 deplorably
 deplorate
 deploration
-deplore
 deplored
 deploredly
 deploredness
