@@ -5858,6 +5858,7 @@ belltopper
 belltopperdom
 belluine
 bortzes
+bleacheries
 bellum
 becobweb
 bellwaver
@@ -7616,7 +7617,6 @@ boasting
 bewilderment
 bewilders
 bestink
-bleacheries
 bewimple
 bewinged
 bewinter
