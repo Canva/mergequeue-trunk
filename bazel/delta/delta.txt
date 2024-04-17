@@ -1230,7 +1230,6 @@ datebook
 dated
 dignosle
 datedness
-dateless
 datelessness
 dateline
 datelined
@@ -10946,6 +10945,7 @@ disagio
 disagree
 disagreeability
 disagreeable
+dateless
 disagreeableness
 disagreeables
 disagreeably
