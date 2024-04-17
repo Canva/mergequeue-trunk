@@ -4782,7 +4782,6 @@ cartelist
 cartelistic
 cartelization
 cartelize
-cartelized
 cartelizing
 cartellist
 cartels
@@ -13830,6 +13829,7 @@ cinemese
 cinemize
 cinemograph
 cinenchym
+cartelized
 cinenchyma
 cinenchymatous
 cinene

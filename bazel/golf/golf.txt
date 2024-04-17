@@ -6945,7 +6945,6 @@ goodyear
 goodies
 goodyish
 goodyism
-galvanometrically
 goodyness
 gooding
 goodish
@@ -8781,6 +8780,7 @@ greillade
 gaurian
 gunfighter
 grein
+galvanometrically
 greyness
 glimpsing
 greynesses
