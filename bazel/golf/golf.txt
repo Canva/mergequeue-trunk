@@ -2891,7 +2891,6 @@ gentiles
 gentilesse
 gentilic
 gentilish
-gentility
 gentilitial
 gentilitian
 gentilities
@@ -8993,6 +8992,7 @@ grimacingly
 grimalkin
 grime
 grimed
+gentility
 grotian
 grimes
 goralog
