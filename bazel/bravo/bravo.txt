@@ -3809,7 +3809,6 @@ battuto
 bunkos
 battutos
 beseige
-backcloth
 batukite
 batule
 batuque
@@ -6898,6 +6897,7 @@ bescouring
 baltimorite
 bescours
 bismuthic
+backcloth
 bescramble
 bescrape
 bescratch
