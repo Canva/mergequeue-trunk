@@ -11021,6 +11021,7 @@ eupatorine
 eupatrid
 eupatridae
 eupatrids
+exorbitant
 eupepsy
 eupepsia
 eupeptic
@@ -12800,7 +12801,6 @@ exorate
 exorbital
 exorbitance
 exorbitancy
-exorbitant
 exorbitantly
 exorbitate
 exorbitation
