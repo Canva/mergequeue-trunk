@@ -476,7 +476,6 @@ fakir
 forebush
 fakirism
 fakirs
-fakofo
 falafel
 falanaka
 falange
@@ -6778,6 +6777,7 @@ fofarraw
 flanger
 finitary
 fog
+fakofo
 fogbank
 fogbound
 fogbow
