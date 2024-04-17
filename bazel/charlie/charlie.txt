@@ -12116,7 +12116,6 @@ chrysalidal
 chrysalides
 chrysalidian
 chrysaline
-chrysalis
 chrysalises
 chrysaloid
 chrysamine
@@ -24145,6 +24144,7 @@ convives
 convivial
 convivialist
 convivialize
+chrysalis
 convivially
 convivio
 convocant
