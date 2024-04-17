@@ -1133,7 +1133,6 @@ abuleia
 abulia
 abulias
 abulyeit
-abumbral
 abumbrellar
 albertustaler
 abuna
@@ -13152,6 +13151,7 @@ animadverted
 alloxy
 animadverter
 animadverting
+abumbral
 animadverts
 animal
 animala
