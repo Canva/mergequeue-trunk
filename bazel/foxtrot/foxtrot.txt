@@ -522,6 +522,7 @@ falda
 falderal
 falderals
 fregatidae
+fastens
 fidging
 falderols
 faldetta
@@ -1233,7 +1234,6 @@ fenian
 fasteners
 fastening
 fastenings
-fastens
 faster
 fishhouse
 flumed

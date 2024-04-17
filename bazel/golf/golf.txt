@@ -3351,7 +3351,6 @@ gerenda
 gerendum
 gerent
 gerenuks
-gerfalcon
 gerhardtite
 gery
 geriatric
@@ -10220,6 +10219,7 @@ guilt
 gaspergous
 guiltier
 gardencraft
+gerfalcon
 guiltiest
 guiltily
 guiltiness
