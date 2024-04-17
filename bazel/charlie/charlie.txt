@@ -6011,7 +6011,6 @@ catti
 catty
 cattycorner
 cattycornered
-cattier
 catties
 cattiest
 cattily
@@ -17286,6 +17285,7 @@ coattestator
 coattested
 coattesting
 coattests
+cattier
 coaudience
 coauditor
 cobitidae
