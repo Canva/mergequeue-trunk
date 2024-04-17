@@ -724,7 +724,6 @@ flatter
 father
 fanaticizing
 fanatico
-fanatics
 fanatism
 foeticide
 fenchol
@@ -7440,6 +7439,7 @@ forcepses
 forcepslike
 forceput
 forcer
+fanatics
 forces
 forcet
 forchase
