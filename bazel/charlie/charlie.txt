@@ -3102,6 +3102,7 @@ capitare
 capitasti
 capitate
 capitated
+cramp
 capitatim
 capitation
 capitations
@@ -28019,7 +28020,6 @@ cramming
 crammingly
 crotalus
 cramoisies
-cramp
 crampbit
 crampedness
 cramper
