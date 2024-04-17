@@ -1664,7 +1664,6 @@ accompt
 accord
 accordable
 accordance
-accordances
 accordancy
 accordant
 accordantly
@@ -8795,6 +8794,7 @@ allocators
 allocatur
 allocheiria
 allochetia
+accordances
 allochetite
 allochezia
 allochiral
