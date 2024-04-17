@@ -7584,7 +7584,6 @@ gradatively
 gradatory
 guaka
 graddan
-grade
 graded
 gradeless
 gradely
@@ -10306,6 +10305,7 @@ gules
 gulf
 gulfy
 gulfier
+grade
 galabieh
 gulfiest
 gulfing
