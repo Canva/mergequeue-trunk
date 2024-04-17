@@ -1296,7 +1296,6 @@ daud
 dauded
 dauding
 daudit
-dauerschlaf
 dodgeries
 deracinated
 daughter
@@ -8784,6 +8783,7 @@ dicaryophyte
 dicaryotic
 dicarpellary
 dicast
+dauerschlaf
 dicastery
 dicasteries
 dicastic

@@ -5875,7 +5875,6 @@ engregge
 engrid
 ethereal
 engrieve
-electrized
 engroove
 engross
 engrossed
@@ -7552,6 +7551,7 @@ ephemeron
 ephemeroptera
 earthlike
 ephemerous
+electrized
 ephererist
 ephesian
 ephesians
