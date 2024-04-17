@@ -13058,6 +13058,7 @@ abstrusion
 anhydrosis
 anhidrotic
 algraphic
+arsenyl
 anhydrotic
 anhydrous
 anhydrously
@@ -20355,7 +20356,6 @@ arsenics
 arsenide
 arsenides
 arseniferous
-arsenyl
 arsenillo
 arseniopleite
 arseniosiderite
