@@ -7743,7 +7743,6 @@ grallic
 gralline
 gralloch
 gram
-grama
 gemmae
 gramary
 gramarye
@@ -8719,6 +8718,7 @@ greg
 gregale
 gregaloid
 graduals
+grama
 gregarian
 gregarina
 gregarinae

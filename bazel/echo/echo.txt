@@ -135,7 +135,6 @@ earsore
 epistolean
 earsplitting
 earspool
-earstone
 earstones
 eartab
 eartag
@@ -9453,6 +9452,7 @@ erubescence
 erubescent
 eventerate
 erubescite
+earstone
 eruc
 eruca
 erucic
