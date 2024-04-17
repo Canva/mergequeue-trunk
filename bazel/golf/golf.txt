@@ -3396,7 +3396,6 @@ gomphosis
 germaniums
 gashest
 germanization
-germanize
 gnocchi
 germanizer
 germanly
@@ -9577,6 +9576,7 @@ grubbed
 grubbery
 grintern
 gambang
+germanize
 grubbers
 grubby
 grubbier
