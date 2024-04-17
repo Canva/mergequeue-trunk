@@ -4282,7 +4282,6 @@ delthyrium
 deltic
 deltidia
 deltidial
-deltidium
 displacer
 deltiology
 deltohedra
@@ -8675,6 +8674,7 @@ diatrymiformes
 diatropic
 diatropism
 diau
+deltidium
 diauli
 diaulic
 diaulos
