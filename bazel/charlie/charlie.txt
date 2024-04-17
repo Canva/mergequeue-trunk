@@ -14294,7 +14294,6 @@ circumjacence
 circumjacency
 circumjacencies
 circumjacent
-circumjovial
 circumlental
 circumlitio
 circumlittoral
@@ -28485,6 +28484,7 @@ creaturize
 creaze
 crebricostate
 crebrisulcate
+circumjovial
 crebrity
 crebrous
 creche
