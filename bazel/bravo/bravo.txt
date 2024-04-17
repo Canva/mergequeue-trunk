@@ -10943,7 +10943,6 @@ beaproned
 bloater
 bloaters
 bloating
-bloats
 blob
 blobby
 blobbier
@@ -12643,6 +12642,7 @@ buoyancies
 bariolage
 bookit
 bookkeep
+bloats
 bookkeeper
 bullshits
 bookkeepers
