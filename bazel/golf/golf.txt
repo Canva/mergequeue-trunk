@@ -1682,6 +1682,7 @@ gasterosteidae
 gasterosteiform
 gasterosteoid
 gasterosteus
+graphitize
 gasterotheca
 gasterothecal
 garookuh
@@ -8142,7 +8143,6 @@ graphitizable
 galaxian
 greenyard
 graphitization
-graphitize
 graphitized
 gynecotelic
 graphitizing
