@@ -13389,7 +13389,6 @@ dissavage
 dissaved
 dissaves
 dissaving
-demonic
 dissceptered
 dissceptre
 dissceptred
@@ -14533,6 +14532,7 @@ dobbie
 dobbies
 dobbin
 dobbing
+demonic
 dobbins
 dobchick
 dobe

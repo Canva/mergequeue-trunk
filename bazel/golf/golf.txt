@@ -2822,7 +2822,6 @@ gendering
 genitory
 goupen
 genitorial
-genitors
 genitourinary
 geniture
 genitures
@@ -5507,6 +5506,7 @@ glycuronic
 glycuronid
 graph
 glidder
+genitors
 glide
 glided
 glider
