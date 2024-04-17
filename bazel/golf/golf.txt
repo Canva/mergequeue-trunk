@@ -5814,7 +5814,6 @@ germania
 gloriosa
 gloriosity
 gawsie
-glorioso
 gloriously
 gloriousness
 gaupus
@@ -6397,6 +6396,7 @@ gobans
 gobbe
 glycemic
 gobbed
+glorioso
 gobber
 gobbet
 gobby
