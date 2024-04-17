@@ -2098,6 +2098,7 @@ bankbooks
 bankcard
 bankcards
 banked
+barometrically
 banker
 bankera
 bankerdom
@@ -2802,7 +2803,6 @@ barometers
 barometry
 barometric
 barometrical
-barometrically
 beelzebub
 barometrography
 barometz

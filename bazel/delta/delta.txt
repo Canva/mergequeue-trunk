@@ -6195,6 +6195,7 @@ dogcarts
 dermatoheteroplasty
 dactylologies
 dermatoid
+dilettanteish
 dermatolysis
 dermatology
 dermatologic
@@ -9697,7 +9698,6 @@ diletant
 dilettanist
 dilettant
 dilettante
-dilettanteish
 dilettanteism
 dilettantes
 dilettanteship
