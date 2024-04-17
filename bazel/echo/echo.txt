@@ -5016,7 +5016,6 @@ epineuria
 eustatically
 endecha
 endeictic
-endeign
 endellionite
 exegetics
 endemial
@@ -11112,6 +11111,7 @@ euphuist
 euphuistic
 euphuistically
 esthesiometric
+endeign
 euphuize
 euphuized
 euphuizing
