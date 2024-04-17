@@ -6861,7 +6861,6 @@ desperadoism
 desperados
 desperance
 descrying
-desperate
 durzee
 desperately
 desperateness
@@ -18174,6 +18173,7 @@ dungari
 dungas
 dungbeck
 dungbird
+desperate
 dungbred
 dunged
 dungeoner
