@@ -1024,7 +1024,6 @@ bayardly
 bobbies
 bayberry
 bayberries
-baybolt
 baybush
 baycuru
 baidar
@@ -15366,6 +15365,7 @@ brilliantwise
 brilliolette
 brillolette
 brights
+baybolt
 brills
 brim
 brimborion

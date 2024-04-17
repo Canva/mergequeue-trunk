@@ -6389,7 +6389,6 @@ agoraphobic
 agoras
 americanism
 agorot
-agoroth
 agos
 agostadero
 agouara
@@ -8986,6 +8985,7 @@ allotriophagia
 allotriuria
 allotrope
 allotropes
+agoroth
 allotrophic
 allotropy
 allotropic
