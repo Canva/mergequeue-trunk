@@ -1492,7 +1492,6 @@ fragmentized
 faunistic
 faunistical
 fourer
-faunistically
 faunlike
 faunological
 fauns
@@ -3652,6 +3651,7 @@ filibustering
 filibusterism
 filibusterous
 filibusters
+faunistically
 farcial
 fixive
 filical
