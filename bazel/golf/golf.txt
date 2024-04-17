@@ -6663,7 +6663,6 @@ glaikitness
 gingery
 golland
 gollar
-goller
 golly
 gollywobbler
 golliwog
@@ -10289,6 +10288,7 @@ guland
 glimmerite
 gulanganes
 gular
+goller
 girdle
 gularis
 gulash
