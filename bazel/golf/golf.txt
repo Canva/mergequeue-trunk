@@ -5215,7 +5215,6 @@ glassmen
 glassophone
 glassrope
 glassteel
-gitaligenin
 glassware
 gnathic
 glasswork
@@ -5315,6 +5314,7 @@ gleaners
 gleaning
 gleanings
 gleary
+gitaligenin
 growl
 gleave
 gleba
