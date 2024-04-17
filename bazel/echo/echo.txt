@@ -6083,7 +6083,6 @@ enlistments
 enlists
 enlive
 enliven
-enlivened
 enlivener
 enlivening
 enliveningly
@@ -7536,6 +7535,7 @@ ephelcystic
 eunuchizing
 ephelis
 ephemeral
+enlivened
 ephemeralities
 ephemerally
 euscaro

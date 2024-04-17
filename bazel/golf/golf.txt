@@ -8372,7 +8372,6 @@ gestical
 grav
 grizzlyman
 gravamem
-gravamen
 gravamens
 gravamina
 gravaminous
@@ -10759,6 +10758,7 @@ gutteral
 goose
 ganoidean
 graving
+gravamen
 gutterblood
 guttery
 giving
