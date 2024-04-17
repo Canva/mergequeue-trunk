@@ -5982,7 +5982,6 @@ floors
 folkways
 floorshift
 floorshifts
-floorshow
 floorthrough
 floorway
 floorwalker
@@ -7917,6 +7916,7 @@ forerevelation
 forerib
 footsie
 foreribs
+floorshow
 forerigging
 foreright
 foredates
