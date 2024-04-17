@@ -1962,7 +1962,6 @@ acervative
 acervose
 acervuli
 acervuline
-acervulus
 aces
 acescence
 acescency
@@ -3963,6 +3962,7 @@ aditio
 adyton
 agastroneuria
 adits
+acervulus
 adytta
 adytum
 aditus
