@@ -10406,6 +10406,7 @@ diphyodont
 diphyozooid
 diphysite
 diphysitism
+drip
 diphyzooid
 dizzard
 dyphone
@@ -17135,7 +17136,6 @@ dryopithecus
 dryops
 dryopteris
 dryopteroid
-drip
 dripless
 draughter
 drypoints
