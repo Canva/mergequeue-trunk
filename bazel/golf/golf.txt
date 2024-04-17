@@ -2926,6 +2926,7 @@ gentlemanlikeness
 gentlemanliness
 gentlemanship
 gentlemen
+glucogene
 gladfully
 gentlemens
 gentlemouthed
@@ -6019,7 +6020,6 @@ gluck
 glucocorticoid
 glucocorticord
 glucofrangulin
-glucogene
 glucogenesis
 glucokinase
 gasterophilus
