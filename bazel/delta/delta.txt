@@ -403,7 +403,6 @@ daymare
 daymares
 daymark
 daimen
-daymen
 doupion
 datedly
 daimiel
@@ -10916,6 +10915,7 @@ disadvising
 dysaesthesia
 dysaesthetic
 disaffect
+daymen
 disaffectation
 disaffected
 disaffectedness
