@@ -194,7 +194,6 @@ bacchae
 bacchanal
 bacchanalia
 bacchanalian
-bacchanalianism
 bacchanalianly
 buddleman
 briskest
@@ -5844,6 +5843,7 @@ bellow
 bellowed
 bellowers
 bellows
+bacchanalianism
 bellowsful
 bellowslike
 bellowsmaker
