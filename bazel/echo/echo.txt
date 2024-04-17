@@ -3328,6 +3328,7 @@ emancipators
 emancipatress
 emancipist
 elbowboard
+euonym
 emandibulate
 emane
 emanent
@@ -10997,7 +10998,6 @@ eunuchs
 euodic
 euomphalid
 euomphalus
-euonym
 euonymy
 euonymin
 euonymous
