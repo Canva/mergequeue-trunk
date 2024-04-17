@@ -15654,6 +15654,7 @@ claustra
 claustral
 claustration
 claustrophilia
+corticosteroid
 counterassertion
 claustrophobe
 claustrophobia
@@ -25885,7 +25886,6 @@ clammish
 corticopeduncular
 corticose
 corticospinal
-corticosteroid
 corticosteroids
 corticosterone
 corticostriate
