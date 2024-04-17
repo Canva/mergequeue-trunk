@@ -927,7 +927,6 @@ bastinades
 bago
 bagobo
 bagonet
-brassic
 bagong
 bagoong
 bagpipe
@@ -1936,6 +1935,7 @@ bandidos
 bandie
 bandied
 bandying
+brassic
 broon
 blepharopyorrhea
 bandikai
