@@ -2664,7 +2664,6 @@ barytone
 barnlike
 baritones
 barytones
-byres
 barytons
 barytophyllite
 barytosulphate
@@ -7149,6 +7148,7 @@ bespousing
 bespout
 bespray
 bespread
+byres
 bespreading
 beakless
 bespreads
