@@ -1745,7 +1745,6 @@ balsamo
 burro
 balsamodendron
 balsamorrhiza
-brahmic
 balsamous
 balsamroot
 balsams
@@ -12969,6 +12968,7 @@ boread
 boreades
 boreal
 borealis
+brahmic
 borean
 boreas
 borecole

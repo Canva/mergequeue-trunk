@@ -1226,7 +1226,6 @@ calgon
 calibers
 calybite
 cunas
-calibogus
 calibrate
 calibrated
 calibrater
@@ -19107,6 +19106,7 @@ collops
 colloq
 colloque
 colloquy
+calibogus
 colloquia
 colloquial
 colloquialism
