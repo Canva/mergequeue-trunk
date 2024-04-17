@@ -3052,6 +3052,7 @@ elizabeth
 elizabethan
 elizabethanize
 expiring
+evanescenrly
 elizabethans
 elkanah
 engl
@@ -11373,7 +11374,6 @@ epigrammatised
 evanesced
 evanescence
 evanescency
-evanescenrly
 evanescent
 evanescently
 evanesces
