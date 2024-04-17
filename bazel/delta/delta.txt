@@ -11344,7 +11344,6 @@ discitis
 disclaim
 disclaimed
 disclaimer
-disclaimers
 disclaiming
 disclamation
 disclamatory
@@ -13030,6 +13029,7 @@ displaces
 displacing
 display
 displayed
+disclaimers
 displaying
 displays
 displant
