@@ -535,7 +535,6 @@ cadmic
 cadmide
 cadmiferous
 cadmium
-cadmiumize
 cadmiums
 cadmus
 cados
@@ -5784,6 +5783,7 @@ cathay
 cathayan
 cathar
 catharan
+cadmiumize
 cathari
 catharina
 catharism
