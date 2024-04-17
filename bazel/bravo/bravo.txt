@@ -572,7 +572,6 @@ backtrack
 backtracked
 backtracker
 backtrackers
-backtracking
 backtracks
 backtrail
 backtrick
@@ -14463,6 +14462,7 @@ branded
 brandenburg
 brandenburger
 brandenburgh
+backtracking
 brandenburgs
 brander
 brandering
