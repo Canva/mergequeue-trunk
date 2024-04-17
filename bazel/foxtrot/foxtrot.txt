@@ -7326,7 +7326,6 @@ for
 fora
 forage
 foraged
-foragement
 forager
 foragers
 forages
@@ -9106,6 +9105,7 @@ frescoers
 fowlpoxes
 fallaciousness
 fox
+foragement
 foxberry
 foxberries
 foxery

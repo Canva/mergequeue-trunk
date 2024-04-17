@@ -6538,6 +6538,7 @@ bepimples
 bepinch
 bepistoled
 bepity
+bipartisan
 beplague
 beplaided
 beplaster
@@ -9241,7 +9242,6 @@ biparietal
 biparty
 bipartible
 bipartile
-bipartisan
 bipartisanism
 bipartisanship
 bruisers
