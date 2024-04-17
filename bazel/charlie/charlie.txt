@@ -8433,7 +8433,6 @@ chameleons
 chametz
 chamfer
 chamfered
-chamferer
 chamfering
 chamfers
 chamfrain
@@ -10820,6 +10819,7 @@ chionodoxa
 chionophobia
 chiopin
 chiot
+chamferer
 chiotilla
 chip
 chipboard

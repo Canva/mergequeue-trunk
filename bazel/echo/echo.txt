@@ -7175,6 +7175,7 @@ endochondral
 enunciations
 enchannel
 enunciative
+ethenoidal
 enunciatively
 eradiates
 enunciator
@@ -10317,7 +10318,6 @@ ethenes
 ethenic
 ethenyl
 ethenoid
-ethenoidal
 ethenol
 ethmolachrymal
 etheostoma
