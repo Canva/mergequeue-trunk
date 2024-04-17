@@ -2229,7 +2229,6 @@ eldritch
 elds
 elean
 eleanor
-elec
 elecampane
 exocline
 elechi
@@ -13767,6 +13766,7 @@ extrabranchial
 extemporarily
 extrabronchial
 extrabuccal
+elec
 extrabureau
 extraburghal
 extracalendar

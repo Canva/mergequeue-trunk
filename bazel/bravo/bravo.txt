@@ -3687,6 +3687,7 @@ batophobia
 batrachia
 batrachian
 batrachians
+brevis
 batrachiate
 batrachidae
 batrachite
@@ -15065,7 +15066,6 @@ breviradiate
 brevirostral
 brevirostrate
 balsamize
-brevis
 brevit
 brevity
 brevities
