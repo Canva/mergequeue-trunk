@@ -1445,7 +1445,6 @@ balinese
 baling
 balinger
 balinghasay
-bonasus
 balisaurs
 balistarii
 balistarius
@@ -2741,6 +2740,7 @@ barmiest
 barming
 barmote
 barms
+bonasus
 barmskin
 barn
 barnabas
