@@ -1148,6 +1148,7 @@ filtration
 fascinating
 fascinatingly
 fascination
+fiction
 fascinations
 fascinative
 fascinator
@@ -3222,7 +3223,6 @@ forepad
 fictility
 farsang
 fescues
-fiction
 fictional
 fictionalize
 fictionalized
