@@ -3104,7 +3104,6 @@ geologize
 geologized
 geologizing
 governed
-geom
 geomagnetic
 geomagnetically
 geomagnetics
@@ -4028,6 +4027,7 @@ gluttonizing
 giggliest
 giggling
 gentlehearted
+geom
 gigglingly
 glitzy
 gigglish
