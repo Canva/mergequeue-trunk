@@ -7680,6 +7680,7 @@ devocate
 devocation
 devoice
 devoiced
+disparation
 devoices
 disentangles
 devoicing
@@ -12840,7 +12841,6 @@ disparages
 disparaging
 disparagingly
 disparately
-disparation
 disparatum
 dyspareunia
 disparison
