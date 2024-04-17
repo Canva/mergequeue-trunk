@@ -3168,6 +3168,7 @@ fibrosity
 fibrosities
 fibrositis
 fibrospongiae
+fluoroform
 formative
 fibrotic
 fibrotuberculosis
@@ -6501,7 +6502,6 @@ fluorobenzene
 fluoroborate
 fluorocarbon
 fluorochrome
-fluoroform
 foretokening
 fibrinoalbuminous
 fluoroformol
