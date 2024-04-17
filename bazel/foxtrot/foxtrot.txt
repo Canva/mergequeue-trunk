@@ -8855,7 +8855,6 @@ fossildom
 fossiled
 fossilify
 fossilification
-fossilisable
 fossilised
 fossilising
 fossilism
@@ -10584,6 +10583,7 @@ frowstily
 forejudging
 frowstiness
 frowze
+fossilisable
 falderol
 frowzy
 frowziest
