@@ -8911,7 +8911,6 @@ biocellate
 biocenology
 biocenosis
 biocenotic
-biocentric
 biochemy
 biochemic
 biochemical
@@ -12189,6 +12188,7 @@ bolters
 bolthead
 boltheader
 bagge
+biocentric
 boltheading
 boltheads
 bolthole
