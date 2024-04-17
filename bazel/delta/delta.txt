@@ -13010,7 +13010,6 @@ dispicion
 dispirem
 dispireme
 dispirit
-dispirited
 dispiritedly
 dispiritedness
 dispiriting
@@ -14557,6 +14556,7 @@ decalcomaniac
 dobule
 dobzhansky
 dodonean
+dispirited
 doc
 docent
 docents

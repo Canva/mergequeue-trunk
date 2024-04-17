@@ -611,7 +611,6 @@ falsies
 falsify
 falsifiability
 falsifiable
-falsificate
 falsification
 falsifications
 falsificator
@@ -11260,6 +11259,7 @@ funiculate
 funiculitis
 funiculus
 funiform
+falsificate
 funiliform
 funipendulous
 funis
