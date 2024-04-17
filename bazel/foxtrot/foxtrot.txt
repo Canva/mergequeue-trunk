@@ -3784,6 +3784,7 @@ filmized
 filmizing
 filmland
 fringes
+finchery
 frostweed
 filmlands
 filmlike
@@ -3911,7 +3912,6 @@ finca
 forspeaking
 finchbacked
 finched
-finchery
 finches
 find
 findability
