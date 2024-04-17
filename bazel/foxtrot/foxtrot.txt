@@ -9855,6 +9855,7 @@ frescoists
 frescos
 fresh
 freshed
+fulica
 freshen
 farrantly
 freshener
@@ -10906,7 +10907,6 @@ fulgurous
 fulham
 fulhams
 fatherly
-fulica
 fuliginosity
 fuliginous
 fuliginously
