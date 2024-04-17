@@ -1120,7 +1120,6 @@ gangliglions
 gangling
 ganglioblast
 gangliocyte
-ganglioform
 galavant
 glochideous
 ganglioid
@@ -7868,6 +7867,7 @@ granddaughters
 grande
 grandee
 grandeeism
+ganglioform
 grandees
 grandeeship
 grandesque

@@ -4656,7 +4656,6 @@ advertises
 advertising
 advertizable
 advertized
-advertizement
 advertizer
 advertizes
 advertizing
@@ -10887,6 +10886,7 @@ amoles
 amolilla
 amolish
 amollish
+advertizement
 amomal
 amomales
 amomis
