@@ -8973,7 +8973,6 @@ coatracks
 chariot
 charioted
 chariotee
-charioteer
 charioteers
 charioting
 chariotlike
@@ -28214,6 +28213,7 @@ crapple
 craps
 crapshooter
 crapshooters
+charioteer
 crumlet
 crapshooting
 craquelures
