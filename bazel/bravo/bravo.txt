@@ -378,6 +378,7 @@ backgeared
 background
 backgrounds
 backhanded
+bedkey
 backhandedly
 brogueneer
 backhandedness
@@ -4721,7 +4722,6 @@ bedizen
 beekmantown
 bedizenment
 bedizens
-bedkey
 bedlam
 bedlamer
 bedlamic
