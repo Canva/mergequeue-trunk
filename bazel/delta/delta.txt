@@ -11441,6 +11441,7 @@ discomforter
 discomforting
 discomfortingly
 discomforts
+disemployment
 discomycete
 discomycetes
 discomycetous
@@ -11887,7 +11888,6 @@ disemploy
 disemployed
 disemploying
 dorados
-disemployment
 dirking
 disemploys
 disempower
