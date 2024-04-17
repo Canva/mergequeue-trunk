@@ -3079,7 +3079,6 @@ barvel
 barvell
 beduin
 barway
-barways
 backrests
 barwal
 barware
@@ -4774,6 +4773,7 @@ bedown
 bedpad
 bradding
 bedpan
+barways
 besmirching
 bedpans
 bedpost
