@@ -3380,7 +3380,6 @@ germanesque
 germany
 glassier
 ganapati
-germanical
 germanically
 germanics
 germanify
@@ -8901,6 +8900,7 @@ grievant
 grievants
 grieve
 grieved
+germanical
 grievedly
 griever
 generalizable
