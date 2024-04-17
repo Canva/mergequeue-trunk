@@ -7568,6 +7568,7 @@ forecastlehead
 forecastleman
 forecastles
 forecastors
+fosterage
 forecatching
 forechamber
 forechase
@@ -8883,7 +8884,6 @@ fossulet
 fostell
 foster
 fordeal
-fosterage
 fostered
 furtiveness
 fosterer
