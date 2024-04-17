@@ -2352,6 +2352,7 @@ electrochemist
 electrochemistry
 electrochronograph
 electrochronographic
+extreme
 electrochronometer
 electrochronometric
 electrocystoscope
@@ -14049,7 +14050,6 @@ etheostomidae
 extreat
 extrema
 extremal
-extreme
 extremeless
 extremely
 extremeness
