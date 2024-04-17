@@ -14674,7 +14674,6 @@ cystomyxoma
 cystomorphous
 cystonectae
 cystonectous
-cystonephrosis
 cystoneuralgia
 cystoparalysis
 cystophora
@@ -16811,6 +16810,7 @@ clubwomen
 clubwood
 cluck
 clucked
+cystonephrosis
 clucky
 clucking
 clucks
