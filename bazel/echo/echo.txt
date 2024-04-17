@@ -4608,7 +4608,6 @@ entrepreneurial
 encephalomyelopathy
 encephalomyocarditis
 encephalonarcosis
-encephalopathy
 encephalopathia
 encephalopathic
 encephalophyma
@@ -14115,6 +14114,7 @@ extrusible
 extrusile
 extrusion
 extrusions
+encephalopathy
 extrusive
 extrusory
 extubate

@@ -20717,7 +20717,6 @@ artilleryship
 artillerist
 artillerists
 artiness
-artinesses
 artinite
 artinskian
 artiodactyl
@@ -23929,6 +23928,7 @@ autocatharsis
 autocatheterism
 autocephalia
 autocephalic
+artinesses
 autocephality
 autocephalous
 autoceptive
