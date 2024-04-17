@@ -13860,6 +13860,7 @@ anorexia
 anorexiant
 anorexias
 anorexic
+autotropism
 anorexics
 anorexies
 anorexigenic
@@ -24476,7 +24477,6 @@ autotrophic
 autotrophically
 autotropic
 autotropically
-autotropism
 autotruck
 autotuberculin
 als
