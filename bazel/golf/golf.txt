@@ -6235,6 +6235,7 @@ gnathopodous
 gnathostegite
 gnathostoma
 gnathostomata
+grothite
 gnathostome
 gnathostomi
 gnathotheca
@@ -9365,7 +9366,6 @@ grotesquerie
 grotesqueries
 grotesques
 grothine
-grothite
 grotianism
 gratefuller
 grots

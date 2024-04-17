@@ -14949,6 +14949,7 @@ cytospora
 cytosporina
 cytost
 cytostatic
+croissant
 cytostatically
 cytostomal
 cytostome
@@ -29640,7 +29641,6 @@ croise
 croisee
 croises
 croisette
-croissant
 croissante
 croissants
 crojack
