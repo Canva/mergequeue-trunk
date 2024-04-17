@@ -3435,7 +3435,6 @@ embelif
 embelin
 embellish
 embellished
-embellisher
 embellishers
 embellishing
 embellishment
@@ -10914,6 +10913,7 @@ eulima
 eulimidae
 eulysite
 eulytin
+embellisher
 eulytine
 eulytite
 eulogy

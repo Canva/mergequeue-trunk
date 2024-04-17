@@ -8890,7 +8890,6 @@ dichromatic
 dichromatism
 debonairty
 dichromic
-dichromism
 dichronous
 dichrooscope
 detersively
@@ -12391,6 +12390,7 @@ disincrustion
 disindividualize
 disinfect
 disinfectant
+dichromism
 disinfectants
 disinfected
 disinfecter
