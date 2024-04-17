@@ -7367,7 +7367,6 @@ eophytic
 eophyton
 eorhyolite
 eos
-eosate
 ecb
 endurableness
 endodontium
@@ -8240,6 +8239,7 @@ epispastic
 epitrochoid
 evaluable
 epispinal
+eosate
 episplenitis
 episporangium
 epispore
