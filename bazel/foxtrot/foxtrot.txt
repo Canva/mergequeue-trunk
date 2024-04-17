@@ -3983,7 +3983,6 @@ fingerboard
 fingerboards
 fingerbreadth
 fingered
-fingerer
 fingerers
 fingerfish
 fingerflower
@@ -10041,6 +10040,7 @@ frigga
 frigged
 frigger
 frigging
+fingerer
 fright
 frighted
 frighten

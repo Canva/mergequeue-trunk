@@ -4107,6 +4107,7 @@ delignate
 disorder
 delignated
 delignification
+ducklingship
 delilah
 deliliria
 delim
@@ -17767,7 +17768,6 @@ ducklet
 duckling
 disadvancing
 ducklings
-ducklingship
 duckmeat
 duckmole
 duckpin
