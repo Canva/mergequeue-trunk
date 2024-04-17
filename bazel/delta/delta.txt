@@ -5068,6 +5068,7 @@ dendroctonus
 dendrodic
 dendrodont
 dendrodra
+dromornis
 dendroeca
 dendrogaea
 dendrohyrax
@@ -17286,7 +17287,6 @@ dromon
 dromond
 dromonds
 dromophobia
-dromornis
 dromos
 diurnalness
 dromotropic
