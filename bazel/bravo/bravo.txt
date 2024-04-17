@@ -2519,6 +2519,7 @@ barefacedness
 barefisted
 barefit
 barefoot
+bigeneric
 barefooted
 bareges
 barehead
@@ -8343,7 +8344,6 @@ beachiest
 bigeminies
 bigeminum
 bigener
-bigeneric
 bigential
 bigfoot
 bigg
