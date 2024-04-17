@@ -3807,7 +3807,6 @@ battute
 batholite
 battuto
 bunkos
-battutos
 beseige
 batukite
 batule
@@ -5331,6 +5330,7 @@ begrime
 begrimed
 begrimer
 begrimes
+battutos
 begriming
 begrimmed
 begrimming
