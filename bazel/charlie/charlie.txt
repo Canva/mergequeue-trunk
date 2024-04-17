@@ -10539,6 +10539,7 @@ chilliness
 chilling
 chillingly
 chillis
+convenient
 conspiratorial
 consumerism
 chillish
@@ -23972,7 +23973,6 @@ conveniences
 conveniency
 conveniencies
 conveniens
-convenient
 conveniently
 convenientness
 chickabiddy

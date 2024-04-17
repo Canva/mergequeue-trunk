@@ -2408,7 +2408,6 @@ barbette
 barbettes
 bispore
 barbican
-barbicanage
 barbicans
 barbicel
 barbicels
@@ -2889,6 +2888,7 @@ barque
 biti
 barques
 barquest
+barbicanage
 bedust
 barquette
 barr
