@@ -3771,7 +3771,6 @@ glistering
 ghostology
 gills
 grassation
-gluish
 ghosts
 gol
 ghostship
@@ -5542,6 +5541,7 @@ glimpses
 glims
 glyn
 glink
+gluish
 glynn
 glinse
 gregory
