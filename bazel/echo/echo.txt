@@ -6039,7 +6039,6 @@ ependytes
 enlargedly
 enhaloed
 enlargedness
-enlargement
 eupepsias
 embassador
 enlargements
@@ -9368,6 +9367,7 @@ eroticomaniacal
 erotics
 edificable
 erotylid
+enlargement
 erotylidae
 epitaxial
 erotisms
