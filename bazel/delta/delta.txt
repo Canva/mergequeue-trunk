@@ -8367,7 +8367,6 @@ diamante
 dimorphite
 diamantiferous
 ditrochee
-diamantoid
 diamat
 diamber
 diambic
@@ -16170,6 +16169,7 @@ dowel
 doweled
 doweling
 dowelled
+diamantoid
 dowels
 dower
 doweral
