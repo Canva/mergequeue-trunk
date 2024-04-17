@@ -923,6 +923,7 @@ gamecock
 gamecocks
 gamecraft
 gamed
+generic
 gameful
 gamey
 gamekeeper
@@ -2687,7 +2688,6 @@ generativeness
 generator
 generators
 generatrices
-generic
 generical
 generically
 genericness
