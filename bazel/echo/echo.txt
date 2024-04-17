@@ -864,7 +864,6 @@ ectodermosis
 ectoentad
 ectoenzym
 ectoethmoid
-ectogeneous
 epexegeses
 eddic
 ectogenesis
@@ -7879,6 +7878,7 @@ epigones
 epigoni
 epigonic
 egriot
+ectogeneous
 epigonichthyidae
 epigonichthys
 epigonism
