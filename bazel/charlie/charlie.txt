@@ -23149,6 +23149,7 @@ construes
 constuctor
 constuprate
 constupration
+coopted
 consubsist
 consubsistency
 consubstantial
@@ -24373,7 +24374,6 @@ coopt
 cooptate
 cooptation
 cooptative
-coopted
 coopting
 cooptions
 cooptive
