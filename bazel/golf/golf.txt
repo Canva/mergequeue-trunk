@@ -2249,6 +2249,7 @@ gedact
 gedanite
 gedd
 gedder
+guestimate
 gederathite
 gederite
 gedrite
@@ -10087,7 +10088,6 @@ guester
 guesthouse
 goethite
 guesthouses
-guestimate
 guesting
 guestive
 guestling

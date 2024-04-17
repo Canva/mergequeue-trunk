@@ -6538,7 +6538,6 @@ bepill
 bepimple
 bepimpled
 bepimples
-bepimpling
 bepinch
 bepistoled
 bepity
@@ -11859,6 +11858,7 @@ boggish
 boggle
 bogglebo
 boggled
+bepimpling
 boggler
 bogglers
 boggles
