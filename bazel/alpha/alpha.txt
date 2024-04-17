@@ -15845,6 +15845,7 @@ antiphysical
 antiphysically
 antiphysicalness
 antiphysician
+adurent
 antiphlogistian
 antiphlogistic
 antiphlogistin
@@ -15853,7 +15854,6 @@ antiphona
 antiphonal
 antiphonally
 antiphonary
-adurent
 antiphonaries
 antiphonetic
 antiphony

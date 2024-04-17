@@ -12368,7 +12368,6 @@ dalesman
 disimitation
 disimpark
 disimpassioned
-disimprison
 disimprisonment
 disimprove
 dyarchical
@@ -13928,6 +13927,7 @@ distritbuted
 differentiating
 distritbutes
 distritbuting
+disimprison
 distrito
 distritos
 dystrophy
