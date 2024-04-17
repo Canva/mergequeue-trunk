@@ -13368,6 +13368,7 @@ anisotonic
 anisotropal
 anisotrope
 anisotropy
+apetalae
 anisotropically
 anencephalotrophia
 anisotropies
@@ -16754,7 +16755,6 @@ apes
 apesthesia
 apesthetic
 apesthetize
-apetalae
 antepredicament
 apetaly
 apetalies

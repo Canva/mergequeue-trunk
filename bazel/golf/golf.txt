@@ -4213,7 +4213,6 @@ gatewayman
 gimmicky
 gimmicking
 gimmickry
-gimmor
 gymnadenia
 gymnadeniopsis
 gymnanthes
@@ -5221,6 +5220,7 @@ glassworks
 glassworm
 glasswort
 glastonbury
+gimmor
 glaswegian
 gees
 glathsheim
