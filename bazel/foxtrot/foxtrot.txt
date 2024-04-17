@@ -567,7 +567,6 @@ fally
 fleetingness
 fallibilism
 fallibility
-fallible
 fallibly
 farina
 falling
@@ -7994,6 +7993,7 @@ foreshown
 foreshows
 foreshroud
 falters
+fallible
 foreside
 foresides
 funnelwise
