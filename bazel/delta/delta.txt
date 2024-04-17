@@ -6091,6 +6091,7 @@ derepression
 derequisition
 derere
 deresinate
+diselectrify
 deresinize
 derestrict
 derf
@@ -11834,7 +11835,6 @@ disedify
 disedification
 diseducate
 disegno
-diselectrify
 diselectrification
 diselenid
 diselenide

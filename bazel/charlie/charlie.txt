@@ -2739,6 +2739,7 @@ cantabrize
 cantador
 cantala
 cantalas
+coquettish
 cantalever
 cantalite
 cantaliver
@@ -24774,7 +24775,6 @@ coquets
 coquette
 coquetted
 coquetting
-coquettish
 coquettishly
 coquettishness
 coquicken
