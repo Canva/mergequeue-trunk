@@ -10353,7 +10353,6 @@ chiefish
 chiefless
 cytisus
 chiefling
-chiefry
 chiefs
 chiefship
 chieftain
@@ -30484,6 +30483,7 @@ cubicle
 cubicles
 cubicone
 cubicontravariant
+chiefry
 cubicovariant
 cubics
 cubicula
