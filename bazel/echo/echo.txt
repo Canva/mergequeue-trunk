@@ -1040,6 +1040,7 @@ edentalous
 edentata
 edentate
 edentates
+esthesiography
 edentulate
 edentulous
 edeodynia
@@ -12982,7 +12983,6 @@ expecter
 expecters
 expecting
 expectingly
-esthesiography
 expection
 expective
 expectorant
