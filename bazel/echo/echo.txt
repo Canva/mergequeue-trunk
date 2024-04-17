@@ -1351,7 +1351,6 @@ effeir
 effeminacy
 effeminated
 effeminately
-effeminateness
 effeminating
 elongated
 effemination
@@ -11834,6 +11833,7 @@ exam
 examen
 evacuate
 examens
+effeminateness
 exameter
 examinability
 examinable
