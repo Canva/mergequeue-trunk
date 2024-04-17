@@ -2523,6 +2523,7 @@ gemmel
 gemmeous
 gemmer
 gladstonian
+gastrulas
 gemmery
 gemmy
 gaywing
@@ -3722,7 +3723,6 @@ ghibelline
 ghibellinism
 ghibli
 ghiblis
-gastrulas
 ghyll
 ghillie
 ghillies

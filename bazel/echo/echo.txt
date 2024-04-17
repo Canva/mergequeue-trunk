@@ -8626,7 +8626,6 @@ equerry
 equerries
 equerryship
 eques
-equestrial
 epimysium
 equestrian
 equestrianism
@@ -9677,6 +9676,7 @@ escritoire
 escritoires
 escritorial
 escrod
+equestrial
 escrol
 ectoenzyme
 escrow
