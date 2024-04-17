@@ -3926,7 +3926,6 @@ baxtone
 bazaar
 bazaars
 bazar
-bazars
 baze
 bees
 bazigar
@@ -16855,6 +16854,7 @@ bugara
 bugbane
 bugbanes
 bugbear
+bazars
 bugbeardom
 bugbite
 bugeye
