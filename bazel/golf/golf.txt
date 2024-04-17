@@ -346,7 +346,6 @@ gyrostatics
 galactoma
 galactometer
 galactometry
-grandmama
 galactopathy
 galactophagist
 galactophagous
@@ -2701,6 +2700,7 @@ generous
 glial
 generously
 generousness
+grandmama
 geneserin
 geneserine
 geneses
