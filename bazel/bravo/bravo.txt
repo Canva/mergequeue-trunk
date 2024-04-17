@@ -2935,6 +2935,7 @@ bielorouss
 barred
 barrel
 barrelage
+becrawled
 barreled
 barreleyes
 barreler
@@ -4518,7 +4519,6 @@ becram
 becramp
 becrampon
 becrawl
-becrawled
 becrawling
 becrawls
 becreep
