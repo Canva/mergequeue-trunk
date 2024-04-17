@@ -1075,7 +1075,6 @@ calciphylactic
 calciphylaxis
 calciphile
 calciphilia
-calciphilic
 calciphilous
 calciphyre
 calciphobe
@@ -2145,6 +2144,7 @@ camused
 camuses
 camwood
 can
+calciphilic
 cana
 canaan
 canaanite
