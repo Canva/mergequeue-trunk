@@ -22967,6 +22967,7 @@ attainted
 annapolis
 attainting
 attaintment
+azures
 attaints
 attainture
 aguamas
@@ -25392,7 +25393,6 @@ azurean
 azured
 azureness
 azureous
-azures
 azury
 azurine
 azurite
