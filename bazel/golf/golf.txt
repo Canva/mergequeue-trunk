@@ -4738,7 +4738,6 @@ gamboge
 girlism
 globetrotter
 grandmaternal
-guahibo
 girllike
 girllikeness
 girls
@@ -10634,6 +10633,7 @@ gurly
 gurmukhi
 gurnard
 gurnards
+guahibo
 gurney
 gebanga
 galant
