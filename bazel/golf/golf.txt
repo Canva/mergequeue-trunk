@@ -4332,6 +4332,7 @@ gynaecocracy
 gynaecocrat
 gynaecoid
 gynaecol
+glum
 gynaecology
 gynaecologic
 gynaecological
@@ -6078,7 +6079,6 @@ globigerine
 gluing
 gluishness
 gaincope
-glum
 gluma
 glumaceae
 glumaceous

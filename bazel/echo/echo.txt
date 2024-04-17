@@ -5732,6 +5732,7 @@ engendure
 engerminate
 enghosted
 engild
+entomophobia
 engilded
 engilding
 empacket
@@ -6948,7 +6949,6 @@ entomophila
 entomophily
 entomophilous
 entomophytous
-entomophobia
 entomophthora
 epic
 entomophthoraceae
