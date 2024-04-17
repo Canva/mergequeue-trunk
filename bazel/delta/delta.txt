@@ -4632,7 +4632,6 @@ dourahs
 demirep
 demireps
 demirevetment
-demirhumb
 demirilievo
 demirobe
 demisability
@@ -9834,6 +9833,7 @@ dimeride
 dimerism
 dimerisms
 dimerization
+demirhumb
 dimerize
 dimerized
 dimerizes
