@@ -11454,6 +11454,7 @@ discomycetous
 discommend
 discommendable
 discommendableness
+draftproof
 discommendably
 discommendation
 discommender
@@ -16508,7 +16509,6 @@ draftings
 draftman
 dactylioglyphtic
 draftmanship
-draftproof
 drafts
 draftsman
 draftsmanship

@@ -9912,6 +9912,7 @@ bituminoid
 bikes
 bituminosis
 bituminous
+braver
 bitwise
 biune
 biunial
@@ -14650,7 +14651,6 @@ bravas
 braved
 bravely
 braveness
-braver
 bravery
 boschboks
 bravers
