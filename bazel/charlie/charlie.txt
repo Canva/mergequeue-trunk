@@ -15733,6 +15733,7 @@ claviharp
 clavilux
 claviol
 coy
+cobitis
 claviole
 clavipectoral
 clavis
@@ -17376,7 +17377,6 @@ cobia
 cobias
 cobiron
 cobishop
-cobitis
 coble
 cobleman
 coblentzian
