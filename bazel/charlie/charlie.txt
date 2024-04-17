@@ -1059,7 +1059,6 @@ calcination
 calcinator
 cindery
 calcinatory
-calcine
 calcined
 calciner
 calcines
@@ -11529,6 +11528,7 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystojejunostomy
+calcine
 cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy

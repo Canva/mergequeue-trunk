@@ -728,6 +728,7 @@ aborting
 abortion
 abortional
 abortionist
+angelon
 abortionists
 abortions
 abortive
@@ -12678,7 +12679,6 @@ angelology
 angelologic
 angelological
 angelomachy
-angelon
 angelonia
 angelophany
 angelophanic
