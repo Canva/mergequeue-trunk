@@ -941,7 +941,6 @@ absenters
 absentia
 absenting
 absentment
-absentminded
 absentmindedly
 absentmindedness
 absentness
@@ -15945,6 +15944,7 @@ antipriesthood
 antiprime
 antiprimer
 antiprinciple
+absentminded
 antiprism
 antiproductionist
 antiproductive
