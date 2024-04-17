@@ -861,7 +861,6 @@ danism
 danite
 danization
 danize
-dichromaticism
 duralumin
 dank
 dankali
@@ -14373,6 +14372,7 @@ divisions
 divisive
 divisively
 divisiveness
+dichromaticism
 divisor
 divisory
 divisorial
