@@ -1391,6 +1391,7 @@ calyxes
 calixtin
 calixtus
 calk
+cynoscion
 calkage
 calked
 calker
@@ -13971,7 +13972,6 @@ cynorrhoda
 cynorrhodon
 cynosarges
 cerastium
-cynoscion
 cynosura
 cynosural
 cynosure
