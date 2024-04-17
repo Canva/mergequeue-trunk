@@ -3085,7 +3085,6 @@ geohydrology
 geoid
 geoidal
 geoids
-geoisotherm
 geol
 geolatry
 geolinguistics
@@ -7786,6 +7785,7 @@ grammatic
 gaskins
 grammatical
 grammaticality
+geoisotherm
 gateau
 glossate
 grammatically
