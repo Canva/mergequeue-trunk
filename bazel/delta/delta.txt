@@ -3801,7 +3801,6 @@ deicing
 deictical
 deictically
 deidealize
-diuturnal
 deidesheimer
 deify
 deific
@@ -4831,6 +4830,7 @@ demonist
 demonists
 demonize
 demonized
+diuturnal
 deprotestantize
 demonizes
 demonizing
