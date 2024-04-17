@@ -421,6 +421,7 @@ backlog
 backlogged
 backlogging
 backlogs
+barathrum
 backmost
 backoff
 backout
@@ -2288,7 +2289,6 @@ baysmelts
 baratheas
 barathra
 barathron
-barathrum
 barato
 bugbears
 baratte
