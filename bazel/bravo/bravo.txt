@@ -10617,6 +10617,7 @@ bleymes
 bleinerite
 blellum
 blellums
+bombycids
 betulin
 blemish
 blemished
@@ -12274,7 +12275,6 @@ bend
 bombiccite
 bombycid
 bombycidae
-bombycids
 bombyciform
 bombycilla
 benetting

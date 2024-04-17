@@ -2185,6 +2185,7 @@ achage
 achagua
 anoestrus
 achakzai
+apophlegmatic
 achalasia
 achamoth
 achape
@@ -17341,7 +17342,6 @@ apophysial
 apophysis
 apophysitis
 apophlegm
-apophlegmatic
 apophlegmatism
 apophony
 apophonia
