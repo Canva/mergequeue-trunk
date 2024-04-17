@@ -1365,7 +1365,6 @@ gardevin
 gardevisure
 gardy
 gardyloo
-gardinol
 gardnap
 gardon
 gare
@@ -3049,6 +3048,7 @@ geoform
 gillnet
 grainier
 geog
+gardinol
 geogen
 gippers
 geogenesis

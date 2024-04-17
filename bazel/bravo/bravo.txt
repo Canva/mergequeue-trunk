@@ -13704,7 +13704,6 @@ bowditch
 blathering
 bowdlerisation
 bowdlerise
-bowdlerised
 bowdlerising
 bowdlerism
 bowdlerization
@@ -16354,6 +16353,7 @@ brushback
 brushbird
 brushcut
 betrace
+bowdlerised
 brushed
 brusher
 brushers
