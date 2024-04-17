@@ -7135,7 +7135,6 @@ akazgin
 akazgine
 akcheh
 ake
-alkamin
 akeake
 akebia
 actinia
@@ -12223,6 +12222,7 @@ apathist
 ancylodactyla
 ancylopod
 ancylopoda
+alkamin
 ancylose
 avanyu
 ancylostoma
