@@ -5195,6 +5195,7 @@ alphamerical
 aestivating
 aestivation
 aestivator
+annihilation
 aestive
 aestuary
 aestuate
@@ -13543,7 +13544,6 @@ apse
 affiliated
 annihilated
 annihilating
-annihilation
 annihilationism
 annihilationist
 annihilationistic

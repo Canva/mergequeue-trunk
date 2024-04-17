@@ -3534,6 +3534,7 @@ bateman
 bouchal
 bannered
 batement
+belostoma
 bater
 bates
 batete
@@ -5900,7 +5901,6 @@ belonosphaerite
 belook
 belord
 belorussian
-belostoma
 balan
 belostomatidae
 belostomidae
