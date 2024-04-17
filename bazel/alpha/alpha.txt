@@ -12157,6 +12157,7 @@ anchoress
 anchoresses
 automobility
 anchoret
+augitite
 anchoretic
 anchoretish
 anchoretism
@@ -23368,7 +23369,6 @@ aughtlins
 aughts
 augite
 augitic
-augitite
 augitophyre
 augment
 augmentable
