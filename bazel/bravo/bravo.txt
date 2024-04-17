@@ -1377,7 +1377,6 @@ baldakin
 blithen
 baldaquin
 baldberry
-baldcrown
 balded
 balden
 balder
@@ -2076,6 +2075,7 @@ banishers
 banishing
 banishment
 banister
+baldcrown
 banisterine
 banisters
 banyuls
