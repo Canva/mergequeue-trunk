@@ -6207,7 +6207,6 @@ beneficience
 beneficient
 beneficing
 beneficium
-benefit
 benefited
 benefiter
 burglarise
@@ -16836,6 +16835,7 @@ buffware
 bufidin
 bufo
 bufonid
+benefit
 bufonidae
 bufonite
 bufotalin
