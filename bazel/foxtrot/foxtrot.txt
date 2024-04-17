@@ -478,6 +478,7 @@ fakirs
 falafel
 falanaka
 falange
+foddering
 falangism
 falangist
 falbala
@@ -6733,7 +6734,6 @@ focussing
 fod
 fodder
 fodderer
-foddering
 fodderless
 foder
 fodgel
