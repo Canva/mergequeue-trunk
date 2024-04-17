@@ -4641,6 +4641,7 @@ enchanted
 enchanter
 enchantery
 enchanters
+executorship
 emotionality
 enchanting
 enchantingly
@@ -12357,7 +12358,6 @@ excur
 eyeleteer
 executorial
 executors
-executorship
 executress
 executry
 executrix
