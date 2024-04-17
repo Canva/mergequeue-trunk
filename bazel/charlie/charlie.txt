@@ -5582,6 +5582,7 @@ catawbas
 catberry
 catbird
 catbirds
+cobaltinitrite
 catboat
 catboats
 catbrier
@@ -17319,7 +17320,6 @@ cobalticyanic
 cobalticyanides
 cobaltiferous
 cobaltine
-cobaltinitrite
 cobaltite
 chronoscopy
 cobaltocyanic

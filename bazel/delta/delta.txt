@@ -5073,6 +5073,7 @@ dendroeca
 dendrogaea
 dendrohyrax
 dendroica
+drie
 dendroid
 dendroidal
 dendroidea
@@ -17035,7 +17036,6 @@ dridder
 driddle
 drydenian
 drydenism
-drie
 driech
 dried
 driegh
