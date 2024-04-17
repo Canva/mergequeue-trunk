@@ -677,6 +677,7 @@ ecliptically
 ecliptics
 eclogic
 eclogite
+exchanging
 endorsable
 eclogites
 eclogue
@@ -3645,7 +3646,6 @@ embrasured
 embrasuring
 embrave
 embrawn
-exchanging
 embread
 embreastment
 embreathe

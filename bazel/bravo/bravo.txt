@@ -7376,6 +7376,7 @@ bethuel
 bethumb
 bethump
 bethumped
+butyrolactone
 bethumping
 bethumps
 bethwack
@@ -18189,7 +18190,6 @@ butyrinase
 butyrins
 butyrochloral
 bongoists
-butyrolactone
 butyrometer
 butyrometric
 butyrone
