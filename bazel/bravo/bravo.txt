@@ -6124,6 +6124,7 @@ bendee
 byte
 bendees
 bendell
+bradypnoea
 bender
 benders
 bendy
@@ -11982,7 +11983,6 @@ boilerful
 boilerhouse
 boilerless
 boilermaker
-bradypnoea
 boilermakers
 boilerman
 boilers
