@@ -7583,7 +7583,6 @@ ephoralty
 ephorates
 ephori
 ephoric
-ephors
 ephorship
 ephphatha
 ephraim
@@ -14163,6 +14162,7 @@ exultet
 exultingly
 exults
 exululate
+ephors
 exumbrella
 exundance
 exundancy
