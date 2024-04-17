@@ -19582,6 +19582,7 @@ comamie
 coman
 comanche
 comanchean
+counteractivity
 comanches
 comandante
 comandantes
@@ -26652,7 +26653,6 @@ counteraction
 counteractions
 counteractive
 counteractively
-counteractivity
 counteractor
 counteracts
 counterintelligence
