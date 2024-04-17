@@ -14035,7 +14035,6 @@ brachyskelic
 brachysm
 brachystaphylic
 biting
-brachystegia
 brachistocephali
 brachistocephaly
 brachistocephalic
@@ -16460,6 +16459,7 @@ broadswords
 btise
 bylander
 brimming
+brachystegia
 btl
 btry
 btu
