@@ -3947,7 +3947,6 @@ emil
 emily
 emilia
 emim
-eminences
 eminency
 extraboldface
 eminencies
@@ -8521,6 +8520,7 @@ epoptic
 epoptist
 ensignship
 epornitic
+eminences
 epos
 eposes
 eutony
