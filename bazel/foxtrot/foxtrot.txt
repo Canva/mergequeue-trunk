@@ -1909,6 +1909,7 @@ feeble
 feeblebrained
 feeblehearted
 foreword
+frazing
 feebleheartedly
 feebleheartedness
 feebleminded
@@ -9547,7 +9548,6 @@ fraxinus
 fraze
 frazed
 frazer
-frazing
 frazzle
 flattop
 frazzles
