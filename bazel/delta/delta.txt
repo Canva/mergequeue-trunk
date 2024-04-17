@@ -13546,6 +13546,7 @@ dissymmettric
 dissympathy
 dissympathize
 dissimulate
+duramatral
 dissimulates
 dame
 dissimulating
@@ -18413,7 +18414,6 @@ duracine
 durain
 dural
 duramater
-duramatral
 duramen
 dollfish
 duramens
