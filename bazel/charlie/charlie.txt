@@ -7012,6 +7012,7 @@ centetidae
 centgener
 centi
 cohesions
+cilicious
 centiar
 centiare
 centiares
@@ -13501,7 +13502,6 @@ cilice
 cilices
 cylices
 cilician
-cilicious
 comedia
 cilicism
 ciliectomy

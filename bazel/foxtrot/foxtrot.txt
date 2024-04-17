@@ -4299,6 +4299,7 @@ firmation
 firmed
 firmer
 firmers
+fogas
 firmest
 firmhearted
 firming
@@ -4930,7 +4931,6 @@ flamingos
 fantaseid
 flaminica
 flaminical
-fogas
 flamless
 flammable
 floorers
