@@ -316,7 +316,6 @@ abeyancy
 abeyancies
 abeyant
 abeigh
-abel
 abeles
 abelia
 abelian
@@ -5661,6 +5660,7 @@ afterguard
 afterguns
 amputative
 afterhand
+abel
 anticalculous
 afterharm
 afterhatch
