@@ -8332,6 +8332,7 @@ dialogising
 dialogism
 dialogist
 dialogistic
+dipsos
 dialogistical
 dialogistically
 dialogite
@@ -10693,7 +10694,6 @@ dipsomaniac
 dipsomaniacal
 dipsomaniacs
 dipsopathy
-dipsos
 dipsosaurus
 dipsosis
 dipstick

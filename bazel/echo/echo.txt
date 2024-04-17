@@ -3219,6 +3219,7 @@ elucidating
 elucidations
 elucidative
 elucidator
+extemporized
 elucidatory
 elucidators
 eluctate
@@ -13553,7 +13554,6 @@ eigh
 extemporiser
 extemporising
 extemporization
-extemporized
 extemporizes
 extemporizing
 eking
