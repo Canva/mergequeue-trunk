@@ -2942,6 +2942,7 @@ capacify
 capacious
 capaciously
 cannibalic
+cybernetician
 capaciousness
 capacitance
 capacitances
@@ -13085,7 +13086,6 @@ camsteary
 cybernetic
 cybernetical
 cybernetically
-cybernetician
 cyberneticist
 cardiopericarditis
 cyberneticists
