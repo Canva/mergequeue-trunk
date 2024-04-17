@@ -12143,6 +12143,7 @@ excludible
 endpoint
 enunciation
 excludingly
+exemplifying
 exclusion
 exclusionary
 eigenspace
@@ -12401,7 +12402,6 @@ exemplified
 exemplifier
 exemplifiers
 exemplifies
-exemplifying
 erythrophilous
 extusion
 exempt

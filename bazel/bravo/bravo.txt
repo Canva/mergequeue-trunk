@@ -4870,7 +4870,6 @@ bedunced
 bedunces
 bedunch
 boomorah
-beduncing
 bedung
 bedur
 bedway
@@ -11063,6 +11062,7 @@ bloodlines
 bloodlusting
 bloodmobile
 bertholletia
+beduncing
 bloodmobiles
 blackneb
 bloodmonger
