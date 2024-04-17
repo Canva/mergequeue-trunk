@@ -6265,7 +6265,6 @@ enragedly
 extraepiphyseal
 enragedness
 educabilian
-enragement
 enrages
 enraging
 enray
@@ -8662,6 +8661,7 @@ equidiagonal
 equidifferent
 equidimensional
 equidist
+enragement
 equidistance
 equidistantial
 equidistantly
