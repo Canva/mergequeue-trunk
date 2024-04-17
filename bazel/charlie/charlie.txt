@@ -7260,6 +7260,7 @@ cephalobranchiate
 cephalocathartic
 cephalocaudal
 cephalocele
+cloning
 cephalocentesis
 crivetz
 cephalocercal
@@ -16531,7 +16532,6 @@ clong
 clonic
 clonicity
 clonicotonic
-cloning
 clonism
 clonisms
 commutating
