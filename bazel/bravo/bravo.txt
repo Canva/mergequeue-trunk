@@ -2957,6 +2957,7 @@ barrelmaking
 barrels
 barrelsful
 barrelwise
+bubals
 barren
 barrenest
 barrenly
@@ -16475,7 +16476,6 @@ bubalis
 bituminise
 brachyuranic
 bubalises
-bubals
 bubas
 bubastid
 bubastite
