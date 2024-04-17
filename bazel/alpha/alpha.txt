@@ -12458,6 +12458,7 @@ anechoic
 anelace
 adjustable
 anelasticity
+ardu
 anele
 anelectric
 anelectrode
@@ -19272,7 +19273,6 @@ ardour
 ardours
 ardri
 ardrigh
-ardu
 accessit
 arduinite
 arduous

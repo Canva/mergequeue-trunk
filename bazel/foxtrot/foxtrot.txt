@@ -170,6 +170,7 @@ factionalist
 factionaries
 fielded
 factionate
+fluxionary
 factioneer
 factionism
 faradopalpation
@@ -6656,7 +6657,6 @@ fluxing
 fluxion
 fluxional
 fluxionally
-fluxionary
 fluxionist
 fluxions
 fluxive
