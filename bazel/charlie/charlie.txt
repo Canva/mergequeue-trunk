@@ -29121,6 +29121,7 @@ cryogenic
 cryogenics
 cryogenies
 cryogens
+crotonic
 cryohydrate
 cryohydric
 cryolite
@@ -29949,7 +29950,6 @@ croton
 crotonaldehyde
 crotonate
 crotonbug
-crotonic
 crotonyl
 crotonylene
 crotonization
