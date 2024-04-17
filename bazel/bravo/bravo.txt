@@ -4655,7 +4655,6 @@ bedehouses
 bedel
 bedell
 becolme
-bedells
 bedels
 boxfish
 bedelve
@@ -13271,6 +13270,7 @@ botching
 botchka
 botchwork
 botel
+bedells
 boteler
 botella
 botels
