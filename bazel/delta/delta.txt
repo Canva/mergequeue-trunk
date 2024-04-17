@@ -5952,7 +5952,6 @@ depthlessness
 depthometer
 depths
 depthways
-depthwise
 depucel
 drayages
 depudorate
@@ -14034,6 +14033,7 @@ diswarren
 diswarrened
 diswarrening
 diswashing
+depthwise
 disweapon
 diswench
 diswere
