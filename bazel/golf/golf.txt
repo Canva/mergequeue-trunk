@@ -7909,7 +7909,6 @@ grandisonous
 grandity
 genistein
 grandly
-grandma
 grandmamma
 grandmammy
 grandmas
@@ -9781,6 +9780,7 @@ guayacan
 growthless
 gadwell
 guaiacol
+grandma
 geranomorphic
 guaiacolize
 guaiacols
