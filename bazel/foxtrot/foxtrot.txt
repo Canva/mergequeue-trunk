@@ -4053,6 +4053,7 @@ finish
 finishable
 finished
 finisher
+fortitudinous
 finishers
 finishes
 finishing
@@ -8733,7 +8734,6 @@ fortis
 fortissimi
 fortissimo
 fortissimos
-fortitudinous
 fortlet
 fortnight
 fortnightly
