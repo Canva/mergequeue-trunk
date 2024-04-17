@@ -481,7 +481,6 @@ falanaka
 falange
 falangism
 falangist
-falasha
 falbala
 falbalas
 falbelo
@@ -1913,6 +1912,7 @@ feebleheartedly
 feebleheartedness
 feebleminded
 feeblemindedness
+falasha
 feebleness
 feebler
 feebly
