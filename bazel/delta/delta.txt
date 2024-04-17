@@ -12610,6 +12610,7 @@ disloign
 deictic
 dislove
 diagonals
+dragontail
 disluster
 dislustered
 dislustering
@@ -16576,7 +16577,6 @@ dragonlike
 dragonnade
 dragonroot
 dragons
-dragontail
 dragonwort
 dragoon
 dragoonable
