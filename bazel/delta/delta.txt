@@ -15102,7 +15102,6 @@ doliolidae
 doliolum
 dolisie
 dolite
-dolittle
 dolium
 doll
 dollar
@@ -15688,6 +15687,7 @@ dormers
 dormette
 dormeuse
 dormy
+dolittle
 dormice
 dogvane
 dormie
