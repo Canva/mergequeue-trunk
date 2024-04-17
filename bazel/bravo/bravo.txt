@@ -3266,7 +3266,6 @@ basilicas
 basilicate
 basilicock
 basilics
-basilidan
 basilidian
 basilidianism
 basilinna
@@ -7946,6 +7945,7 @@ bibliophobia
 bibliopolar
 bibliopole
 bibliopolery
+basilidan
 bibliopolic
 bibliopolical
 bibliopolically
