@@ -4538,7 +4538,6 @@ fistulae
 fistulana
 fistular
 fistularia
-fistulate
 fistulated
 fistulatome
 fistule
@@ -9958,6 +9957,7 @@ fricandeaux
 fricandel
 fricandelle
 fricando
+fistulate
 fricassee
 fricasseed
 fricasseeing
