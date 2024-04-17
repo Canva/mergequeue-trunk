@@ -3660,7 +3660,6 @@ adenylic
 adenylpyrophosphate
 adenin
 adenine
-adenitis
 adenitises
 adenization
 adenoacanthoma
@@ -15804,6 +15803,7 @@ antipatriotic
 attractant
 astonishing
 antipatriotically
+adenitis
 antipatriotism
 antipedal
 antipedobaptist

@@ -607,7 +607,6 @@ echoers
 echoes
 echograph
 echoic
-eurypterida
 echoing
 echoingly
 echoism
@@ -11375,6 +11374,7 @@ evanescence
 evanescency
 evanescenrly
 evanescent
+eurypterida
 evanescently
 evanesces
 evanescible
