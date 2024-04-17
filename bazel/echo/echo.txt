@@ -123,6 +123,7 @@ earplug
 earplugs
 earreach
 earring
+erodent
 earrings
 ears
 earscrew
@@ -9321,7 +9322,6 @@ erodability
 erodable
 erode
 eroded
-erodent
 erodes
 explorate
 eroding
