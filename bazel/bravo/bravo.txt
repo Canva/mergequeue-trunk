@@ -16352,7 +16352,6 @@ brushback
 brushbird
 brushcut
 betrace
-brushed
 brusher
 brushers
 brushes
@@ -16994,6 +16993,7 @@ bulbul
 bulbule
 bulbuls
 bulbus
+brushed
 blowhards
 bulder
 blanchingly

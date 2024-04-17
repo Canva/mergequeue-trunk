@@ -5086,7 +5086,6 @@ amplification
 aerophane
 aerophilately
 aerophilatelic
-aerophilatelist
 aerophile
 aerophilia
 aerophilous
@@ -7023,6 +7022,7 @@ airward
 airwards
 airwash
 airwave
+aerophilatelist
 airwaves
 airwise
 abstruseness
