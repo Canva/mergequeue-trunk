@@ -462,7 +462,6 @@ galenas
 galenian
 galenic
 galenical
-galenist
 globulicidal
 galenobismutite
 galenoid
@@ -2430,6 +2429,7 @@ gelidness
 gelignite
 gelinotte
 gell
+galenist
 gutturalisation
 gellants
 gellert
