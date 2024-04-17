@@ -2190,7 +2190,6 @@ achamoth
 achape
 achaque
 achar
-acharya
 achariaceae
 achariaceous
 acharne
@@ -4434,6 +4433,7 @@ adsheart
 adsignify
 adsignification
 adsmith
+acharya
 adsmithing
 adsorb
 adsorbability
