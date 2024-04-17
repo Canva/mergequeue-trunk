@@ -6041,7 +6041,6 @@ catur
 corallite
 catvine
 catwalk
-cognizability
 catwalks
 catwise
 catwort
@@ -7649,6 +7648,7 @@ cerion
 cerionidae
 ceriops
 ceriornis
+cognizability
 ceriph
 ceriphs
 cerise
