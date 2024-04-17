@@ -5429,7 +5429,6 @@ catalina
 contentful
 catalineta
 catalinite
-catalyse
 catalyses
 catalysis
 catalyst
@@ -17766,6 +17765,7 @@ codirectional
 codirector
 commonish
 codirectorship
+catalyse
 codirects
 codiscoverer
 codisjunct
