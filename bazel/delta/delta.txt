@@ -1677,7 +1677,6 @@ dispensingly
 deasil
 deaspirate
 decostate
-deassimilation
 deathbed
 denuders
 deathbeds
@@ -5524,6 +5523,7 @@ depart
 departed
 departement
 disjointing
+deassimilation
 dwining
 departements
 departer
