@@ -5986,6 +5986,7 @@ bemazed
 bembecidae
 bembex
 bemean
+bionomist
 bemeaned
 bemeaning
 bemeans
@@ -8667,7 +8668,6 @@ billions
 billionth
 billionths
 billitonite
-bionomist
 billywix
 benzo
 billjim
