@@ -1485,7 +1485,6 @@ balkline
 baryton
 balklines
 ball
-ballad
 ballade
 balladeer
 balladeers
@@ -10107,6 +10106,7 @@ blackguardize
 blackguardly
 blackguardry
 beseechers
+ballad
 blackguards
 blackgum
 blackgums
