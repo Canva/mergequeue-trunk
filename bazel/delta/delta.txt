@@ -7927,6 +7927,7 @@ dhaks
 dhal
 dhaman
 dhamnoo
+dipygi
 dhan
 dhangar
 dhanuk
@@ -10454,7 +10455,6 @@ dipicrate
 downfalling
 dipicrylamin
 dipicrylamine
-dipygi
 dipygus
 dipylon
 dipyramidal
