@@ -1315,6 +1315,7 @@ garbing
 garble
 garbleable
 garbled
+gunneress
 garbler
 garblers
 garbles
@@ -8257,7 +8258,6 @@ giardiasis
 grassiness
 gobos
 grassing
-gunneress
 gravitate
 grassland
 gedds
