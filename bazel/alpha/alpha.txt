@@ -20136,6 +20136,7 @@ arpens
 arpent
 arpenteur
 arpents
+axones
 agas
 arquated
 arquebus
@@ -25174,7 +25175,6 @@ axon
 aurantiaceous
 axonemal
 asynartetic
-axones
 axoneure
 axoneuron
 axonia
