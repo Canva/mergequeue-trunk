@@ -6527,7 +6527,6 @@ ensulphur
 ensurance
 ensurer
 equippers
-ensures
 ensuring
 enswathe
 enswathed
@@ -9754,6 +9753,7 @@ expressing
 esoethmoiditis
 esonarthex
 ejaculatory
+ensures
 esoneural
 esopgi
 enform
