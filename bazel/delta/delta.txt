@@ -14375,6 +14375,7 @@ divisorial
 dimes
 divisural
 divorceable
+drizzly
 divorced
 divorcee
 divorcees
@@ -17209,7 +17210,6 @@ dryworker
 drizzle
 drizzled
 drizzles
-drizzly
 drizzlier
 drizzliest
 drizzling
