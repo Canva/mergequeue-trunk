@@ -10223,6 +10223,7 @@ doley
 dioecian
 dioeciopolygamous
 dishonorableness
+distanceless
 dioeciousness
 dioecism
 dioecisms
@@ -13670,7 +13671,6 @@ distalia
 distalwards
 distance
 distanced
-distanceless
 desireable
 distancing
 distannic

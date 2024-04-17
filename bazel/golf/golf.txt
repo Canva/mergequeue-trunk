@@ -4265,7 +4265,6 @@ grysbok
 gymnogenous
 gymnogynous
 gunner
-gymnogyps
 gymnoglossa
 gymnoglossate
 gambas
@@ -10339,6 +10338,7 @@ gullibility
 gullible
 gullibly
 gullies
+gymnogyps
 gentleheartedness
 gullygut
 gullying
