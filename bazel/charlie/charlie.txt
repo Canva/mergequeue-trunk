@@ -1398,7 +1398,6 @@ careening
 calkers
 calkin
 calking
-calkins
 calks
 call
 callable
@@ -30630,6 +30629,7 @@ cudgelling
 cudgels
 cudgerie
 cuds
+calkins
 cudweed
 cudweeds
 cudwort

@@ -1312,6 +1312,7 @@ flibustier
 fatheaded
 fatheadedly
 fatheadedness
+fallible
 fulvous
 fathearted
 fathercraft
@@ -7992,7 +7993,6 @@ foreshown
 foreshows
 foreshroud
 falters
-fallible
 foreside
 foresides
 funnelwise
