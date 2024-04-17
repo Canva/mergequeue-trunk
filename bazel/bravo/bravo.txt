@@ -1058,7 +1058,6 @@ blindages
 bailable
 bayldonite
 baile
-bailed
 bailee
 bodyguard
 bailees
@@ -9655,6 +9654,7 @@ bisyllabic
 bisyllabism
 bisimine
 bisymmetry
+bailed
 bisymmetric
 bisymmetrical
 bisync
