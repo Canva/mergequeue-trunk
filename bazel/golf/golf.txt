@@ -1341,7 +1341,6 @@ gardebras
 garden
 gardened
 gardener
-gardeners
 gardenership
 gardenesque
 gardenful
@@ -5712,6 +5711,7 @@ globuliform
 globulimeter
 globulin
 grabbled
+gardeners
 globulins
 globulinuria
 globulite

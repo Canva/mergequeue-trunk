@@ -9332,6 +9332,7 @@ alphabetism
 alphabetist
 alphabetization
 alphabetize
+assaulting
 alphabetized
 alphabetizer
 alphabetizers
@@ -21608,7 +21609,6 @@ assaulted
 assaulter
 assaulters
 attainably
-assaulting
 assaultive
 assaults
 assausive
