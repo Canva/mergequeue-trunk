@@ -3072,6 +3072,7 @@ defacement
 defacements
 defacers
 defaces
+desmography
 defacing
 defacingly
 defacto
@@ -6753,7 +6754,6 @@ desmodus
 desmogenous
 desmognathism
 desmognathous
-desmography
 desmohemoblast
 desmoid
 desmoids
