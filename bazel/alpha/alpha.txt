@@ -17958,6 +17958,7 @@ appressorium
 aphoria
 aggiornamento
 apprest
+awakenable
 appreteur
 appreve
 apprise
@@ -24929,7 +24930,6 @@ awakeable
 awaked
 affronte
 awaken
-awakenable
 awakened
 awakener
 awakeners
