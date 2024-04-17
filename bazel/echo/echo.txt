@@ -2898,6 +2898,7 @@ eaglelike
 escalators
 eleven
 elevener
+everymen
 elevenfold
 elevens
 eleventeenth
@@ -11560,7 +11561,6 @@ everydayness
 everyhow
 everylike
 everyman
-everymen
 enlaced
 endoss
 everyness

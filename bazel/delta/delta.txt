@@ -8412,6 +8412,7 @@ diamondize
 diamondized
 diamondizing
 diamondlike
+disembroilment
 dunites
 diamonds
 diamondwork
@@ -11883,7 +11884,6 @@ disembowels
 disembower
 disembrangle
 disembroil
-disembroilment
 disemburden
 disemic
 disemplane
