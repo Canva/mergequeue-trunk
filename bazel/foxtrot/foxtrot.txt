@@ -370,7 +370,6 @@ faintheartedness
 fainty
 fainting
 fumago
-faintingly
 faintise
 faintish
 faintishness
@@ -4433,6 +4432,7 @@ fishpoles
 fishponds
 fishpotter
 fishskin
+faintingly
 fishspear
 fishtail
 fishtailed
