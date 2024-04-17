@@ -776,7 +776,6 @@ bituminiferous
 badgeless
 berrendo
 badgeman
-badgemen
 badger
 badgerbrush
 badgered
@@ -875,6 +874,7 @@ bagattino
 bagaudae
 bagdad
 bagdi
+badgemen
 bagel
 bagels
 bagful
