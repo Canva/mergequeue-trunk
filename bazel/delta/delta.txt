@@ -2041,7 +2041,6 @@ decandria
 decandrous
 decane
 decanery
-decanes
 decani
 decanically
 decannulation
@@ -6563,6 +6562,7 @@ desertism
 desertlessly
 desertlike
 desertness
+decanes
 desertress
 dematerialising
 desertrice
