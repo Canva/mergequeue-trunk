@@ -8123,6 +8123,7 @@ bicuspidate
 bid
 bidactyl
 booklists
+blennoptysis
 bidactylous
 bidar
 bidarka
@@ -10679,7 +10680,6 @@ blennophlogisma
 blennophlogosis
 blennophobia
 blennophthalmia
-blennoptysis
 blennorhea
 blennorrhagia
 blennorrhagic

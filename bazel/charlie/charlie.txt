@@ -11901,7 +11901,6 @@ choreographers
 choreography
 choreographic
 choreographical
-choreographically
 choreographing
 choreographs
 choreoid
@@ -20656,6 +20655,7 @@ complexioned
 complexionist
 complexionless
 cahuapana
+choreographically
 complexions
 complexity
 complexities
