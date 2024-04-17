@@ -3290,6 +3290,7 @@ caprioling
 capriote
 capriped
 capripede
+coelastraceous
 capris
 caprizant
 caproate
@@ -17833,7 +17834,6 @@ coelanaglyphic
 coelar
 coelarium
 coelastraceae
-coelastraceous
 coelastrum
 coelata
 coelder
