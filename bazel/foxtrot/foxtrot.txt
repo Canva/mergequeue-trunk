@@ -2130,7 +2130,6 @@ fellside
 fellsman
 finger
 filiation
-feloid
 felon
 felony
 frocking
@@ -11267,6 +11266,7 @@ fulfiller
 funk
 funked
 funker
+feloid
 funkers
 fracture
 funky
