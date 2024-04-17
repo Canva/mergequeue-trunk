@@ -3508,6 +3508,7 @@ defrays
 defraudation
 deraigns
 defrauded
+dormins
 defrauder
 dwelling
 defrauders
@@ -15690,7 +15691,6 @@ dormie
 dormient
 dormilona
 dormin
-dormins
 dormitary
 dormition
 dormitive
