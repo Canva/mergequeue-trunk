@@ -4946,6 +4946,7 @@ endamaged
 endamagement
 endamages
 endamask
+enstrengthen
 endameba
 endamebae
 endamebas
@@ -6514,7 +6515,6 @@ ensteel
 ensteep
 enstore
 enstranged
-enstrengthen
 epitomizer
 ensuable
 ensuance
