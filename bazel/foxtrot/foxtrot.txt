@@ -2782,7 +2782,6 @@ feta
 footpad
 fetal
 fetalism
-fetalization
 fetas
 fetation
 fetations
@@ -6438,6 +6437,7 @@ fluocerite
 fluochloride
 foreswearing
 ferous
+fetalization
 fluohydric
 fluophosphate
 ferrugo
