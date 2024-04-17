@@ -15512,7 +15512,6 @@ antimechanism
 antimechanist
 antimechanistic
 antimechanistically
-antimechanization
 antimediaeval
 antimediaevalism
 antimediaevalist
@@ -16367,6 +16366,7 @@ antitrypsin
 antitryptic
 antitrismus
 antitropal
+antimechanization
 antitrope
 antitropy
 antitropic
