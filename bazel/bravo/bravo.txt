@@ -12613,6 +12613,7 @@ bookcases
 bookcraft
 bookdealer
 booked
+brahmic
 bookend
 bushmaster
 bookends
@@ -12966,7 +12967,6 @@ boread
 boreades
 boreal
 borealis
-brahmic
 borean
 boreas
 borecole
