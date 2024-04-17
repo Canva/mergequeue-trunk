@@ -178,6 +178,7 @@ factionist
 fluavil
 factionistism
 factions
+famished
 forecatharping
 factious
 flirtatious
@@ -692,7 +693,6 @@ famille
 famine
 frostfishes
 faming
-famished
 famishes
 famishing
 famous

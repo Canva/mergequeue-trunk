@@ -13505,7 +13505,6 @@ boulevardize
 boulevards
 bouleversement
 boulework
-boulimia
 boulle
 boulles
 boullework
@@ -14882,6 +14881,7 @@ breather
 breathes
 breathful
 breathy
+boulimia
 breathier
 breathily
 breathiness
