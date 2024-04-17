@@ -5505,7 +5505,6 @@ eneid
 enema
 enemas
 enemata
-enemy
 enemied
 enemies
 estancieros
@@ -8066,6 +8065,7 @@ expedientist
 epiparasite
 epiphytical
 epipastic
+enemy
 evaginate
 epipedometry
 epipelagic
