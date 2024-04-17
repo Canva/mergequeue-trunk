@@ -3711,7 +3711,6 @@ adenolipoma
 adenolipomatosis
 adenologaditis
 adenology
-adenological
 adenoma
 adenomalacia
 adenomas
@@ -3747,6 +3746,7 @@ adenoses
 adenosine
 adenostemonous
 adenostoma
+adenological
 adenotyphoid
 adenotyphus
 adenotome
