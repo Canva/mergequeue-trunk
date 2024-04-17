@@ -4338,6 +4338,7 @@ gynaecology
 gynaecologic
 gynaecological
 gynaecologist
+glutens
 goalkeepers
 gynaecomastia
 gynaecomorphous
@@ -6133,7 +6134,6 @@ glutelin
 glutelins
 glutenin
 glutenous
-glutens
 gluteofemoral
 gluteoinguinal
 glutethimide
