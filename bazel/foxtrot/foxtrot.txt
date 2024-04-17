@@ -295,6 +295,7 @@ faecalith
 federation
 faeces
 faecula
+fumarase
 faeculence
 faena
 flidder
@@ -11002,7 +11003,6 @@ fumage
 fumagine
 fumant
 flavones
-fumarase
 flagellar
 finally
 fumarases
