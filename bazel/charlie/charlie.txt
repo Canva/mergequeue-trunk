@@ -3394,6 +3394,7 @@ captivation
 captivative
 captivator
 captivators
+chrysomonad
 captive
 captived
 calvarias
@@ -10737,7 +10738,6 @@ chined
 chinee
 chinela
 chinenses
-chrysomonad
 chines
 chinese
 chinesery
