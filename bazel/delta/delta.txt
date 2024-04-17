@@ -7706,6 +7706,7 @@ devolved
 devolvement
 devolvements
 devolves
+diarist
 devolving
 disprized
 devon
@@ -8548,7 +8549,6 @@ dyarchies
 diary
 diarian
 drunt
-diarist
 diaristic
 diarists
 diarize
