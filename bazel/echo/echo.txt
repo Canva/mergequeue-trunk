@@ -3317,7 +3317,6 @@ emancipate
 emancipated
 emancipates
 emancipating
-emancipation
 emancipationist
 emancipations
 emancipatist
@@ -8874,6 +8873,7 @@ episodal
 equivote
 equoid
 equoidean
+emancipation
 equulei
 equuleus
 equus
