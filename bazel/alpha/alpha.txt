@@ -7512,7 +7512,6 @@ albumeniser
 albumenising
 albumenization
 antilogism
-albumenize
 albumenized
 albumenizer
 albumenizing
@@ -16283,6 +16282,7 @@ antispiritualist
 antistrophon
 antistrumatic
 antisubmarine
+albumenize
 antisubstance
 antisudoral
 antisudorific
