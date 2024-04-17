@@ -1015,7 +1015,6 @@ eddied
 encephalon
 eddyroot
 eddish
-eddo
 eddoes
 edea
 edeagra
@@ -3508,6 +3507,7 @@ emblematist
 emblematize
 emblematized
 emblematizing
+eddo
 emblematology
 emblemed
 emblement

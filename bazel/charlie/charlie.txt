@@ -3819,6 +3819,7 @@ carcases
 carcasing
 crueler
 carcass
+culicinae
 cellmate
 carcassed
 carcasses
@@ -30735,7 +30736,6 @@ chicharra
 culiciform
 culicifugal
 culicifuge
-culicinae
 culicine
 culicines
 culicoides
