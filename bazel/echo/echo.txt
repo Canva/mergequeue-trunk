@@ -513,6 +513,7 @@ extraphenomenal
 echelon
 echeloned
 echelonment
+esophagoplication
 echelons
 echeloot
 echeneid
@@ -9782,7 +9783,6 @@ esophagomycosis
 esophagopathy
 esophagoplasty
 esophagoplegia
-esophagoplication
 esophagoptosis
 esophagorrhagia
 esophagoscope
