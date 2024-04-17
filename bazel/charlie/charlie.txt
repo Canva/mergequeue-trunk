@@ -26091,6 +26091,7 @@ cosmographist
 cosmoid
 cosmolatry
 cosmoline
+cruse
 cosmolined
 cosmolining
 cosmology
@@ -30272,7 +30273,6 @@ coastways
 crusadoes
 crusados
 crusca
-cruse
 cruses
 cruset
 crusets

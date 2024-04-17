@@ -128,7 +128,6 @@ gadolinic
 gadolinium
 gadroon
 gadroonage
-gadrooned
 gadrooning
 gadroons
 gads
@@ -3006,6 +3005,7 @@ geocyclic
 geocline
 geococcyx
 geocoronium
+gadrooned
 geocratic
 geraniols
 geocronite
