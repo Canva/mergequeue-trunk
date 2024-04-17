@@ -4664,7 +4664,6 @@ boxfish
 bedelve
 bedeman
 boud
-bedemen
 beden
 bedesman
 bedesmen
@@ -15373,6 +15372,7 @@ brimborium
 brimfully
 brimfullness
 brimfulness
+bedemen
 briming
 brimless
 brimly
