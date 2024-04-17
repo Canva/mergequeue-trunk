@@ -3557,7 +3557,6 @@ gestapos
 gestate
 gestated
 gestates
-gestating
 gestational
 gestations
 gestative
@@ -8709,6 +8708,7 @@ greenwood
 greenwoods
 greenwort
 grees
+gestating
 greese
 greeshoch
 greet

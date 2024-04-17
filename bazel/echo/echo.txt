@@ -7050,7 +7050,6 @@ entrancing
 entrancingly
 entrant
 entrants
-entrap
 entrapment
 esrog
 entrapments
@@ -8491,6 +8490,7 @@ eplot
 epoch
 epocha
 epochally
+entrap
 epoche
 epochism
 epodes
