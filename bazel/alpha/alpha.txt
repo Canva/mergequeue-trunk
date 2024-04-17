@@ -458,6 +458,7 @@ abioses
 abiosis
 abiotic
 abiotical
+archpastor
 anklebone
 abiotically
 abiotrophy
@@ -19086,7 +19087,6 @@ archostegnosis
 archostenosis
 archoverseer
 archpall
-archpastor
 archpatriarch
 archpatron
 anana
