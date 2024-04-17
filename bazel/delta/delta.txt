@@ -505,6 +505,7 @@ dakotans
 dakotas
 daks
 daktylon
+doggish
 daktylos
 dal
 dalaga
@@ -14888,7 +14889,6 @@ doggie
 doggies
 doggiest
 dogging
-doggish
 doggishly
 doggishness
 doggle
