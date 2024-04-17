@@ -6578,7 +6578,6 @@ bequeather
 bequeathing
 brawled
 bequeaths
-bequest
 bequests
 bequote
 beqwete
@@ -13014,6 +13013,7 @@ borine
 boring
 boringly
 boringness
+bequest
 borings
 borinqueno
 boles
