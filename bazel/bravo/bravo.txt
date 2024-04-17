@@ -8255,6 +8255,7 @@ bifidities
 bifidly
 bifilarly
 bifistular
+boardwalks
 biflabellate
 biflagellate
 biflecnode
@@ -11528,7 +11529,6 @@ boardmen
 boardroom
 boards
 boardsmanship
-boardwalks
 boarfish
 boarfishes
 boarhound
