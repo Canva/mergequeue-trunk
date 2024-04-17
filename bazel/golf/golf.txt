@@ -10022,7 +10022,6 @@ guelphism
 guemal
 guemul
 greenhorns
-guenepe
 guenon
 guenons
 guepard
@@ -10058,6 +10057,7 @@ guerrillaship
 guesdism
 gpss
 guid
+guenepe
 guesdist
 guess
 guessable
