@@ -13615,6 +13615,7 @@ annually
 annuals
 annuary
 annuation
+antispirochetic
 annueler
 annueller
 annuent
@@ -16245,7 +16246,6 @@ antispiritualism
 adenia
 antispiritualistic
 antispiritually
-antispirochetic
 antisplasher
 antisplenetic
 antispreader
