@@ -2512,6 +2512,7 @@ electromechanically
 electromechanics
 electromedical
 esquireship
+eternalised
 electromer
 electromeric
 electromerism
@@ -10254,7 +10255,6 @@ eteostic
 eterminable
 eternal
 eternalise
-eternalised
 eternalism
 eternalist
 eternality
