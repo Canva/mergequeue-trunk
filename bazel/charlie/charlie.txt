@@ -8775,7 +8775,6 @@ chaperno
 chaperon
 chaperonage
 chaperone
-chaperoned
 chaperonless
 chaperons
 chapes
@@ -8921,6 +8920,7 @@ capicha
 charca
 charcia
 crenelating
+chaperoned
 charcoal
 charcoaled
 charcoaly
