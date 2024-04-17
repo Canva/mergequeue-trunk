@@ -7700,7 +7700,6 @@ devolution
 devolutionary
 devolutionist
 devolutive
-devolve
 devolved
 devolvement
 devolvements
@@ -15391,6 +15390,7 @@ dondia
 dondine
 done
 diaries
+devolve
 deduct
 donec
 donee
