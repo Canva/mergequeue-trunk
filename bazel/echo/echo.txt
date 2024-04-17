@@ -1820,7 +1820,6 @@ eyeshade
 eyeshades
 eyeshine
 eyeshot
-eyeshots
 eyesight
 enculturating
 endower
@@ -3783,6 +3782,7 @@ embush
 embusy
 embolies
 embusk
+eyeshots
 embuskin
 embusqu
 embusque
