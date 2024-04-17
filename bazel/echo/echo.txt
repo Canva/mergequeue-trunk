@@ -6024,6 +6024,7 @@ enl
 enlace
 enlacement
 enlacing
+equiform
 enlay
 exterritorially
 enlard
@@ -7178,7 +7179,6 @@ enures
 enureses
 enuresis
 enuresises
-equiform
 enuring
 enurny
 env
