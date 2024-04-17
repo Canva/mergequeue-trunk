@@ -3709,7 +3709,6 @@ batster
 batswing
 batt
 batta
-battable
 becurl
 battailant
 battailous
@@ -15472,6 +15471,7 @@ bryophyte
 bryophytes
 bryophytic
 brios
+battable
 bryozoa
 bryozoan
 bryozoans
