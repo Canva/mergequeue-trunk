@@ -1472,7 +1472,6 @@ blurs
 balker
 balkers
 balky
-balkier
 balkiest
 balkily
 balkiness
@@ -7346,6 +7345,7 @@ betelgeuse
 batitinan
 betell
 betelnut
+balkier
 betelnuts
 betels
 beterschap
