@@ -20648,7 +20648,6 @@ complexer
 complexes
 cebatha
 complexest
-complexify
 complexification
 complexing
 complexion
@@ -26393,6 +26392,7 @@ cotylophorous
 cotylopubic
 criminalist
 cotylosacral
+complexify
 cotylosaur
 cotylosauria
 cotylosaurian

@@ -4003,6 +4003,7 @@ gigaton
 grouseless
 gigatons
 gigavolt
+gymnasium
 gigawatt
 gigawatts
 gigback
@@ -4225,7 +4226,6 @@ gymnasiast
 gymnasic
 gymnasisia
 gymnasisiums
-gymnasium
 gymnasiums
 gymnast
 gymnastic
