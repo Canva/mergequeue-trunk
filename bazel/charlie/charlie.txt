@@ -4876,7 +4876,6 @@ carunculae
 caruncular
 carunculate
 carunculated
-carunculous
 carus
 carvacryl
 catchfly
@@ -22668,6 +22667,7 @@ conrey
 conringia
 cons
 consacre
+carunculous
 consanguine
 consanguineal
 consanguinean
