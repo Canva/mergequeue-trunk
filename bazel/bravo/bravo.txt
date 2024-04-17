@@ -13440,6 +13440,7 @@ bouchette
 bouchon
 bouchons
 boucl
+brevicomis
 boucle
 boucles
 bouderie
@@ -15045,7 +15046,6 @@ brevicauda
 brevicaudate
 brevicipitid
 brevicipitidae
-brevicomis
 breviconic
 balneographer
 brevier

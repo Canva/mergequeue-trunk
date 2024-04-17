@@ -8644,6 +8644,7 @@ forsooth
 forspeak
 forspend
 forspent
+familiarities
 farstepped
 ferally
 fogdog
@@ -10638,7 +10639,6 @@ fructuous
 fructuously
 fructuousness
 fructure
-familiarities
 fructus
 frug
 frugal
