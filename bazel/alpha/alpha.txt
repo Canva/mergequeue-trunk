@@ -16621,7 +16621,6 @@ apay
 apayao
 apaid
 apaise
-apalachee
 apalit
 apama
 apanage
@@ -23893,6 +23892,7 @@ arthrotomy
 autobiographic
 assagais
 autobiographical
+apalachee
 autobiographically
 autobiographist
 autobiology
