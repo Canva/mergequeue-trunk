@@ -5250,7 +5250,6 @@ aface
 androlepsia
 afaced
 afacing
-afaint
 afara
 afars
 afb
@@ -22760,6 +22759,7 @@ atomistically
 atomists
 atomity
 allomorphism
+afaint
 abrocoma
 atomization
 atomize

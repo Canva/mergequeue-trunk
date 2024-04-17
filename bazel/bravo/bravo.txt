@@ -2925,7 +2925,6 @@ barrancos
 barrandite
 barras
 barrat
-barrater
 barraters
 barrator
 barrators
@@ -10304,6 +10303,7 @@ blandishing
 blandishingly
 blandishment
 blandishments
+barrater
 blandly
 berger
 blandness
