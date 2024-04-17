@@ -8640,6 +8640,7 @@ changeless
 changelessly
 changelessness
 changeling
+counterweigh
 changelings
 changemaker
 changement
@@ -27223,7 +27224,6 @@ counterwager
 counterwall
 coetus
 counterwave
-counterweigh
 counterweighed
 counterweighing
 counterweight

@@ -5668,7 +5668,6 @@ flinkite
 fator
 flint
 flinted
-flinter
 fossorial
 flinthead
 flinthearted
@@ -7102,6 +7101,7 @@ fonts
 foo
 foochow
 food
+flinter
 foodful
 foody
 foodless
