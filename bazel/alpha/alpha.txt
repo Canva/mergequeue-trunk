@@ -3337,6 +3337,7 @@ acupuncture
 acupunctured
 acupuncturing
 acupuncturist
+autonomist
 acus
 acusection
 acusector
@@ -24257,7 +24258,6 @@ autonomic
 amusing
 autonomical
 autonomies
-autonomist
 autonomize
 autonomous
 autonomousness

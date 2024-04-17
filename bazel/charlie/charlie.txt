@@ -20727,7 +20727,6 @@ compliments
 complin
 compline
 complines
-complins
 complish
 complot
 complotment
@@ -26106,6 +26105,7 @@ cosmologically
 cosmologies
 cosmologygy
 cosmologist
+complins
 cosmologists
 cosmometry
 cosmonaut
