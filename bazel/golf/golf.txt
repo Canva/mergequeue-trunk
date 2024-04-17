@@ -6714,7 +6714,6 @@ gomorrean
 gomorrhean
 gamines
 gomphiasis
-gomphocarpus
 garbless
 gomphodont
 gomphoses
@@ -10023,6 +10022,7 @@ guemul
 greenhorns
 guenon
 guenons
+gomphocarpus
 guepard
 gueparde
 guerdonable
