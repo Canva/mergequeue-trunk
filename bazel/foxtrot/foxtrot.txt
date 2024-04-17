@@ -4502,7 +4502,6 @@ figurette
 fissury
 fissuriform
 fishgigs
-fissuring
 fist
 fisted
 fister
@@ -11001,6 +11000,7 @@ feltwork
 fumage
 fumagine
 fumant
+fissuring
 flavones
 fumarase
 flagellar
