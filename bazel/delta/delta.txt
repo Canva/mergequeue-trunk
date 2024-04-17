@@ -7867,6 +7867,7 @@ dauts
 dextrinate
 dextrine
 dextrines
+diapasm
 dextrinize
 dextrinous
 dextrins
@@ -8452,7 +8453,6 @@ diantre
 diapalma
 diapase
 dully
-diapasm
 diapasonal
 diapasons
 diapause
