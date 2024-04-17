@@ -1756,6 +1756,7 @@ gastrocoel
 gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
+goniatite
 gastrocolpotomy
 gastrodermal
 gaonic
@@ -6793,7 +6794,6 @@ gingerin
 gonial
 gonyalgia
 goniaster
-goniatite
 goniatites
 goniatitic
 goniatitid
