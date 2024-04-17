@@ -177,6 +177,7 @@ gaffsman
 gag
 gaga
 greyhen
+gamdia
 gagaku
 gagate
 gage
@@ -914,7 +915,6 @@ gambs
 gambusias
 gamdeboo
 gasteropod
-gamdia
 gamebag
 gameball
 gauby
