@@ -8078,6 +8078,7 @@ forestries
 flecnode
 forests
 forestside
+foxer
 flue
 forestwards
 foresummer
@@ -9111,7 +9112,6 @@ fallaciousness
 fox
 foxberry
 foxberries
-foxer
 foxery
 foxes
 foxfeet
