@@ -1765,7 +1765,6 @@ eyeglasses
 etudes
 elegant
 eyeground
-epornitically
 eyehole
 emits
 eyeholes
@@ -10529,6 +10528,7 @@ ethnogeny
 ethnogenic
 ethnogenies
 ethnogenist
+epornitically
 ethnogeographer
 ethnogeography
 ethnogeographic
