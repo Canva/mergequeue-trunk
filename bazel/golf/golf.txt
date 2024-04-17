@@ -5247,6 +5247,7 @@ glauconia
 glauconiferous
 glauconiidae
 glauconitic
+goatsfoot
 glaucophane
 glaucophanite
 glaucophanization
@@ -6376,7 +6377,6 @@ goats
 goatsbane
 garnetter
 goatsbeard
-goatsfoot
 goatskin
 goatskins
 goatland
