@@ -1583,6 +1583,7 @@ ballism
 ballismus
 ballista
 ballistae
+blackfly
 bijous
 bullwork
 ballistician
@@ -10094,7 +10095,6 @@ blackfisher
 blackfishes
 brahmins
 blackfishing
-blackfly
 blackflies
 bibasic
 blackfriars
