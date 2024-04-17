@@ -3406,6 +3406,7 @@ adamantoblastoma
 adamantoid
 adamantoma
 adamants
+astringer
 adamas
 adamastor
 adamellite
@@ -22223,7 +22224,6 @@ astringent
 astringently
 ambones
 astringents
-astringer
 astringes
 astringing
 astrion
