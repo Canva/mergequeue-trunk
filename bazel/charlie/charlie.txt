@@ -4451,7 +4451,6 @@ caroaches
 carob
 caroba
 carobs
-caroch
 caroche
 caroches
 caroid
@@ -23388,6 +23387,7 @@ contendingly
 contendress
 coutelle
 contends
+caroch
 contenement
 content
 contentable
