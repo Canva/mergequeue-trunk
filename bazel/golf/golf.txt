@@ -3583,6 +3583,7 @@ gesticulates
 glunimie
 gesticulation
 gipsylike
+ganoidean
 gesticulations
 gesticulative
 gestio
@@ -10756,7 +10757,6 @@ gutter
 guttera
 gutteral
 goose
-ganoidean
 graving
 gravamen
 gutterblood
