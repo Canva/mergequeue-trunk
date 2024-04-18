@@ -14194,7 +14194,6 @@ circumaction
 circumadjacent
 circumagitate
 configurationist
-circumambages
 circumambagious
 circumambience
 circumambiency
@@ -28723,6 +28722,7 @@ crepitated
 crepitating
 crumblings
 crepitation
+circumambages
 crepitous
 crepitus
 creply
