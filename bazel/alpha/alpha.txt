@@ -5211,6 +5211,7 @@ aethalioid
 abstriction
 aetheling
 aetheogam
+aguamas
 aetheogamic
 aetheogamous
 airth
@@ -22973,7 +22974,6 @@ attaintment
 azures
 attaints
 attainture
-aguamas
 attal
 attalea
 attaleh
