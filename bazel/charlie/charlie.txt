@@ -5994,7 +5994,6 @@ catspaws
 catstane
 catstep
 catstick
-catstitch
 catstitcher
 catsup
 catsups
@@ -13912,6 +13911,7 @@ cinnamylidene
 cinnamodendron
 cinnamoyl
 cinnamol
+catstitch
 cinnamomic
 cinnamomum
 cinnamon
