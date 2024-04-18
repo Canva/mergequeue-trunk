@@ -5244,6 +5244,7 @@ flavic
 flavicant
 flavid
 flavine
+foreturn
 flavines
 fireproof
 flavins
@@ -8139,7 +8140,6 @@ foretops
 foretrace
 foretriangle
 foretrysail
-foreturn
 flimflamming
 foreuse
 foreutter
