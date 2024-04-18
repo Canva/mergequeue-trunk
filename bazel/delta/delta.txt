@@ -2513,7 +2513,6 @@ declensional
 declensionally
 declensions
 declericalize
-declinable
 didepsid
 declinal
 declinate
@@ -4213,6 +4212,7 @@ deliverers
 deliveress
 deliveries
 deliveryman
+declinable
 deliverymen
 delivering
 deliverly

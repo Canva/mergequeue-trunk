@@ -8279,6 +8279,7 @@ epistylar
 epistilbite
 epistyle
 epistyles
+extemporalness
 epistylis
 electrostrictive
 exulcerate
@@ -13538,7 +13539,6 @@ extbook
 elements
 extemporal
 extemporally
-extemporalness
 extemporaneity
 extemporaneous
 extemporaneously
