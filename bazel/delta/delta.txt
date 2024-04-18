@@ -4814,7 +4814,6 @@ demonial
 demonian
 demonianism
 divisionism
-demonical
 demonically
 demonifuge
 demonio
@@ -6376,6 +6375,7 @@ derringers
 derrire
 derris
 derrises
+demonical
 derth
 dertra
 dertrum

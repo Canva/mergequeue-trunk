@@ -5011,6 +5011,7 @@ beeth
 beethoven
 buckberry
 beethovenian
+berthierite
 beethovenish
 beethovian
 beety
@@ -14736,7 +14737,6 @@ breachy
 breaching
 bread
 bookless
-berthierite
 breadbaskets
 breadberry
 battlefield
