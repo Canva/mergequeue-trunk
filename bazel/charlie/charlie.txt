@@ -18683,7 +18683,6 @@ coleopteroid
 coleopterology
 coleopterological
 coleopteron
-coleopterous
 chosing
 chloroacetic
 coleoptilum
@@ -28258,6 +28257,7 @@ cratemaking
 crateman
 cratemen
 crater
+coleopterous
 crateral
 cratered
 craterellus
