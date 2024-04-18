@@ -3290,6 +3290,7 @@ actuators
 actuose
 atmolyzation
 acture
+athanasianist
 ascents
 agnate
 acturience
@@ -22509,7 +22510,6 @@ athanasia
 ailments
 athanasian
 athanasianism
-athanasianist
 athanasies
 athanor
 athapascan
