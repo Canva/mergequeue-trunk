@@ -1358,7 +1358,6 @@ balconied
 balconies
 baldacchini
 baldacchino
-baldachin
 baldachined
 breadbasket
 baldachini
@@ -14634,6 +14633,7 @@ brattled
 brattles
 brattling
 bratwurst
+baldachin
 braula
 brauna
 brauneberger

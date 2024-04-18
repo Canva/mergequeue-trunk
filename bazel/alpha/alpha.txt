@@ -14531,6 +14531,7 @@ anthrop
 anthrophore
 aloofness
 anthropic
+aufgabe
 anthropical
 alectoropodes
 anthropidae
@@ -23351,7 +23352,6 @@ audubonistic
 aueto
 auf
 aufait
-aufgabe
 aufklarung
 auftakt
 aug
