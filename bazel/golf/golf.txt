@@ -2762,7 +2762,6 @@ genialness
 genyantrum
 genic
 genically
-geniculate
 girondist
 geniculated
 geniculately
@@ -7617,6 +7616,7 @@ gradualist
 gradualistic
 guillemet
 graduality
+geniculate
 geanticline
 gallantness
 gradually
