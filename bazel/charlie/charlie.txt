@@ -1389,6 +1389,7 @@ calyx
 calyxes
 calixtin
 calixtus
+commemorating
 calk
 cynoscion
 calkage
@@ -23415,7 +23416,6 @@ conterminal
 conterminant
 conterminate
 contermine
-commemorating
 conterminous
 conterminously
 conterminousness

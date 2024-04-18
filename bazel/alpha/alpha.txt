@@ -4878,6 +4878,7 @@ aequorin
 aequorins
 aer
 aerage
+antiatonement
 aeraria
 aerarian
 aerarium
@@ -14758,7 +14759,6 @@ amphithyrons
 antiatheistically
 antiatom
 antiatoms
-antiatonement
 antiattrition
 antiauthoritarian
 antiauthoritarianism
