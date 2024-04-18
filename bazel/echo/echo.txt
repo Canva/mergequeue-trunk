@@ -45,6 +45,7 @@ ecphonesis
 eardropper
 eardrum
 eardrums
+egremoigne
 eisell
 eared
 earflap
@@ -1664,7 +1665,6 @@ egre
 egregious
 egregiously
 egregiousness
-egremoigne
 enamor
 egress
 egressed
