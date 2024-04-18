@@ -1015,6 +1015,7 @@ farles
 farls
 farm
 farmable
+floppily
 farmage
 farmed
 farmer
@@ -6009,7 +6010,6 @@ floppy
 floppier
 floppies
 floppiest
-floppily
 ferbam
 floppiness
 flops
