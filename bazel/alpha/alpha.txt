@@ -3674,7 +3674,6 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 adenocarcinomatous
-adenocele
 adenocellulitis
 adenochondroma
 adenochondrosarcoma
@@ -14484,6 +14483,7 @@ anthracosaurus
 anthracosilicosis
 anthracosis
 anthracothere
+adenocele
 anthracotheriidae
 anthracotherium
 anthracotic

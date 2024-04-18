@@ -400,6 +400,7 @@ daylong
 dayman
 daymare
 daymares
+dyspnea
 daymark
 daimen
 doupion
@@ -13081,7 +13082,6 @@ displumed
 displumes
 displuming
 displuviate
-dyspnea
 dyspneas
 dyspneic
 dyspnoea
