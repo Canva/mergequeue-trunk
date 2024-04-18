@@ -16600,7 +16600,6 @@ buckeyes
 bucker
 buckeroo
 buckers
-bathic
 bucket
 bucketed
 bucketeer
@@ -17553,6 +17552,7 @@ brosse
 burdash
 burden
 bulking
+bathic
 burdened
 brawlers
 burdener
