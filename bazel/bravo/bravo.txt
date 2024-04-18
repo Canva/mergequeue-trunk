@@ -1796,7 +1796,6 @@ blendor
 bambocciade
 bambochade
 bamboche
-bamboo
 bamboos
 bamboozle
 bamboozled
@@ -17281,6 +17280,7 @@ bumboatman
 bumboatmen
 bumboats
 bumboatwoman
+bamboo
 bumclock
 bumelia
 busheling
