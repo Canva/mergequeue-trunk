@@ -2754,7 +2754,6 @@ festival
 festivalgoer
 festivals
 festiveness
-festivity
 festivities
 festivous
 festology
@@ -7865,6 +7864,7 @@ forepass
 forepast
 forepaw
 fordable
+festivity
 forepaws
 forepeak
 forepeaks
