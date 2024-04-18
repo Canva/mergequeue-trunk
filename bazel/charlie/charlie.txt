@@ -15248,6 +15248,7 @@ clairvoyants
 clays
 claystone
 claith
+collutorium
 claithes
 clayton
 claytonia
@@ -19147,7 +19148,6 @@ collution
 collutory
 collutoria
 collutories
-collutorium
 colluvia
 colluvial
 colluvies
