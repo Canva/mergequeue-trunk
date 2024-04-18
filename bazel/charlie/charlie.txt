@@ -13870,7 +13870,6 @@ cryptonymous
 cingular
 chronogenetic
 cingulate
-cingulated
 cingulectomy
 cingulectomies
 cingulum
@@ -24906,6 +24905,7 @@ corbiculate
 corbiculum
 corbie
 corbies
+cingulated
 corbiestep
 corbina
 corbleu
