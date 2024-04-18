@@ -6113,7 +6113,6 @@ glunching
 gluon
 glusid
 gluside
-glut
 glutamate
 glutamates
 glutamic
@@ -7060,6 +7059,7 @@ goosefoot
 goosefoots
 goosegog
 gooseherd
+glut
 goosehouse
 goosey
 gestura
