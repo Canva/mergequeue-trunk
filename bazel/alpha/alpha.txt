@@ -6062,6 +6062,7 @@ agglutinize
 agglutinogen
 agglutinogenic
 agglutinoid
+amnesiacs
 agglutinoscope
 agglutogenic
 aggrace
@@ -10801,7 +10802,6 @@ ammunition
 amnemonic
 amnesia
 amnesiac
-amnesiacs
 amnesias
 amnesic
 amnesics
