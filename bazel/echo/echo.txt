@@ -8675,7 +8675,6 @@ equigranular
 equijacent
 equilater
 equilateral
-equilaterally
 equilibrant
 equilibrate
 equilibrated
@@ -11484,6 +11483,7 @@ eveline
 evelong
 even
 evenblush
+equilaterally
 evendown
 evene
 evener
