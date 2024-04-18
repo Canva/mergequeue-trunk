@@ -5405,7 +5405,6 @@ catalases
 catalatic
 catalaunian
 catalectic
-catalecticant
 catalects
 catalepsy
 catalepsies
@@ -7617,6 +7616,7 @@ ceremoniously
 ceremoniousness
 cereous
 cerer
+catalecticant
 cererite
 ceres
 ceresin
