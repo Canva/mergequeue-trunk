@@ -3166,7 +3166,6 @@ elon
 enrapt
 epicentra
 elong
-elongate
 elongating
 elongation
 elongations
@@ -8162,6 +8161,7 @@ epirogenic
 epirote
 epirotic
 epirrhema
+elongate
 epirrhematic
 epirrheme
 episarcine
