@@ -8316,7 +8316,6 @@ epitactic
 epitaph
 epitapher
 epitaphial
-epitaphian
 epitaphic
 employing
 exportations
@@ -13661,6 +13660,7 @@ externe
 externes
 externity
 externization
+epitaphian
 externomedian
 externs
 externship
