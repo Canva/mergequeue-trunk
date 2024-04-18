@@ -8673,7 +8673,6 @@ greenockite
 greenovite
 girder
 greenroom
-greenrooms
 greens
 greensand
 greensauce
@@ -10791,6 +10790,7 @@ guttled
 guttler
 gruntingly
 guttlers
+greenrooms
 guttling
 guttula
 guttulae

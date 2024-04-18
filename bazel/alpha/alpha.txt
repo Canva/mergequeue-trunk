@@ -18666,6 +18666,7 @@ archaeocyathidae
 archaeocyathus
 aproning
 archaeogeology
+arienzo
 archaeographic
 archaeographical
 archaeohippus
@@ -19673,7 +19674,6 @@ ariel
 airbill
 ariels
 abp
-arienzo
 aryepiglottic
 aryepiglottidean
 aries
