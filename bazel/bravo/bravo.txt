@@ -2752,7 +2752,6 @@ barnard
 barnbrack
 barnburner
 babyfied
-barndoor
 barney
 barneys
 barnful
@@ -2871,6 +2870,7 @@ barotraumas
 barotraumata
 bostons
 borborygm
+barndoor
 barotropic
 barouche
 barouchet

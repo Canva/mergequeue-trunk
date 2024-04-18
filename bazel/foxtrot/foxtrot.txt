@@ -348,6 +348,7 @@ fainaiguing
 fainant
 faineance
 faineancy
+frosts
 fluviation
 faineant
 faineantise
@@ -8359,7 +8360,6 @@ forleit
 forlese
 forst
 forlet
-frosts
 forletting
 forlive
 forloin
