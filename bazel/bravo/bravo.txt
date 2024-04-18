@@ -79,7 +79,6 @@ babi
 barkened
 babiana
 babiche
-babiches
 babydom
 babied
 babies
@@ -13203,6 +13202,7 @@ bostonese
 bostonian
 bostonians
 bostonite
+babiches
 bostrychid
 bostrychidae
 bostrychoidal

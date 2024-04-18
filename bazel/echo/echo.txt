@@ -7514,6 +7514,7 @@ ephebic
 epheboi
 ephebos
 ephebus
+etheria
 ephectic
 ephedra
 ephedraceae
@@ -10339,7 +10340,6 @@ ethered
 eutaenia
 etherene
 ethereous
-etheria
 etherialisation
 etherialise
 etherialised
