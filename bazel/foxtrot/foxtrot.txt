@@ -3289,7 +3289,6 @@ foreknowable
 funnelled
 fiddlestick
 fiddlesticks
-fiddlewood
 felonries
 ferrel
 fiddly
@@ -5893,6 +5892,7 @@ flocking
 flockings
 flockless
 flocklike
+fiddlewood
 flockman
 flockmaster
 florigraphy
