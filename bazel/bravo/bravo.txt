@@ -767,6 +767,7 @@ baddishness
 baddock
 bade
 badenite
+boots
 badge
 badged
 bituminiferous
@@ -12847,7 +12848,6 @@ barks
 bootmaking
 bootman
 bootprint
-boots
 bootstrap
 bootstrapped
 bangalay
