@@ -278,6 +278,7 @@ episcopalian
 easternly
 easternmost
 eastertide
+elementary
 easting
 eastings
 eastlake
@@ -2779,7 +2780,6 @@ elementally
 elementaloid
 escorting
 elementals
-elementary
 elementarily
 elementarism
 elementarist
