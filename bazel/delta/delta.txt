@@ -10488,7 +10488,6 @@ dipleural
 dipleuric
 dipleurogenesis
 dipleurogenetic
-devot
 dipleurula
 dipleurulas
 dipleurule
@@ -14467,6 +14466,7 @@ dizz
 dizzardly
 dizzen
 disleaved
+devot
 dizzy
 dizzied
 dizzier
