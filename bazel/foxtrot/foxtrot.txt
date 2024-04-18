@@ -6739,7 +6739,6 @@ fodgel
 fixedly
 fodient
 foe
-foederati
 foederis
 floreted
 foeffment
@@ -7769,6 +7768,7 @@ foreknee
 foreknew
 figurism
 foreknow
+foederati
 foreknowableness
 foreknower
 foreknowing

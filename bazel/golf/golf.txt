@@ -3203,7 +3203,6 @@ gonadectomized
 geoplanidae
 geopolar
 geopolitic
-grannom
 geopolitical
 gallant
 gellant
@@ -10009,6 +10008,7 @@ guebucu
 gulped
 guejarite
 ghosting
+grannom
 guelf
 guelph
 gelatined
