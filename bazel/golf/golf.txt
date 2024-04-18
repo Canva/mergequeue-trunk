@@ -350,7 +350,6 @@ galactopathy
 galactophagist
 galactophagous
 galactophygous
-galactophlebitis
 galactophlysis
 galactophore
 gofers
@@ -8172,6 +8171,7 @@ graphometrical
 graphometrist
 graphomotor
 graphonomy
+galactophlebitis
 gastrin
 gyrovague
 graphophobia

@@ -13981,7 +13981,6 @@ disulphide
 disulphone
 disulphonic
 disulphoxid
-disulphoxide
 disulphuret
 disulphuric
 disencrease
@@ -14636,6 +14635,7 @@ discophorous
 docosanoic
 docquet
 docs
+disulphoxide
 doctor
 doctoral
 doctorally
