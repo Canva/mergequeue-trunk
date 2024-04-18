@@ -954,7 +954,6 @@ absinthes
 absinthial
 absinthiate
 absinthiated
-absinthiating
 absinthic
 absinthiin
 absinthin
@@ -13322,6 +13321,7 @@ anisogeny
 anisogenous
 antiparliamenteer
 antimonopolism
+absinthiating
 anisognathism
 anisognathous
 anisoiconia

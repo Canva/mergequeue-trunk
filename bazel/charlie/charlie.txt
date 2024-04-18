@@ -7086,7 +7086,6 @@ centralizers
 countershine
 costosuperior
 centralizes
-centralizing
 centrally
 centralness
 centrals
@@ -7305,6 +7304,7 @@ cephaloid
 cephalology
 cephalom
 cephalomancy
+centralizing
 cephalomant
 cephalomelus
 cephalomeningitis
