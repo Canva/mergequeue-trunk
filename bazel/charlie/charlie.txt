@@ -15811,7 +15811,6 @@ clearskins
 clearstarch
 clearstarcher
 clearstory
-clearstoried
 clearstories
 clearwater
 clearweed
@@ -25869,6 +25868,7 @@ corticating
 cortication
 cortices
 corticiferous
+clearstoried
 corticiform
 corticifugal
 corticifugally
