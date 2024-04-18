@@ -25806,6 +25806,7 @@ corruptingly
 corruption
 corruptionist
 corruptions
+crunch
 corruptious
 corruptive
 corruptively
@@ -30224,7 +30225,6 @@ crumply
 crumpling
 crumps
 crumster
-crunch
 crunchable
 crunched
 cruncher
