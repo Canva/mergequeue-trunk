@@ -14903,7 +14903,6 @@ anticynic
 anticynical
 anticynically
 anticynicism
-anticipant
 anticipatable
 anticipates
 anticipating
@@ -25366,6 +25365,7 @@ azoturia
 azoturias
 azovernine
 autopsychorhythmia
+anticipant
 azox
 azoxazole
 azoxy
