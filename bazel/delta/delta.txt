@@ -3946,6 +3946,7 @@ delayers
 delayful
 delaying
 deux
+discarder
 delayingly
 delaines
 delays
@@ -17467,7 +17468,6 @@ drowsier
 detant
 dwindled
 deathward
-discarder
 drowsiest
 drowsihead
 drowsihood
