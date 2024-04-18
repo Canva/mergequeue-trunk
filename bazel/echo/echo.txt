@@ -3297,6 +3297,7 @@ equisurface
 emanational
 emanationism
 emanationist
+epistoler
 epicycles
 erotize
 emanations
@@ -8287,7 +8288,6 @@ everness
 epistlers
 epistolary
 epistolarian
-epistoler
 epistolet
 ensignment
 epistolic

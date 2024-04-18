@@ -4760,6 +4760,7 @@ flagellantism
 flagellariaceous
 flagellata
 flagellatae
+foolhardy
 flagellate
 flagellated
 flagellating
@@ -7129,7 +7130,6 @@ fooler
 fooleries
 foolfish
 foolfishes
-foolhardy
 foolhardier
 foolhardily
 furnariidae
