@@ -3204,6 +3204,7 @@ elsholtzia
 elsin
 elt
 eltime
+eradicably
 enterophthisis
 eluants
 eluate
@@ -8887,7 +8888,6 @@ endoenzyme
 ends
 essential
 eradicable
-eradicably
 eradicant
 eradicate
 eudaemonistically
