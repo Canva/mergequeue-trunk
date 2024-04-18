@@ -7300,6 +7300,7 @@ enwrought
 enwwove
 euphonym
 enwwoven
+equinecessary
 enzygotic
 enzym
 enzymatic
@@ -8717,7 +8718,6 @@ equinate
 emerging
 exciter
 equine
-equinecessary
 equinely
 equines
 equinia

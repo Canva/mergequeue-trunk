@@ -2949,6 +2949,7 @@ barrelled
 barrelling
 barrelmaker
 barrelmaking
+blameless
 barrels
 barrelsful
 barrelwise
@@ -10251,7 +10252,6 @@ blameably
 blamed
 blamefully
 blamefulness
-blameless
 blamelessly
 blamelessness
 blamer
