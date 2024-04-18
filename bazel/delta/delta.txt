@@ -2515,6 +2515,7 @@ declensionally
 declensions
 declericalize
 declinable
+didepsid
 declinal
 declinate
 declination
@@ -9079,7 +9080,6 @@ didelphine
 didelphis
 didelphoid
 didelphous
-didepsid
 didepside
 didest
 didgeridoo
