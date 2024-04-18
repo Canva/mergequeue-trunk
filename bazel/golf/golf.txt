@@ -6487,6 +6487,7 @@ gofer
 goff
 generation
 goffer
+gutt
 goffered
 goffle
 gog
@@ -10741,7 +10742,6 @@ gutsier
 gutsiest
 gutsily
 gutsiness
-gutt
 guttable
 guttae
 guttar
