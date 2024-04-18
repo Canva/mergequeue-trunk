@@ -1894,7 +1894,6 @@ debtless
 debtor
 diegueno
 debtors
-debtorship
 debts
 debugger
 debuggers
@@ -4352,6 +4351,7 @@ demagog
 demagogy
 demagogic
 demagogical
+debtorship
 demagogies
 demagogs
 demagogue
