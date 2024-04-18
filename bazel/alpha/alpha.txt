@@ -8086,6 +8086,7 @@ algesia
 algesic
 algesimeter
 algesiometer
+arshine
 algesis
 algy
 algic
@@ -20396,7 +20397,6 @@ arses
 arsesmart
 arsheen
 arshin
-arshine
 arshins
 arsyl
 arsylene
