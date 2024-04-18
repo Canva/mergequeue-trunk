@@ -190,7 +190,6 @@ factitively
 factive
 factor
 famose
-factorability
 factorable
 factorage
 factordom
@@ -659,6 +658,7 @@ familia
 familial
 familiary
 familiarisation
+factorability
 familiarise
 familiarised
 familiariser
