@@ -1670,7 +1670,6 @@ dearsenicize
 dearth
 dearthfu
 dearths
-dearticulation
 dearworthily
 dearworthiness
 deas
@@ -15241,6 +15240,7 @@ domes
 domesday
 domesdays
 domesticability
+dearticulation
 domesticable
 domesticality
 domestically
