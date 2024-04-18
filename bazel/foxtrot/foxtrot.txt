@@ -5012,7 +5012,6 @@ furcately
 flapdragon
 flaperon
 flapjack
-flapjacks
 finder
 flapless
 ferrite
@@ -5190,6 +5189,7 @@ flatwise
 frontate
 flatwoods
 flatworks
+flapjacks
 flatworm
 furmente
 flatworms
