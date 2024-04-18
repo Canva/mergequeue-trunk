@@ -1538,6 +1538,7 @@ faveolus
 faverel
 fusain
 faverole
+formose
 favi
 faviform
 favilla
@@ -8516,7 +8517,6 @@ formolit
 formolite
 formols
 formonitrile
-formose
 formosity
 formous
 formoxime
