@@ -2685,6 +2685,7 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
+endanger
 electrotheraputical
 electrotheraputically
 electrotheraputics
@@ -4961,7 +4962,6 @@ endamoebiasis
 endamoebic
 endamoebidae
 endangeitis
-endanger
 endangered
 endangerer
 endangering

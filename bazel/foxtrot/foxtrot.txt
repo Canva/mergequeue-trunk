@@ -4995,7 +4995,6 @@ flannelly
 flannelling
 flannelmouth
 flannelmouthed
-flannelmouths
 flannels
 fungusy
 flanning
@@ -8944,6 +8943,7 @@ foumart
 foun
 founce
 found
+flannelmouths
 foundation
 furazane
 footroom
