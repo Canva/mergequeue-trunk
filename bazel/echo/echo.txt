@@ -1193,6 +1193,7 @@ educables
 educand
 educatability
 educatable
+exoascus
 educate
 educated
 encreel
@@ -12661,7 +12662,6 @@ exoarteritis
 exoascaceae
 exoascaceous
 exoascales
-exoascus
 exobasidiaceae
 exclaim
 exobasidium

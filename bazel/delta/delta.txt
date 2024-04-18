@@ -5505,7 +5505,6 @@ deoxyribonucleotide
 deoxyribose
 deozonization
 deozonize
-deozonizer
 dep
 depaint
 depainted
@@ -15699,6 +15698,7 @@ dormice
 dogvane
 dormie
 dormient
+deozonizer
 dormilona
 dormin
 dormitary
