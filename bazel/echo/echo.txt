@@ -2470,6 +2470,7 @@ electroless
 electrolier
 electrolysation
 electrolyse
+electrophoreses
 everydeal
 electrolysed
 electrolyser
@@ -2583,7 +2584,6 @@ electrophone
 electrophonically
 electrophore
 electrophorese
-electrophoreses
 electrophoresing
 electrophoresis
 electrophoretically
