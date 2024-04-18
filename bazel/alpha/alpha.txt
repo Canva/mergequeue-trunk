@@ -1538,6 +1538,7 @@ accidia
 accidie
 accidies
 androgynous
+alundum
 accinge
 accinged
 accinging
@@ -9647,7 +9648,6 @@ alumnus
 alumohydrocalcite
 alumroot
 alumroots
-alundum
 aluniferous
 alunite
 alunites

@@ -12942,6 +12942,7 @@ bordered
 borderer
 borderies
 bordering
+blockades
 borderings
 borderland
 borderlander
@@ -14928,7 +14929,6 @@ breechcloth
 breechcloths
 breeched
 breeches
-blockades
 breechesflower
 breechesless
 breeching
