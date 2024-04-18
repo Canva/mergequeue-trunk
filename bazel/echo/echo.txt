@@ -1409,7 +1409,6 @@ effiguration
 efflagitate
 efflate
 efflation
-effleurage
 effloresce
 efflorescent
 effloresces
@@ -9123,6 +9122,7 @@ erineum
 entailable
 enantiosis
 eryngium
+effleurage
 eringo
 eryngo
 eryngoes

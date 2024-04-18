@@ -11904,6 +11904,7 @@ anapleroses
 anaplerosis
 anaplerotic
 anapnea
+attitudinize
 anapnoeic
 anapnograph
 anapnoic
@@ -23116,7 +23117,6 @@ attitudinise
 attitudinised
 attitudiniser
 attitudinising
-attitudinize
 attitudinized
 attitudinizer
 attitudinizes
