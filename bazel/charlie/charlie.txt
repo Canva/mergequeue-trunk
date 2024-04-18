@@ -13093,6 +13093,7 @@ cibol
 cibola
 cibolan
 cibolero
+covenantally
 cibols
 ciboney
 cibophobia
@@ -27488,7 +27489,6 @@ covenable
 covenance
 covenant
 covenantal
-covenantally
 covenanted
 covenantee
 covenanter
