@@ -1453,7 +1453,6 @@ effortlessly
 effortlessness
 efforts
 effossion
-effraction
 effractor
 ectocuniform
 effray
@@ -13425,6 +13424,7 @@ expungement
 expunger
 expungers
 expunges
+effraction
 erade
 expunging
 ergatocrat
