@@ -3752,6 +3752,7 @@ carboras
 carborundum
 carbostyril
 carboxy
+crabbit
 carboxide
 carboxydomonas
 carboxyl
@@ -27814,7 +27815,6 @@ crabbily
 crabbiness
 crabbing
 crabbish
-crabbit
 cornucopiae
 crabcatcher
 crabeater
