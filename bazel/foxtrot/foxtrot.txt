@@ -3534,6 +3534,7 @@ figurer
 figures
 figuresome
 ferratin
+frangipanni
 figury
 figurial
 figurine
@@ -9383,7 +9384,6 @@ frangible
 frangipane
 frangipani
 frangipanis
-frangipanni
 frangula
 foreteeth
 foreaccustom
