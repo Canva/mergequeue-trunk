@@ -4778,7 +4778,6 @@ cartelization
 cartelize
 cartelizing
 cartellist
-cartels
 carter
 carterly
 carters
@@ -9800,6 +9799,7 @@ chemicomechanical
 cryptonemiales
 chemicomineralogical
 chemicopharmaceutical
+cartels
 chemicophysical
 chemicophysics
 chemicophysiological
