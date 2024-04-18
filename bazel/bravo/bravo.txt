@@ -7257,7 +7257,6 @@ basses
 bestrid
 bestridden
 blockaderunning
-broomsquire
 bestride
 bestrided
 bestrides
@@ -13416,6 +13415,7 @@ botuliform
 botulin
 botulinal
 babool
+broomsquire
 botulins
 botulinum
 botulinus
