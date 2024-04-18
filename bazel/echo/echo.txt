@@ -2872,7 +2872,6 @@ eleutherozoan
 elev
 encincture
 elevable
-elevate
 elderhood
 elevated
 elevatedly
@@ -13585,6 +13584,7 @@ extensiveness
 empathizing
 extensivity
 extensometer
+elevate
 extensor
 extensory
 extensors
