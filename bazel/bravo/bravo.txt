@@ -4288,7 +4288,6 @@ beauticians
 beautydom
 beautied
 beauties
-beautify
 beautification
 beautifications
 beautified
@@ -11439,6 +11438,7 @@ bluntness
 blunts
 blup
 blurb
+beautify
 blurbist
 blurbs
 blurping

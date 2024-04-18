@@ -2205,7 +2205,6 @@ geanticlinal
 gurish
 gear
 gearcase
-gearing
 gearings
 gears
 gasterotricha
@@ -5115,6 +5114,7 @@ guaxima
 glancing
 glancingly
 growled
+gearing
 ghuz
 gland
 glandaceous
