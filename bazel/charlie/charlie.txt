@@ -12754,7 +12754,6 @@ chumpiness
 communalisation
 chumping
 compartmentalize
-chumpish
 chumpishness
 chumps
 chums
@@ -15676,6 +15675,7 @@ clavecinist
 clavel
 clavelization
 clavelize
+chumpish
 clavellate
 clavellated
 convertable
