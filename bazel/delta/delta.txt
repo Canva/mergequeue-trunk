@@ -3393,7 +3393,6 @@ deflective
 deflectometer
 duckiest
 deflector
-deflectors
 deflects
 deflesh
 deflex
@@ -12203,6 +12202,7 @@ disguster
 disgustful
 disgustfully
 disgustfulness
+deflectors
 disgustingly
 disgustingness
 dacryadenitis
