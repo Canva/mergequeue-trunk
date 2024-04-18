@@ -3031,7 +3031,6 @@ acrospiring
 acrospore
 acrosporous
 adnexa
-across
 acrostic
 acrostichal
 acrosticheae
@@ -19171,6 +19170,7 @@ archwife
 archwise
 archworker
 archworkmaster
+across
 arcifera
 arciferous
 arcifinious
