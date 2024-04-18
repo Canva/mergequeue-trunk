@@ -15723,6 +15723,7 @@ dizygous
 dorosoma
 dorosternal
 dorothea
+duppa
 dorothy
 dorp
 dorper
@@ -18398,7 +18399,6 @@ duplone
 dupondidii
 dupondii
 dupondius
-duppa
 dupped
 dupper
 duppies
