@@ -5314,6 +5314,7 @@ endorsee
 endorsees
 endere
 endorsers
+exculpated
 electrodialyzer
 endorses
 endorsing
@@ -12253,7 +12254,6 @@ excudit
 exulcerated
 exculpable
 exculpate
-exculpated
 exculpates
 exculpating
 exculpation

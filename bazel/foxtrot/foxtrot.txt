@@ -2009,7 +2009,6 @@ feyness
 filacer
 feinschmeckers
 feinted
-feinter
 feinting
 feis
 farrandly
@@ -11613,6 +11612,7 @@ fussed
 fusser
 fussers
 fusses
+feinter
 fussy
 fussier
 fussification
