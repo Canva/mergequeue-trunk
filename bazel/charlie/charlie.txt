@@ -6785,7 +6785,6 @@ celotomies
 celsia
 celsian
 celsitude
-celsius
 celt
 celtdom
 celtiberi
@@ -12846,6 +12845,7 @@ columbines
 churchwardenize
 churchwardens
 churchwardenship
+celsius
 churchwards
 churchwoman
 churchwomen
