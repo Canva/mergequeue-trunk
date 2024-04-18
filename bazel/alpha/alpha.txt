@@ -5958,7 +5958,6 @@ agedness
 agednesses
 agee
 ageing
-ageings
 alborada
 ageism
 ageisms
@@ -7243,6 +7242,7 @@ alabastrian
 alabastrine
 alabastrites
 alabastron
+ageings
 alabastrum
 alabastrums
 alablaster
