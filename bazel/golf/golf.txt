@@ -1707,6 +1707,7 @@ gastral
 gastralgy
 gastralgia
 gastralgic
+glycerate
 gastraneuria
 gastrasthenia
 gastratrophia
@@ -5401,7 +5402,6 @@ glycans
 glycemia
 goozle
 glyceraldehyde
-glycerate
 glyceria
 glyceric
 glyceride
