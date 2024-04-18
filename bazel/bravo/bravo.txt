@@ -6009,6 +6009,7 @@ bakings
 bemisting
 bemistress
 bemists
+brevipen
 bemitered
 bemitred
 bemix
@@ -15057,7 +15058,6 @@ bestirring
 becross
 breviloquent
 breviped
-brevipen
 brevipennate
 breviradiate
 brevirostral
