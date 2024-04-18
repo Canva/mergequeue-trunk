@@ -2807,7 +2807,6 @@ elenchus
 elenctic
 elenctical
 ectocornea
-elenge
 elengely
 elengeness
 eleoblast
@@ -5957,6 +5956,7 @@ enid
 enif
 enigma
 enigmas
+elenge
 enigmata
 enigmatic
 enigmatical
