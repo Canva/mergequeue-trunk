@@ -3785,7 +3785,6 @@ adequateness
 adequation
 adequative
 anorectous
-ammine
 adermia
 amply
 adermine
@@ -4421,6 +4420,7 @@ adrostal
 adrostral
 adrowse
 adrue
+ammine
 ads
 allotrylic
 adsbud
