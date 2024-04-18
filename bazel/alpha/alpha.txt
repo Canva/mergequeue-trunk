@@ -10673,7 +10673,6 @@ amissible
 amissing
 amit
 amita
-amitabha
 amytal
 amitate
 amity
@@ -13601,6 +13600,7 @@ annotativeness
 annotator
 annotatory
 annotators
+amitabha
 annotine
 annotinous
 annotto

@@ -152,7 +152,6 @@ caboche
 cabochon
 cabochons
 cabocle
-caboclo
 caboclos
 cabomba
 cabombaceae
@@ -18456,6 +18455,7 @@ coimplore
 coin
 coinable
 coinage
+caboclo
 coinages
 coincide
 coincided
