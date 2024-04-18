@@ -96,6 +96,7 @@ abandonment
 abandonments
 abandons
 abandum
+awanting
 abanet
 abanic
 abannition
@@ -24949,7 +24950,6 @@ axoneme
 awan
 awane
 awanyu
-awanting
 awapuhi
 award
 awardable
