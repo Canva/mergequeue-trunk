@@ -2069,6 +2069,7 @@ baldcrown
 banisterine
 banisters
 banyuls
+brisa
 baniva
 buckra
 baniwa
@@ -15479,7 +15480,6 @@ brique
 briquet
 briquets
 briquette
-brisa
 brisance
 bilbos
 basilar
