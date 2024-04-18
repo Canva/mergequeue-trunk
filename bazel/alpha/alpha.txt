@@ -5272,6 +5272,7 @@ affable
 affableness
 affabrous
 affair
+akhissar
 affaire
 affaires
 affairs
@@ -8443,7 +8444,6 @@ alkalizable
 alkalizate
 alkalization
 alkalize
-akhissar
 alkalized
 alkalizer
 alkalizes
