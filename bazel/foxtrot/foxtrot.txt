@@ -1735,7 +1735,6 @@ featherlessness
 featherlike
 featherman
 feathermonger
-fackings
 featherpate
 featherpated
 feathers
@@ -11336,6 +11335,7 @@ furbearer
 furbelowed
 furbelowing
 furbelows
+fackings
 furbish
 furbishable
 fireboard

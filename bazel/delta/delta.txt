@@ -1867,7 +1867,6 @@ debouching
 devotionality
 debouchment
 debouchure
-denshire
 debout
 debride
 debrided
@@ -4664,6 +4663,7 @@ demission
 demissionary
 demissly
 degentilize
+denshire
 demissory
 demist
 demystify
