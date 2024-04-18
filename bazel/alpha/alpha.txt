@@ -18564,6 +18564,7 @@ arbores
 arborescence
 arborescently
 arboresque
+archdetective
 awl
 arboret
 arboreta
@@ -18776,7 +18777,6 @@ archdefender
 archdemon
 archdepredator
 archdespot
-archdetective
 archdiocesan
 archdiocese
 archdioceses
