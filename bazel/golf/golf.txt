@@ -6041,7 +6041,6 @@ glucosamine
 glucosan
 glucosane
 glucosazone
-gliss
 glucose
 glucosemia
 glucoses
@@ -8305,6 +8304,7 @@ gratewise
 guacin
 grather
 gratia
+gliss
 glassweed
 gratiano
 gratias

@@ -2826,6 +2826,7 @@ decrowned
 decrowning
 decrowns
 didapper
+dryworker
 decrudescence
 decrustation
 decubital
@@ -17207,7 +17208,6 @@ driving
 drivingly
 drywall
 drywalls
-dryworker
 drizzle
 drizzled
 drizzles
