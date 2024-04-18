@@ -5123,6 +5123,7 @@ endochylous
 endochorion
 endochorionic
 endocycle
+entassment
 epanalepsis
 endocyclic
 empyreumata
@@ -6571,7 +6572,6 @@ entases
 entasia
 entasias
 entasis
-entassment
 entastic
 entea
 erns
