@@ -2721,6 +2721,7 @@ barlows
 barm
 barmaid
 barmaids
+befret
 barman
 barmaster
 barmbrack
@@ -5149,7 +5150,6 @@ befraught
 befreckle
 befreeze
 befreight
-befret
 befretted
 befretting
 befriend
