@@ -32,6 +32,7 @@ backset
 babbie
 babbishly
 babbitt
+brattice
 babbitted
 babbittess
 babbittian
@@ -319,7 +320,6 @@ backboned
 backbonelessness
 backbones
 backbrand
-backbreaker
 backbreaking
 backcap
 backcast
@@ -768,6 +768,7 @@ baddishness
 baddock
 bade
 badenite
+boots
 badge
 badged
 bituminiferous
@@ -852,7 +853,6 @@ bafflingly
 burls
 bafflingness
 bedene
-baffs
 bafyot
 baft
 bafta
@@ -1360,7 +1360,6 @@ balconied
 balconies
 baldacchini
 baldacchino
-baldachin
 baldachined
 breadbasket
 baldachini
@@ -1796,7 +1795,6 @@ blendor
 bambocciade
 bambochade
 bamboche
-bamboo
 bamboos
 bamboozle
 bamboozled
@@ -2069,6 +2067,7 @@ baldcrown
 banisterine
 banisters
 banyuls
+brisa
 baniva
 buckra
 baniwa
@@ -2721,6 +2720,7 @@ barlows
 barm
 barmaid
 barmaids
+befret
 barman
 barmaster
 barmbrack
@@ -2752,7 +2752,6 @@ barnard
 barnbrack
 barnburner
 babyfied
-barndoor
 barney
 barneys
 barnful
@@ -2871,6 +2870,7 @@ barotraumas
 barotraumata
 bostons
 borborygm
+barndoor
 barotropic
 barouche
 barouchet
@@ -2950,6 +2950,7 @@ barrelled
 barrelling
 barrelmaker
 barrelmaking
+blameless
 barrels
 barrelsful
 barrelwise
@@ -3191,6 +3192,7 @@ basiating
 basibracteolate
 basibranchial
 basibranchiate
+beefy
 basibregmatic
 browner
 basically
@@ -4287,7 +4289,6 @@ beauticians
 beautydom
 beautied
 beauties
-beautify
 beautification
 beautifications
 beautified
@@ -4911,7 +4912,6 @@ beefed
 beefer
 beefers
 beefhead
-beefy
 beefier
 beefiest
 beefily
@@ -5011,6 +5011,7 @@ beeth
 beethoven
 buckberry
 beethovenian
+berthierite
 beethovenish
 beethovian
 beety
@@ -5150,7 +5151,6 @@ befraught
 befreckle
 befreeze
 befreight
-befret
 befretted
 befretting
 befriend
@@ -6011,6 +6011,7 @@ bakings
 bemisting
 bemistress
 bemists
+brevipen
 bemitered
 bemitred
 bemix
@@ -6031,7 +6032,6 @@ bemocking
 bemocks
 bemoil
 bemoisten
-bemol
 bemole
 bemolt
 bort
@@ -7258,7 +7258,6 @@ basses
 bestrid
 bestridden
 blockaderunning
-broomsquire
 bestride
 bestrided
 bestrides
@@ -8736,6 +8735,7 @@ bimbo
 bimboes
 bimbos
 brazee
+baffs
 bimeby
 bimedial
 bimensal
@@ -10253,7 +10253,6 @@ blameably
 blamed
 blamefully
 blamefulness
-blameless
 blamelessly
 blamelessness
 blamer
@@ -11439,6 +11438,7 @@ bluntness
 blunts
 blup
 blurb
+beautify
 blurbist
 blurbs
 blurping
@@ -12613,6 +12613,7 @@ bookcases
 bookcraft
 bookdealer
 booked
+brahmic
 bookend
 bushmaster
 bookends
@@ -12847,7 +12848,6 @@ barks
 bootmaking
 bootman
 bootprint
-boots
 bootstrap
 bootstrapped
 bangalay
@@ -12942,6 +12942,7 @@ bordered
 borderer
 borderies
 bordering
+blockades
 borderings
 borderland
 borderlander
@@ -12966,7 +12967,6 @@ boread
 boreades
 boreal
 borealis
-brahmic
 borean
 boreas
 borecole
@@ -13258,6 +13258,7 @@ botchedly
 botcher
 botchery
 botcheries
+backbreaker
 botcherly
 botchers
 botches
@@ -13415,6 +13416,7 @@ botuliform
 botulin
 botulinal
 babool
+broomsquire
 botulins
 botulinum
 botulinus
@@ -13556,6 +13558,7 @@ bountied
 bounties
 bountiful
 bountifully
+breams
 bountifulness
 bountihead
 bountyless
@@ -13669,6 +13672,7 @@ bovarist
 bovaristic
 bovate
 bove
+bemol
 bovey
 bovenland
 boviculture
@@ -14160,6 +14164,7 @@ bradyteleokinesis
 bradytely
 brad
 bradytelic
+bullose
 bemadaming
 bradytocia
 bradytrophic
@@ -14618,7 +14623,6 @@ bratling
 bratstvo
 brattach
 bratty
-brattice
 bratticer
 brattices
 bratticing
@@ -14631,6 +14635,7 @@ brattled
 brattles
 brattling
 bratwurst
+baldachin
 braula
 brauna
 brauneberger
@@ -14736,7 +14741,6 @@ breachy
 breaching
 bread
 bookless
-berthierite
 breadbaskets
 breadberry
 battlefield
@@ -14828,7 +14832,6 @@ breakwind
 bream
 boraginaceous
 breaming
-breams
 blasts
 breast
 breastband
@@ -14927,7 +14930,6 @@ breechcloth
 breechcloths
 breeched
 breeches
-blockades
 breechesflower
 breechesless
 breeching
@@ -15056,7 +15058,6 @@ bestirring
 becross
 breviloquent
 breviped
-brevipen
 brevipennate
 breviradiate
 brevirostral
@@ -15479,7 +15480,6 @@ brique
 briquet
 briquets
 briquette
-brisa
 brisance
 bilbos
 basilar
@@ -16599,7 +16599,6 @@ buckeyes
 bucker
 buckeroo
 buckers
-bathic
 bucket
 bucketed
 bucketeer
@@ -17192,7 +17191,6 @@ bullocky
 bullockite
 bullocks
 bullom
-bullose
 bullous
 bullpates
 bullpen
@@ -17281,6 +17279,7 @@ bumboatman
 bumboatmen
 bumboats
 bumboatwoman
+bamboo
 bumclock
 bumelia
 busheling
@@ -17553,6 +17552,7 @@ brosse
 burdash
 burden
 bulking
+bathic
 burdened
 brawlers
 burdener
