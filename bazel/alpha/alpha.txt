@@ -947,7 +947,6 @@ absentmindedly
 absentmindedness
 absentness
 absents
-absfarad
 absi
 absinth
 absinthes
@@ -8881,6 +8880,7 @@ allomerous
 averager
 allometry
 allomorph
+absfarad
 allomorphic
 allomorphite
 allomucic
