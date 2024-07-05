@@ -7206,7 +7206,6 @@ enventual
 enverdure
 envermeil
 envy
-enviable
 enviably
 envied
 enviers
@@ -10165,6 +10164,7 @@ estrich
 estriche
 estrif
 estrildine
+enviable
 estrin
 estrins
 estriol
