@@ -8028,7 +8028,6 @@ chaetae
 chaetal
 chaetangiaceae
 chaetetes
-chaetetidae
 chaetifera
 chaetiferous
 chaetites
@@ -20538,6 +20537,7 @@ competition
 competitioner
 congreve
 competitions
+chaetetidae
 competitive
 competitively
 competitiveness
