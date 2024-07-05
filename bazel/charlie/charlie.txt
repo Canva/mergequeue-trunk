@@ -9802,7 +9802,6 @@ chemicophysical
 chemicophysics
 chemicophysiological
 chemicovital
-chemics
 childed
 chemiculture
 chemigraph
@@ -12626,6 +12625,7 @@ chrosperma
 chrotta
 chs
 chteau
+chemics
 chthonian
 chthonic
 cubti
